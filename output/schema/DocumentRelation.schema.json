@@ -1,0 +1,54 @@
+{
+  "additionalProperties": false,
+  "description": "1 quan hệ giữa 2 văn bản (output/quan_he_van_ban.json) – đầu vào cho WP4 / WP5.",
+  "properties": {
+    "source": {
+      "title": "Source",
+      "type": "string"
+    },
+    "relation": {
+      "enum": [
+        "AMENDS",
+        "REPLACES",
+        "PARTIALLY_REPEALS",
+        "GUIDES",
+        "REFERENCES"
+      ],
+      "title": "Relation",
+      "type": "string"
+    },
+    "target": {
+      "title": "Target",
+      "type": "string"
+    },
+    "method": {
+      "title": "Method",
+      "type": "string"
+    },
+    "verified": {
+      "title": "Verified",
+      "type": "boolean"
+    },
+    "evidence": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Evidence"
+    }
+  },
+  "required": [
+    "source",
+    "relation",
+    "target",
+    "method",
+    "verified",
+    "evidence"
+  ],
+  "title": "DocumentRelation",
+  "type": "object"
+}

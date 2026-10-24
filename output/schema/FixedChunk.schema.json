@@ -1,0 +1,140 @@
+{
+  "additionalProperties": false,
+  "description": "1 chunk phương án Fixed-token (để so sánh).",
+  "properties": {
+    "chunk_id": {
+      "title": "Chunk Id",
+      "type": "string"
+    },
+    "strategy": {
+      "const": "fixed_token",
+      "title": "Strategy",
+      "type": "string"
+    },
+    "document_id": {
+      "title": "Document Id",
+      "type": "string"
+    },
+    "document_no": {
+      "title": "Document No",
+      "type": "string"
+    },
+    "document_type": {
+      "title": "Document Type",
+      "type": "string"
+    },
+    "chunk_index": {
+      "title": "Chunk Index",
+      "type": "integer"
+    },
+    "token_start": {
+      "title": "Token Start",
+      "type": "integer"
+    },
+    "token_end": {
+      "title": "Token End",
+      "type": "integer"
+    },
+    "articles_covered": {
+      "items": {
+        "type": "integer"
+      },
+      "title": "Articles Covered",
+      "type": "array"
+    },
+    "starts_at_unit_boundary": {
+      "title": "Starts At Unit Boundary",
+      "type": "boolean"
+    },
+    "content": {
+      "title": "Content",
+      "type": "string"
+    },
+    "text_for_embedding": {
+      "title": "Text For Embedding",
+      "type": "string"
+    },
+    "token_count": {
+      "maximum": 512,
+      "title": "Token Count",
+      "type": "integer"
+    },
+    "effective_from": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Effective From"
+    },
+    "effective_to": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Effective To"
+    },
+    "status": {
+      "enum": [
+        "active",
+        "not_yet_effective",
+        "replaced",
+        "expired",
+        "unknown"
+      ],
+      "title": "Status",
+      "type": "string"
+    },
+    "document_title": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Document Title"
+    },
+    "source_file": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Source File"
+    }
+  },
+  "required": [
+    "chunk_id",
+    "strategy",
+    "document_id",
+    "document_no",
+    "document_type",
+    "chunk_index",
+    "token_start",
+    "token_end",
+    "articles_covered",
+    "starts_at_unit_boundary",
+    "content",
+    "text_for_embedding",
+    "token_count",
+    "effective_from",
+    "effective_to",
+    "status",
+    "document_title",
+    "source_file"
+  ],
+  "title": "FixedChunk",
+  "type": "object"
+}

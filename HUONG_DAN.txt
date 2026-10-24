@@ -1,0 +1,39 @@
+DỰ ÁN: CHUẨN BỊ DỮ LIỆU VĂN BẢN LUẬT (Trợ lý AI pháp lý Thuế – Kế toán)
+=====================================================================
+Đọc README.md để xem tổng quan. Tài liệu cho nhóm 2: docs/HUONG_DAN_NHOM_2.md
+
+CHẠY LẠI TOÀN BỘ (đứng ở thư mục legal-data, Terminal VS Code, chạy lần lượt từ trên xuống)
+    pip install -r requirements.txt
+    python src\kiem_ke.py            kiểm kê, phân loại Word / PDF convert từ Word / PDF scan theo metadata
+    python src\trich_text.py         lấy chữ từ văn bản: đọc Word/PDF có text, OCR bản scan (đã có thì bỏ qua)
+    python src\chat_luong_ocr.py     đo chất lượng OCR (đã có kết quả thì bỏ qua)
+    python src\tach_van_ban.py       tách Chương/Mục/Điều/Khoản/Điểm, metadata, quan hệ văn bản, đếm token
+    python src\chunking.py           chia chunk theo 2 cách và so sánh
+    python src\doi_chieu.py          đối chiếu với văn bản gốc, kiểm tra từng chunk
+    python src\schema.py             xuất JSON Schema
+    python -m pytest tests -v        chạy bộ kiểm thử (22 test)
+
+CÁC FILE THƯ VIỆN (không chạy trực tiếp)
+    src\regex_luat.py      mẫu regex nhận diện Chương/Điều/Khoản/Điểm, ngày hiệu lực, quan hệ văn bản
+    src\metadata.py        đọc dữ liệu đã đối chiếu tay, gộp quan hệ văn bản
+    src\tim_kiem.py        ví dụ tìm kiếm cho nhóm 2
+    src\kiem_tra_moi_truong.py   kiểm tra đã cài đủ thư viện chưa
+
+LƯU Ý
+- Kết quả trong output/ đã chạy sẵn, không bắt buộc chạy lại.
+- trich_text.py / chat_luong_ocr.py chỉ cần cài Tesseract khi có văn bản scan MỚI (hướng dẫn ở đầu file src\trich_text.py).
+- tach_van_ban.py, chunking.py, doi_chieu.py dùng tokenizer BAAI/bge-m3 (đã tải khi chạy kiem_tra_moi_truong.py).
+- Giá trị đã đối chiếu tay với bản gốc nằm trong raw\bo_sung_metadata.csv, raw\trich_yeu_doi_chieu.csv,
+  raw\quan_he_danh_muc.csv, raw\kiem_tra_tay.csv. Code luôn ưu tiên các giá trị này hơn giá trị trích tự động.
+
+ĐẨY LÊN GIT
+    0) Cài Git (git-scm.com) nếu máy chưa có. Bấm đúp file tao_git.bat để tạo repo + commit đầu tiên
+    1) Tạo repo trống trên GitHub/GitLab của nhóm (không tick "Add README")
+    2) Trong Terminal ở thư mục legal-data:
+         git remote add origin <link repo của nhóm>
+         git branch -M main
+         git push -u origin main
+
+VĂN BẢN
+- Đủ 65/65 văn bản. ND337/2025 đã tải lại bản chính thức; TT133/2016 là bản Word (nguồn ketoananpha.vn, đã kiểm tra
+  số hiệu, ngày ban hành, đủ 93 Điều). Đọc file .doc cần cài LibreOffice (hoặc mở bằng Word, Save As .docx).

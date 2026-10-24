@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.tmp
+output/text/*.tmp
+output/chunks/vectors_*.npy
+output/chunks/vectors_*.ids.json
+.venv/
+venv/
+.vscode/
+~$*.xlsx
+~$*.docx

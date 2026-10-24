@@ -1,0 +1,1506 @@
+[
+  {
+    "source": "108/2025/QH15",
+    "relation": "REPLACES",
+    "target": "38/2019/QH14",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Luật Quản lý thuế mới thay Luật QLT 2019 (Điều hiệu lực)"
+  },
+  {
+    "source": "252/2026/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "108/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy: quy định chi tiết Luật Quản lý thuế"
+  },
+  {
+    "source": "255/2026/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "108/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy: quản lý thuế với giao dịch liên kết"
+  },
+  {
+    "source": "310/2025/NĐ-CP",
+    "relation": "AMENDS",
+    "target": "125/2020/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của thầy: sửa đổi Nghị định 125/2020"
+  },
+  {
+    "source": "291/2026/NĐ-CP",
+    "relation": "AMENDS",
+    "target": "125/2020/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của thầy: tiếp tục sửa đổi Nghị định 125/2020"
+  },
+  {
+    "source": "89/2026/TT-BTC",
+    "relation": "GUIDES",
+    "target": "108/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy: hướng dẫn Luật Quản lý thuế"
+  },
+  {
+    "source": "89/2026/TT-BTC",
+    "relation": "GUIDES",
+    "target": "252/2026/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của thầy: hướng dẫn Nghị định 252/2026"
+  },
+  {
+    "source": "90/2026/TT-BTC",
+    "relation": "REPLACES",
+    "target": "86/2024/TT-BTC",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của thầy: thay thế Thông tư 86/2024"
+  },
+  {
+    "source": "254/2026/NĐ-CP",
+    "relation": "REPLACES",
+    "target": "123/2020/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy: thay thế Nghị định 123/2020"
+  },
+  {
+    "source": "254/2026/NĐ-CP",
+    "relation": "REPLACES",
+    "target": "70/2025/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy: thay thế Nghị định 70/2025"
+  },
+  {
+    "source": "254/2026/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "108/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Tên văn bản: hướng dẫn Luật Quản lý thuế về hóa đơn"
+  },
+  {
+    "source": "91/2026/TT-BTC",
+    "relation": "GUIDES",
+    "target": "108/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của thầy"
+  },
+  {
+    "source": "91/2026/TT-BTC",
+    "relation": "GUIDES",
+    "target": "254/2026/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của thầy"
+  },
+  {
+    "source": "149/2025/QH15",
+    "relation": "AMENDS",
+    "target": "48/2024/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy: sửa đổi Luật Thuế GTGT"
+  },
+  {
+    "source": "09/2026/QH16",
+    "relation": "AMENDS",
+    "target": "48/2024/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục + tên văn bản: sửa đổi Luật Thuế GTGT"
+  },
+  {
+    "source": "09/2026/QH16",
+    "relation": "AMENDS",
+    "target": "109/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Tên văn bản: sửa đổi Luật Thuế TNCN"
+  },
+  {
+    "source": "09/2026/QH16",
+    "relation": "AMENDS",
+    "target": "67/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Tên văn bản: sửa đổi Luật Thuế TNDN"
+  },
+  {
+    "source": "181/2025/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "48/2024/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy: hướng dẫn Luật Thuế GTGT"
+  },
+  {
+    "source": "359/2025/NĐ-CP",
+    "relation": "AMENDS",
+    "target": "181/2025/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của thầy"
+  },
+  {
+    "source": "144/2026/NĐ-CP",
+    "relation": "AMENDS",
+    "target": "181/2025/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của Long + tên văn bản"
+  },
+  {
+    "source": "144/2026/NĐ-CP",
+    "relation": "AMENDS",
+    "target": "359/2025/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của Long + tên văn bản"
+  },
+  {
+    "source": "69/2025/TT-BTC",
+    "relation": "GUIDES",
+    "target": "48/2024/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy: hướng dẫn Luật Thuế GTGT"
+  },
+  {
+    "source": "69/2025/TT-BTC",
+    "relation": "GUIDES",
+    "target": "181/2025/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của Long"
+  },
+  {
+    "source": "77/2025/TT-BTC",
+    "relation": "GUIDES",
+    "target": "181/2025/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của Long: chứng khoán theo Nghị định 181/2025"
+  },
+  {
+    "source": "101/2025/TT-BNNMT",
+    "relation": "GUIDES",
+    "target": "181/2025/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Tên văn bản"
+  },
+  {
+    "source": "253/2026/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "109/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy: chi tiết Luật Thuế TNCN"
+  },
+  {
+    "source": "87/2026/TT-BTC",
+    "relation": "GUIDES",
+    "target": "109/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy"
+  },
+  {
+    "source": "87/2026/TT-BTC",
+    "relation": "GUIDES",
+    "target": "253/2026/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy"
+  },
+  {
+    "source": "320/2025/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "67/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy: hướng dẫn Luật Thuế TNDN"
+  },
+  {
+    "source": "141/2026/NĐ-CP",
+    "relation": "AMENDS",
+    "target": "320/2025/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của thầy"
+  },
+  {
+    "source": "141/2026/NĐ-CP",
+    "relation": "AMENDS",
+    "target": "68/2026/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của thầy"
+  },
+  {
+    "source": "20/2026/TT-BTC",
+    "relation": "GUIDES",
+    "target": "67/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy"
+  },
+  {
+    "source": "20/2026/TT-BTC",
+    "relation": "GUIDES",
+    "target": "320/2025/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của Long + tên văn bản"
+  },
+  {
+    "source": "50/2026/TT-BTC",
+    "relation": "AMENDS",
+    "target": "18/2026/TT-BTC",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Danh mục của thầy"
+  },
+  {
+    "source": "03/2022/QH15",
+    "relation": "AMENDS",
+    "target": "59/2020/QH14",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy: sửa đổi nhiều luật trong đó có Luật Doanh nghiệp"
+  },
+  {
+    "source": "76/2025/QH15",
+    "relation": "AMENDS",
+    "target": "59/2020/QH14",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy"
+  },
+  {
+    "source": "296/2026/NĐ-CP",
+    "relation": "AMENDS",
+    "target": "168/2025/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy"
+  },
+  {
+    "source": "168/2025/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "59/2020/QH14",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Nghị định về đăng ký doanh nghiệp (hướng dẫn Luật Doanh nghiệp)"
+  },
+  {
+    "source": "68/2025/TT-BTC",
+    "relation": "GUIDES",
+    "target": "168/2025/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Danh mục của thầy: biểu mẫu đăng ký doanh nghiệp"
+  },
+  {
+    "source": "158/2025/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "41/2024/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Hướng dẫn BHXH bắt buộc"
+  },
+  {
+    "source": "159/2025/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "41/2024/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Hướng dẫn BHXH tự nguyện"
+  },
+  {
+    "source": "274/2025/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "41/2024/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Chậm đóng trốn đóng BHXH"
+  },
+  {
+    "source": "145/2020/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "45/2019/QH14",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Hướng dẫn Bộ luật Lao động"
+  },
+  {
+    "source": "39/2016/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "84/2015/QH13",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Hướng dẫn Luật An toàn vệ sinh lao động"
+  },
+  {
+    "source": "88/2020/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "84/2015/QH13",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Bảo hiểm tai nạn lao động bệnh nghề nghiệp"
+  },
+  {
+    "source": "374/2025/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "74/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Hướng dẫn Luật Việc làm về bảo hiểm thất nghiệp"
+  },
+  {
+    "source": "338/2025/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "74/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Tên văn bản: quy định chi tiết Luật Việc làm"
+  },
+  {
+    "source": "352/2025/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "74/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Tên văn bản: quy định chi tiết Luật Việc làm"
+  },
+  {
+    "source": "176/2025/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "41/2024/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Tên văn bản: chi tiết Luật Bảo hiểm xã hội về trợ cấp hưu trí xã hội"
+  },
+  {
+    "source": "11/2025/TT-BNV",
+    "relation": "GUIDES",
+    "target": "41/2024/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Tên văn bản: chi tiết Luật Bảo hiểm xã hội"
+  },
+  {
+    "source": "12/2025/TT-BNV",
+    "relation": "GUIDES",
+    "target": "41/2024/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Tên văn bản: chi tiết Luật Bảo hiểm xã hội"
+  },
+  {
+    "source": "25/2025/TT-BYT",
+    "relation": "GUIDES",
+    "target": "41/2024/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Tên văn bản: chi tiết Luật Bảo hiểm xã hội"
+  },
+  {
+    "source": "25/2025/TT-BYT",
+    "relation": "GUIDES",
+    "target": "84/2015/QH13",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Tên văn bản: chi tiết Luật An toàn vệ sinh lao động"
+  },
+  {
+    "source": "60/2025/TT-BYT",
+    "relation": "GUIDES",
+    "target": "41/2024/QH15",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Tên văn bản: bệnh nghề nghiệp được hưởng bảo hiểm xã hội"
+  },
+  {
+    "source": "84/2015/QH13",
+    "relation": "PARTIALLY_REPEALS",
+    "target": "58/2014/QH13",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Đối chiếu trang 59 bản gốc: chỉ bãi bỏ Mục 3 Chương III và một số điều của Luật BHXH 58/2014"
+  },
+  {
+    "source": "39/2016/NĐ-CP",
+    "relation": "PARTIALLY_REPEALS",
+    "target": "59/2015/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Điều hiệu lực: chỉ bãi bỏ điểm a b c khoản 6 Điều 34 Nghị định 59/2015"
+  },
+  {
+    "source": "293/2025/NĐ-CP",
+    "relation": "REPLACES",
+    "target": "74/2024/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Đối chiếu trang 3 bản gốc: Nghị định 74/2024 hết hiệu lực"
+  },
+  {
+    "source": "293/2025/NĐ-CP",
+    "relation": "PARTIALLY_REPEALS",
+    "target": "128/2025/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Đối chiếu trang 3 bản gốc: bãi bỏ khoản 7 Điều 15 và Phụ lục I"
+  },
+  {
+    "source": "60/2025/TT-BYT",
+    "relation": "REPLACES",
+    "target": "15/2016/TT-BYT",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Đối chiếu trang 7 bản gốc"
+  },
+  {
+    "source": "60/2025/TT-BYT",
+    "relation": "REPLACES",
+    "target": "02/2023/TT-BYT",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Đối chiếu trang 7 bản gốc"
+  },
+  {
+    "source": "168/2025/NĐ-CP",
+    "relation": "REPLACES",
+    "target": "01/2021/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Đối chiếu trang 121 bản gốc"
+  },
+  {
+    "source": "168/2025/NĐ-CP",
+    "relation": "REPLACES",
+    "target": "122/2020/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Đối chiếu trang 121 bản gốc"
+  },
+  {
+    "source": "219/2025/NĐ-CP",
+    "relation": "REPLACES",
+    "target": "152/2020/NĐ-CP",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Đối chiếu trang 22 bản gốc (Điều 35 khoản 2): Nghị định 152/2020 (đã sửa bởi 70/2023) hết hiệu lực"
+  },
+  {
+    "source": "20/2026/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "198/2025/QH15",
+    "method": "xác minh (danh mục / văn bản gốc) + tự động khớp",
+    "verified": true,
+    "evidence": "Đối chiếu trang 1 bản gốc: hướng dẫn Nghị quyết 198/2025/QH15 về phát triển kinh tế tư nhân (danh mục của thầy ghi là hướng dẫn Luật Thuế TNDN)"
+  },
+  {
+    "source": "337/2025/NĐ-CP",
+    "relation": "GUIDES",
+    "target": "45/2019/QH14",
+    "method": "xác minh (danh mục / văn bản gốc)",
+    "verified": true,
+    "evidence": "Đối chiếu trang 1 bản gốc: căn cứ Bộ luật Lao động; quy định hợp đồng lao động điện tử"
+  },
+  {
+    "source": "252/2026/NĐ-CP",
+    "relation": "REPLACES",
+    "target": "126/2020/NĐ-CP",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Nghị định này thay thế: Nghị định ạố 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy đinh chi tiết một sô điều của Luật Quản lý thuê: Nghl đlnh số 91/2022/NĐ-CP ngày 30 tháng 10 năm 2022 của Chính phủ sửa đổi;"
+  },
+  {
+    "source": "255/2026/NĐ-CP",
+    "relation": "REPLACES",
+    "target": "132/2020/NĐ-CP",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Nghị định số 132/2020/NĐ-CP ngày 05 tháng 11 năm 2020 quy định ve quản lý thuế đối với doanh nghiệp có giao dịch liên kết và Nghị định số 20/2025/NĐ-CP ngày 10 tháng 02 năm 2025 của Chính phủ quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết hết hiệu lực kể từ ngày Nghị định này có"
+  },
+  {
+    "source": "291/2026/NĐ-CP",
+    "relation": "AMENDS",
+    "target": "102/2021/NĐ-CP",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "NGHỊ ĐỊNH Sửa đổi, bố sung một số điều của Nghị định số 125/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định xử phạt vi phạm hành chính về thuế, hóa đơn được sửa đổi, bồ sung bởi Nghị định số 102/2021/NĐ-CP ngày 16 tháng 11 năm 2021 của Chính phủ và Nghị định số 310/2025/NĐ-CP ngày 02 thá"
+  },
+  {
+    "source": "291/2026/NĐ-CP",
+    "relation": "AMENDS",
+    "target": "310/2025/NĐ-CP",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "NGHỊ ĐỊNH Sửa đổi, bố sung một số điều của Nghị định số 125/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định xử phạt vi phạm hành chính về thuế, hóa đơn được sửa đổi, bồ sung bởi Nghị định số 102/2021/NĐ-CP ngày 16 tháng 11 năm 2021 của Chính phủ và Nghị định số 310/2025/NĐ-CP ngày 02 thá"
+  },
+  {
+    "source": "91/2026/TT-BTC",
+    "relation": "REPLACES",
+    "target": "32/2025/TT-BTC",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Kể từ ngày Thông tư này có hiệu lực thi hành, Thông tư số 32/2025/TT-BTC ngày 31 tháng 5 năm 2025 của Bộ trưởng Bộ Tài chính hướng dẫn thực hiện một số điều của Luật Quản lý thuế ngày 13 tháng 6 năm 2019, Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng "
+  },
+  {
+    "source": "48/2024/QH15",
+    "relation": "REPLACES",
+    "target": "13/2008/QH12",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Luật Thuế giá trị gia tăng số 13/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 31/2013/QH13, Luật số 71/2014/QH13 và Luật số 106/2016/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành./."
+  },
+  {
+    "source": "181/2025/NĐ-CP",
+    "relation": "REPLACES",
+    "target": "209/2013/NĐ-CP",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Nghị định này thay thế: Nghị định so 209/2013/NĐ-CP ngày 18 tháng 12 năm 2013 của Chính phủ quy định chỉ tiết và hướng dẫn thi hành một số điều Luật Thuế giá trị gia tăng."
+  },
+  {
+    "source": "69/2025/TT-BTC",
+    "relation": "REPLACES",
+    "target": "219/2013/TT-BTC",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Thông tư này thay thế: Thông tư số 219/2013/TT-BTC ngày 31 thang 12 năm 2013 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành Luật Thuế giá trị gia tăng và Nghị định số 209/2013/NĐ-CP ngày 18 thang 12 năm 2013 của Chính phủ quy định chỉ tiết và mxơng dẫn thì hành một số điều Luật Thuế giá trị gia tăng."
+  },
+  {
+    "source": "109/2025/QH15",
+    "relation": "REPLACES",
+    "target": "04/2007/QH12",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số 43/2024/QH15, Luật số 48/2024/QH15, Luật số 56/2025/QH15, Luật số 71/2025/QH15 và Luật số 93/2025/QH15 hết hiệu lực kể từ ngày Luật my có hiệ"
+  },
+  {
+    "source": "87/2026/TT-BTC",
+    "relation": "REPLACES",
+    "target": "111/2013/TT-BTC",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Thông tư này thay thế Thông tư số 111/2013/TT-BTC ngày 15 tháng 8 năm 2013 của Bộ ưương Bộ Tài chmh hương dẫn thực mẹn Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân và Nghị định số 65/2013/NĐ-CP của Chính phủ quy định chỉ net một số điều của Luật Thuế t"
+  },
+  {
+    "source": "67/2025/QH15",
+    "relation": "REPLACES",
+    "target": "14/2008/QH12",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "e Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 71/2014/QH13, Luật số 61/2020/QH14, Luật số 12/2022/QH15 và Luật số 15/2023/QH15 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+  },
+  {
+    "source": "320/2025/NĐ-CP",
+    "relation": "REPLACES",
+    "target": "218/2013/NĐ-CP",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Nghị định này thay thế: Nghị định so 218/2013/NĐ-CP ngày 26 tháng 12 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều Luật Thuế thu nhập doanh nghiệp;"
+  },
+  {
+    "source": "20/2026/TT-BTC",
+    "relation": "REPLACES",
+    "target": "78/2014/TT-BTC",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Thông tư này thay thế: Thông tư số 78/2014/TT-BTC ngày 18 tháng 6 năm 2014 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành Nghị định số 218/2013/NĐ-CP ngày 26 tháng 12 năm 2013 của Chính phủ quy định và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp;"
+  },
+  {
+    "source": "18/2026/TT-BTC",
+    "relation": "REPLACES",
+    "target": "40/2021/TT-BTC",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Thông tư này thay thế Thông tư số 40/2021/TT-BTC ngày 01 tháng 6 năm 2021 của Bộ trưởng Bộ Tài chính hướng dẫn thuế giá trị gia tăng, thuế thu nhập cá nhân và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh;"
+  },
+  {
+    "source": "99/2025/TT-BTC",
+    "relation": "REPLACES",
+    "target": "200/2014/TT-BTC",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Thông tư này thay thế cho các Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính hướng dẫn chế độ kế toán doanh nghiệp (trừ trường hợp quy định tại khoản 2 Điều này), Thông tư số 75/2015/TT-BTC ngày 18/5/2015 của Bộ Tài chính về sửa đổi, bổ sung Điều 128 Thông tư số 200/2014/TT-BTC ngày 22"
+  },
+  {
+    "source": "71/2024/TT-BTC",
+    "relation": "REPLACES",
+    "target": "24/2017/TT-BTC",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Thông tư này thay thế cho Thông tư số 24/2017/TT-BTC ngày 28/3/2017 của Bộ Tài chính hướng dẫn chế độ kế toán Hợp tác xã, liên hiệp hợp tác xã."
+  },
+  {
+    "source": "133/2016/TT-BTC",
+    "relation": "REPLACES",
+    "target": "138/2011/TT-BTC",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Thông tư này thay thế các nội dung áp dụng đối với doanh nghiệp nhỏ và vừa tại Quyết định số 48/2006/QĐ-BTC ngày 14/9/2006 của Bộ trưởng Bộ Tài chính và Thông tư số 138/2011/TT-BTC ngày 4/10/2011 của Bộ Tài chính."
+  },
+  {
+    "source": "41/2024/QH15",
+    "relation": "REPLACES",
+    "target": "58/2014/QH13",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Luật Bảo hiểm xã hội số 58/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 84/2015/QH13, Luật số 35/2018/QH14, Bộ luật số 45/2019/QH14 (sau đây gọi chung là Luật số 58/2014/QH13) và Nghị quyết số 93/2015/QH13 ngày 22 tháng 6 năm 2015 của Quốc hội về việc thực hiện chính sách hưởng bảo hi"
+  },
+  {
+    "source": "159/2025/NĐ-CP",
+    "relation": "REPLACES",
+    "target": "134/2015/NĐ-CP",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Nghị định so 134/2015/NĐ-CP ngày 29 tháng 12 năm 2015 của Chính phủ quy định chỉ tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội tự nguyện hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành."
+  },
+  {
+    "source": "176/2025/NĐ-CP",
+    "relation": "PARTIALLY_REPEALS",
+    "target": "20/2021/NĐ-CP",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Điểm b và điểm c khoản 5 Điều 5 Nghị định số 20/2021/NĐ-CP ngày - 15 tháng 3 năm 2021 của Chính phủ quy định về chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội hết hiệu lực kế từ ngày Nghị định này có hiệu lực./."
+  },
+  {
+    "source": "11/2025/TT-BNV",
+    "relation": "REPLACES",
+    "target": "01/2016/TT-BLĐTBX",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Thông tư số 01/2016/TT-BLĐTBXH ngày 18 tháng 02 năm 2016 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội tự nguyện hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực."
+  },
+  {
+    "source": "74/2025/QH15",
+    "relation": "REPLACES",
+    "target": "38/2013/QH13",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Luật Việc làm số 38/2013/QH13 đã được sửa đổi, bồ sung một số điều theo Luật số 41/2024/QH15 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại các khoản 1, 2 và 3 Điều 55 của Luật này."
+  },
+  {
+    "source": "50/2024/QH15",
+    "relation": "REPLACES",
+    "target": "12/2012/QH13",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Luật Công đoàn số 12/2012/QH13 hết hiệu lực từ ngày Luật này có hiệu lực thi hành./."
+  },
+  {
+    "source": "88/2020/NĐ-CP",
+    "relation": "REPLACES",
+    "target": "37/2016/NĐ-CP",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "Nghị định số 37/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ quy định chỉ tiết và hướng dẫn thi hành một số điều của Luật An toàn, vệ sinh lao động về bảo hiểm tai nạn lao động, bệnh nghề nghiệp bắt buộc hết hiệu lực thì hành kể từ ngày Nghị định này có hiệu lực."
+  },
+  {
+    "source": "219/2025/NĐ-CP",
+    "relation": "PARTIALLY_REPEALS",
+    "target": "128/2025/NĐ-CP",
+    "method": "tự động (regex) – cần kiểm tra",
+    "verified": false,
+    "evidence": "\" Điều 8 và Mục 2 Phụ lục I ban hành kèm theo Nghị định số 128/2025/NĐ-CP ngày 11 tháng 6 năm 2025 của Chính phủ quy định về phân quyen phân cấp trong quản lý nhà nước lĩnh vực nội vụ hết hiệu lực thị hành kể từ ngày Nghị định này có hiệu lực."
+  },
+  {
+    "source": "252/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "68/2026/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 4 lần"
+  },
+  {
+    "source": "252/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "141/2026/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 2 lần"
+  },
+  {
+    "source": "252/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "108/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "252/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "125/2020/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "252/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "310/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "255/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "108/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 9 lần"
+  },
+  {
+    "source": "255/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "67/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "291/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "108/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "89/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "108/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 55 lần"
+  },
+  {
+    "source": "89/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "18/2026/TT-BTC",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 5 lần"
+  },
+  {
+    "source": "89/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "253/2026/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 4 lần"
+  },
+  {
+    "source": "89/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "50/2026/TT-BTC",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 3 lần"
+  },
+  {
+    "source": "89/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "255/2026/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "89/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "181/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "89/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "320/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "89/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "109/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "90/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "252/2026/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 50 lần"
+  },
+  {
+    "source": "90/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "108/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 37 lần"
+  },
+  {
+    "source": "90/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "253/2026/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 6 lần"
+  },
+  {
+    "source": "90/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "68/2026/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 4 lần"
+  },
+  {
+    "source": "90/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "18/2026/TT-BTC",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 4 lần"
+  },
+  {
+    "source": "90/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "168/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "90/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "125/2020/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "90/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "310/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "254/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "181/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "91/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "125/2020/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "174/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "03/2022/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "359/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "48/2024/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "359/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "149/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "144/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "48/2024/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 2 lần"
+  },
+  {
+    "source": "144/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "149/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 2 lần"
+  },
+  {
+    "source": "69/2025/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "181/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 10 lần"
+  },
+  {
+    "source": "77/2025/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "181/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 6 lần"
+  },
+  {
+    "source": "77/2025/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "48/2024/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "101/2025/TT-BNNMT",
+    "relation": "REFERENCES",
+    "target": "48/2024/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "109/2025/QH15",
+    "relation": "REFERENCES",
+    "target": "48/2024/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "253/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "109/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "253/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "09/2026/QH16",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "253/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "181/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "253/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "68/2026/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "87/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "253/2026/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 4 lần"
+  },
+  {
+    "source": "87/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "109/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 2 lần"
+  },
+  {
+    "source": "87/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "09/2026/QH16",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "320/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "67/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "320/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "181/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "20/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "67/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "141/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "109/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "141/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "48/2024/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "141/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "149/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "141/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "67/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "141/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "108/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "141/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "09/2026/QH16",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "20/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "67/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "68/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "109/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 6 lần"
+  },
+  {
+    "source": "68/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "48/2024/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 2 lần"
+  },
+  {
+    "source": "68/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "108/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "68/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "149/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "68/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "168/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "152/2025/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "108/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "152/2025/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "149/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "152/2025/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "109/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "18/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "68/2026/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 8 lần"
+  },
+  {
+    "source": "18/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "108/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 2 lần"
+  },
+  {
+    "source": "18/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "149/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "50/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "68/2026/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 2 lần"
+  },
+  {
+    "source": "50/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "48/2024/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "50/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "109/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "50/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "141/2026/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "50/2026/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "108/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "59/2020/QH14",
+    "relation": "REFERENCES",
+    "target": "45/2019/QH14",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "03/2022/QH15",
+    "relation": "REFERENCES",
+    "target": "59/2020/QH14",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "76/2025/QH15",
+    "relation": "REFERENCES",
+    "target": "59/2020/QH14",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 2 lần"
+  },
+  {
+    "source": "76/2025/QH15",
+    "relation": "REFERENCES",
+    "target": "03/2022/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 2 lần"
+  },
+  {
+    "source": "296/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "168/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 3 lần"
+  },
+  {
+    "source": "296/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "59/2020/QH14",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "296/2026/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "76/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "68/2025/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "168/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 44 lần"
+  },
+  {
+    "source": "68/2025/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "76/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "71/2024/TT-BTC",
+    "relation": "REFERENCES",
+    "target": "133/2016/TT-BTC",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "41/2024/QH15",
+    "relation": "REFERENCES",
+    "target": "84/2015/QH13",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 2 lần"
+  },
+  {
+    "source": "41/2024/QH15",
+    "relation": "REFERENCES",
+    "target": "45/2019/QH14",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "274/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "41/2024/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "274/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "59/2020/QH14",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "158/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "41/2024/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "158/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "88/2020/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "12/2025/TT-BNV",
+    "relation": "REFERENCES",
+    "target": "158/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 7 lần"
+  },
+  {
+    "source": "11/2025/TT-BNV",
+    "relation": "REFERENCES",
+    "target": "159/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 5 lần"
+  },
+  {
+    "source": "60/2025/TT-BYT",
+    "relation": "REFERENCES",
+    "target": "88/2020/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "45/2019/QH14",
+    "relation": "REFERENCES",
+    "target": "84/2015/QH13",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "74/2025/QH15",
+    "relation": "REFERENCES",
+    "target": "41/2024/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 2 lần"
+  },
+  {
+    "source": "293/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "45/2019/QH14",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "337/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "145/2020/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "338/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "74/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 22 lần"
+  },
+  {
+    "source": "352/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "74/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 5 lần"
+  },
+  {
+    "source": "352/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "45/2019/QH14",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "352/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "59/2020/QH14",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  },
+  {
+    "source": "374/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "352/2025/NĐ-CP",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 2 lần"
+  },
+  {
+    "source": "374/2025/NĐ-CP",
+    "relation": "REFERENCES",
+    "target": "74/2025/QH15",
+    "method": "tự động (regex)",
+    "verified": false,
+    "evidence": "được nhắc 1 lần"
+  }
+]

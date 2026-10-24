@@ -1,0 +1,740 @@
+<<<TRANG 1>>>
+Ký bởi: BỘ TÀI CHÍNH
+Cơ quan: 28 Trần Hưng Đạo
+u` /ì Thời gian ký: 06101l2026 15:59:56 +07:00
+
+⁄
+BỘ TÀI CHÍNH CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+— Độc lập - Tự do - Hạnh phúc
+Số: 152/2025/TT-BTC Hà Nội, ngày 31 tháng 12 năm 2025
+THÔNG TƯ
+
+Hướng dẫn kế toán cho các hộ kinh doanh, cá nhân kinh doanh
+
+Căn cứ Luật Kế toán số 88/2015/QH13 ngày 20 tháng 1 Ï năm 2015;
+
+_.. Căn cứ Luật sửa đổi, bồ sung một số điều của Luật Chứng khoán, Luật
+Kê toán, Luật Kiêm toán độc lập, Luật Ngân uịch nhà nước, Luật Quản lý, sử
+dụng tài sản công, Luật Quản lý thuế, Luật Thuê thu nhập cá nhân, Luật Dự trữ
+quốc gia, Luật Xử lý vi phạm hành chính sốô 56/2024/QH15 ngày 29 tháng 1]
+năm 2024;
+
+Căn cứ Luật Quản lý thuế số 108/2025/QH15 ngày 10 tháng 12 năm 2025;
+
+Căn cứ Luật Thuế giá trị gia tăng so <18/202<I/QH15 ngày 26 tháng !I
+năm 2024 và Luật sửa đồi, bồ sung một số điều của Luật Thuế giá trị gia tăng
+số 149/2025/QH15 ngày 1] tháng 12 năm 2025;
+
+Căn cứ Luật Thuế thu nhập cá nhân số 109/2025/QH15 ngày 10 tháng 12
+năm 2025;
+
+Căn cứ Nghị định số 29/2025/NĐ-CP qgay 24 tháng 02 năm 2025 của
+Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ
+Tài chính;
+
+Căn cứ Nglzz định số 166/2025/NĐ-CP ngày 30 tháng 06 năm 2025 của
+Chính phủ về sửa đổi, bồ sung một số điều của Nghị định số 29/2025/NĐ-CP
+ngày 24 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ,
+quyên hạn và cơ cầu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Cục trưởng Cục quản lý, giám sát kế toán, kiểm toán;
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn kế toán cho các hộ
+kinh doanh, cá nhân kinh doanh.
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Thông tư này hướng dẫn việc ghi số kế toán của các hộ kinh doanh, cá
+nhân kinh doanh.
+2. Đối tượng áp dụng Thông tư này là hộ kinh doanh, cá nhân kinh doanh.
+Điều 2. Tổ chức công tác kế toán
+
+Người đại diện hộ kinh doanh, cá nhân kinh doanh tự ghi chép số sách kế
+
+<<<TRANG 2>>>
+2
+
+toán hoặc bố trí người làm kế toán hoặc thuê dịch vụ làm kế toán cho hộ kinh
+doanh, cá nhân kinh doanh theo quy định của pháp luật. Người đại diện hộ kinh
+doanh, cá nhân kinh doanh có thể bố trí cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, vợ,
+chông, con đẻ, con nuôi, anh, chị, em ruột của mình làm kế toán cho hộ kinh
+doanh, cá nhân kinh doanh hoặc bố trí người làm quản lý, điều hành, thủ kho,
+thủ quỹ, người được giao nhiệm vụ thường xuyên mua, bán tài sản kiêm nhiệm
+làm kê toán cho hộ kinh doanh, cá nhân kinh doanh.
+
+Điều 3. Về số kế toán và lưu trữ tài liệu kế toán
+
+1. Hộ kinh doanh, cá nhân kinh doanh được lựa chọn lưu trữ các tài liệu kế
+toán (hóa đơn, chứng từ kế toán, số kế toán,...) trên phương tiện điện tử hoặc
+bằng bản giấy.
+
+2. Thời hạn lưu trữ tài liệu kế toán của hộ kinh doanh, cá nhân kinh doanh
+tối thiều là 05 năm, đối với thời hạn lưu trữ hóa đơn thì thực hiện theo quy định
+của pháp luật về thuế.
+
+3. Ngoài các số kế toán hướng dẫn tại Thông tư này, hộ kinh doanh, cá
+nhân kinh doanh có thể bổ sung thêm các số kế toán hoặc sửa đồi lại biểu mẫu
+các số kế toán cho phù hợp với nhu cầu của đơn vị. Sồ kế toán được mở thêm
+hoặc sửa đổi lại biểu mẫu vẫn phải ghi rõ tên số; ngày, tháng, năm lập sỏ; họ tên
+và chữ ký, đóng dấu (nếu có) của người đại diện hộ kinh doanh, cá nhân kinh
+doanh.
+
+4. Trường hợp hộ kinh doanh, cá nhân kinh doanh sử dụng hóa đơn điện tử
+mà được hệ thống thông tin quản lý thuế của cơ quan thuế hỗ trợ xác định số
+thuế giá trị gia tăng (GTGT), thuế thu nhập cá nhân (TNCN), các loại thuê khác
+phải nộp (nêu có) và thông báo cho người nộp thuế thì hộ kinh doanh, cá nhân
+kinh doanh sử dụng các mẫu số kế toán hướng dẫn tại Thông tư này đề theo dõi,
+đối chiều với số thuế phải nộp theo thông báo của cơ quan thuề.
+
+Chương IJI
+QUY ĐỊNH CỤ THẺ
+Mục1
+
+KÉ TOÁN TẠI HỘ KINH DOANH, CÁ NHÂN KINH DOANH
+THUỘC ĐÓI TƯỢNG KHÔNG CHỊU THUẾ GIÁ TRỊ GIA TÃNG,
+KHÔNG PHẢI NỘP THUÊ THU NHẬP CÁ NHÂN
+
+Điều 4. Trường hợp hộ kinh doanh, cá nhân kinh doanh thuộc đối
+tượng không chịu thuế giá trị gia tăng, không phải nộp thuế thu nhập cá
+nhân
+
+1. Trường hợp hộ kinh doanh, cá nhân kinh doanh thuộc đối tượng 1chônẹ
+chịu thuế giá trị gia tăng, không phải nộp thuê thu nhập cá nhân thì sử dụng Sô
+
+<<<TRANG 3>>>
+3
+doanh thu bán hàng hóa, dịch vụ (mẫu số S1a-HKD) sau đây đề ghi chép doanh
+thu bán hàng hóa, dịch vụ, cụ thể:
+
+Mẫu số SIa-HKD
+(Kèm theo Thông tư số 152/2025/TT-BTC
+
+Mã số thuế:.............................. ngày 3Ï tháng 12 năm 2025 của Bộ trưởng
+: : Bộ Tài chính)
+SỎÓ DOANH THU BÁN HÀNG HÓA, DỊCH VỤ
+Địa điểm kinh doanh:.........................
+Kỳ kê khai:.............................
+Đơn vị tính:
+Ngày tháng Diễn giải Số tiền
+A B ]
+
+— —
+
+-¬x-t=a==dlo=
+—
+
+— m
+
+ủg cộng
+
+Ngày ... tháng ... năm ...
+NGƯỜI ĐẠI DIỆN HỘ KINH DOANH/
+CÁ NHÂN KINH DOANH
+(Ký, ghi rõ họ tên, đóng dầu (nếu có))
+
+2. Phương pháp ghi số
+
+a) Số này được mở đề ghi doanh thu bán hàng hóa, dịch vụ làm căn cứ kê
+khai, xác định hộ kinh doanh, cá nhân kinh doanh có thuộc đối tượng chịu thuế
+GTGT, nộp thuế TNCN theo quy định của pháp luật về thuế hay không. Trường
+hợp hộ kinh doanh, cá nhân kinh doanh thực hiện kê khai doanh thu theo quy
+định của pháp luật về thuế thì hộ kinh doanh, cá nhân kinh doanh có thể dùng số
+này để theo dõi, đối chiều số liệu với cơ quan thuế.
+
+b) Phương pháp ghi số
+
+- Cột A: Ghi ngày, tháng ghi số.
+
+- Cột B: Ghi diễn giải doanh thu từ việc bán hàng hóa, dịch vụ. Hộ kinh
+doanh, cá nhân kinh doanh có thể ghi theo từng nghiệp vụ phát sinh hoặc theo
+định kỳ.
+
+- Cột 1: Ghi số tiền bán hàng hóa, dịch vụ.
+
+<<<TRANG 4>>>
+4
+Mục2
+
+KÉ TOÁN TẠI HỘ KINH DOANH, CÁ NHÂN KINH DOANH
+THUỘC ĐÓI TƯỢNG CHỊU THUẾ GIÁ TRỊ GIA TĂNG, PHẢI NỘP
+THUÊ THU NHẬP CÁ NHÂN
+
+Hộ kinh doanh, cá nhân kinh doanh căn cứ vào phương pháp nộp thuế
+GTGT, thuế TNCN để thực hiện kế toán theo một trong các trường hợp quy
+định tại Điều 5 hoặc Điều 6 Thông tư này, cụ thể như sau:
+
+Điều 5. Trường hợp hộ kinh doanh, cá nhân kinh doanh nộp thuế
+GTGT và thuế TNCN theo tỷ lệ phần trăm (%) trên doanh thu
+
+1. Chứng từ kế toán sử dụng là Hóa đơn và các chứng từ khác làm căn cứ
+đề xác định và kê khai doanh thu theo quy định của pháp luật về thuế.
+
+2. Sổ kế toán
+
+2.1. Số doanh thu bán hàng hóa, dịch vụ (Mẫu số S2a-HKD)
+
+Hộ kinh doanh, cá nhân kinh doanh sử dụng số doanh thu bán hàng hóa,
+dịch vụ theo mẫu sau đây để ghi chép doanh thu bán hàng hóa, dịch vụ:
+
+HỘ, CÁ NHÂN KINH DOANH:..... Mẫu số S2a-HKD
+
+Địa chỉ:....................ồồồc-+ssess. (Kèm theo Thông tư số 152/2025/TT-BTC
+
+Mã số thuế:.......................... ngày 31 tháng 12 năm 2025 của Bộ trưởng
+BĐộ Tài chính)
+
+SỎ DOANH THU BÁN HÀNG HÓA, DỊCH VỤ
+
+Kỳ kê khai..............................
+Đơn vị tính:
+Chứng từ
+N, | Diễn giải Số tiền
+Số hiệu |  (háng
+P 8 c /
+1. Ngành nghề.....
+m
+Tỏng cộng (1)
+Thuế GTGT
+Thuế TNCN
+
+2. Ngành nghề.....
+
+Rẵng cộng (2)
+
+Thuế GTGT
+
+<<<TRANG 5>>>
+Thuế TNCN
+
+3. Ngành nghề.....
+
+Tổng cộng (3)
+Thuế GTGT
+Thuế TNCN
+
+Tổng số thuế GTGT phải nộp
+
+Tổng số thuế TNCN phải nộp
+
+Ngày ... tháng ... năm ...
+NGƯỜI ĐẠI DIỆN HỘ KINH DOANH/
+CÁ NHÂN KINH DOANH
+(Ký, ghi rõ họ tên và đóng dầu (nếu có))
+
+2.2. Phương pháp ghi số
+
+a) Số này được mở để ghi doanh thu bán hàng hóa, dịch vụ theo từng
+nhóm danh mục ngành nghề kinh doanh có cùng tỷ lệ % để tính thuế GTGT
+hoặc cùng mức thuế suất để tính thuế TNCN. Trường hợp hộ kinh doanh, cá
+nhân kinh doanh có nhiều nhóm ngành nghề khác nhau thì số này có thể mở cho
+từng ngành nghề có cùng tỷ lệ % để tính thuế GTGT hoặc cùng mức thuế suất
+để tính thuế TNCN. Trường hợp cơ quan thuế cung cấp dữ liệu nộp thuế GTGT,
+thuê TNCN thì hộ kinh doanh, cá nhân kinh doanh sử dụng số này đề theo dõi,
+đối chiều số thuế GTGT, thuế TNCN phải nộp với cơ quan thuế.
+
+b) Phương pháp ghi số
+
+- Cột A, B: Ghi số hiệu, ngày, tháng của chứng từ.
+
+- Cột C: Ghi diễn giải nội dung doanh thu bán hàng hóa, dịch vụ theo từng
+ngành nghề có cùng tỷ lệ % để tính thuế GTGT hoặc cùng mức thuế suất đề tính
+thuế TNCN.
+
+- Cột 1: Ghi số tiền bán hàng hóa, dịch vụ có thể theo từng ngành nghề đề
+làm căn cứ xác định doanh thu bán hàng hóa, dịch vụ có cùng tỷ lệ % đê tính
+thuế GTGT hoặc cùng mức thuế suất để tính thuế TNCN. Trên cơ sở doanh thu
+được xác định, hộ kinh doanh, cá nhân kinh doanh tính ra số tiền thuế GTGT,
+thuế TNCN phải nộp theo từng ngành nghề có cùng tỷ lệ % hoặc cùng mức thuế
+suất. Dòng cuối cùng ghi tổng số thuế GTGT, thuế TNCN phải nộp.
+
+Điều 6. Trường hợp hộ kinh doanh, cá nhân kinh doanh nộp thuế
+GTGT theo tỷ lệ % trên doanh thu và thuế TNCN trên thu nhập tính thuế
+
+1. Chứng từ kế toán
+
+<<<TRANG 6>>>
+6
+
+Hóa đơn, Bảng kê mua hàng hóa, dịch vụ (đối với trường hợp hộ kinh
+doanh, cá nhân kinh doanh mua hàng hóa, dịch vụ của người bán hàng không
+có hóa đơn GTGT hoặc hóa đơn bán hàng) và các chứng từ kế toán khác làm
+căn cứ đề xác định doanh thu, thu nhập tính thuế theo quy định của pháp luật
+về thuế.
+
+2. Số kế toán
+
+2.1. Hộ kinh doanh, cá nhân kinh doanh sử dụng các số kế toán theo danh
+mục sau đây
+
+STT Tên số kế toán Ký hiệu
+I . m
+l Sô doanh thu bán hàng hóa, dịch vụ Mẫu sô S2b-HKD
+2 | Số chi tiết doanh thu, chi phí Mẫu số S2c- HKD
+3 | Sỏ chi tiết vật liệu, dụng cụ, sản phẩm, hàng hóa | Mẫu số S2d-HKD
+
+4  |Sổ chi tiết tiền Mẫu số S2e- HKD
+2.2. Biểu mẫu và phương pháp ghi số kế toán
+2.2.1. Sổ doanh thu bán hàng hóa, dịch vụ (Mẫu số S2b-HKD)
+
+HỘ, CÁ NHÂN KINH DOANH:..... Mẫu số S2b-HKD
+Địa chỉ:....................-------nnnr.-. (Kèm theo Thông tư số 152/2025/TT-BTC
+Mã số thuế:............................ ngày 31 tháng 12 năm 2025 của Bộ trưởng
+
+Bộ Tài chính)
+SỎ DOANH THU BÁN HÀNG HÓA, DỊCH VỤ
+Địa điêm kinh doanh..........................
+Kỳ kê khai:...........................
+UĐơn vị tính:
+Chứng từ
+
+SốỈlẹ1Il'ỉl Diễn giải Số tiền
+
+¡
+
+1. Ngành nghề.....
+.....
+
+Tổng cộng (1)
+
+— 1722-=0ù/.
+
+Thuế GTGT
+
+2. Ngành nghề....
+
+Rẫng cộng (2)
+
+Thuế GTGT
+
+<<<TRANG 7>>>
+3. Ngành nghề.....
+
+Tổng cộng (3)
+Thuế GTGT
+4. Ngành nghề.....
+
+Tồng cộng (4)
+Thuế GTGT
+5. Ngành nghề..... —Ổ
+
+Tổng cộng (5)
+
+Thuế GTGT
+4 .. ˆ
+
+Fẫng số thuế GTGT phải nộp
+
+Ngày ... tháng ... năm ...
+NGƯỜI ĐẠI DIỆN HỘ KINH DOANH/
+CÁ NHÂN KINH DOANH
+(Ký, ghi rõ họ tên và đóng dầu (nêu có))
+
+Phương pháp ghi số:
+
+a) Số này được mở để ghi doanh thu bán hàng hóa, dịch vụ theo từng
+nhóm danh mục ngành nghề kinh doanh có cùng tỷ lệ % để tính thuế GTGT.
+Trường hợp hộ kinh doanh, cá nhân kinh doanh có nhiều nhóm ngành nghề khác
+nhau thì sô này có thê mở cho từng ngành nghê có cùng tỷ lệ % đê tính thuế
+GTGT. Trường hợp cơ quan thuế cung cấp dữ liệu nộp thuế GTGT thì hộ kinh
+doanh, cá nhân kinh doanh sử dụng sổ này để theo dõi, đối chiều số thuế GTGT
+phải nộp với cơ quan thuế.
+
+b) Phương pháp ghi số
+
+- Cột A, B: Ghi số hiệu, ngày, tháng của chứng từ.
+
+- Cột C: Ghi diễn giải nội dung doanh thu bán hàng hóa, dịch vụ theo từng
+ngành nghề có cùng tỷ lệ % để tính thuế GTGT.
+
+- Cột 1: Ghi số tiền bán hàng hóa, dịch vụ có thể theo từng ngành nghề đề
+làm căn cứ xác định doanh thu bán hàng hóa, dịch vụ theo từng ngành nghê có
+cùng tỷ lệ % đề tính thuế GTGT. Tren cơ sở doanh thu được xác định, hộ kinh
+doanh, cá nhân kinh doanh tính ra số tiền thuế GTGT ủax nộp theo nmg ỵanh
+nghề có cùng tỷ lệ % để tính thuế GTGT. Dòng cuối cùng ghi tổng số thuế
+GTGT phải nộp.
+
+2.2.2. Số chỉ tiết doanh thu, chỉ phí (Mẫu số S2c-HKD)
+
+<<<TRANG 8>>>
+Mẫu số S2e-HKD
+(Kèm theo Thông tư số 152/2025/TT-BTC
+ngày 31 tháng 12 năm 2025 của Bộ trưởng
+Bộ Tài chính)
+
+HỘ, CÁ NHÂN KINH DOANH
+
+SỎ CHI TIẾT DOANH THU, CHI PHÍ
+
+Tên địa điểm kinh doanh:............
+Kỳ kê khai:................
+ĐĐơn vị tính:
+Chứng từ
+Diễn giải Số tiền
+Sốhiệu | Ngày,tháng
+A B C l
+
+1. Doanh thu bán hàng hóa, dịch vụ
+
+2. Chỉ phí hợp lý
+
+a) Chỉ phí nguyên liệu, vật liệu, nhiên liệu, năng
+lượng, hàng hóa sử dụng vào sản xuât, kinh doanh.
+
+b) Chi phí tiền lương, tiền công, các khoản phụ cấp,
+bảo hiểm bắt buộc và các khoản chỉ trả cho người lao
+động có đóng bảo hiểm bắt buộc theo quy định; chỉ
+phí tiền lương, tiền công, các khoản phụ cấp và các
+khoản chỉ trả cho người lao động dưới 01 tháng.
+
+c) Chỉ phí khẩu hao tài sản cổ định phục vụ cho hoạt
+động sản xuât, Ụnh doanh theo chê ®, quản lý, sử
+dụng và trích khấu hao tài sản có định (nếu có).
+
+d) Chỉ phí dịch vụ mua ngoài như điện, nước, điện
+thoại, internet, vận chuyên, thuê tài sản, sửa chữa, bảo
+
+ị_ J dl.ỉỂỸl'l’g
+
+đ) Chi phí trả lãi tiền vay vốn ỵin wat kinh doanh
+của to chức tín dụng theo lãi suất thực tế. Chi phí trả
+lãi tiền vay von sản xuất, kinh doanh của đối tượng
+không phải là tổ chức tín dụng không vượt quá mức
+
+quy định tại Bộ luật Dân sự.
+
+e) Ợc khoản chi khác phục vụ trực ũếp hoạt động sản
+xuât, kinh doanh...
+
+3. Chênh lệch {(3)=(1)-2)} _
+
+4. Tổng số thuế TNCN phải nộp {(4) = (3) x thuế
+
+suất
+Ngày ... tháng ... năm ...
+NGƯỜI ĐẠI DIỆN HỘ KINH DOANH/
+CÁ NHÂN KINH DOANH
+(Ký, ghi rõ họ tên và đóng dầu (nêu có))
+Phương pháp ghi số:
+
+a) Hộ kinh doanh, cá nhân kinh doanh mở số này để xác định nghĩa vụ thuế
+TNCN theo quy định của pháp luật về thuế. Trường hợp cơ quan thuế cung cấp
+
+<<<TRANG 9>>>
+9
+
+dữ liệu nộp thuế TNCN thì hộ kinh doanh, cá nhân kinh doanh sử dụng số này
+để đối chiều số thuế TNCN phải nộp với cơ quan thuế.
+
+b) Phương pháp ghi số
+
+- Cột A, B: Ghi số hiệu, ngày, tháng của chứng từ.
+
+- Cột C: Ghi diễn giải nội dung nghiệp vụ phát sinh.
+
+- Cột 1: Ghi số tiền phù hợp với từng nội dung nêu tại cột C.
+
+- Dòng 1: Hộ kinh doanh, cá nhân kinh doanh căn cứ vào chứng từ kế toán
+để ghi tổng doanh thu bán hàng hóa, dịch vụ hoặc có thể ghi theo từng nghiệp vụ
+phát sinh tùy theo nhu cầu của hộ kinh doanh, cá nhân kinh doanh.
+
+- Dòng 2: Ghi tổng chi phí hợp lý trên cơ sở các chỉ phí thực tế phát sinh tại
+hộ kinh doanh, cá nhân kinh doanh hoặc có thể ghi theo từng nghiệp vụ phát
+sinh tùy theo nhu cầu của hộ kinh doanh, cá nhân kinh doanh.
+
+- Hộ kinh doanh, cá nhân kinh doanh tính chênh lệch giữa tổng doanh thu
+và tổng chỉ phí hợp lý đề làm căn cứ tính thuế TNCN phải nộp.
+
+Việc xác định doanh thu, chi phí hợp lý để xác định nghĩa vụ thuế TNCN
+được thực hiện theo quy định của pháp luật về thuế.
+
+, a²› chỉ tiết vật liệu, dụng cụ, sản phẩm, hàng hóa (Mẫu số S2d-HKD)
+Mẫu số S2d-HKD
+(Kèm theo Thông tư sô 152/2025/TT-BTC
+
+ngày 31 tháng 12 năm 2025 của Bộ trưởng
+Độ Tài chính)
+
+SÓ CHI TIẾT VẬT LIỆU, DỤNG CỤ, SẲN PHÁM, HÀNG HÓA
+Tên vật liệu, dụng cụ, sản ủam ủng hóa..................
+
+Kỳ kê khai ..
+Chứng từ Nhập Xuất Tồn Í_
+Đơn | Đơn
+số | Ngày, Diễn giải vị giá Số | Thành Số | Thành | SỐ Thành | Ghỉ chú
+hiệu | tháng tĩnh lượng tiền lượng tiền lượng tiền
+
+A B (ại D 1 2 3 4 5 6 7 $
+
+_l Số dư đầu kỳ
+m
+
+<<<TRANG 10>>>
+10
+Cộng phát ` ` `
+sinh trong kỳ )( -
+Số dư cuối kỳ x x x ` x ` ` `
+
+Ngày ... tháng ... năm ...
+NGƯỜI ĐẠI DIỆN HỘ KINH DOANH/
+CÁ NHÂN KINH DOANH
+(Ký, ghi rõ họ tên và đóng dầu (nếu có))
+
+Phương pháp ghi số:
+
+a) Hộ kinh doanh, cá nhân kinh doanh mở sồ chi tiết vật liệu, dụng cụ, sản
+phẩm, hàng hóa để theo dõi, quản lý về tình hình nhập, xuất, tồn cho từng vật
+liệu, dụng cụ, sản Mầm, hàng hóa.
+
+b) Phương pháp ghi số
+
+- Cột A, B: Ghi số hiệu, ngày tháng của chứng từ.
+
+- Cột C: Ghi diễn giải nội dung nghiệp vụ phát sinh.
+
+- Cột D: Đơn vị tính của vật liệu, dụng cụ, sản ủấm, hàng hóa.
+
+- Cột 1: Ghi đơn giá nhập, xuất, tồn của từng vật liệu, dụng cụ, sản phẩm,
+hàng hóa. Trong đó, đơn giá nhập kho của từng vật liệu, dụng cụ, sản phâm,
+hàng hóa căn cứ vào chứng từ mua vật liệu, dụng cụ, sản phẩm, hàng hóa.
+
+Đơn giá xuất kho được tính riêng cho từng loại vật liệu, dụng cụ, sản
+phâm, hàng hóa theo công thức sau:
+
+Đơn giá (Giá trị hàng tồn đầu kỳ + Giá trị hàng nhập trong kỳ)
+
+xuất kho =
+
+(Số lượng hàng tồn đầu kỳ + Số lượng hàng nhập trong kỳ)
+
+- Cột 2: Ghi số lượng vật liệu, dụng cụ, sản phzẮ1m, hàng hóa nhập kho.
+
+- Cột 3: Ghi giá trị (thành tiền) vật liệu, dụng cụ, sản phầm, hàng hóa
+nhập kho (Cột 3 = Cột 1 x Cột 2).
+
+- Cột 4: Ghi số lượng vật liệu, dụng cụ, sản Wầm, hàng hóa xuất kho.
+
+- Cột 5: Ghi giá trị (thành tiền) vật liệu, dụng cụ, sản phẩm, hàng hóa xuất
+kho (Cột 5 = Cột 1 x Cột4).
+
+- Cột 6: Ghi số lượng vật liệu, dụng cụ, sản mấm, hàng hóa tồn kho.
+
+- Cột 7: Ghi giá trị (thành tiền) vật liệu, dụng cụ, sản phẩm, hàng hóa tồn
+kho (Cột 7 = Cột 1 x Cột 6).
+
+<<<TRANG 11>>>
+1
+
+2.2.4. Số chỉ tiết tiền (Mẫu số S2e-HKD)
+Mẫu số S2e-HKD
+(Kèm theo Thông tư số 152/2025/TT-BTC
+
+ngày 31 tháng 12 năm 2025 của Bộ trưởng
+Bộ Tài chính)
+
+SỎ CHI TIẾT TIỀN
+Kỳ kê khai: ..............
+UĐơn vị tính......
+Số tiền
+Diễn giải
+Thu/Gửivào | Chi/Rút ra
+
+l 2
+
+C
+
+Tiền mặt
+
+Tiền mặt đầu kỳ
+
+Tỏng tiền thu vào trong kỳ
+
+Tổng tiền chỉ ra trong kỳ
+
+- Tiền mặt tồn cuối kỳ
+
+Tiền gửi không kỳ hạn l
+Ầ’ẵâll Mnễ.... I
+
+Tiền gửi đầu kỳ
+
+— <à
+
+Tổng gửi vào trong kỳ
+
+Tỏng tiền rút ra trong kỳ J
+Tiền gửi cuối kỳ _l
+JNgân hàng...
+Ngày ... tháng ... năm ...
+NGƯỜI ĐẠI DIỆN HỘ KINH DOANH/
+
+CÁ NHÂN KINH DOANH
+(Ký, ghi rõ họ tên và đóng dầu (nêu có))
+
+Phương pháp ghi sỏ:
+
+a) Hộ kinh doanh, cá nhân kinh doanh phải mở số chỉ tiết tiền đề theo dõi
+tình hình thu, chi bằng tiền mặt hoặc tiền gửi không kỳ hạn (tiền gửi để thanh
+toán) trong tài khoản của hộ kinh doanh, cá nhân kinh doanh tại các ngân hàng
+và tổ chức cung ứng dịch vụ thanh toán theo quy định của pháp luật. Hộ kinh
+doanh, cá nhân kinh doanh có thể mở số này chỉ tiết theo từng loại tiền (tiền
+
+<<<TRANG 12>>>
+12
+
+mặt, tiền gửi không kỳ hạn). Đối với tiền gửi không kỳ hạn, hộ kinh doanh, cá
+nhân kinh doanh có thể theo dõi riêng số tiền gửi tại từng ngân hàng hoặc từng
+tô chức cung ứng dịch vụ thanh toán.
+
+b) Phương pháp ghi số
+
+- Cột A, B: Ghi số hiệu và ngày, tháng của chứng từ.
+
+- Cột C: Ghi diễn giải nội dung nghiệp vụ phát sinh.
+
+- Cột 1, 2: Ghi số tiền thu, chỉ tiền mặt hoặc số tiền gửi không kỳ hạn gửi
+vào, rút ra.
+
+Cuối kỳ, hộ kinh doanh, cá nhân kinh doanh tính ra số tiền mặt thu, chỉ,
+tồn quỹ và số tiền gửi không kỳ hạn gửi vào, rút ra, dư cuối kỳ.
+
+Mục3
+KÉ TOÁN TẠI HỘ KINH DOANH, CÁ NHÂN KINH DOANH
+
+CÓ HOẠT ĐỘNG THUỘC DIỆN CHỊU CÁC LOẠI THUÊ KHÁC
+
+Điều 7. Trường hợp hộ kinh doanh, cá nhân kinh doanh có hoạt động
+thuộc diện chịu các loại thuế khác
+
+Trường hợp hộ kinh doanh, cá nhân kinh doanh có hoạt động thuộc diện
+chịu các loại thuế khác (thuế xuất khẩu, thuế nhập khẩu, thuế tiêu thụ đặc biệt,
+thuế tài nguyên, thuế bảo vệ môi trường, thuế sử dụng đất) thì sử dụng thêm S
+theo dõi nghĩa vụ thuế khác (Mẫu số S3a-HKD) như sau:
+
+HỘ, CÁ NHÂN KINH DOANH:..... Mẫu số S34-HKD
+ĐịC C x aGGEEREEGEEEOEEGEESS (Kèm theo Thông tư số 152/2025/TT-BTC
+MEã số thuế:ccGsssssssssssesesesessue: ngày 31 tháng 12 năm 2025 của Bộ trưởng
+
+Bộ Tài chính)
+
+SỎ THEO DÕI NGHĨA VỤ THUÊ KHÁC
+
+Địa điêm kinh doanh..........................
+Kỳ Kế kKhí mesosigeisGtseorexeezon:
+ĐĐơn vị tính:
+Các loại thuế khác
+Mức | Giá tính Thuế xuất khẩu, thuế nhập khẩu,
+Lượng thuế/01 thuế tiêu thụ đặc biệt .
+Ngày | piện B Ể'ắ đơnvị | Thuế Thuế -
+u uti
+3,', giải Ề"ằỀ" dài hàng | suất f,ẸJJJỄ ẢfJ_"ẵ Số | báovệ | Thuếtài JJ',z
+n…2 hóa, địch pháp pháp tính thuế môi nguyên đất
+v tínhthuế | thuếtuyệt | phải | trường
+theo tỷ lệ | đối (nếu nộp
+_l_ % có
+A l B 1 l 2 3 4 5 6 7 l_ 8 9 l 10 _l
+
+<<<TRANG 13>>>
+5
+
+Tổng cộng
+
+Ngày ... tháng ... năm ...
+NGƯỜI ĐẠI DIỆN HỘ KINH DOANH/
+CÁ NHÂN KINH DOANH
+(Ký, ghi rõ họ tên và đóng dấu (nếu có))
+
+Phương pháp ghi sổ:
+
+- Cột A: Ghi ngày, tháng ghi số.
+
+- Cột B: Ghi diễn giải nội dung nghiệp vụ phát sinh.
+
+- Cột 1: Ghi lượng hàng hóa, dịch vụ chịu thuế.
+
+- Cột 2: Ghi mức thuế tuyệt đối theo quy định của pháp luật về thuế xuất
+khẩu, thuế nhập khẩu, thuế tiêu thụ đặc biệt, thuế bảo vệ môi trường.
+
+- Cột 3: Giá tính thuế/01 đơn vị hàng hóa, dịch vụ thực hiện theo quy định
+của pháp luật về thuế.
+
+- Cột 4: Ghi mức thuế suất theo quy định của pháp luật về thuế xuất khẩu,
+thuế nhập khẩu, thuế tiêu thụ đặc biệt, thuế tài nguyên, thuế sử dụng đất.
+
+- Cột 5: Thuế xuất khẩu, thuế nhập khẩu, thuế tiêu thụ đặc biệt áp dụng
+phương pháp tính thuế theo tỷ lệ % (Cột 5 = Cột 1 x Cột 3 x Cột 4).
+
+- Cột 6: Tính thuế xuất khẩu, thuế nhập khẩu, thuế tiêu thụ đặc biệt áp
+dụng phương pháp tính thuế tuyệt đồi (Cột 6 = Cột 1 x Cột 2).
+
+- Cột 7: Tính thuế xuất khẩu, thuế nhập khẩu, thuế tiêu thụ đặc biệt phải
+nộp (Cột 7= Cột 5+ Cột 6).
+
+- Cột 8: Tính thuế bảo vệ môi trường phải nộp (Cột 8 = Cột 1x Cột 2).
+
+- Cột 9: Tính thuế tài nguyên phải nộp (Cột 9 = Cột 1x Cột 3 x Cột 4).
+
+- Cột 10: Tính thuế sử dụng đất phải nộp (Cột 10= Cột 1x Cột 3 x Cột 4).
+
+<<<TRANG 14>>>
+14
+
+Chương III
+TÓ CHỨC THỰC HIỆN
+Điều 8. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01/01/2026.
+
+2. Thông tư số 88/2021/TT-BTC ngày 11/10/2021 của Bộ trưởng Bộ Tài
+chính hướng dẫn chế độ kế toán cho các hộ kinh doanh, cá nhân kinh doanh héết
+hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.
+
+3. Uỷ ban nhân dân, Sở Tài chính, Thuế các Tỉnh, Thành phố trực thuộc
+Trung ương có trách nhiệm triển khai hướng dẫn các hộ kinh doanh, cá nhân
+kinh doanh thực hiện Thông tư này.
+
+4. Trong quá trình thực hiện nếu có vướng mắc, đề nghị phản ánh về Bộ
+Tài chính đề nghiên cứu giải quyết. /ầ/
+
+Nơi nhận:
+
+- Ban Bí thư Trung ương Đảng:
+
+- Thủ tướng và các Phó Thủ tướng Chính phủ;
+
+- Văn phòng Trung ương và các Ban của Đảng;:
+
+- Văn phòng Tổng Bí thư;
+
+- Văn phòng Quốc hội;
+
+- Hội Ổng dân tộc và các L'J)J ban của Quốc Hội;
+
+- Văn phòng Chủ tịch nước;
+
+- Viện Kiểm sát Nhzan dân tối cao;
+
+- Toà án Nhân dân tối cao;
+
+- Kiểm toán Nhà nước;
+
+- Ủy ban Trung ương Mặt trận Tổ wốc Việt Nam;
+
+- Liên đoàn Thương mại và Công nghiệp Việt Nam;
+
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc TW;
+- Sở Tài chính các tỉnh, thành pho trực thuộc TW;
+
+- Thuế các tỉnh, thành pho trực thuộc TW;
+
+- Cục Kiểm tra văn bản và Quản lý xử lý vi phạm hành chính
+(Bộ Tư pháp);
+
+- Hiệp m;l Kế toán và Kiểm toán Việt Nam;
+
+- Hội Kiểm toán wen hanh nghe Việt Nam;
+
+- Cơ sở dữ liệu quốc gia về pháp luật;
+
+- Công báo; Cỏng thông tin điện tử: Chính phủ, Bộ Tài chính;
+- Các đơn vị thuộc và trực thuộc Bộ Tài chính;
+
+- Lưu: VT, Cục QLKT ({ữÙbản)#u2⁄

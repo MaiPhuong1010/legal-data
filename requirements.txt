@@ -1,0 +1,12 @@
+python-docx
+pdfplumber
+pymupdf
+transformers
+sentencepiece
+pandas
+openpyxl
+pydantic
+pytesseract
+rapidfuzz
+rank-bm25
+pytest

@@ -1,0 +1,43 @@
+chunk_id,cau_truc,noi_dung,nguoi_kiem_tra,ghi_chu
+L45_2019_QH14_D203,Đúng,Đúng,Claude (xem ảnh trang gốc),"Đúng Điều 203, trang 75-76. Lỗi OCR nhỏ: ""Eếp\tục"" = ""Tiếp tục"""
+ND145_2020_D108,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Điều 108 trang 83
+ND253_2026_D3,Sai một phần,Đúng,Claude (xem ảnh trang gốc),"Đúng Điều 3 trang 2 nhưng Khoản 1, 2 chưa tách riêng (OCR mất dấu chấm sau số ""1"")"
+ND253_2026_D38_K2,Đúng,Đúng,Claude (xem ảnh trang gốc),Khoản 2 Điều 38 nằm đầu trang 24
+ND39_2016_D10_K2,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Khoản 2 Điều 10 trang 6
+TT91_2026_BTC_D4_K3,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Khoản 3 Điều 4 trang 4
+L45_2019_QH14_D103,Đúng,Đúng,Claude (xem ảnh trang gốc),"Nội dung đúng; tên Điều có lỗi OCR (""mmg bậc, m… cấp"" = ""nâng bậc, phụ cấp"")"
+L74_2025_QH15_D22_K1,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Chương V > Điều 22 > Khoản 1 trang 10
+ND320_2025_D23_K2_Pa,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Điểm a Khoản 2 Điều 23 trang 68
+ND374_2025_D2,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Chương I > Điều 2 trang 1
+ND255_2026_D19_K2_Pa_part2,Đúng,Đúng,Claude (xem ảnh trang gốc),"Nội dung đúng; nhãn ""a.2.4)"" bị tách thành 2 dòng ""a2."" và ""4)"" khi cắt câu"
+ND181_2025_D30_K1_part1,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Khoản 1 Điều 30 trang 42-43
+TT89_2026_BTC_D35,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Chương IV > Mục 1 > Điều 35 trang 78
+ND310_2025_D1_K4,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Khoản 4 Điều 1; giữ nguyên đoạn trích sửa đổi trong ngoặc kép
+ND255_2026_D5_K2_Pa,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Điểm a Khoản 2 Điều 5 trang 4
+TT90_2026_BTC_D13_K8,Sai một phần,Đúng,Claude (xem ảnh trang gốc),"Đúng Khoản 8 Điều 13 trang 26 nhưng các Điểm a-d chưa tách (OCR đọc ""a)"" thành ""@"")"
+TT69_2025_BTC_D9_K2_Pi,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Điểm i Khoản 2 Điều 9 trang 5-6
+TT89_2026_BTC_D22_K8_Pb,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Điểm b Khoản 8 Điều 22 trang 59
+TT89_2026_BTC_D19_K2_Pc,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Điểm c Khoản 2 Điều 19 trang 33
+ND252_2026_D61_K4,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Khoản 4 Điều 61 trang 107
+TT87_2026_BTC_D4_K2,Đúng,Đúng,Claude (xem ảnh trang gốc),"Đúng Khoản 2 Điều 4 trang 3; lỗi OCR nhỏ ""fflay"" = ""Giấy"""
+TT89_2026_BTC_D21_K4_Pb_part2,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng phần 2 của Điểm b Khoản 4 Điều 21 trang 46
+ND320_2025_D10_K6_Pdd,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Điểm đ Khoản 6 Điều 10 trang 30
+ND219_2025_D36_K1,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Khoản 1 Điều 36 trang 22
+L84_2015_QH13_D10_K10,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Khoản 10 Điều 10 trang 8
+L03_2022_QH15_D8,Đúng,Đúng,Claude (xem ảnh trang gốc),Nội dung đúng nhưng bảng thuế suất bị trải phẳng thành dòng chữ (mất cấu trúc cột)
+ND352_2025_D7_K3,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Khoản 3 Điều 7 trang 4
+L41_2024_QH15_D130_K6,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Khoản 6 Điều 130 (trang 81 của file; số in trên trang là 83 theo Công báo)
+L45_2019_QH14_D158,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Mục 4 > Điều 158 trang 57
+ND141_2026_D4,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Điều 4 trang 3 (cả Điều vừa 1 chunk)
+TT91_2026_BTC_D4_K2,Đúng,Đúng,Claude (xem ảnh trang gốc),"Đúng Khoản 2 Điều 4 trang 4; vài lỗi OCR do vết mờ (""r số"", ""thốn"")"
+TT89_2026_BTC_D34_K3,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Khoản 3 Điều 34 đầu trang 78
+TT90_2026_BTC_D13_K7_Pb,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Điểm b Khoản 7 Điều 13 đầu trang 26 (câu dẫn của Khoản 7 được chép kèm)
+TT69_2025_BTC_D9_K2_Ph,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Điểm h Khoản 2 Điều 9 trang 6
+TT89_2026_BTC_D22_K8_Pa,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Điểm a Khoản 8 Điều 22 trang 58-59
+TT89_2026_BTC_D19_K2_Pb_part2,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng phần 2 của Điểm b Khoản 2 Điều 19 trang 32
+TT87_2026_BTC_D4_K1_Pdd,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Điểm đ Khoản 1 Điều 4 cuối trang 2
+TT89_2026_BTC_D21_K4_Pb_part1,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng phần 1 của Điểm b Khoản 4 Điều 21 trang 46
+ND337_2025_D1,Đúng,Đúng,Claude (xem ảnh trang gốc),Đúng Chương I > Điều 1 trang 1 (văn bản bổ sung)
+ND337_2025_D2,Sai một phần,Đúng,Claude (xem ảnh trang gốc),"Đúng Điều 2 trang 1; Khoản 1 chưa tách vì OCR dính ""1.Người"" (thiếu dấu cách)"
+TT133_2016_BTC_D1,Đúng,Đúng,Claude (đối chiếu file Word),Khớp nguyên văn Điều 1 (văn bản bổ sung)
+TT133_2016_BTC_D93,Đúng,Đúng,Claude (đối chiếu file Word),Khớp nguyên văn Điều 93 Hiệu lực thi hành

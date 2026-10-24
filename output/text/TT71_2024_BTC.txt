@@ -1,0 +1,3558 @@
+<<<TRANG 1>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+5 
+ 
+BỘ TÀI CHÍNH 
+ 
+BỘ TÀI CHÍNH 
+ 
+ 
+Số: 71/2024/TT-BTC 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+Hà Nội, ngày 07 tháng 10 năm 2024 
+ 
+THÔNG TƯ 
+Hướng dẫn Chế độ kế toán Hợp tác xã, liên hiệp hợp tác xã 
+ 
+Căn cứ Luật Kế toán ngày 20 tháng 11 năm 2015; 
+Căn cứ Luật Hợp tác xã ngày 20 tháng 6 năm 2023; 
+Căn cứ Nghị định số 14/2023/NĐ-CP ngày 20 tháng 4 năm 2023 của Chính 
+phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; 
+Căn cứ Nghị định số 113/2024/NĐ-CP ngày 12 tháng 9 năm 2024 của Chính 
+phủ quy định chi tiết một số điều của Luật Hợp tác xã; 
+Theo đề nghị của Cục trưởng Cục Quản lý, giám sát kế toán, kiểm toán, 
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn Chế độ kế toán hợp tác 
+xã, liên hiệp hợp tác xã. 
+ 
+Chương I 
+QUY ĐỊNH CHUNG 
+ 
+Điều 1. Phạm vi điều chỉnh 
+Thông tư này hướng dẫn về chứng từ kế toán, tài khoản kế toán, nguyên tắc 
+ghi sổ kế toán, lập và trình bày Báo cáo tài chính của hợp tác xã, liên hiệp hợp tác 
+xã (sau đây gọi chung là hợp tác xã); không áp dụng cho việc xác định nghĩa vụ 
+thuế của hợp tác xã đối với ngân sách Nhà nước. Việc ghi sổ kế toán phải căn cứ 
+vào các chứng từ kế toán được phản ánh trên cơ sở các giao dịch kinh tế phát sinh 
+và đã hoàn thành. Hợp tác xã phải tuân thủ các quy định của pháp luật, cơ chế, 
+chính sách liên quan khi thực hiện các giao dịch kinh tế. 
+Điều 2. Đối tượng áp dụng 
+Thông tư này áp dụng đối với các hợp tác xã được thành lập và hoạt động theo 
+quy định của Luật Hợp tác xã. 
+Người ký: CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ
+Email: thongtinchinhphu@chinhphu.vn
+Cơ quan: VĂN PHÒNG CHÍNH PHỦ
+Thời gian ký: 23.10.2024 16:05:44 +07:00
+
+<<<TRANG 2>>>
+6 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+Chương II 
+QUY ĐỊNH CỤ THỂ 
+ 
+Điều 3. Quy định về tài khoản kế toán 
+1. Tài khoản kế toán dùng để phân loại và hệ thống hóa các nghiệp vụ kinh tế, 
+tài chính theo nội dung kinh tế.  
+2. Hợp tác xã áp dụng hệ thống tài khoản kế toán hướng dẫn tại Phụ lục I 
+ban hành kèm theo Thông tư này để phục vụ việc ghi sổ kế toán. Tài khoản kế 
+toán áp dụng cho hợp tác xã bao gồm loại tài khoản trong bảng (bao gồm các tài 
+khoản từ loại 1 đến loại 6 và tài khoản loại 9) và loại tài khoản ngoài bảng (tài 
+khoản loại 0). Đối với các tài khoản trong bảng thì được hạch toán kép (nghiệp 
+vụ kinh tế phát sinh được hạch toán vào bên Nợ của ít nhất một tài khoản và 
+hạch toán vào bên Có của ít nhất một tài khoản khác). Đối với các tài khoản 
+ngoài bảng thì được hạch toán đơn (nghiệp vụ kinh tế phát sinh chỉ hạch toán 
+vào bên Nợ hoặc bên Có của một tài khoản, không hạch toán đối ứng với tài 
+khoản khác). 
+3. Hợp tác xã được bổ sung các tài khoản chi tiết cho các tài khoản đã được 
+quy định trong danh mục hệ thống tài khoản kế toán (Phụ lục I) ban hành kèm theo 
+Thông tư này để hạch toán chi tiết phù hợp với yêu cầu quản lý của hợp tác xã. 
+4. Trường hợp cần bổ sung tài khoản ngang cấp với các tài khoản đã được quy 
+định trong danh mục hệ thống tài khoản kế toán (Phụ lục I) ban hành kèm theo 
+Thông tư này thì hợp tác xã phải thực hiện theo quy định của Luật Kế toán để đảm 
+bảo thống nhất trong sử dụng tài khoản và trình bày thông tin trên báo cáo tài 
+chính, tránh bỏ sót hoặc trùng lặp thông tin báo cáo tài chính. 
+5. Danh mục hệ thống tài khoản kế toán, giải thích nội dung, kết cấu và 
+phương pháp hạch toán tài khoản kế toán nêu tại Phụ lục I “Danh mục hệ thống tài 
+khoản và phương pháp hạch toán” ban hành kèm theo Thông tư này. 
+Điều 4. Quy định về chứng từ kế toán 
+1. Chứng từ kế toán áp dụng cho các hợp tác xã thực hiện theo quy định của 
+Luật Kế toán, các văn bản hướng dẫn Luật Kế toán, các văn bản pháp luật khác có 
+liên quan đến chứng từ kế toán và các quy định trong Thông tư này.
+
+<<<TRANG 3>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+7 
+ 
+2. Hợp tác xã được chủ động xây dựng, thiết kế biểu mẫu chứng từ kế toán 
+nhưng phải đảm bảo đầy đủ các nội dung chủ yếu của chứng từ kế toán quy định 
+tại Luật Kế toán, phù hợp với đặc điểm hoạt động và yêu cầu quản lý của đơn vị 
+mình, đảm bảo kiểm soát chặt chẽ, an toàn tài sản, nguồn vốn,... của hợp tác xã, trừ 
+trường hợp pháp luật có quy định khác.  
+3. Chứng từ kế toán điện tử ngoài thực hiện theo quy định của Luật Kế toán, 
+các văn bản hướng dẫn Luật kế toán còn phải thực hiện theo quy định của Luật 
+giao dịch điện tử, các văn bản hướng dẫn Luật giao dịch điện tử, Luật quản lý 
+thuế, các văn bản hướng dẫn Luật quản lý thuế và các văn bản pháp luật khác có 
+liên quan. 
+4. Trường hợp hợp tác xã không tự xây dựng và thiết kế biểu mẫu chứng từ 
+cho riêng đơn vị mình thì hợp tác xã áp dụng hệ thống biểu mẫu chứng từ kế toán 
+và phương pháp lập chứng từ kế toán theo hướng dẫn tại Phụ lục II ban hành kèm 
+theo Thông tư này. 
+Điều 5. Quy định về sổ kế toán 
+1. Các nội dung liên quan đến sổ kế toán Hợp tác xã thực hiện theo quy định 
+về sổ kế toán tại Luật Kế toán, các văn bản hướng dẫn Luật Kế toán, các văn bản 
+pháp luật khác có liên quan đến sổ kế toán và các quy định trong Thông tư này. 
+2. Hợp tác xã được chủ động tự xây dựng biểu mẫu sổ kế toán của riêng mình 
+cho phù hợp với đặc điểm, hoạt động sản xuất, kinh doanh và yêu cầu quản lý của 
+đơn vị mình nhưng phải đảm bảo cung cấp thông tin về giao dịch kinh tế một cách 
+minh bạch, đầy đủ, dễ kiểm tra, kiểm soát và dễ đối chiếu. 
+3. Trường hợp không tự xây dựng biểu mẫu sổ kế toán thì hợp tác xã áp dụng 
+biểu mẫu sổ kế toán, phương pháp ghi sổ kế toán và hình thức sổ kế toán theo 
+hướng dẫn tại Phụ lục III ban hành kèm theo Thông tư này. 
+Điều 6. Quy định về Báo cáo tài chính 
+1. Các nội dung liên quan đến Báo cáo tài chính thực hiện theo quy định của 
+Luật Kế toán, các văn bản hướng dẫn Luật Kế toán, các văn bản pháp luật khác có 
+liên quan đến Báo cáo tài chính và các quy định trong Thông tư này.
+
+<<<TRANG 4>>>
+8 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+2. Hệ thống Báo cáo tài chính, biểu mẫu Báo cáo tài chính, nội dung và 
+phương pháp lập, trình bày Báo cáo tài chính và các nội dung khác liên quan đến 
+Báo cáo tài chính hợp tác xã thực hiện theo hướng dẫn tại Phụ lục IV ban hành 
+kèm theo Thông tư này. 
+ 
+Chương III 
+ĐIỀU KHOẢN THI HÀNH 
+ 
+Điều 7. Quy định chuyển tiếp 
+1. Hợp tác xã không tiếp tục sử dụng Tài khoản 332 - Phải trả của hoạt động 
+tín dụng nội bộ trừ những hợp tác xã có hợp đồng tín dụng nội bộ ký trước ngày 01 
+tháng 9 năm 2023 và đang còn hiệu lực thì được tiếp tục sử dụng Tài khoản 332 - 
+Phải trả của hoạt động tín dụng nội bộ để phản ánh số tiền thành viên gửi vào hợp 
+tác xã để được hưởng lãi suất theo hình thức tín dụng nội bộ quy định tại Luật Hợp 
+tác xã 2012 cho đến khi các hợp đồng tín dụng nội bộ này hết hạn. 
+2. Hợp tác xã có các hợp đồng tín dụng nội bộ ký trước ngày 01 tháng 9 năm 2023 
+và đang còn hiệu lực thì sử dụng Tài khoản 6123 - Chi phí hoạt động cho vay nội 
+bộ (mở chi tiết) để theo dõi các khoản chi phí lãi tiền gửi phải trả (tiền huy động từ 
+thành viên) cho thành viên cho đến khi các hợp đồng tín dụng nội bộ ký trước ngày 
+01 tháng 9 năm 2023 hết hạn.  
+3. Hợp tác xã không tiếp tục sử dụng Tài khoản 359 - Quỹ dự phòng rủi ro tín 
+dụng để phản ánh khoản trích lập dự phòng rủi ro tín dụng. Các Hợp tác xã đang 
+còn số dư Quỹ dự phòng rủi ro tín dụng thì chuyển số dư đang theo dõi trên Tài 
+khoản 359 - Quỹ dự phòng rủi ro tín dụng sang theo dõi chi tiết trên Tài khoản 338 - 
+Phải trả khác và trình bày trên Thuyết minh Báo cáo tài chính.  
+4. Hợp tác xã thực hiện chuyển đổi số dư các Tài khoản sau: 
+- Hợp tác xã căn cứ vào số dư TK 132 - Phải thu của hoạt động tín dụng nội bộ 
+để chuyển sang TK 132 - Phải thu của hoạt động cho vay nội bộ. 
+- Các Hợp tác xã đang ghi nhận và theo dõi khoản hỗ trợ của Nhà nước bằng 
+tài sản phi tiền tệ không phải hoàn lại, quyền sử dụng đất do Nhà nước giao đất, 
+cho thuê đất, các tài sản khác là tài sản cố định (chi tiết tài sản không chia), thì 
+chuyển số dư chi tiết của Tài khoản 211 - Tài sản cố định (chi tiết tài sản không
+
+<<<TRANG 5>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+9 
+ 
+chia) sang theo dõi trên Tài khoản 212 - Tài sản chung không chia (chi tiết theo 
+từng loại tài sản, từng đối tượng ghi tài sản). Đồng thời chuyển nguồn hình thành 
+tài sản là các khoản hỗ trợ của Nhà nước bằng tài sản phi tiền tệ không phải hoàn 
+lại, quyền sử dụng đất do Nhà nước giao đất, cho thuê đất, các tài sản khác là tài 
+sản cố định đang theo dõi trên Tài khoản 442 - Nguồn vốn trợ cấp, hỗ trợ không 
+hoàn lại của Nhà nước sang Tài khoản 4422 - Nguồn hình thành tài sản chung 
+không chia.  
+5. Các hợp tác xã đang áp dụng Thông tư số 133/2016/TT-BTC ngày 
+28/6/2016 của Bộ Tài chính hướng dẫn chế độ kế toán doanh nghiệp nhỏ và vừa 
+thực hiện chuyển đổi số dư các Tài khoản sau: 
+- Hợp tác xã căn cứ vào số dư TK 121- Chứng khoán kinh doanh để chuyển 
+sang TK 1218 - Đầu tư tài chính khác và chi tiết cho phù hợp với yêu cầu quản lý 
+của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 1281 - Tiền gửi có kỳ hạn để chuyển sang TK 
+1211 - Tiền gửi có kỳ hạn và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 1288 - Các khoản đầu tư khác nắm giữ đến 
+ngày đáo hạn để chuyển sang TK 1218 - Đầu tư tài chính khác và chi tiết cho phù 
+hợp với yêu cầu quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 1381 - Tài sản thiếu chờ xử lý; Tài khoản 
+1386 - Cầm cố, thế chấp, ký quỹ, ký cược, TK 1388 - Phải thu khác để chuyển 
+sang TK 138 - Phải thu khác và chi tiết cho phù hợp với yêu cầu quản lý của hợp 
+tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 152 - Nguyên liệu, vật liệu, TK 153 - Công 
+cụ, dụng cụ để chuyển sang TK 152 - Vật liệu, dụng cụ và chi tiết cho phù hợp với 
+yêu cầu quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 155 - Thành phẩm, TK 156 - Hàng hóa để 
+chuyển sang TK 156 - Thành phẩm, hàng hóa và chi tiết cho phù hợp với yêu cầu 
+quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 2112 - TSCĐ thuê tài chính để chuyển sang 
+TK 2114 - TSCĐ thuê tài chính và chi tiết cho phù hợp với yêu cầu quản lý của 
+hợp tác xã.
+
+<<<TRANG 6>>>
+10 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+- Hợp tác xã căn cứ vào số dư TK 217 - Bất động sản đầu tư để chuyển sang 
+TK 2117 - Bất động sản đầu tư và chi tiết cho phù hợp với yêu cầu quản lý của hợp 
+tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 2142 - Hao mòn TSCĐ thuê tài chính để 
+chuyển sang TK 2144 - Hao mòn TSCĐ thuê tài chính và chi tiết cho phù hợp với 
+yêu cầu quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 2281 - Đầu tư vào công ty liên doanh, liên 
+kết, TK 2288 - Đầu tư khác để chuyển sang TK 1218 - Đầu tư tài chính khác và chi 
+tiết cho phù hợp với yêu cầu quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 2291 - Dự phòng giảm giá chứng khoán 
+kinh doanh, TK 2292 - Dự phòng tổn thất đầu tư vào đơn vị khác, TK 2293 - Dự 
+phòng phải thu khó đòi, TK 2294 - Dự phòng giảm giá hàng tồn kho để chuyển 
+sang TK 229 - Dự phòng tổn thất tài sản và chi tiết cho phù hợp với yêu cầu quản 
+lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 2411 - Mua sắm TSCĐ, TK 2412 - Xây 
+dựng cơ bản, TK 2413 - Sửa chữa lớn TSCĐ để chuyển sang TK 2422 - Xây dựng 
+cơ bản dở dang và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 242 - Chi phí trả trước để chuyển sang 
+TK 2421 - Chi phí chờ phân bổ và chi tiết cho phù hợp với yêu cầu quản lý của 
+hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 3332 - Thuế tiêu thụ đặc biệt, TK 3333 - 
+Thuế xuất, nhập khẩu, TK 3335 - Thuế thu nhập cá nhân, TK 3336 - Thuế tài 
+nguyên, TK 3337 - Thuế nhà đất, tiền thuê đất, TK 3338 - Thuế bảo vệ môi trường 
+và các loại thuế khác, TK 3339 - Phí, lệ phí và các khoản phải nộp khác để chuyển 
+sang TK 3338 - Thuế khác, phí, lệ phí và các khoản khác phải nộp nhà nước và chi 
+tiết cho phù hợp với yêu cầu quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 33311 - Thuế GTGT đầu ra, TK 33312 - 
+Thuế GTGT hàng nhập khẩu để chuyển sang TK 3331 - Thuế GTGT phải nộp và 
+chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+
+<<<TRANG 7>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+11 
+ 
+- Hợp tác xã căn cứ vào số dư TK 335 - Chi phí phải trả để chuyển sang 
+TK 338 - Phải trả khác và chi tiết cho phù hợp với yêu cầu quản lý của hợp 
+tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 3382 - Kinh phí công đoàn, TK 3383 - Bảo 
+hiểm xã hội, TK 3384 - Bảo hiểm y tế, TK 3385 - Bảo hiểm thất nghiệp để chuyển 
+sang TK 335 - Các khoản phải nộp theo lương và chi tiết cho phù hợp với yêu cầu 
+quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 3381 - Tài sản thừa chờ giải quyết, TK 3386 
+- Nhận ký quỹ, ký cược, TK 3387 - Doanh thu chưa thực hiện, TK 3388 - Phải trả, 
+phải nộp khác để chuyển sang TK 338 - Phải trả khác và chi tiết cho phù hợp với 
+yêu cầu quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 3411 - Các khoản đi vay, TK 3412 - Nợ thuê 
+tài chính để chuyển sang TK 341 - Phải trả nợ vay và chi tiết cho phù hợp với yêu 
+cầu quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 3521 - Dự phòng bảo hành sản phẩm, hàng 
+hóa, TK 3522 - Dự phòng bảo hành công trình xây dựng, TK 3524 - Dự phòng 
+khác để chuyển sang TK 338 - Phải trả khác và chi tiết cho phù hợp với yêu cầu 
+quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 3534 - Quỹ thưởng ban quản lý điều hành 
+công ty để chuyển sang TK 3531 - Quỹ khen thưởng và chi tiết cho phù hợp với 
+yêu cầu quản lý của hợp tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 3561 - Quỹ phát triển khoa học công nghệ, 
+TK 3562 - Quỹ phát triển khoa học công nghệ đã hình thành TSCĐ để chuyển 
+sang TK 338 - Phải trả khác và chi tiết cho phù hợp với yêu cầu quản lý của hợp 
+tác xã. 
+- Hợp tác xã căn cứ vào số dư TK 4211 - Lợi nhuận sau thuế chưa phân phối 
+năm trước, TK 4212 - Lợi nhuận sau thuế chưa phân phối năm nay để chuyển sang 
+TK 421 - Lợi nhuận sau thuế chưa phân phối và chi tiết cho phù hợp với yêu cầu 
+quản lý của hợp tác xã.
+
+<<<TRANG 8>>>
+12 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+Điều 8. Hiệu lực thi hành 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 07 tháng 10 năm 2024, áp 
+dụng cho năm tài chính bắt đầu từ hoặc sau ngày 01/01/2025. Thông tư này thay 
+thế cho Thông tư số 24/2017/TT-BTC ngày 28/3/2017 của Bộ Tài chính hướng 
+dẫn chế độ kế toán Hợp tác xã, liên hiệp hợp tác xã. 
+2. Các Bộ, ngành, Ủy ban Nhân dân, Sở Tài chính, Cục Thuế các Tỉnh, Thành 
+phố trực thuộc Trung ương có trách nhiệm triển khai hướng dẫn các Hợp tác xã 
+thực hiện Thông tư này.  
+3. Trong quá trình thực hiện nếu có vướng mắc đề nghị phản ánh về Bộ Tài 
+chính để nghiên cứu giải quyết./. 
+ 
+KT. BỘ TRƯỞNG 
+THỨ TRƯỞNG 
+ 
+Võ Thành Hưng
+
+<<<TRANG 9>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+13 
+ 
+Phụ lục I 
+(Kèm theo Thông tư số 71/2024/TT-BTC ngày 07 tháng 10 năm 2024 
+của Bộ trưởng Bộ Tài chính) 
+ 
+I. DANH MỤC HỆ THỐNG TÀI KHOẢN KẾ TOÁN 
+SỐ HIỆU TK 
+STT 
+Cấp 1 Cấp 2 
+TÊN TÀI KHOẢN 
+1 
+2 
+3 
+4 
+ 
+ 
+ 
+LOẠI TÀI KHOẢN TÀI SẢN 
+01 
+111 
+ 
+Tiền mặt 
+ 
+ 
+1111 
+Tiền Việt Nam 
+ 
+ 
+1112 
+Ngoại tệ 
+ 
+ 
+ 
+ 
+02 
+112 
+ 
+Tiền gửi Ngân hàng 
+ 
+ 
+1121 
+Tiền Việt Nam 
+ 
+ 
+1122 
+Ngoại tệ 
+ 
+ 
+ 
+ 
+03 
+121 
+ 
+Đầu tư tài chính 
+ 
+ 
+1211 
+1218 
+Tiền gửi có kỳ hạn 
+Đầu tư tài chính khác 
+ 
+04 
+131 
+ 
+Phải thu của khách hàng 
+ 
+ 
+ 
+ 
+05 
+132 
+ 
+Phải thu của hoạt động cho vay nội bộ  
+ 
+ 
+ 
+1321 
+Phải thu hoạt động cho vay nội bộ 
+ 
+ 
+13211 Phải thu về gốc cho vay nội bộ 
+ 
+ 
+13212 Phải thu về lãi cho vay nội bộ 
+ 
+ 
+1322 
+Phải thu hoạt động cho vay nội bộ khác 
+ 
+06 
+133 
+ 
+Thuế GTGT được khấu trừ 
+ 
+ 
+1331 
+Thuế GTGT được khấu trừ của hàng hóa, dịch vụ 
+ 
+ 
+1332 
+Thuế GTGT được khấu trừ của TSCĐ
+
+<<<TRANG 10>>>
+14 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+SỐ HIỆU TK 
+STT 
+Cấp 1 Cấp 2 
+TÊN TÀI KHOẢN 
+1 
+2 
+3 
+4 
+07 
+136 
+ 
+1361 
+1368 
+Phải thu giữa các đơn vị nội bộ trong HTX 
+Vốn kinh doanh ở đơn vị trực thuộc 
+Phải thu khác giữa các đơn vị nội bộ 
+ 
+08 
+138 
+ 
+Phải thu khác 
+ 
+09 
+141 
+ 
+Tạm ứng 
+ 
+10 
+151 
+ 
+Hàng mua đang đi đường 
+ 
+11 
+152 
+ 
+Vật liệu, dụng cụ 
+ 
+12 
+154 
+ 
+Chi phí sản xuất, kinh doanh dở dang 
+ 
+ 
+ 
+ 
+13 
+156 
+ 
+Thành phẩm, hàng hóa 
+ 
+ 
+ 
+ 
+14 
+157 
+ 
+Hàng gửi đi bán 
+ 
+ 
+ 
+ 
+15 
+211 
+ 
+Tài sản cố định  
+ 
+ 
+2111 
+TSCĐ hữu hình 
+ 
+ 
+2113 
+2114 
+2117 
+TSCĐ vô hình 
+TSCĐ thuê tài chính 
+Bất động sản đầu tư 
+ 
+16 
+212 
+ 
+Tài sản chung không chia 
+ 
+17 
+214 
+ 
+Hao mòn tài sản cố định 
+ 
+ 
+2141 
+2142 
+Hao mòn TSCĐ hữu hình 
+Hao mòn tài sản chung không chia
+
+<<<TRANG 11>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+15 
+ 
+SỐ HIỆU TK 
+STT 
+Cấp 1 Cấp 2 
+TÊN TÀI KHOẢN 
+1 
+2 
+3 
+4 
+ 
+ 
+2143 
+2144 
+2147 
+Hao mòn TSCĐ vô hình  
+Hao mòn TSCĐ thuê tài chính 
+Hao mòn bất động sản đầu tư 
+ 
+ 
+ 
+ 
+18 
+229 
+ 
+Dự phòng tổn thất tài sản 
+ 
+ 
+ 
+ 
+19 
+242 
+ 
+Tài sản khác 
+ 
+ 
+2421 
+2422 
+Chi phí chờ phân bổ 
+Xây dựng cơ bản dở dang 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOẠI TÀI KHOẢN NỢ PHẢI TRẢ 
+ 
+20 
+331 
+ 
+Phải trả cho người bán 
+ 
+21 
+332 
+ 
+Phải trả của hoạt động tín dụng nội bộ 
+ 
+ 
+3321 
+Phải trả từ hoạt động đi vay của thành viên 
+ 
+ 
+33211 Phải trả về gốc vay 
+ 
+ 
+33212 Phải trả về lãi vay 
+ 
+ 
+3322 
+Phải trả hoạt động tín dụng nội bộ khác 
+ 
+ 
+ 
+ 
+22 
+333 
+ 
+Thuế và các khoản phải nộp nhà nước 
+ 
+ 
+3331 
+Thuế giá trị gia tăng phải nộp 
+ 
+ 
+3334 
+Thuế thu nhập doanh nghiệp  
+ 
+ 
+3338 
+Thuế khác, phí, lệ phí và các khoản khác phải nộp Nhà nước 
+ 
+23 
+334 
+ 
+Phải trả người lao động 
+ 
+24 
+335 
+ 
+Các khoản phải nộp theo lương
+
+<<<TRANG 12>>>
+16 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+SỐ HIỆU TK 
+STT 
+Cấp 1 Cấp 2 
+TÊN TÀI KHOẢN 
+1 
+2 
+3 
+4 
+25 
+336 
+ 
+ 
+3361 
+3368 
+Phải trả giữa các đơn vị nội bộ trong HTX 
+Phải trả nội bộ về vốn kinh doanh 
+Phải trả khác giữa các đơn vị nội bộ 
+ 
+26 
+338 
+ 
+Phải trả khác 
+ 
+ 
+ 
+ 
+27 
+341 
+ 
+Phải trả nợ vay 
+ 
+ 
+ 
+ 
+28 
+342 
+ 
+Khoản hỗ trợ của Nhà nước phải hoàn lại 
+ 
+ 
+ 
+ 
+29 
+353 
+ 
+Quỹ khen thưởng phúc lợi 
+ 
+ 
+3531 
+Quỹ khen thưởng 
+ 
+ 
+3532 
+3533 
+Quỹ phúc lợi 
+Quỹ phúc lợi đã hình thành TSCĐ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOẠI TÀI KHOẢN VỐN CHỦ SỞ HỮU 
+ 
+ 
+ 
+ 
+30 
+411 
+ 
+Vốn đầu tư của chủ sở hữu 
+ 
+ 
+4111 
+Vốn góp của thành viên 
+ 
+ 
+4118 
+Vốn khác  
+ 
+31 
+418 
+ 
+Các quỹ thuộc vốn chủ sở hữu 
+ 
+32 
+421 
+ 
+Lợi nhuận sau thuế chưa phân phối 
+ 
+ 
+4211 
+4212 
+Lợi nhuận sau thuế chưa phân phối của giao dịch bên ngoài 
+Lợi nhuận sau thuế chưa phân phối của giao dịch nội bộ 
+ 
+ 
+ 
+ 
+33 
+442 
+ 
+Quỹ chung không chia của HTX 
+ 
+ 
+4421 
+4422 
+Quỹ chung không chia 
+Nguồn hình thành tài sản chung không chia
+
+<<<TRANG 13>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+17 
+ 
+SỐ HIỆU TK 
+STT 
+Cấp 1 Cấp 2 
+TÊN TÀI KHOẢN 
+1 
+2 
+3 
+4 
+34 
+511 
+ 
+Doanh thu từ giao dịch bên ngoài 
+ 
+ 
+5111 
+Doanh thu bán hàng hóa 
+ 
+ 
+5112 
+Doanh thu bán sản phẩm 
+ 
+ 
+5113 
+Doanh thu cung cấp dịch vụ 
+ 
+ 
+5118 
+Doanh thu khác 
+35 
+512 
+ 
+5121 
+5122 
+5123 
+5128 
+Doanh thu từ giao dịch nội bộ 
+Doanh thu bán sản phẩm, vật tư 
+Doanh thu cung cấp dịch vụ 
+Doanh thu hoạt động cho vay nội bộ 
+Doanh thu khác 
+ 
+36 
+521 
+ 
+Các khoản giảm trừ doanh thu 
+ 
+ 
+ 
+ 
+37 
+558 
+ 
+Thu nhập khác 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOẠI TÀI KHOẢN CHI PHÍ  
+ 
+ 
+ 
+ 
+38 
+ 
+ 
+ 
+ 
+ 
+39 
+ 
+611 
+ 
+ 
+ 
+ 
+ 
+612 
+ 
+ 
+6111 
+6112 
+6113 
+6118 
+ 
+ 
+6121 
+6122 
+6123 
+6128 
+Giá vốn hàng bán của giao dịch bên ngoài 
+Giá vốn hàng hóa 
+Giá vốn sản phẩm 
+Giá vốn cung cấp dịch vụ 
+Giá vốn khác 
+ 
+Chi phí của giao dịch nội bộ 
+Giá vốn sản phẩm, vật tư 
+Giá vốn cung cấp dịch vụ 
+Chi phí hoạt động cho vay nội bộ 
+Chi phí khác
+
+<<<TRANG 14>>>
+18 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+SỐ HIỆU TK 
+STT 
+Cấp 1 Cấp 2 
+TÊN TÀI KHOẢN 
+1 
+2 
+3 
+4 
+40 
+642 
+ 
+Chi phí quản lý kinh doanh  
+ 
+ 
+ 
+ 
+41 
+658 
+ 
+Chi phí khác 
+ 
+ 
+ 
+ 
+42 
+659 
+ 
+Chi phí thuế thu nhập doanh nghiệp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOẠI TÀI KHOẢN XÁC ĐỊNH KẾT QUẢ  
+KINH DOANH 
+ 
+43 
+911 
+ 
+Xác định kết quả kinh doanh 
+ 
+ 
+ 
+9111 
+9112 
+Xác định kết quả kinh doanh từ giao dịch bên ngoài 
+Xác định kết quả kinh doanh từ giao dịch nội bộ 
+ 
+ 
+ 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+ 
+ 
+ 
+001 
+002 
+003 
+004 
+005 
+006 
+007 
+008 
+ 
+ 
+TÀI KHOẢN LOẠI 0 
+ 
+Tài sản thuê ngoài 
+Vật tư, hàng hóa, TSCĐ nhận giữ hộ, nhận gia công 
+Hàng hóa nhận bán hộ, nhận ký gửi 
+Nợ khó đòi đã xử lý 
+Công cụ dụng cụ lâu bền đang sử dụng 
+Tài sản đảm bảo khoản vay 
+Ngoại tệ các loại 
+Lãi cho vay quá hạn khó có khả năng thu được
+
+<<<TRANG 15>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+19 
+ 
+I. PHƯƠNG PHÁP HẠCH TOÁN 
+ 
+NGUYÊN TẮC KẾ TOÁN TIỀN 
+ 
+1. HTX phải mở sổ kế toán ghi chép hàng ngày liên tục theo trình tự phát sinh 
+các khoản thu, chi, nhập, xuất các loại tiền và tính ra số tồn tại quỹ và từng tài 
+khoản ở Ngân hàng tại mọi thời điểm để tiện cho việc kiểm tra, đối chiếu. 
+2. Các khoản tiền do tổ chức và cá nhân ký cược, ký quỹ tại HTX được quản lý 
+và hạch toán như tiền của HTX.  
+3. Khi thu, chi tiền mặt phải có phiếu thu, phiếu chi và có đủ chữ ký theo quy 
+định của pháp luật về chứng từ kế toán. Khi hạch toán tiền gửi ngân hàng phải có 
+giấy báo Nợ, giấy báo Có hoặc bảng sao kê của ngân hàng. 
+4. Khi phát sinh các giao dịch bằng ngoại tệ, HTX phải theo dõi chi tiết tiền 
+theo nguyên tệ và quy đổi ngoại tệ ra đồng tiền ghi sổ kế toán (đơn vị tiền tệ kế 
+toán) theo nguyên tắc: 
+- Bên Nợ các tài khoản tiền áp dụng tỷ giá mua bán chuyển khoản trung 
+bình (là tỷ giá trung bình cộng giữa tỷ giá mua và tỷ giá bán chuyển khoản 
+ngoại tệ) tại thời điểm giao dịch của ngân hàng thương mại nơi HTX thường 
+xuyên có giao dịch;  
+- Bên Có các tài khoản tiền áp dụng tỷ giá ghi sổ bình quân gia quyền.  
+Việc xác định tỷ giá ghi sổ bình quân gia quyền được thực hiện tương tự tính 
+giá hàng tồn kho theo phương pháp bình quân gia quyền. 
+Đồng thời, đối với các giao dịch làm tăng nguyên tệ, kế toán ghi đồng thời Nợ 
+TK 007 “Ngoại tệ các loại” (chi tiết theo từng loại nguyên tệ) và đối với các giao 
+dịch làm giảm nguyên tệ, kế toán ghi đồng thời Có TK 007. 
+5. Cuối kỳ kế toán theo quy định của pháp luật, HTX phải đánh giá lại số dư 
+tiền bằng ngoại tệ theo tỷ giá mua bán chuyển khoản trung bình cuối kỳ của ngân 
+hàng thương mại nơi HTX thường xuyên có giao dịch. 
+Khoản chênh lệch tỷ giá do đánh giá lại các khoản tiền bằng ngoại tệ được 
+hạch toán vào thu nhập khác hoặc chi phí khác trong kỳ kế toán.
+
+<<<TRANG 16>>>
+20 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+TÀI KHOẢN 111 - TIỀN MẶT 
+ 
+1. Nguyên tắc kế toán 
+a) Tài khoản này dùng để phản ánh tình hình thu, chi, tồn tiền mặt tại quỹ của 
+HTX bao gồm: Tiền Việt Nam, ngoại tệ. Chỉ phản ánh vào TK 111 “Tiền mặt” số 
+tiền Việt Nam, ngoại tệ thực tế nhập, xuất, tồn quỹ. 
+b) Khi tiến hành nhập, xuất quỹ tiền mặt phải có phiếu thu, phiếu chi và có đầy 
+đủ chữ ký theo quy định của pháp luật về chứng từ kế toán. Một số trường hợp đặc 
+biệt phải có lệnh nhập quỹ, xuất quỹ đính kèm. 
+c) Kế toán quỹ tiền mặt phải có trách nhiệm mở sổ kế toán quỹ tiền mặt, ghi 
+chép hàng ngày liên tục theo trình tự phát sinh các khoản thu, chi, nhập, xuất quỹ 
+tiền mặt và tính ra số tồn quỹ tại mọi thời điểm.  
+d) Thủ quỹ chịu trách nhiệm quản lý và nhập, xuất quỹ tiền mặt. Hàng ngày 
+thủ quỹ phải kiểm kê số tồn quỹ tiền mặt thực tế, đối chiếu số liệu sổ quỹ tiền mặt 
+và sổ kế toán tiền mặt. Nếu có chênh lệch, kế toán và thủ quỹ phải kiểm tra lại để 
+xác định nguyên nhân và kiến nghị biện pháp xử lý chênh lệch. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 111 - Tiền mặt 
+Bên Nợ: 
+- Các khoản tiền Việt Nam, ngoại tệ nhập quỹ; 
+- Số tiền Việt Nam, ngoại tệ thừa ở quỹ phát hiện khi kiểm kê; 
+- Chênh lệch tỷ giá hối đoái do đánh giá lại số dư ngoại tệ là tiền mặt tại thời 
+điểm báo cáo (trường hợp tỷ giá mua bán chuyển khoản trung bình tăng so với tỷ 
+giá ghi sổ kế toán). 
+Bên Có: 
+- Các khoản tiền Việt Nam, ngoại tệ xuất quỹ; 
+- Số tiền Việt Nam, ngoại tệ thiếu hụt quỹ phát hiện khi kiểm kê; 
+- Chênh lệch tỷ giá hối đoái do đánh giá lại số dư ngoại tệ là tiền mặt tại thời 
+điểm báo cáo (trường hợp tỷ giá mua bán chuyển khoản trung bình giảm so với tỷ 
+giá ghi sổ kế toán). 
+Số dư bên Nợ: 
+Các khoản tiền Việt Nam, ngoại tệ còn tồn quỹ tiền mặt tại thời điểm báo cáo.
+
+<<<TRANG 17>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+21 
+ 
+Tài khoản 111 - Tiền mặt có 2 tài khoản cấp 2: 
+- Tài khoản 1111 - Tiền Việt Nam: Phản ánh tình hình thu, chi, tồn quỹ tiền 
+Việt Nam tại quỹ tiền mặt. 
+- Tài khoản 1112 - Ngoại tệ: Phản ánh tình hình thu, chi, chênh lệch tỷ giá và 
+số dư ngoại tệ tại quỹ tiền mặt theo giá trị quy đổi ra đồng tiền ghi sổ kế toán. 
+3. Phương pháp kế toán một số giao dịch kinh tế chủ yếu 
+3.1. Khi bán sản phẩm, hàng hóa, cung cấp dịch vụ thu ngay bằng tiền mặt, 
+HTX ghi nhận doanh thu, ghi: 
+Nợ TK 111 - Tiền mặt (tổng giá thanh toán) 
+Có các TK 511, 512 (giá chưa có thuế GTGT)  
+Có TK 3331 - Thuế GTGT phải nộp (nếu có). 
+3.2. Khi phát sinh các khoản thu nhập khác bằng tiền mặt, ghi:  
+Nợ TK 111 - Tiền mặt (tổng giá thanh toán) 
+Có TK 558 - Thu nhập khác (giá chưa có thuế GTGT) 
+Có TK 3331 - Thuế GTGT phải nộp (nếu có). 
+3.3. Rút tiền gửi Ngân hàng về nhập quỹ tiền mặt hoặc vay dài hạn, ngắn hạn 
+bằng tiền mặt, ghi: 
+Nợ TK 111 - Tiền mặt  
+Có TK 112 - Tiền gửi Ngân hàng 
+Có TK 341 - Phải trả nợ vay. 
+3.4. Thu hồi các khoản nợ phải thu bằng tiền mặt; Nhận ký quỹ, ký cược của 
+các đơn vị khác bằng tiền mặt, ghi: 
+Nợ TK 111 - Tiền mặt 
+Có các TK 131, 138, 141, 338. 
+3.5. Thu hồi các khoản nợ phải thu của hoạt động cho vay nội bộ bằng tiền 
+mặt, ghi: 
+Nợ TK 111 - Tiền mặt 
+Có TK 132 - Phải thu của hoạt động cho vay nội bộ 
+3.6. Khi bán các khoản đầu tư tài chính thu bằng tiền mặt, HTX ghi nhận 
+chênh lệch giữa số tiền thu được và giá vốn khoản đầu tư vào thu nhập khác hoặc 
+chi phí khác, ghi:
+
+<<<TRANG 18>>>
+22 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+Nợ TK 111 - Tiền mặt 
+Nợ TK 658 - Chi phí khác (nếu lỗ) 
+Có TK 121 - Đầu tư tài chính (giá vốn) 
+Có TK 558 - Thu nhập khác (nếu lãi). 
+3.7. Khi nhận được vốn góp của các thành viên bằng tiền mặt, ghi: 
+Nợ TK 111 - Tiền mặt 
+Có TK 411 - Vốn đầu tư của chủ sở hữu. 
+3.8. Xuất quỹ tiền mặt gửi vào tài khoản tại Ngân hàng hoặc đem ký quỹ, ký 
+cược, ghi: 
+Nợ TK 112 - Tiền gửi Ngân hàng 
+Nợ TK 138 - Phải thu khác  
+Có TK 111 - Tiền mặt. 
+3.9. Xuất quỹ tiền mặt gửi tiết kiệm có kỳ hạn tại ngân hàng hoặc đầu tư tài 
+chính khác, ghi: 
+Nợ TK 121 - Đầu tư tài chính 
+Có TK 111 - Tiền mặt. 
+3.10. Xuất quỹ tiền mặt mua hàng tồn kho, mua TSCĐ: 
+- Nếu thuế GTGT đầu vào được khấu trừ, kế toán phản ánh giá mua không bao 
+gồm thuế GTGT, ghi: 
+Nợ các TK 151, 152, 156, 211 (Giá mua chưa có thuế GTGT) 
+Nợ TK 133 - Thuế GTGT được khấu trừ (Số thuế GTGT đầu vào) 
+Có TK 111 - Tiền mặt. 
+- Nếu thuế GTGT đầu vào không được khấu trừ, kế toán phản ánh giá mua bao 
+gồm cả thuế GTGT. 
+Nợ các TK 151, 152, 156, 211... (Tổng giá thanh toán) 
+Có TK 111 - Tiền mặt (Tổng giá thanh toán). 
+3.11. Khi mua nguyên vật liệu, công cụ, dụng cụ thanh toán bằng tiền mặt sử 
+dụng ngay vào sản xuất, kinh doanh, nếu thuế GTGT đầu vào được khấu trừ, ghi: 
+Nợ các TK 154, 642, 242,... (Giá chưa có thuế GTGT)
+
+<<<TRANG 19>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+23 
+ 
+Nợ TK 133 - Thuế GTGT được khấu trừ (1331) (Số thuế GTGT) 
+Có TK 111 - Tiền mặt. 
+Nếu thuế GTGT đầu vào không được khấu trừ, kế toán phản ánh chi phí bao 
+gồm cả thuế GTGT. 
+Nợ các TK 154, 642, 242,... (Tổng giá thanh toán) 
+Có TK 111 - Tiền mặt. 
+3.12. Xuất quỹ tiền mặt thanh toán các khoản vay, nợ phải trả,... ghi:  
+Nợ các TK 331, 332, 333, 334, 335, 338, 341... 
+Có TK 111 - Tiền mặt. 
+3.13. Xuất quỹ tiền mặt sử dụng cho hoạt động khác, ghi: 
+Nợ TK 658 - Chi phí khác 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có TK 111 - Tiền mặt. 
+3.14. Các khoản thiếu quỹ tiền mặt phát hiện khi kiểm kê, ghi: 
+Nợ TK 138 - Phải thu khác  
+Có TK 111 - Tiền mặt. 
+3.15. Các khoản thừa quỹ tiền mặt phát hiện khi kiểm kê, ghi: 
+Nợ TK 111 - Tiền mặt 
+Có TK 338 - Phải trả khác. 
+3.16. Các giao dịch liên quan đến ngoại tệ là tiền mặt. 
+a) Khi mua vật tư, hàng hóa, TSCĐ, dịch vụ thanh toán bằng tiền mặt là ngoại 
+tệ, ghi: 
+Nợ các TK 151, 152, 156, 211, 642,... (tỷ giá giao dịch thực tế) 
+Nợ TK 658 - Chi phí khác (lỗ tỷ giá hối đoái) 
+Có TK 111 - Tiền mặt (1112) (tỷ giá ghi sổ kế toán) 
+Có TK 558 - Thu nhập khác (lãi tỷ giá hối đoái). 
+Đồng thời ghi Có TK 007 (Chi tiết theo từng loại nguyên tệ)
+
+<<<TRANG 20>>>
+24 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+b) Khi vay tiền mặt bằng ngoại tệ, căn cứ tỷ giá giao dịch thực tế tại ngày phát 
+sinh, ghi: 
+Nợ TK 111 - Tiền mặt (1112)  
+Có TK 341 - Phải trả nợ vay. 
+Đồng thời ghi Nợ TK 007 (Chi tiết theo từng loại nguyên tệ) 
+c) Khi thanh toán nợ phải trả bằng tiền mặt là ngoại tệ (nợ phải trả người bán, 
+nợ vay,...), ghi: 
+Nợ các TK 331, 338, 341,... (tỷ giá ghi sổ kế toán) 
+Nợ TK 658 - Chi phí khác (lỗ tỷ giá hối đoái) 
+Có TK 111 - Tiền mặt (1112) (tỷ giá ghi sổ kế toán) 
+Có TK 558 - Thu nhập khác (lãi tỷ giá hối đoái). 
+Đồng thời ghi Có TK 007 (Chi tiết theo từng loại nguyên tệ) 
+d) Khi phát sinh doanh thu từ hoạt động sản xuất kinh doanh hoặc thu nhập 
+khác bằng tiền mặt là ngoại tệ, căn cứ tỷ giá giao dịch thực tế tại thời điểm phát 
+sinh, ghi: 
+Nợ TK 111 - Tiền mặt (1112) (tỷ giá giao dịch thực tế) 
+Có các TK 511, 512, 558 (tỷ giá giao dịch thực tế). 
+Đồng thời ghi Nợ TK 007 (Chi tiết theo từng loại nguyên tệ) 
+đ) Khi thu được tiền nợ phải thu bằng tiền mặt là ngoại tệ (nợ phải thu của 
+khách hàng, phải thu khác,...), ghi: 
+Nợ TK 111 - Tiền mặt (1112) (tỷ giá giao dịch thực tế tại ngày thu nợ) 
+Nợ TK 658 - Chi phí khác (lỗ tỷ giá hối đoái) 
+Có các TK 131, 138 (tỷ giá ghi sổ kế toán) 
+Có TK 558 - Thu nhập khác (lãi tỷ giá hối đoái). 
+Đồng thời ghi Nợ TK 007 (Chi tiết theo từng loại nguyên tệ) 
+3.17. Tại thời điểm lập BCTC, HTX sử dụng tỷ giá mua bán chuyển khoản 
+trung bình cuối kỳ của ngân hàng thương mại nơi HTX thường xuyên có giao dịch 
+để đánh giá lại tiền mặt là ngoại tệ cuối kỳ:
+
+<<<TRANG 21>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+25 
+ 
+- Nếu tỷ giá mua bán chuyển khoản trung bình cuối kỳ tăng so với tỷ giá ghi sổ 
+kế toán, kế toán ghi nhận lãi tỷ giá, ghi: 
+Nợ TK 111 - Tiền mặt (1112) 
+Có TK 558 - Thu nhập khác. 
+- Nếu tỷ giá mua bán chuyển khoản trung bình cuối kỳ giảm so với tỷ giá ghi 
+sổ kế toán, kế toán ghi nhận lỗ tỷ giá, ghi: 
+Nợ TK 658 - Chi phí khác 
+Có TK 111 - Tiền mặt (1112). 
+ 
+TÀI KHOẢN 112 - TIỀN GỬI NGÂN HÀNG 
+ 
+1. Nguyên tắc kế toán 
+a) Tài khoản này dùng để phản ánh số hiện có và tình hình biến động tăng, 
+giảm các khoản tiền gửi không kỳ hạn tại ngân hàng của HTX. Căn cứ để hạch 
+toán trên Tài khoản 112 - Tiền gửi ngân hàng là các giấy báo Có, báo Nợ hoặc bản 
+sao kê của ngân hàng kèm theo các chứng từ gốc (ủy nhiệm chi, ủy nhiệm thu, séc 
+chuyển khoản, séc bảo chi,…). 
+b) Khi nhận được chứng từ của ngân hàng gửi đến, HTX phải kiểm tra, đối 
+chiếu với chứng từ gốc kèm theo. Nếu có sự chênh lệch giữa số liệu trên sổ kế toán 
+của HTX, số liệu ở chứng từ gốc với số liệu trên chứng từ của ngân hàng thì HTX 
+phải thông báo cho ngân hàng để cùng đối chiếu, xác minh và xử lý kịp thời. Cuối 
+tháng, chưa xác định được nguyên nhân chênh lệch thì kế toán ghi sổ theo số liệu 
+của ngân hàng trên giấy báo Nợ, báo Có hoặc bản sao kê. Số chênh lệch (nếu có) 
+ghi vào bên Nợ TK 138 “Phải thu khác” (nếu số liệu của kế toán lớn hơn số liệu 
+của ngân hàng) hoặc ghi vào bên Có TK 338 “Phải trả khác” (nếu số liệu của kế 
+toán nhỏ hơn số liệu của ngân hàng). Sang tháng sau, tiếp tục kiểm tra, đối chiếu, 
+xác định nguyên nhân để điều chỉnh số liệu ghi sổ. 
+c) HTX tổ chức hạch toán chi tiết số tiền gửi theo từng tài khoản ở từng ngân 
+hàng để tiện cho việc kiểm tra, đối chiếu. 
+d) Khoản thấu chi ngân hàng không được ghi âm trên tài khoản tiền gửi ngân 
+hàng mà được phản ánh tương tự như khoản vay ngân hàng.
+
+<<<TRANG 22>>>
+26 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+2. Kết cấu và nội dung phản ánh của Tài khoản 112 - Tiền gửi ngân hàng 
+Bên Nợ: 
+- Các khoản tiền Việt Nam, ngoại tệ gửi vào ngân hàng; 
+- Chênh lệch tỷ giá hối đoái do đánh giá lại số dư tiền gửi ngân hàng bằng 
+ngoại tệ tại thời điểm báo cáo (trường hợp tỷ giá mua bán chuyển khoản trung bình 
+tăng so với tỷ giá ghi sổ kế toán).  
+Bên Có: 
+- Các khoản tiền Việt Nam, ngoại tệ rút ra từ ngân hàng; 
+- Chênh lệch tỷ giá hối đoái do đánh giá lại số dư tiền gửi ngân hàng bằng 
+ngoại tệ tại thời điểm báo cáo (trường hợp tỷ giá mua bán chuyển khoản trung bình 
+giảm so với tỷ giá ghi sổ kế toán).  
+Số dư bên Nợ: 
+Số tiền Việt Nam, ngoại tệ hiện còn gửi tại ngân hàng tại thời điểm báo cáo. 
+Tài khoản 112 - Tiền gửi Ngân hàng có 2 tài khoản cấp 2: 
+- Tài khoản 1121 - Tiền Việt Nam: Phản ánh số tiền gửi vào, rút ra và hiện 
+đang gửi tại ngân hàng bằng Đồng Việt Nam. 
+- Tài khoản 1122 - Ngoại tệ: Phản ánh số tiền gửi vào, rút ra và hiện đang gửi 
+tại ngân hàng bằng ngoại tệ các loại đã quy đổi ra đồng tiền ghi sổ kế toán. 
+3. Phương pháp kế toán một số giao dịch kinh tế chủ yếu 
+3.1. Khi bán sản phẩm, hàng hóa, cung cấp dịch vụ thu ngay bằng tiền gửi 
+ngân hàng, kế toán ghi nhận doanh thu, ghi: 
+Nợ TK 112 - Tiền gửi ngân hàng (tổng giá thanh toán) 
+Có các TK 511, 512 (giá chưa có thuế GTGT)  
+Có TK 3331 - Thuế GTGT phải nộp (nếu có). 
+3.2. Khi phát sinh các khoản thu nhập khác bằng tiền gửi ngân hàng, ghi:  
+Nợ TK 112 - Tiền gửi ngân hàng (tổng giá thanh toán) 
+Có TK 558 - Thu nhập khác (giá chưa có thuế GTGT) 
+Có TK 3331 - Thuế GTGT phải nộp (nếu có).
+
+<<<TRANG 23>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+27 
+ 
+3.3. Xuất quỹ tiền mặt gửi vào tài khoản tiền gửi không kỳ hạn tại ngân 
+hàng, ghi: 
+Nợ TK 112 - Tiền gửi Ngân hàng 
+Có TK 111 - Tiền mặt. 
+3.4. Nhận được tiền ứng trước hoặc khi khách hàng trả nợ bằng chuyển khoản, 
+căn cứ giấy báo Có của ngân hàng, ghi: 
+Nợ TK 112 - Tiền gửi Ngân hàng 
+Có TK 131 - Phải thu của khách hàng 
+3.5. Thu hồi các khoản nợ phải thu, các khoản ký cược, ký quỹ bằng tiền 
+gửi ngân hàng; Nhận ký quỹ, ký cược của các đơn vị khác bằng tiền gửi ngân 
+hàng, ghi: 
+Nợ TK 112 - Tiền gửi ngân hàng 
+Có các TK 131, 132, 141, 138, 338. 
+3.6. Khi bán các khoản đầu tư tài chính thu bằng tiền gửi ngân hàng, kế toán 
+ghi nhận chênh lệch giữa số tiền thu được và giá vốn khoản đầu tư vào thu nhập 
+khác hoặc chi phí khác, ghi: 
+Nợ TK 112 - Tiền gửi ngân hàng (Số tiền thu được)  
+Nợ TK 658 - Chi phí khác (nếu lỗ) 
+Có TK 121 - Đầu tư tài chính (giá vốn khoản đầu tư) 
+Có TK 558 - Thu nhập khác (nếu lãi). 
+3.7. Khi nhận được vốn góp của chủ sở hữu bằng tiền gửi ngân hàng, ghi: 
+Nợ TK 112 - Tiền gửi Ngân hàng 
+Có TK 411 - Vốn đầu tư của chủ sở hữu (4111). 
+3.8. Rút tiền gửi Ngân hàng về nhập quỹ tiền mặt, chuyển tiền gửi Ngân hàng 
+đi ký quỹ, ký cược, ghi: 
+Nợ TK 111 - Tiền mặt 
+Nợ TK 138 - Phải thu khác 
+Có TK 112 - Tiền gửi ngân hàng.
+
+<<<TRANG 24>>>
+28 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+3.9. Chi đầu tư tài chính bằng tiền gửi ngân hàng, ghi: 
+Nợ TK 121 - Đầu tư tài chính 
+Có TK 112 - Tiền gửi ngân hàng. 
+3.10. Mua hàng tồn kho, mua TSCĐ bằng tiền gửi ngân hàng: 
+- Nếu thuế GTGT đầu vào được khấu trừ, kế toán phản ánh giá mua không bao 
+gồm thuế GTGT, ghi: 
+Nợ các TK 151, 152, 156, 211 (Giá chưa thuế GTGT) 
+Nợ TK 133 - Thuế GTGT được khấu trừ (Số thuế GTGT đầu vào) 
+Có TK 112 - Tiền gửi ngân hàng. 
+- Nếu thuế GTGT đầu vào không được khấu trừ, kế toán phản ánh giá mua bao 
+gồm cả thuế GTGT, ghi: 
+Nợ các TK 151, 152, 156, 211 (Tổng giá thanh toán) 
+Có TK 112 - Tiền gửi ngân hàng (Tổng giá thanh toán). 
+3.11. Khi mua vật liệu, dụng cụ thanh toán bằng tiền gửi ngân hàng sử dụng 
+ngay vào sản xuất, kinh doanh, nếu thuế GTGT đầu vào được khấu trừ, ghi: 
+Nợ các TK 154, 642, 242,... (Giá chưa có thuế GTGT) 
+Nợ TK 133 - Thuế GTGT được khấu trừ (Số thuế GTGT đầu vào) 
+Có TK 112 - Tiền gửi ngân hàng. 
+Nếu thuế GTGT đầu vào không được khấu trừ, kế toán phản ánh chi phí bao 
+gồm cả thuế GTGT, ghi: 
+Nợ các TK 154, 642, 242,... (Tổng giá thanh toán) 
+Có TK 112 - Tiền gửi ngân hàng (Tổng giá thanh toán). 
+3.12. Thanh toán các khoản nợ phải trả bằng tiền gửi ngân hàng, ghi:  
+Nợ các TK 331, 332, 333, 334, 335, 338, 341.... 
+Có TK 112 - Tiền gửi ngân hàng. 
+3.13. Thanh toán các khoản chi phí khác phát sinh bằng tiền gửi ngân hàng, ghi: 
+Nợ TK 658 - Chi phí khác 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có TK 112 - Tiền gửi ngân hàng.
+
+<<<TRANG 25>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+29 
+ 
+3.14. Trả vốn góp cho các thành viên góp vốn, chi các quỹ khen thưởng, phúc 
+lợi bằng tiền gửi Ngân hàng, ghi: 
+Nợ TK 411 - Vốn đầu tư của chủ sở hữu (4111) 
+Nợ TK 353 - Quỹ khen thưởng, phúc lợi 
+Có TK 112 - Tiền gửi ngân hàng. 
+3.15. Thanh toán các khoản chiết khấu thương mại, giảm giá hàng bán, hàng 
+bán bị trả lại bằng tiền gửi ngân hàng, ghi: 
+Nợ TK 521 - Các khoản giảm trừ doanh thu 
+Nợ TK 3331 - Thuế GTGT phải nộp 
+Có TK 112 - Tiền gửi ngân hàng. 
+3.16. Các nghiệp vụ kinh tế liên quan đến ngoại tệ: Phương pháp kế toán các 
+giao dịch liên quan đến ngoại tệ là tiền gửi ngân hàng thực hiện tương tự như ngoại 
+tệ là tiền mặt (xem Tài khoản 111). 
+ 
+TÀI KHOẢN 121 - ĐẦU TƯ TÀI CHÍNH 
+ 
+1. Nguyên tắc kế toán 
+a) Tài khoản này dùng để phản ánh tình hình mua, bán và thanh toán các khoản 
+đầu tư tài chính của HTX, bao gồm: 
+- Tiền gửi có kỳ hạn: Là khoản tiền mà HTX gửi vào các ngân hàng, tổ chức 
+tài chính có kỳ hạn để được hưởng lãi khi đáo hạn.  
+- Các khoản cho vay bằng tiền (không bao gồm các khoản cho thành viên vay 
+vốn của hoạt động cho vay nội bộ); 
+- Các khoản đầu tư cổ phiếu, trái phiếu, tín phiếu, kỳ phiếu; 
+- Các khoản đầu tư, góp vốn vào các đơn vị khác; 
+b) Các khoản đầu tư tài chính phải được ghi sổ kế toán theo giá gốc, bao gồm: 
+Giá mua cộng (+) các chi phí mua (nếu có) như chi phí môi giới, giao dịch, cung 
+cấp thông tin, thuế, lệ phí và phí ngân hàng. 
+c) HTX phải hạch toán đầy đủ, kịp thời các khoản thu nhập từ hoạt động đầu 
+tư tài chính. Trường hợp nhận được lãi đầu tư bao gồm cả khoản lãi đầu tư dồn tích 
+trước khi mua lại khoản đầu tư đó thì phải phân bổ số tiền lãi này. Chỉ ghi nhận là
+
+<<<TRANG 26>>>
+30 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+thu nhập khác phần tiền lãi của các kỳ sau khi HTX mua khoản đầu tư này. Khoản 
+tiền lãi dồn tích trước khi HTX mua lại khoản đầu tư được ghi giảm giá trị của 
+chính khoản đầu tư đó.  
+Khi HTX nhận được thêm cổ phiếu từ bên nhận đầu tư mà không phải trả tiền, 
+HTX chỉ theo dõi số lượng cổ phiếu tăng thêm và trình bày trên thuyết minh Báo 
+cáo tài chính, không ghi nhận giá trị cổ phiếu được nhận, không ghi nhận thu nhập 
+khác và không ghi nhận tăng giá trị khoản đầu tư vào công ty cổ phần. 
+d) HTX phải mở sổ chi tiết để theo dõi chi tiết khoản đầu tư tài chính mà 
+HTX đang nắm giữ (theo từng loại đầu tư; theo từng đối tượng, mệnh giá, giá 
+mua thực tế, từng loại nguyên tệ sử dụng để đầu tư…). Trường hợp HTX đem 
+tài sản bằng vật liệu, dụng cụ, sản phẩm, hàng hóa hoặc tài sản cố định đi góp 
+vốn tại đơn vị khác mà có giá trị vốn góp được đánh giá lớn hơn hoặc nhỏ hơn 
+so với giá trị ghi sổ của tài sản thì phần chênh lệch được phản ánh vào thu nhập 
+khác hoặc chi phí khác.  
+đ) Khi thanh lý, nhượng bán các khoản đầu tư tài chính, chi phí bán chứng 
+khoán được phản ánh vào chi phí khác trong kỳ. Giá vốn khoản đầu tư tài chính 
+được tính theo phương pháp bình quân gia quyền cho từng mã, từng khoản đầu tư. 
+Khoản lãi hoặc lỗ khi thanh lý, nhượng bán đầu tư tài chính được phản ánh vào thu 
+nhập khác hoặc chi phí khác trong kỳ báo cáo. 
+e) Cuối niên độ kế toán, nếu giá trị thị trường của các khoản đầu tư tài chính bị 
+giảm xuống thấp hơn giá gốc, kế toán trích lập dự phòng tổn thất đầu tư tài chính 
+theo quy định hiện hành. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 121 - Đầu tư tài chính 
+Bên Nợ: Giá trị TGNH có kỳ hạn và các khoản đầu tư tài chính mua vào. 
+Bên Có: Các khoản TGNH có kỳ hạn đã thu hồi và giá trị ghi sổ các khoản 
+đầu tư tài chính khi thanh lý, bán. 
+Số dư bên Nợ: Giá trị các khoản đầu tư tài chính tại thời điểm báo cáo. 
+Tài khoản 121 - Đầu tư tài chính có 2 Tài khoản cấp 2: 
+- Tài khoản 1211 - Tiền gửi có kỳ hạn: Phản ánh tình hình tăng, giảm và số 
+hiện có của tiền gửi có kỳ hạn. 
+- Tài khoản 1218 - Đầu tư tài chính khác: Phản ánh tình hình tăng, giảm và số 
+hiện có của các khoản đầu tư tài chính khác.
+
+<<<TRANG 27>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+31 
+ 
+3. Phương pháp kế toán một số giao dịch kinh tế chủ yếu 
+3.1. Khi gửi tiền có kỳ hạn vào ngân hàng, tổ chức tài chính, căn cứ vào số tiền 
+gửi, ghi: 
+Nợ TK 121- Đầu tư tài chính (1211) 
+Có các TK 111, 112  
+Định kỳ, kế toán phản ánh số tiền lãi cho vay thu được, ghi: 
+a) Trường hợp thu lãi định kỳ: 
+Nợ các TK 111, 112 (nếu thu lãi ngay bằng tiền) 
+Nợ TK 138 - Phải thu khác (số tiền lãi chưa thu được) 
+Có TK 558 - Thu nhập khác. 
+b) Trường hợp thu lãi cuối kỳ: 
+- Định kỳ, phản ánh số lãi phải thu của ngân hàng, tổ chức tín dụng, ghi: 
+Nợ TK 138 - Phải thu khác 
+Có TK 558 - Thu nhập khác. 
+- Cuối kỳ hạn nợ, khi thu được cả gốc và lãi, ghi: 
+Nợ các TK 111, 112 
+Có TK 121 - Đầu tư tài chính (1211) 
+Có TK 558 - Thu nhập khác (số tiền lãi kỳ cuối cùng) 
+c) Trường hợp nhận lãi trước cho nhiều kỳ: 
+- Khi xuất tiền gửi vào ngân hàng, tổ chức tín dụng bù trừ với tổng số tiền lãi 
+nhận được của nhiều kỳ, ghi: 
+Nợ TK 121 - Đầu tư tài chính (1211) 
+Có TK 338 - Phải trả khác (tổng số tiền lãi nhận trước cho nhiều kỳ) 
+Có các TK 111, 112 (số tiền thực gửi vào ngân hàng, tổ chức tài chính). 
+- Định kỳ phân bổ đều tiền lãi nhận được vào thu nhập khác của từng kỳ, ghi: 
+Nợ TK 338 - Phải trả khác (số tiền lãi phân bổ cho từng kỳ)  
+Có TK 558 - Thu nhập khác (Lãi cho vay từng kỳ)
+
+<<<TRANG 28>>>
+32 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+3.2. Khi mua các khoản đầu tư tài chính, căn cứ vào chi phí mua thực tế (giá 
+mua cộng (+) chi phí môi giới, giao dịch, chi phí thông tin, lệ phí, phí ngân 
+hàng…), ghi: 
+Nợ TK 121 - Đầu tư tài chính 
+Có các TK 111, 112, 138, 141, 331,… 
+3.3. Định kỳ, phản ánh số thu lãi trái phiếu và các chứng khoán khác: 
+- Trường hợp nhận tiền lãi không mang tiền về HTX mà sử dụng tiền lãi tiếp 
+tục mua bổ sung ngay trái phiếu, tín phiếu, ghi: 
+Nợ TK 121 - Đầu tư tài chính (1218) 
+Có TK 558 - Thu nhập khác. 
+- Trường hợp nhận lãi bằng tiền hoặc nhận được thông báo về số lãi được 
+nhận, ghi: 
+Nợ các TK 111, 112, 138 
+Có TK 558 - Thu nhập khác. 
+- Trường hợp nhận lãi đầu tư bao gồm cả khoản lãi đầu tư dồn tích trước khi 
+mua lại khoản đầu tư đó thì phải phân bổ số tiền lãi này, ghi: 
+Nợ các TK 111, 112, 138... (tổng tiền lãi thu được) 
+Có TK 121 - Đầu tư tài chính (phần tiền lãi đầu tư dồn tích trước khi HTX 
+mua lại khoản đầu tư) (1218) 
+Có TK 558 - Thu nhập khác (phần tiền lãi của các kỳ sau khi HTX mua khoản 
+đầu tư). 
+3.4. Kế toán cổ tức, lợi nhuận được chia: 
+- Trường hợp nhận cổ tức cho giai đoạn sau ngày đầu tư, ghi: 
+Nợ các TK 111, 112... (nếu đã nhận bằng tiền) 
+Nợ TK 138 - Phải thu khác (chưa thu được tiền ngay) 
+Có TK 558 - Thu nhập khác. 
+- Trường hợp nhận cổ tức của giai đoạn trước ngày đầu tư, ghi: 
+Nợ các TK 111, 112, 138... (tổng tiền lãi thu được) 
+Có TK 121 - Đầu tư tài chính (phần tiền lãi đầu tư dồn tích trước khi HTX 
+mua lại khoản đầu tư) (1218).
+
+<<<TRANG 29>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+33 
+ 
+3.5. Khi chuyển nhượng các khoản đầu tư tài chính, căn cứ vào giá bán: 
+- Trường hợp có lãi, ghi: 
+Nợ các TK 111, 112, 131... (tổng giá thanh toán) 
+Có TK 121 - Đầu tư tài chính (giá vốn khoản đầu tư) (1218) 
+Có TK 558 - Thu nhập khác (chênh lệch giá bán > giá vốn) 
+- Trường hợp bị lỗ, ghi: 
+Nợ các TK 111, 112, 131 (tổng giá thanh toán) 
+Nợ TK 658 - Chi phí khác (chênh lệch giá bán < giá vốn) 
+Có TK 121 - Đầu tư tài chính (giá vốn khoản đầu tư) (1218). 
+- Các chi phí về chuyển nhượng các khoản đầu tư tài chính, ghi: 
+Nợ TK 658 - Chi phí khác 
+Có các TK 111, 112, 331... 
+3.6. Thu hồi hoặc thanh toán các khoản đầu tư tài chính đã đáo hạn, ghi: 
+Nợ các TK 111, 112, 131 (Tổng giá thanh toán) 
+Nợ TK 658 - Chi phí khác (nếu lỗ) 
+Có TK 121 - Đầu tư tài chính (Giá vốn khoản đầu tư) (1218) 
+Có TK 558 - Thu nhập khác (nếu lãi). 
+ 
+NGUYÊN TẮC KẾ TOÁN CÁC KHOẢN PHẢI THU 
+ 
+1. Các khoản phải thu được theo dõi chi tiết theo số tiền phải thu, kỳ hạn phải 
+thu, đối tượng phải thu, loại nguyên tệ phải thu (nếu có) và các yếu tố khác theo 
+nhu cầu quản lý của HTX. 
+2. Các khoản phải thu của HTX bao gồm phải thu của khách hàng, phải thu 
+của hoạt động cho vay nội bộ, phải thu từ các đơn vị nội bộ, phải thu khác được 
+phân loại theo nguyên tắc: 
+a) Phải thu của khách hàng gồm các khoản phải thu mang tính chất thương mại 
+phát sinh từ giao dịch có tính chất mua - bán, như: Phải thu về bán hàng, cung cấp 
+dịch vụ, thanh lý, nhượng bán tài sản (TSCĐ, các khoản đầu tư tài chính) giữa
+
+<<<TRANG 30>>>
+34 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+HTX và người mua (bao gồm thành viên chính thức và khách hàng không phải là 
+thành viên chính thức).  
+b) Phải thu của hoạt động cho vay nội bộ bao gồm các khoản thu của HTX đối 
+với thành viên chính thức về hoạt động cho vay nội bộ (bao gồm gốc và lãi cho 
+vay) và hoạt động cho vay nội bộ khác (nếu có).  
+c) Phải thu giữa các đơn vị nội bộ trong HTX bao gồm các khoản phải thu giữa 
+HTX và các đơn vị trực thuộc (chi nhánh, văn phòng đại diện). 
+d) Phải thu khác gồm các khoản phải thu không có tính chất thương mại, 
+không liên quan đến giao dịch mua - bán, như:  
+- Các khoản phải thu về lãi cho vay, tiền gửi, cổ tức và lợi nhuận được chia; 
+- Các khoản chi hộ bên thứ ba được quyền nhận lại; 
+- Giá trị tài sản thiếu chờ xử lý hoặc bắt bồi thường nhưng chưa thu được; 
+- Giá trị tài sản phi tiền tệ (tài sản bằng hiện vật) cho mượn; 
+- Các khoản ký quỹ, ký cược và các khoản phải thu khác… 
+3. Cuối kỳ kế toán nếu HTX có phát sinh các khoản nợ phải thu khó đòi thì 
+HTX trích lập dự phòng nợ phải thu khó đòi theo quy định hiện hành (nếu quy 
+định hiện hành cho phép).  
+4. Đối với các khoản phải thu bằng ngoại tệ, HTX phải theo dõi chi tiết các 
+khoản nợ phải thu theo từng loại nguyên tệ, từng đối tượng công nợ và thực hiện 
+theo nguyên tắc: 
+- Khi phát sinh các khoản nợ phải thu (bên Nợ các TK phải thu), HTX phải 
+quy đổi ra đồng tiền ghi sổ kế toán theo tỷ giá mua bán chuyển khoản trung bình 
+của ngân hàng thương mại nơi HTX thường xuyên có giao dịch tại thời điểm 
+phát sinh.  
+- Khi thu hồi nợ phải thu (bên Có Tài khoản phải thu) áp dụng tỷ giá ghi sổ 
+bình quân gia quyền cho từng đối tượng công nợ. 
+5. Cuối kỳ kế toán, HTX phải đánh giá lại các khoản nợ phải thu là khoản mục 
+tiền tệ có gốc ngoại tệ (là những khoản mục mà HTX sẽ thu nợ bằng ngoại tệ) theo 
+tỷ giá mua bán chuyển khoản trung bình cuối kỳ của ngân hàng thương mại nơi 
+HTX thường xuyên có giao dịch.
+
+<<<TRANG 31>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+35 
+ 
+TÀI KHOẢN 131 - PHẢI THU CỦA KHÁCH HÀNG 
+ 
+1. Nguyên tắc kế toán 
+a) Tài khoản này dùng để phản ánh các khoản nợ phải thu và tình hình thanh 
+toán các khoản nợ phải thu của HTX với khách hàng về tiền bán sản phẩm, hàng 
+hóa, TSCĐ, các khoản đầu tư tài chính, cung cấp dịch vụ.  
+b) Đối tượng phải thu được hạch toán vào tài khoản này là các khách hàng có 
+quan hệ kinh tế với HTX về mua sản phẩm, hàng hóa, nhận cung cấp dịch vụ, kể 
+cả TSCĐ, các khoản đầu tư tài chính. Khách hàng của HTX bao gồm: thành viên 
+HTX và các khách hàng bên ngoài HTX.  
+Tài khoản này phải được hạch toán chi tiết theo từng đối tượng khách hàng, 
+từng nội dung phải thu, từng kỳ hạn thu nợ và từng lần thanh toán. Tùy theo yêu 
+cầu quản lý của HTX, tài khoản này có thể mở chi tiết theo thành viên HTX và 
+khách hàng khác. 
+c) Trong hạch toán chi tiết tài khoản này, HTX phải tiến hành phân loại các 
+khoản nợ, loại nợ có thể trả đúng hạn, khoản nợ khó đòi hoặc có khả năng không 
+thu hồi được, để có căn cứ xác định số trích lập dự phòng phải thu khó đòi hoặc có 
+biện pháp xử lý đối với khoản nợ phải thu không đòi được. Khoản thiệt hại về nợ 
+phải thu khó đòi sau khi trừ dự phòng đã trích lập được ghi nhận vào chi phí quản 
+lý HTX trong kỳ báo cáo. Khoản nợ khó đòi đã xử lý khi đòi được, hạch toán vào 
+thu nhập khác. 
+d) Trong quan hệ bán sản phẩm, hàng hóa, cung cấp dịch vụ theo thỏa thuận 
+giữa HTX với khách hàng, nếu sản phẩm, hàng hóa đã giao, dịch vụ đã cung cấp 
+không đúng theo thỏa thuận trong hợp đồng kinh tế thì người mua có thể yêu cầu 
+HTX giảm giá hàng bán hoặc trả lại số hàng đã giao. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 131 - Phải thu của khách hàng 
+Bên Nợ: 
+- Số tiền phải thu của khách hàng phát sinh trong kỳ khi bán sản phẩm, hàng 
+hóa, TSCĐ, dịch vụ hoặc các khoản đầu tư tài chính; 
+- Số tiền thừa trả lại cho khách hàng; 
+- Đánh giá lại các khoản phải thu của khách hàng là khoản mục tiền tệ có gốc 
+ngoại tệ (trường hợp tỷ giá mua bán chuyển khoản trung bình cuối kỳ tăng so với 
+tỷ giá ghi sổ kế toán).
+
+<<<TRANG 32>>>
+36 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+Bên Có: 
+- Số tiền khách hàng đã trả nợ; 
+- Số tiền đã nhận ứng trước, trả trước của khách hàng; 
+- Khoản giảm giá hàng bán trừ vào nợ phải thu của khách hàng; 
+- Doanh thu của số hàng đã bán bị người mua trả lại trừ vào nợ phải thu của 
+khách hàng (có thuế GTGT hoặc không có thuế GTGT); 
+- Số tiền chiết khấu thanh toán và chiết khấu thương mại cho người mua được 
+hưởng trừ vào nợ phải thu của khách hàng; 
+- Đánh giá lại các khoản phải thu của khách hàng là khoản mục tiền tệ có gốc 
+ngoại tệ (trường hợp tỷ giá mua bán chuyển khoản trung bình cuối kỳ giảm so với 
+tỷ giá ghi sổ kế toán). 
+Số dư bên Nợ: Số tiền còn phải thu của khách hàng. 
+Tài khoản này có thể có số dư bên Có: Số dư bên Có phản ánh số tiền nhận 
+trước hoặc số đã thu nhiều hơn số phải thu của khách hàng chi tiết theo từng đối 
+tượng cụ thể. Cuối kỳ kế toán, phải lấy số dư chi tiết theo từng đối tượng phải thu 
+của tài khoản này để ghi cả hai chỉ tiêu bên "Tài sản" và bên "Nguồn vốn". 
+Tùy theo yêu cầu quản lý của HTX để mở chi tiết Tài khoản 131 cho phù hợp, 
+ví dụ TK 131 có thể mở chi tiết thành phải thu của khách hàng là thành viên chính 
+thức và phải thu của các khách hàng bên ngoài HTX,… 
+3. Phương pháp kế toán một số giao dịch kinh tế chủ yếu 
+3.1. Khi bán sản phẩm, hàng hóa, cung cấp dịch vụ chưa thu được ngay bằng 
+tiền, kế toán ghi nhận doanh thu, căn cứ vào hóa đơn GTGT hoặc hóa đơn bán 
+hàng, ghi: 
+Nợ TK 131 - Phải thu của khách hàng (tổng giá thanh toán) 
+Có các TK 511, 512 (giá bán chưa có thuế GTGT)  
+Có TK 3331 - Thuế GTGT phải nộp (nếu có). 
+3.2. Kế toán hàng bán bị khách hàng trả lại, ghi:  
+Nợ TK 521 - Các khoản giảm trừ doanh thu (giá bán chưa có thuế GTGT của 
+hàng bán trả lại)
+
+<<<TRANG 33>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+37 
+ 
+Nợ TK 3331 - Thuế GTGT phải nộp (thuế GTGT của hàng bán bị trả lại) 
+(nếu có) 
+Có TK 131 - Phải thu của khách hàng. 
+3.3. Kế toán chiết khấu thương mại và giảm giá hàng bán 
+a) Trường hợp số tiền chiết khấu thương mại, giảm giá hàng bán đã ghi ngay 
+trên hóa đơn, kế toán phản ánh doanh thu theo giá đã trừ chiết khấu, giảm giá 
+(ghi nhận theo doanh thu thuần) và không phản ánh riêng số chiết khấu, giảm giá. 
+b) Trường hợp trên hóa đơn chưa thể hiện số tiền chiết khấu thương mại, giảm 
+giá hàng bán do khách hàng chưa đủ điều kiện để được hưởng hoặc chưa xác định 
+được số phải chiết khấu, giảm giá thì doanh thu ghi nhận theo giá chưa trừ chiết 
+khấu, giảm giá (doanh thu gộp). Sau thời điểm ghi nhận doanh thu, nếu khách hàng 
+đủ điều kiện được hưởng chiết khấu, giảm giá thì HTX phải ghi nhận khoản chiết 
+khấu, giảm giá là khoản giảm trừ doanh thu gộp, ghi: 
+Nợ TK 521 - Các khoản giảm trừ doanh thu 
+Nợ TK 3331 - Thuế GTGT phải nộp (số thuế GTGT của hàng giảm giá, chiết 
+khấu thương mại) (nếu có) 
+Có TK 131 - Phải thu của khách hàng (tổng số tiền giảm giá). 
+3.4. Số chiết khấu thanh toán phải trả cho người mua khi người mua thanh 
+toán tiền mua hàng trước thời hạn quy định, trừ vào khoản nợ phải thu của khách 
+hàng, ghi: 
+Nợ các TK 111, 112 (Số tiền còn thu được sau khi trừ chiết khấu thanh toán) 
+Nợ TK 658 - Chi phí khác (Số tiền chiết khấu thanh toán) 
+Có TK 131 - Phải thu của khách hàng. 
+3.5. Nhận được tiền do khách hàng trả (kể cả tiền lãi của số nợ - nếu có), nhận 
+tiền ứng trước của khách hàng theo hợp đồng bán hàng hoặc cung cấp dịch vụ, ghi: 
+Nợ các TK 111, 112 
+Có TK 131 - Phải thu của khách hàng (Phần nợ gốc) 
+Có TK 558 - Thu nhập khác (phần tiền lãi của số nợ).
+
+<<<TRANG 34>>>
+38 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+3.6. Trường hợp khách hàng không thanh toán bằng tiền mà thanh toán bằng 
+hàng (theo phương thức hàng đổi hàng), căn cứ vào giá trị vật tư, hàng hóa nhận 
+trao đổi (tính theo giá trị hợp lý ghi trong Hóa đơn GTGT hoặc Hóa đơn bán hàng 
+của khách hàng) trừ vào số nợ phải thu của khách hàng, ghi: 
+Nợ các TK 152, 156 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có TK 131 - Phải thu của khách hàng. 
+3.7. Trường hợp phát sinh khoản nợ phải thu khó đòi thực sự không thể thu nợ 
+được phải xử lý xóa sổ, căn cứ vào biên bản xử lý xóa nợ, ghi:  
+Nợ TK 229 - Dự phòng tổn thất tài sản (số đã lập dự phòng) 
+Nợ TK 642 - Chi phí quản lý kinh doanh (số chưa lập dự phòng) 
+Có TK 131 - Phải thu của khách hàng. 
+Đồng thời ghi Nợ TK 004 - Nợ khó đòi đã xử lý. 
+3.8. Khi phát sinh doanh thu, thu nhập khác bằng ngoại tệ chưa thu được tiền 
+của khách hàng, căn cứ vào tỷ giá mua bán chuyển khoản trung bình của ngân 
+hàng thương mại nơi HTX thường xuyên có giao dịch tại thời điểm phát sinh, ghi: 
+Nợ TK 131 - Phải thu của khách hàng 
+Có các TK 511, 512, 558. 
+Nếu thu được khoản nợ phải thu khó đòi đã xóa sổ thì đồng thời ghi Có 
+TK 004 - Nợ khó đòi đã xử lý. 
+3.9. Khi thu nợ phải thu của khách hàng bằng ngoại tệ, ghi: 
+Nợ các TK 1112, 1122 (tỷ giá mua bán chuyển khoản trung bình tại thời điểm 
+thu nợ) 
+Nợ TK 658 - Chi phí khác (lỗ tỷ giá hối đoái) 
+Có TK 131 - Phải thu của khách hàng (tỷ giá ghi sổ kế toán) 
+Có TK 558 - Thu nhập khác (lãi tỷ giá hối đoái). 
+Đồng thời ghi Nợ TK 007 (chi tiết theo từng loại nguyên tệ). 
+3.10. Cuối kỳ kế toán, số dư nợ phải thu của khách hàng là khoản mục tiền tệ 
+có gốc ngoại tệ được đánh giá theo tỷ giá mua bán chuyển khoản trung bình tại 
+thời điểm cuối kỳ kế toán:
+
+<<<TRANG 35>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+39 
+ 
+- Nếu tỷ giá mua bán chuyển khoản trung bình cuối kỳ tăng so với tỷ giá ghi sổ 
+kế toán, ghi: 
+Nợ TK 131 - Phải thu của khách hàng 
+Có TK 558 - Thu nhập khác. 
+- Nếu tỷ giá mua bán chuyển khoản trung bình cuối kỳ giảm so với tỷ giá ghi 
+sổ kế toán, ghi: 
+Nợ TK 658 - Chi phí khác 
+Có TK 131 - Phải thu của khách hàng. 
+ 
+TÀI KHOẢN 132 - PHẢI THU CỦA HOẠT ĐỘNG CHO VAY NỘI BỘ 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này chỉ áp dụng cho những HTX đáp ứng được đầy đủ các điều 
+kiện theo quy định của pháp luật hiện hành về hoạt động cho vay nội bộ trong HTX.  
+1.2. Tài khoản này được sử dụng ở các HTX có hoạt động cho vay nội bộ để 
+phản ánh số hiện có và tình hình tăng, giảm các khoản tiền cho thành viên chính 
+thức vay. 
+1.3. Mức cho vay, thời hạn cho vay, thu hồi nợ vay, lãi suất cho vay,… phải 
+tuân thủ theo quy định của pháp luật đối với hoạt động cho vay nội bộ của HTX. 
+1.4. Chỉ hạch toán phần nợ gốc cho vay vào Tài khoản 13211 - Phải thu về gốc 
+cho vay nội bộ. Số tiền lãi vay chưa thu được phản ánh vào TK 13212 - Phải thu 
+về lãi cho vay nội bộ. Không phản ánh vào Tài khoản này số lãi dự thu và khoản 
+lãi từ khoản vay mà nợ gốc phải thu bị phân loại là quá hạn hoặc HTX không chắc 
+chắn về khả năng thu được tiền lãi từ việc cho thành viên chính thức vay vốn. 
+1.5. HTX phải mở sổ theo dõi chi tiết theo từng thành viên chính thức về nợ 
+gốc cho vay (trong đó có thể chi tiết theo nợ trong hạn, quá hạn, khoanh nợ hoặc 
+được phép xóa nợ theo quy định của pháp luật về hoạt động cho vay nội bộ), lãi và 
+việc thanh toán các khoản tiền đó. 
+1.6. Đối với các hợp đồng tín dụng nội bộ (cho thành viên vay) ký trước 
+ngày 01/9/2023, HTX vẫn tiếp tục theo dõi trên Tài khoản 132 - Phải thu của 
+hoạt động cho vay nội bộ (mở chi tiết Phải thu của hoạt động tín dụng nội bộ) 
+cho đến khi hợp đồng tín dụng hết hiệu lực và HTX phải trình bày trên Thuyết 
+minh báo cáo tài chính.
+
+<<<TRANG 36>>>
+40 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+2. Kết cấu và nội dung phản ánh của Tài khoản 132 - Phải thu của hoạt 
+động cho vay nội bộ 
+Bên Nợ: 
+- Số tiền gốc đã cho thành viên chính thức vay; 
+- Số phải thu về lãi vay của thành viên chính thức. 
+Bên Có:  
+- Số tiền nợ gốc thành viên chính thức đã trả; 
+- Số tiền lãi vay các thành viên chính thức đã trả; 
+- Số tiền gốc cho thành viên chính thức vay được phép xóa nợ. 
+Số dư bên Nợ:  
+Số tiền gốc cho thành viên chính thức vay chưa đến hạn trả hoặc đã đến hạn 
+nhưng thành viên chưa trả và số tiền lãi chưa thu được của thành viên còn lại đến 
+kỳ báo cáo. 
+Tài khoản 132 - Phải thu của hoạt động cho vay nội bộ có 2 TK cấp 2: 
+- TK 1321 - Phải thu hoạt động cho vay nội bộ: Tài khoản này dùng để phản 
+ánh các khoản phải thu về cho vay (bao gồm cả nợ gốc và lãi cho vay) và tình hình 
+thu hồi các khoản cho thành viên chính thức vay. 
+Tài khoản 1321 có 2 tài khoản cấp 3: 
++ Tài khoản 13211 - Phải thu về gốc cho vay nội bộ: Tài khoản này dùng để 
+phản ánh các khoản tiền gốc cho thành viên chính thức vay của hoạt động cho vay 
+nội bộ; 
++ Tài khoản 13212 - Phải thu về lãi cho vay nội bộ: Tài khoản này dùng để 
+phản ánh các khoản phải thu về tiền lãi mà thành viên chính thức phải trả cho HTX 
+của hoạt động cho vay nội bộ. 
+- TK 1322 - Phải thu hoạt động cho vay nội bộ khác: Tài khoản này dùng để 
+phản ánh các khoản phải thu khác liên quan trực tiếp đến hoạt động cho vay nội bộ 
+ngoài hoạt động cho vay (nếu có). 
+3. Phương pháp hạch toán một số nghiệp vụ chủ yếu 
+3.1. Khi xuất tiền cho thành viên chính thức vay, căn cứ hợp đồng vay hoặc 
+khế ước vay và chứng từ xuất tiền cho vay, ghi:  
+Nợ TK 132 - Phải thu của hoạt động cho vay nội bộ (13211)
+
+<<<TRANG 37>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+41 
+ 
+Có các TK 111, 112. 
+Đối với các khoản vay phải có đảm bảo bằng tài sản, căn cứ vào biên bản định 
+giá tài sản thế chấp, cầm cố, ghi Nợ TK 006 - Tài sản đảm bảo khoản vay. 
+3.2. Định kỳ, HTX phản ánh số tiền lãi cho vay thu được, ghi: 
+a) Trường hợp thu lãi định kỳ: 
+Nợ các TK 111, 112 (nếu lãi cho vay thu được ngay bằng tiền) 
+Nợ TK 132 - Phải thu của hoạt động cho vay nội bộ (lãi cho vay chưa thu 
+được) (13212) 
+Có TK 5123 - Doanh thu hoạt động cho vay nội bộ. 
+b) Trường hợp thu lãi cho vay cuối kỳ: 
+- Định kỳ, phản ánh số lãi cho vay phải thu của thành viên, ghi: 
+Nợ TK 13212 - Phải thu về lãi cho vay nội bộ 
+Có TK 5123 - Doanh thu hoạt động cho vay nội bộ. 
+- Cuối kỳ hạn nợ, khi thu được cả gốc và lãi cho vay, ghi: 
+Nợ các TK 111, 112 
+Có TK 13212 - Phải thu về lãi cho vay nội bộ (Lãi cho vay của các kỳ trước) 
+Có TK 5123 - Doanh thu hoạt động cho vay nội bộ (Lãi cho vay kỳ cuối cùng). 
+Trường hợp lãi cho vay không có khả năng thu được hoặc lãi cho vay của 
+khoản nợ gốc đã quá hạn thì kế toán không phản ánh khoản lãi phải thu của thành 
+viên vào TK 13212 mà theo dõi ở tài khoản ngoài bảng (Nợ TK 008 - Lãi cho vay 
+quá hạn khó có khả năng thu được). 
+c) Trường hợp lãi cho vay nhận trước cho nhiều kỳ: 
+- Chi tiền cho thành viên chính thức vay sau khi bù trừ với tổng số tiền lãi cho 
+vay nhận được của nhiều kỳ, ghi: 
+Nợ TK 132 - Phải thu của hoạt động cho vay nội bộ (13211) 
+Có TK 338 - Phải trả khác (tổng số tiền lãi cho vay nhận trước cho nhiều kỳ) 
+Có các TK 111, 112 (số tiền thực cho vay). 
+- Định kỳ phân bổ đều lãi cho vay vào doanh thu hoạt động cho vay nội bộ của 
+từng kỳ, ghi:
+
+<<<TRANG 38>>>
+42 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+Nợ TK 338 - Phải trả khác (số tiền lãi cho vay phân bổ cho từng kỳ)  
+Có TK 5123 - Doanh thu hoạt động cho vay nội bộ (Lãi cho vay từng kỳ) 
+3.3. Khi thu hồi khoản tiền, tài sản cho thành viên vay (tiền mặt hoặc tiền gửi 
+ngân hàng), căn cứ số tiền thu hoặc tài sản thu được, ghi: 
+Nợ các TK 111, 112 (nếu thu nợ bằng tiền) 
+Nợ các TK 152, 156, 211 (nếu tài sản đảm bảo được chuyển quyền sở hữu 
+cho HTX) 
+Có TK 13211 - Phải thu về gốc cho vay nội bộ (Số tiền gốc cho vay)  
+Có TK 13212 - Phải thu về lãi cho vay nội bộ (Số tiền lãi cho vay). 
+Đồng thời, kế toán xóa nợ trên Hợp đồng vay bằng cách ghi số tiền thu nợ vào 
+cột “Số tiền trả nợ”, rút số dư. Hợp đồng vay đã thu hết nợ (Số dư bằng 0) thì được 
+xuất khỏi hồ sơ vay đóng thành tập riêng. Khi hoàn trả tài sản thế chấp, cầm cố của 
+thành viên, ghi Có TK 006 - Tài sản đảm bảo khoản vay. 
+3.4. Khi có quyết định về việc xử lý những khoản cho vay bị thất thoát do 
+nguyên nhân khách quan đối với những khoản cho vay của các hợp đồng tín dụng 
+ký trước ngày 01/9/2023, căn cứ vào quyết định xử lý, ghi: 
+Nợ TK 338 - Phải trả khác (số sử dụng khoản dự phòng rủi ro tín dụng để xử lý) 
+Nợ TK 6123 - Chi phí hoạt động cho vay nội bộ (số được tính vào chi phí) 
+Có TK 132 - Phải thu của hoạt động cho vay nội bộ.  
+3.5. Khi khoản cho vay nội bộ bị thất thoát, ghi: 
+Nợ các TK 111, 112, 138... (số phải thu từ bồi thường của cá nhân, tập thể, bảo 
+hiểm... (nếu có)) 
+Nợ TK 6123 - Chi phí hoạt động cho vay nội bộ (số tổn thất tính vào chi phí) 
+Có TK 132 - Phải thu của hoạt động cho vay nội bộ. 
+ 
+TÀI KHOẢN 133 - THUẾ GTGT ĐƯỢC KHẤU TRỪ 
+ 
+1. Nguyên tắc kế toán 
+a) Tài khoản này dùng để phản ánh số thuế GTGT đầu vào được khấu trừ, đã 
+khấu trừ và còn được khấu trừ của HTX.
+
+<<<TRANG 39>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+43 
+ 
+b) HTX phải hạch toán riêng thuế GTGT đầu vào được khấu trừ và thuế GTGT 
+đầu vào không được khấu trừ. Trường hợp không thể hạch toán riêng được thì số 
+thuế GTGT đầu vào được hạch toán vào TK 133. Cuối kỳ, HTX phải xác định số 
+thuế GTGT được khấu trừ và không được khấu trừ theo quy định của pháp luật về 
+thuế GTGT.  
+c) Số thuế GTGT đầu vào không được khấu trừ được tính vào giá trị tài sản 
+được mua, giá vốn của hàng bán hoặc chi phí sản xuất, kinh doanh tùy theo từng 
+trường hợp cụ thể. 
+d) Việc xác định số thuế GTGT đầu vào được khấu trừ, kê khai, quyết toán, 
+nộp thuế phải tuân thủ theo đúng quy định của pháp luật về thuế GTGT. 
+2. Kết cấu và nội dung phản ánh của TK 133 - Thuế GTGT được khấu trừ 
+Bên Nợ:  
+Số thuế GTGT đầu vào được khấu trừ. 
+Bên Có: 
+- Số thuế GTGT đầu vào đã khấu trừ; 
+- Kết chuyển số thuế GTGT đầu vào không được khấu trừ;  
+- Thuế GTGT đầu vào của vật tư, hàng hóa mua vào nhưng đã trả lại, được 
+chiết khấu, giảm giá; 
+- Số thuế GTGT đầu vào đã được hoàn lại. 
+Số dư bên Nợ:  
+Số thuế GTGT đầu vào còn được khấu trừ, số thuế GTGT đầu vào được hoàn 
+lại nhưng NSNN chưa hoàn trả. 
+Tài khoản 133 - Thuế GTGT được khấu trừ có 2 tài khoản cấp 2:  
+- Tài khoản 1331 - Thuế GTGT được khấu trừ của hàng hóa, dịch vụ: Phản 
+ánh thuế GTGT đầu vào được khấu trừ của vật tư, hàng hóa, dịch vụ mua ngoài 
+dùng vào sản xuất, kinh doanh hàng hóa, dịch vụ thuộc đối tượng chịu thuế GTGT 
+tính theo phương pháp khấu trừ thuế. 
+- Tài khoản 1332 - Thuế GTGT được khấu trừ của tài sản cố định: Phản ánh 
+thuế GTGT đầu vào của quá trình đầu tư, mua sắm tài sản cố định dùng vào hoạt 
+động sản xuất, kinh doanh hàng hóa, dịch vụ thuộc đối tượng chịu thuế GTGT tính 
+theo phương pháp khấu trừ thuế.
+
+<<<TRANG 40>>>
+44 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+3. Phương pháp kế toán một số giao dịch kinh tế chủ yếu 
+3.1. Khi mua hàng tồn kho, TSCĐ, nếu thuế GTGT đầu vào được khấu trừ, ghi: 
+Nợ các TK 151, 152, 156, 211 (giá chưa có thuế GTGT)  
+Nợ TK 133 - Thuế GTGT được khấu trừ (1331, 1332) 
+Có các TK 111, 112, 331,... (tổng giá thanh toán). 
+3.2. Khi mua vật tư, công cụ, dịch vụ dùng ngay vào sản xuất, kinh doanh, nếu 
+thuế GTGT đầu vào được khấu trừ, ghi: 
+Nợ các TK 154, 642, 242,... (giá chưa có thuế GTGT) 
+Nợ TK 133 - Thuế GTGT được khấu trừ (1331) 
+Có các TK 111, 112, 331,... (tổng giá thanh toán). 
+3.3. Khi mua hàng hoá giao bán ngay cho khách hàng (không qua nhập kho), 
+nếu thuế GTGT được khấu trừ, ghi: 
+Nợ các TK 611, 612 (giá mua chưa có thuế GTGT) 
+Nợ TK 133 - Thuế GTGT được khấu trừ (1331) 
+Có các TK 111, 112, 331,... (tổng giá thanh toán). 
+3.4. Trường hợp hàng đã mua và đã trả lại hoặc hàng đã mua được giảm giá 
+do kém, mất phẩm chất: Căn cứ vào chứng từ xuất hàng trả lại cho bên bán và 
+các chứng từ liên quan, kế toán phản ánh giá trị hàng đã mua và đã trả lại người 
+bán hoặc hàng đã mua được giảm giá, giảm số thuế GTGT đầu vào được khấu 
+trừ, ghi: 
+Nợ các TK 111, 112, 331 (tổng giá thanh toán) 
+Có TK 133 - Thuế GTGT được khấu trừ (thuế GTGT đầu vào của hàng mua 
+trả lại hoặc được giảm giá) 
+Có các TK 152, 156, 211,... (giá mua chưa có thuế GTGT). 
+3.5. Trường hợp mua vật liệu, dụng cụ, tài sản cố định không hạch toán riêng 
+được thuế GTGT đầu vào được khấu trừ: 
+a) Khi mua vật tư, hàng hóa, TSCĐ, ghi: 
+Nợ các TK 151, 152, 156, 211 (giá mua chưa có thuế GTGT)
+
+<<<TRANG 41>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+45 
+ 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112, 331,... 
+b) Cuối kỳ, kế toán tính và xác định thuế GTGT đầu vào được khấu trừ, không 
+được khấu trừ theo quy định của pháp luật về thuế GTGT. Đối với số thuế GTGT 
+đầu vào không được khấu trừ nếu được tính vào giá vốn hàng bán trong kỳ, ghi: 
+Nợ các TK 611, 612  
+Có TK 133 - Thuế GTGT được khấu trừ. 
+3.6. Vật tư, hàng hóa, TSCĐ mua vào bị tổn thất do thiên tai, hỏa hoạn, bị mất, 
+xác định do trách nhiệm của các tổ chức, cá nhân phải bồi thường, nếu thuế GTGT 
+đầu vào của số hàng này không được khấu trừ: 
+- Trường hợp thuế GTGT của vật tư, hàng hóa, TSCĐ mua vào bị tổn thất 
+chưa xác định được nguyên nhân chờ xử lý, ghi: 
+Nợ TK 138 - Phải thu khác  
+Có TK 133 - Thuế GTGT được khấu trừ (1331, 1332). 
+- Trường hợp thuế GTGT của vật tư, hàng hóa, TSCĐ mua vào bị tổn thất khi 
+có quyết định xử lý của cấp có thẩm quyền về số thu bồi thường của các tổ chức, 
+cá nhân, ghi: 
+Nợ các TK 111, 334,... (số thu bồi thường) 
+Nợ các TK 611, 612 (nếu được tính vào chi phí) 
+Có TK 138 - Phải thu khác  
+Có TK 133 - Thuế GTGT được khấu trừ (nếu có). 
+3.7. Cuối kỳ, kế toán xác định số thuế GTGT đầu vào được khấu trừ vào số 
+thuế GTGT đầu ra khi xác định số thuế GTGT phải nộp trong kỳ, ghi: 
+Nợ TK 3331 - Thuế GTGT phải nộp (nếu có) 
+Có TK 133 - Thuế GTGT được khấu trừ. 
+3.8. Khi được hoàn thuế GTGT đầu vào, ghi: 
+Nợ các TK 111, 112 
+Có TK 133 - Thuế GTGT được khấu trừ.
+
+<<<TRANG 42>>>
+46 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+TÀI KHOẢN 136 - PHẢI THU GIỮA CÁC ĐƠN VỊ NỘI BỘ 
+TRONG HTX 
+ 
+1. Nguyên tắc kế toán: 
+a) Tài khoản này dùng để phản ánh các khoản nợ phải thu và tình hình thanh 
+toán các khoản nợ phải thu của hợp tác xã với đơn vị trực thuộc (chi nhánh, văn 
+phòng đại diện,…) hoặc giữa các đơn vị trực thuộc với nhau.  
+b) Nội dung các khoản phải thu nội bộ phản ánh vào Tài khoản 136 bao gồm: 
+- Ở hợp tác xã:  
++ Vốn, quỹ hoặc kinh phí đã giao, đã cấp cho đơn vị trực thuộc;  
++ Các khoản đơn vị trực thuộc phải nộp lên hợp tác xã theo quy định;  
++ Các khoản nhờ đơn vị trực thuộc thu hộ; 
++ Các khoản đã chi, đã trả hộ đơn vị trực thuộc; 
++ Các khoản đã giao cho đơn vị trực thuộc để thực hiện khối lượng giao khoán 
+nội bộ và nhận lại giá trị giao khoán giữa các đơn vị trực thuộc với nhau hoặc giữa 
+HTX với đơn vị trực thuộc; 
++ Doanh thu bán hàng hóa, cung cấp dịch vụ cho các đơn vị trực thuộc; 
++ Các khoản phải thu vãng lai khác giữa HTX và các đơn vị trực thuộc. 
+- Ở đơn vị trực thuộc: 
++ Các khoản được hợp tác xã cấp nhưng chưa nhận được; 
++ Giá trị sản phẩm, hàng hóa dịch vụ chuyển cho hợp tác xã hoặc các đơn vị 
+trực thuộc khác để bán; 
++ Doanh thu bán hàng hóa, cung cấp dịch vụ cho các đơn vị trực thuộc; 
++ Các khoản nhờ hợp tác xã hoặc đơn vị trực thuộc khác thu hộ;  
++ Các khoản đã chi, đã trả hộ hợp tác xã và đơn vị trực thuộc khác;  
++ Các khoản phải thu vãng lai khác giữa HTX với đơn vị trực thuộc. 
+c) Tài khoản 136 phải hạch toán chi tiết theo từng đơn vị trực thuộc có quan hệ 
+thanh toán và theo dõi riêng từng khoản phải thu. Hợp tác xã cần có biện pháp đôn 
+đốc giải quyết dứt điểm các khoản nợ phải thu giữa các đơn vị trực thuộc trong 
+HTX trong kỳ kế toán.
+
+<<<TRANG 43>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+47 
+ 
+d) Cuối kỳ kế toán, phải kiểm tra, đối chiếu và xác nhận số phát sinh, số dư Tài 
+khoản 136 "Phải thu giữa các đơn vị nội bộ trong HTX", Tài khoản 336 "Phải trả 
+giữa các đơn vị nội bộ trong HTX" với từng đơn vị trực thuộc có quan hệ theo 
+từng nội dung thanh toán. Tiến hành thanh toán bù trừ theo từng khoản của từng 
+đơn vị trực thuộc hoặc đơn vị trực thuộc khác, đồng thời hạch toán bù trừ trên 2 
+Tài khoản 136 “Phải thu giữa các đơn vị nội bộ trong HTX" và Tài khoản 336 
+"Phải trả giữa các đơn vị nội bộ trong HTX" (theo chi tiết từng đối tượng). Khi đối 
+chiếu, nếu có chênh lệch, phải tìm nguyên nhân và điều chỉnh kịp thời. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 136 - Phải thu giữa các 
+đơn vị nội bộ trong HTX 
+Bên Nợ: 
+- Số vốn kinh doanh đã giao cho đơn vị trực thuộc; 
+- Các khoản đã chi hộ, trả hộ hợp tác xã hoặc các đơn vị trực thuộc khác; 
+- Số tiền hợp tác xã phải thu về, các khoản đơn vị trực thuộc phải nộp lên; 
+- Số tiền trực thuộc phải thu về, các khoản hợp tác xã phải giao xuống; 
+- Số tiền phải thu về bán sản phẩm, hàng hóa, dịch vụ giữa các đơn vị trực 
+thuộc với nhau; 
+- Các khoản phải thu khác giữa các đơn vị trực thuộc trong HTX. 
+Bên Có: 
+- Thu hồi vốn, quỹ ở đơn vị trực thuộc; 
+- Số tiền đã thu về các khoản phải thu trong nội bộ HTX; 
+- Bù trừ phải thu với phải trả trong nội bộ HTX với cùng một đối tượng. 
+Số dư bên Nợ: Số nợ còn phải thu ở các đơn vị nội bộ. 
+Tài khoản 136 - Phải thu giữa các đơn vị nội bộ trong HTX có 2 tài khoản 
+cấp 2:  
+- Tài khoản 1361 - Vốn kinh doanh ở đơn vị trực thuộc: Tài khoản này chỉ mở 
+ở hợp tác xã để phản ánh số vốn kinh doanh hiện có ở các đơn vị trực thuộc do hợp 
+tác xã giao.  
+- Tài khoản 1368 - Phải thu khác giữa các đơn vị nội bộ: Phản ánh tất cả các 
+khoản phải thu khác giữa các đơn vị nội bộ ngoài vốn kinh doanh ở đơn vị trực thuộc.
+
+<<<TRANG 44>>>
+48 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+3. Phương pháp kế toán một số giao dịch kinh tế chủ yếu 
+3.1. Tại đơn vị cấp dưới hạch toán phụ thuộc  
+a) Khi chi hộ, trả hộ hợp tác xã và các đơn vị trực thuộc khác:  
+Nợ TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368) 
+Có các TK 111, 112. 
+b) Trường hợp HTX cấp quỹ khen thưởng, phúc lợi cho các đơn vị trực thuộc 
+thì căn cứ vào thông báo của HTX về số quỹ khen thưởng, phúc lợi được cấp, ghi: 
+Nợ TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368) 
+Có TK 338 - Phải thu khác (Chi tiết Quỹ khen thưởng phúc lợi). 
+c) Khi bán sản phẩm, hàng hóa, cung cấp dịch vụ cho các đơn vị trong nội bộ 
+hợp tác xã, tùy thuộc vào đặc điểm hoạt động và phân cấp của từng đơn vị: 
+- Trường hợp đơn vị trực thuộc được phân cấp ghi nhận doanh thu, ghi: 
+Nợ TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368) 
+Có các TK 511, 512 (chi tiết giao dịch bán hàng nội bộ) 
+Có TK 333 - Thuế và các khoản phải nộp Nhà nước. 
+Đồng thời ghi nhận giá vốn, ghi: 
+Nợ các TK 611, 612  
+Có các TK 154, 156…. 
+- Trường hợp đơn vị trực thuộc không được phân cấp ghi nhận doanh thu, giá 
+trị sản phẩm, hàng hóa, dịch vụ cung cấp nội bộ được phản ánh là khoản phải thu 
+nội bộ, ghi: 
+Nợ TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368) 
+Có các TK 154, 156 
+Có TK 333 - Thuế và các khoản phải nộp Nhà nước. 
+d) Khi nhận được tiền hoặc vật tư, tài sản của hợp tác xã hoặc đơn vị nội bộ 
+khác thanh toán về các khoản phải thu, ghi: 
+Nợ các TK 111, 112, 152,... 
+Có TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368).
+
+<<<TRANG 45>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+49 
+ 
+đ) Bù trừ các khoản phải thu nội bộ với các khoản phải trả nội bộ của cùng một 
+đối tượng, ghi: 
+Nợ TK 336 - Phải trả giữa các đơn vị nội bộ trong HTX (3368) 
+Có TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368). 
+3.2. Hạch toán ở hợp tác xã 
+a) Khi hợp tác xã giao vốn kinh doanh cho đơn vị trực thuộc: 
+- Trường hợp giao vốn bằng tiền, ghi: 
+Nợ TK 1361 - Vốn kinh doanh ở đơn vị trực thuộc 
+Có các TK 111, 112. 
+- Trường hợp giao vốn bằng TSCĐ, ghi: 
+Nợ TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (giá trị còn lại của 
+TSCĐ) (1361)  
+Nợ TK 214 - Hao mòn tài sản cố định (giá trị hao mòn lũy kế)  
+Có TK 211 - TSCĐ (nguyên giá). 
+b) Trường hợp đơn vị trực thuộc phải hoàn lại vốn kinh doanh cho hợp tác xã, 
+khi nhận được tiền do đơn vị trực thuộc nộp lên, ghi:  
+Nợ các TK 111, 112 
+Có TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1361). 
+c) Khi bán sản phẩm, hàng hóa, cung cấp dịch vụ cho các đơn vị trong nội bộ 
+hợp tác xã, tùy thuộc vào đặc điểm hoạt động và phân cấp của từng đơn vị, hợp tác 
+xã có thể ghi nhận doanh thu tại thời điểm chuyển giao hàng hóa dịch vụ cho các 
+đơn vị trực thuộc hoặc tại thời điểm khi đơn vị trực thuộc bán hàng hóa, cung cấp 
+dịch vụ ra bên ngoài: 
+- Trường hợp hợp tác xã ghi nhận doanh thu tại thời điểm chuyển giao hàng 
+hóa, dịch vụ cho đơn vị trực thuộc, ghi: 
+Nợ TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368) 
+Có TK 511 - Doanh thu từ giao dịch bên ngoài 
+Có TK 333 - Thuế và các khoản phải nộp Nhà nước.
+
+<<<TRANG 46>>>
+50 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+- Trường hợp hợp tác xã không ghi nhận doanh thu tại thời điểm chuyển giao 
+hàng hóa, dịch vụ cho đơn vị trực thuộc: 
++ Khi chuyển giao hàng hóa, dịch vụ, ghi:  
+Nợ TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368) 
+Có các TK 154, 156 (giá vốn sản phẩm, hàng hóa) 
+Có TK 333 - Thuế và các khoản phải nộp Nhà nước (nếu có). 
++ Khi đơn vị trực thuộc thông báo đã tiêu thụ được sản phẩm, hàng hóa, dịch 
+vụ cho bên thứ ba bên ngoài hợp tác xã, kế toán ghi doanh thu, ghi: 
+Nợ TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368) (doanh thu bán 
+sản phẩm, hàng hóa) 
+Có TK 511 - Doanh thu từ giao dịch bên ngoài. 
+Đồng thời ghi nhận giá vốn, ghi: 
+Nợ TK 611 - Giá vốn hàng bán của giao dịch bên ngoài 
+Có TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368) (giá vốn 
+hàng bán). 
+d) Khoản phải thu về lãi của hoạt động sản xuất, kinh doanh, hoạt động khác ở 
+các đơn vị trực thuộc, ghi: 
+Nợ TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368) 
+Có TK 421 - Lợi nhuận sau thuế chưa phân phối. 
+đ) Khi chi hộ, trả hộ các đơn vị trực thuộc, ghi: 
+Nợ TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368) 
+Có các TK 111, 112. 
+e) Khi nhận được tiền do đơn vị trực thuộc nộp lên về tiền lãi kinh doanh, 
+thanh toán các khoản đã chi hộ, trả hộ đơn vị trực thuộc, ghi: 
+Nợ các TK 111, 112 
+Có TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368). 
+g) Bù trừ các khoản phải thu nội bộ với các khoản phải trả nội bộ của cùng một 
+đối tượng, ghi: 
+Nợ TK 336 - Phải trả giữa các đơn vị nội bộ trong HTX (3368) 
+Có TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX (1368).
+
+<<<TRANG 47>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+51 
+ 
+TÀI KHOẢN 138 - PHẢI THU KHÁC 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này dùng để phản ánh các khoản nợ phải thu ngoài phạm vi đã 
+phản ánh ở TK 131 - Phải thu của khách hàng, TK 132 - Phải thu của hoạt động 
+cho vay nội bộ, TK 136 - Phải thu giữa các đơn vị nội bộ trong HTX và tình hình 
+thanh toán các khoản nợ phải thu này, gồm những nội dung chủ yếu sau: 
+- Giá trị tài sản thiếu đã được phát hiện nhưng chưa xác định được nguyên 
+nhân, phải chờ xử lý hoặc các khoản phải thu về bồi thường vật chất do cá nhân, 
+tập thể (trong và ngoài HTX) gây ra như mất mát, hư hỏng vật tư, hàng hóa, tiền 
+vốn,... đã được xử lý bắt bồi thường; 
+- Các khoản chi đầu tư XDCB, chi phí sản xuất, kinh doanh nhưng không được 
+cấp có thẩm quyền phê duyệt phải thu hồi (nếu có); 
+- Tiền lãi cho vay, cổ tức, lợi nhuận phải thu từ các hoạt động đầu tư tài chính;  
+- Các khoản chi hộ bên thứ 3 phải thu hồi; 
+- Số tiền hoặc giá trị tài sản mà HTX đem đi cầm cố, thế chấp, ký quỹ, ký cược 
+tại các tổ chức khác trong quan hệ kinh tế theo quy định của pháp luật; 
+- Các khoản cho mượn bằng hiện vật (tài sản phi tiền tệ); 
+- Các khoản phải thu khác ngoài các khoản trên. 
+1.2. Nguyên tắc kế toán đối với các khoản cầm cố, thế chấp, ký quỹ, ký cược: 
+a) Các khoản tiền, tài sản đem cầm cố, thế chấp, ký quỹ, ký cược phải được 
+theo dõi chặt chẽ và kịp thời thu hồi khi hết thời hạn cầm cố, thế chấp, ký quỹ, 
+ký cược.  
+b) HTX phải theo dõi chi tiết các khoản cầm cố, thế chấp, ký cược, ký quỹ 
+theo từng loại, từng đối tượng, kỳ hạn, nguyên tệ.  
+c) Đối với tài sản đưa đi cầm cố, ký quỹ, ký cược được phản ánh theo giá đã 
+ghi sổ kế toán của HTX. Khi xuất tài sản phi tiền tệ mang đi cầm cố ghi theo giá 
+nào thì thu về ghi theo giá đó. Trường hợp thế chấp bằng giấy chứng nhận quyền 
+sở hữu tài sản (như giấy chứng nhận quyền sử dụng đất, đăng ký ô tô,...) thì không 
+ghi giảm tài sản mà theo dõi chi tiết trên sổ kế toán (chi tiết loại giấy tờ đang thế 
+chấp) và thuyết minh trên Báo cáo tài chính.
+
+<<<TRANG 48>>>
+52 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+1.3. Về nguyên tắc trong mọi trường hợp phát hiện thiếu tài sản, phải truy tìm 
+nguyên nhân và người phạm lỗi để có biện pháp xử lý cụ thể.  
+Giá trị hàng tồn kho bị hao hụt, mất mát (trừ hao hụt trong định mức trong quá 
+trình thu mua được hạch toán vào giá trị hàng tồn kho) sau khi trừ số thu bồi 
+thường được hạch toán vào giá vốn hàng bán.  
+Giá trị tài sản thiếu chờ xử lý đối với phần giá trị còn lại của TSCĐ thiếu qua 
+kiểm kê sau khi trừ đi phần bồi thường của các tổ chức, cá nhân có liên quan được 
+hạch toán vào chi phí khác của HTX.  
+1.4. Khoản tổn thất về nợ phải thu khác khó đòi sau khi trừ số dự phòng đã 
+trích lập (nếu có) được hạch toán vào chi phí quản lý kinh doanh của HTX.  
+2. Kết cấu và nội dung phản ánh của Tài khoản 138 - Phải thu khác 
+Bên Nợ: 
+- Giá trị tài sản thiếu; 
+- Phải thu về tiền lãi cho vay, lãi tiền gửi, cổ tức, lợi nhuận được chia từ các 
+hoạt động đầu tư tài chính; 
+- Các khoản chi hộ bên thứ ba phải thu hồi, các khoản nợ phải thu khác; 
+- Giá trị tài sản mang đi cầm cố hoặc số tiền đã ký quỹ, ký cược; 
+- Các khoản cho mượn bằng hiện vật (tài sản phi tiền tệ); 
+- Đánh giá lại các khoản phải thu khác là khoản mục tiền tệ có gốc ngoại tệ tại 
+thời điểm lập BCTC (trường hợp tỷ giá mua bán chuyển khoản trung bình cuối kỳ 
+tăng so với tỷ giá ghi sổ kế toán). 
+Bên Có: 
+- Kết chuyển giá trị tài sản thiếu vào các tài khoản liên quan theo quyết định 
+ghi trong biên bản xử lý; 
+- Số tiền đã thu được về các khoản nợ phải thu khác; 
+- Giá trị tài sản cầm cố hoặc số tiền ký quỹ, ký cược đã nhận lại hoặc đã 
+thanh toán;  
+- Nhận lại tài sản mà cho đơn vị khác mượn bằng hiện vật; 
+- Khoản bị phạt khấu trừ vào tiền ký quỹ, ký cược tính vào chi phí khác;
+
+<<<TRANG 49>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+53 
+ 
+- Đánh giá lại các khoản phải thu khác là khoản mục tiền tệ có gốc ngoại tệ tại 
+thời điểm lập BCTC (trường hợp tỷ giá mua bán chuyển khoản trung bình cuối kỳ 
+giảm so với tỷ giá ghi sổ kế toán). 
+Số dư bên Nợ: 
+Các khoản nợ phải thu khác chưa thu được. 
+Tài khoản này có thể có số dư bên Có: Số dư bên Có phản ánh số đã thu 
+nhiều hơn số phải thu (trường hợp cá biệt và chi tiết của một số đối tượng cụ thể). 
+Tùy theo yêu cầu quản lý của HTX, TK 138 - Phải thu khác có thể chi tiết theo 
+các nội dung phải thu khác như tài sản thiếu chờ xử lý; cầm cố, thế chấp, ký quỹ, 
+ký cược và phải thu khác. 
+3. Phương pháp kế toán một số giao dịch kinh tế chủ yếu 
+3.1. Tài sản cố định hữu hình dùng cho hoạt động sản xuất, kinh doanh phát 
+hiện thiếu, ghi: 
+Nợ TK 138 - Phải thu khác (giá trị còn lại của TSCĐ) 
+Nợ TK 214 - Hao mòn TSCĐ (2141) (giá trị hao mòn) 
+Có TK 211 - Tài sản cố định (2111) (nguyên giá). 
+3.2. TSCĐ hữu hình dùng cho hoạt động phúc lợi phát hiện thiếu, chưa xác 
+định rõ nguyên nhân, chờ xử lý, ghi giảm TSCĐ: 
+Nợ TK 214 - Hao mòn TSCĐ (2141) (giá trị hao mòn lũy kế) 
+Nợ TK 3532 - Quỹ phúc lợi (Giá trị còn lại) 
+Có TK 211 - Tài sản cố định (2111) (nguyên giá). 
+Đồng thời phản ánh phần giá trị còn lại của tài sản thiếu, ghi: 
+Nợ TK 138 - Phải thu khác  
+Có TK 353 - Quỹ khen thưởng, phúc lợi (3532). 
+3.3. Trường hợp tiền mặt tồn quỹ, vật tư, hàng hóa,... phát hiện thiếu khi 
+kiểm kê: 
+a) Phản ánh giá trị tài sản bị thiếu, ghi: 
+Nợ TK 138 - Phải thu khác  
+Có các TK 111, 152, 156.
+
+<<<TRANG 50>>>
+54 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+b) Khi có quyết định xử lý của cấp có thẩm quyền đối với tài sản thiếu, căn cứ 
+vào quyết định xử lý, ghi: 
+Nợ TK 111 - Tiền mặt (cá nhân, tổ chức nộp tiền bồi thường) 
+Nợ TK 334 - Phải trả người lao động (số bồi thường trừ vào lương) 
+Nợ TK 418 - Các quỹ thuộc vốn chủ sở hữu (nếu tài sản thiếu được phép bù 
+đắp bằng quỹ thuộc vốn chủ sở hữu)  
+Nợ các TK 611, 612 (giá trị hao hụt mất mát của hàng tồn kho sau khi trừ số 
+thu bồi thường theo quyết định xử lý) 
+Nợ TK 658 - Chi phí khác (phần giá trị còn lại của TSCĐ thiếu qua kiểm kê 
+phải tính vào tổn thất của HTX) 
+Có TK 138 - Phải thu khác. 
+3.4. Cho đơn vị khác mượn tài sản bằng hiện vật (phi tiền tệ), ghi: 
+Nợ TK 138 - Phải thu khác 
+Có các TK 152, 156,... 
+3.5. Các khoản chi hộ bên thứ ba phải thu hồi, ghi: 
+Nợ TK 138 - Phải thu khác 
+Có các TK 111, 112. 
+3.6. Định kỳ, khi xác định khoản phải thu về tiền lãi cho vay, lãi tiền gửi, cổ 
+tức, lợi nhuận được chia, ghi: 
+Nợ TK 138 - Phải thu khác 
+Có TK 558 - Thu nhập khác.  
+3.7. Khi thu được tiền của các khoản nợ phải thu khác, ghi: 
+Nợ các TK 111, 112 
+Có TK 138 - Phải thu khác. 
+3.8. Khi có quyết định xử lý nợ phải thu khác không có khả năng thu hồi, ghi: 
+Nợ TK 111 - Tiền mặt (số bồi thường của cá nhân, tập thể có liên quan) 
+Nợ TK 334 - Phải trả người lao động (số bồi thường trừ vào lương) 
+Nợ TK 229 - Dự phòng tổn thất tài sản (nếu được bù đắp bằng khoản dự phòng 
+phải thu khó đòi)
+
+<<<TRANG 51>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+55 
+ 
+Nợ TK 642 - Chi phí quản lý kinh doanh (số hạch toán vào chi phí) 
+Có TK 138 - Phải thu khác. 
+3.9. Kế toán cầm cố, thế chấp, ký quỹ, ký cược: 
+a) Dùng tiền mặt hoặc tiền gửi ngân hàng để ký cược, ký quỹ, ghi: 
+Nợ TK 138 - Phải thu khác 
+Có các TK 111, 112. 
+b) Khi mang hàng tồn kho hoặc tài sản khác đi cầm cố, ghi: 
+Nợ TK 138 - Phải thu khác (chi tiết theo từng khoản) 
+Có các TK 152, 156,... 
+c) Trường hợp dùng tài sản cố định để cầm cố, ghi: 
+Nợ TK 138 - Phải thu khác (giá trị còn lại) 
+Nợ TK 214 - Hao mòn tài sản cố định (giá trị hao mòn lũy kế) 
+Có TK 211- TSCĐ (nguyên giá). 
+d) Khi nhận lại tài sản cầm cố hoặc tiền ký quỹ, ký cược: 
+- Nhận lại số tiền ký quỹ, ký cược, ghi: 
+Nợ các TK 111, 112 
+Có TK 138 - Phải thu khác.  
+- Khi nhận lại hàng tồn kho phi tiền tệ cho đơn vị khác mượn hoặc mang đi 
+cầm cố, ghi: 
+Nợ các TK 152, 156,... 
+Có TK 138 - Phải thu khác. 
+- Nhận lại tài sản cố định cầm cố, ghi: 
+Nợ TK 211 - TSCĐ (nguyên giá khi đưa đi cầm cố) 
+Có TK 138 - Phải thu khác (giá trị còn lại) 
+Có TK 214 - Hao mòn tài sản cố định (giá trị hao mòn lũy kế). 
+đ) Trường hợp HTX không thực hiện đúng những cam kết, bị phạt vi phạm 
+hợp đồng trừ vào tiền ký quỹ, ký cược, ghi: 
+Nợ TK 658 - Chi phí khác (số tiền bị trừ) 
+Có TK 138 - Phải thu khác.
+
+<<<TRANG 52>>>
+56 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+e) Trường hợp sử dụng khoản ký cược, ký quỹ thanh toán cho người bán, ghi: 
+Nợ TK 331 - Phải trả cho người bán 
+Có TK 138 - Phải thu khác. 
+3.10. Cuối kỳ kế toán, số dư nợ phải thu khác là khoản mục tiền tệ có gốc 
+ngoại tệ được đánh giá theo tỷ giá mua bán chuyển khoản trung bình cuối kỳ của 
+ngân hàng thương mại nơi HTX thường xuyên có giao dịch. 
+- Nếu tỷ giá mua bán chuyển khoản trung bình cuối kỳ tăng so với tỷ giá ghi sổ 
+kế toán, ghi: 
+Nợ TK 138 - Phải thu khác 
+Có TK 558 - Thu nhập khác. 
+- Nếu tỷ giá mua bán chuyển khoản trung bình cuối kỳ giảm so với tỷ giá ghi 
+sổ kế toán, ghi: 
+Nợ TK 658 - Chi phí khác 
+Có TK 138 - Phải thu khác. 
+ 
+TÀI KHOẢN 141 - TẠM ỨNG 
+ 
+1. Nguyên tắc kế toán 
+a) Tài khoản này dùng để phản ánh các khoản tạm ứng của HTX cho người lao 
+động trong HTX và tình hình thanh toán các khoản tạm ứng đó. 
+b) Khoản tạm ứng là một khoản tiền, vật tư, hàng hóa,... do HTX giao cho 
+người nhận tạm ứng để thực hiện nhiệm vụ sản xuất, kinh doanh hoặc giải quyết 
+một công việc nào đó được phê duyệt. Người nhận tạm ứng phải là người lao động 
+làm việc tại HTX. Đối với người nhận tạm ứng thường xuyên (thuộc các bộ phận 
+cung ứng vật tư, quản trị, hành chính) phải được người có thẩm quyền trong HTX 
+chỉ định bằng văn bản. 
+c) Người nhận tạm ứng (có tư cách cá nhân hay tập thể) phải chịu trách nhiệm 
+với HTX về số đã nhận tạm ứng và chỉ được sử dụng tạm ứng theo đúng mục đích 
+và nội dung công việc đã được phê duyệt. Nếu khoản tạm ứng không sử dụng hoặc 
+không sử dụng hết phải nộp lại cho HTX. Người nhận tạm ứng không được chuyển 
+khoản tạm ứng cho người khác sử dụng.
+
+<<<TRANG 53>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+57 
+ 
+Khi hoàn thành, kết thúc công việc được giao, người nhận tạm ứng phải lập 
+bảng thanh toán tạm ứng (kèm theo chứng từ gốc) để thanh toán toàn bộ, dứt điểm 
+(theo từng lần, từng khoản) số tạm ứng đã nhận, số tạm ứng đã sử dụng và khoản 
+chênh lệch giữa số đã nhận tạm ứng với số đã sử dụng (nếu có). Khoản tạm ứng sử 
+dụng không hết nếu không nộp lại cho HTX thì phải tính trừ vào lương của người 
+nhận tạm ứng. Trường hợp số thực chi đã được duyệt lớn hơn số đã nhận tạm ứng 
+thì HTX sẽ chi bổ sung số còn thiếu. 
+d) Đối với từng HTX thì việc người lao động của bộ phận nào trong HTX 
+được tạm ứng, giá trị khoản tạm ứng, mục đích và nội dung công việc tạm ứng, 
+hình thức tạm ứng bằng tiền hay vật tư, thời hạn hoàn thành công việc và thanh 
+toán khoản tạm ứng, thẩm quyền phê duyệt tạm ứng,... được thực hiện theo các 
+quy trình hoặc quy chế liên quan của HTX hoặc được người có thẩm quyền 
+trong HTX quyết định.  
+đ) HTX phải mở sổ kế toán chi tiết theo dõi cho từng người nhận tạm ứng và 
+ghi chép đầy đủ tình hình nhận, thanh toán tạm ứng theo từng lần tạm ứng. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 141 - Tạm ứng 
+Bên Nợ:  
+Các khoản tiền, vật tư đã tạm ứng cho người lao động của hợp tác xã. 
+Bên Có: 
+- Các khoản tạm ứng đã được thanh toán; 
+- Số tiền tạm ứng dùng không hết nhập lại quỹ hoặc tính trừ vào lương; 
+- Các khoản vật tư đã tạm ứng sử dụng không hết nhập lại kho. 
+Số dư bên Nợ: 
+Số tạm ứng chưa thanh toán. 
+3. Phương pháp kế toán một số giao dịch kinh tế chủ yếu 
+a) Khi tạm ứng tiền, vật tư cho người lao động trong HTX, ghi: 
+Nợ TK 141 - Tạm ứng 
+Có các TK 111, 112, 152,... 
+b) Khi thực hiện xong công việc được giao, người nhận tạm ứng lập Bảng 
+thanh toán tạm ứng kèm theo các chứng từ gốc đã được ký duyệt để quyết toán 
+khoản tạm ứng, ghi:
+
+<<<TRANG 54>>>
+58 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+Nợ các TK 152, 156, 642,... 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có TK 141 - Tạm ứng. 
+c) Các khoản tạm ứng chi (hoặc sử dụng) không hết, phải nhập lại quỹ, nhập 
+lại kho hoặc trừ vào lương của người nhận tạm ứng, ghi: 
+Nợ TK 111 - Tiền mặt 
+Nợ TK 152 - Vật liệu, dụng cụ 
+Nợ TK 334 - Phải trả người lao động 
+Có TK 141 - Tạm ứng. 
+d) Trường hợp số thực chi đã được duyệt lớn hơn số đã nhận tạm ứng, kế toán 
+lập phiếu chi để thanh toán thêm cho người nhận tạm ứng, ghi: 
+Nợ các TK 152, 156, 642,... 
+Có TK 111 - Tiền mặt. 
+ 
+NGUYÊN TẮC KẾ TOÁN HÀNG TỒN KHO 
+ 
+1. Nhóm tài khoản hàng tồn kho được dùng để phản ánh trị giá hiện có và tình 
+hình biến động hàng tồn kho của HTX. 
+2. Hàng tồn kho của HTX là những tài sản được mua vào để sản xuất hoặc để 
+bán, gồm:  
+- Hàng mua đang đi trên đường; 
+- Vật liệu, dụng cụ;  
+- Sản phẩm dở dang; 
+- Thành phẩm, hàng hóa;  
+- Hàng gửi bán. 
+3. Các loại sản phẩm, hàng hóa, vật tư, tài sản nhận giữ hộ, nhận ký gửi, nhận 
+gia công... không thuộc quyền sở hữu và kiểm soát của HTX thì không được phản 
+ánh là hàng tồn kho.  
+4. Nguyên tắc xác định giá gốc hàng tồn kho được quy định cụ thể cho từng 
+loại vật tư, hàng hóa, theo nguồn hình thành và thời điểm tính giá.
+
+<<<TRANG 55>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+59 
+ 
+5. Các khoản chiết khấu thương mại, giảm giá nhận được sau khi mua hàng tồn 
+kho phải được phân bổ cho số hàng tồn kho trong kho, hàng đã bán, đã sử dụng 
+cho sản xuất kinh doanh để hạch toán cho phù hợp: 
++ Nếu hàng tồn kho còn tồn trong kho ghi giảm giá trị hàng tồn kho; 
++ Nếu hàng tồn kho đã bán thì ghi giảm giá vốn hàng bán; 
++ Nếu hàng tồn kho đã sử dụng cho hoạt động nào thì ghi giảm chi phí của 
+hoạt động đó. 
+- Khoản chiết khấu thanh toán khi mua hàng tồn kho được hạch toán vào thu 
+nhập khác. 
+6. Khi bán hàng tồn kho (kể cả trường hợp xuất hàng tồn kho để trả lương 
+cho người lao động), giá gốc của hàng tồn kho đã bán được ghi nhận là giá vốn 
+hàng bán.  
+Trường hợp xuất hàng tồn kho để khuyến mại, quảng cáo không thu tiền (kể cả 
+trường hợp có kèm theo điều kiện khách hàng phải mua hàng hay không) thì toàn 
+bộ giá trị hàng tồn kho được hạch toán vào chi phí quản lý kinh doanh; 
+Trường hợp dùng hàng tồn kho biếu tặng cho người lao động được trang trải 
+bằng quỹ khen thưởng, phúc lợi thì giá trị hàng tồn kho biếu tặng được ghi giảm 
+quỹ khen thưởng, phúc lợi. 
+Khoản chiết khấu thanh toán cho khách hàng được hưởng khi bán hàng tồn 
+kho được hạch toán vào chi phí khác. 
+7. Khi xác định giá trị hàng tồn kho xuất trong kỳ, HTX áp dụng theo một 
+trong các phương pháp sau:  
+a) Phương pháp tính theo giá đích danh: Phương pháp tính theo giá đích danh 
+được áp dụng dựa trên giá trị thực tế của từng lần nhập hàng hoá mua vào, từng 
+thứ sản phẩm sản xuất ra nên chỉ áp dụng cho các HTX có ít mặt hàng hoặc mặt 
+hàng ổn định và nhận diện được chi tiết về giá nhập của từng lô hàng tồn kho. 
+b) Phương pháp bình quân gia quyền: Theo phương pháp này, giá trị của từng 
+loại hàng tồn kho được tính theo giá trị trung bình của từng loại hàng tồn kho đầu 
+kỳ và giá trị từng loại hàng tồn kho được mua hoặc sản xuất trong kỳ. Giá trị trung 
+bình có thể được tính theo từng kỳ hoặc sau từng lô hàng nhập về, phụ thuộc vào 
+điều kiện cụ thể của mỗi HTX.
+
+<<<TRANG 56>>>
+60 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+c) Phương pháp nhập trước, xuất trước (FIFO): Phương pháp nhập trước, xuất 
+trước áp dụng dựa trên giả định là giá trị hàng tồn kho được nhập kho trước thì 
+được xuất trước và giá trị hàng tồn kho còn lại cuối kỳ là giá trị hàng tồn kho được 
+nhập kho gần thời điểm cuối kỳ. Theo phương pháp này thì giá trị hàng xuất kho 
+được tính theo giá của lô hàng nhập kho ở thời điểm đầu kỳ hoặc gần đầu kỳ, giá 
+trị của hàng tồn kho cuối kỳ được tính theo giá của hàng nhập kho ở thời điểm cuối 
+kỳ hoặc gần cuối kỳ còn tồn kho. 
+Mỗi phương pháp tính giá trị hàng tồn kho đều có những ưu, nhược điểm 
+nhất định. Mức độ chính xác và độ tin cậy của mỗi phương pháp tùy thuộc vào 
+yêu cầu quản lý, trình độ, năng lực nghiệp vụ và trình độ trang bị công cụ tính 
+toán, phương tiện xử lý thông tin của HTX. Đồng thời cũng tùy thuộc vào yêu 
+cầu bảo quản, tính phức tạp về chủng loại, quy cách và sự biến động của vật tư, 
+hàng hóa ở HTX. 
+d) Phương pháp giá bán lẻ được dùng trong ngành bán lẻ (ví dụ như các đơn vị 
+kinh doanh siêu thị hoặc tương tự), có đặc thù là hàng tồn kho với số lượng lớn, 
+các mặt hàng thay đổi nhanh chóng và có lợi nhuận biên tương tự mà không thể sử 
+dụng các phương pháp tính giá khác. Giá xuất hàng tồn kho được xác định bằng 
+cách lấy giá bán của hàng tồn kho trừ đi lợi nhuận biên theo tỷ lệ phần trăm hợp lý. 
+Tỷ lệ được sử dụng có tính đến các mặt hàng đó bị hạ giá xuống thấp hơn giá bán 
+ban đầu của nó. Thông thường mỗi bộ phận bán lẻ sẽ sử dụng một tỷ lệ phần trăm 
+bình quân riêng. 
+8. Đối với hàng tồn kho mua vào bằng ngoại tệ, giá mua hàng tồn kho phải 
+căn cứ vào tỷ giá mua bán chuyển khoản trung bình của ngân hàng thương mại 
+nơi HTX thường xuyên có giao dịch tại thời điểm có quyền sở hữu hàng tồn kho 
+để ghi nhận.  
+9. Cuối kỳ kế toán, việc lập dự phòng giảm giá hàng tồn kho (nếu có) được 
+thực hiện theo quy định hiện hành. 
+10. Kế toán hàng tồn kho phải đồng thời kế toán chi tiết cả về giá trị và hiện 
+vật theo từng thứ, từng loại, quy cách vật tư, hàng hóa theo từng địa điểm quản lý 
+và sử dụng, luôn phải đảm bảo sự khớp, đúng cả về giá trị và hiện vật giữa thực tế 
+về vật tư, hàng hóa với sổ kế toán tổng hợp và sổ kế toán chi tiết.
+
+<<<TRANG 57>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+61 
+ 
+Trường hợp hàng tồn kho thừa phát hiện khi kiểm kê của đơn vị khác nếu xác 
+định được là của HTX khác thì không ghi tăng hàng tồn kho tương ứng với khoản 
+phải trả khác. 
+11. Chi phí vận chuyển, bảo quản hàng tồn kho phát sinh trong quá trình mua 
+hàng hoặc tiếp tục quá trình sản xuất, chế biến thì được ghi nhận vào giá gốc hàng 
+tồn kho. Chi phí vận chuyển, bảo quản hàng tồn kho liên quan đến việc tiêu thụ 
+hàng tồn kho (kể cả chuyển hàng tồn kho đi gửi bán) thì được tính vào chi phí 
+quản lý kinh doanh. 
+ 
+TÀI KHOẢN 151 - HÀNG MUA ĐANG ĐI ĐƯỜNG 
+ 
+1. Nguyên tắc kế toán 
+a) Tài khoản này dùng để phản ánh trị giá của các loại hàng hóa, vật tư 
+(nguyên liệu, vật liệu; công cụ, dụng cụ; hàng hóa) mua ngoài đã thuộc quyền sở 
+hữu của HTX nhưng đến cuối kỳ vẫn còn đang trên đường vận chuyển, ở bến cảng, 
+bến bãi hoặc đã về đến HTX nhưng đang chờ kiểm nhận nhập kho. 
+b) Hàng hóa, vật tư được coi là thuộc quyền sở hữu của HTX nhưng chưa nhập 
+kho, bao gồm: 
+- Hàng hóa, vật tư mua ngoài đã thanh toán tiền hoặc đã chấp nhận thanh 
+toán nhưng còn để ở kho người bán, ở bến cảng, bến bãi hoặc đang trên đường 
+vận chuyển; 
+- Hàng hóa, vật tư mua ngoài đã về đến HTX nhưng đang chờ kiểm nghiệm, 
+kiểm nhận nhập kho. 
+c) Kế toán hàng mua đang đi đường được ghi nhận trên Tài khoản 151 theo 
+nguyên tắc giá gốc. 
+d) Hàng ngày, khi nhận được hóa đơn mua hàng nhưng hàng chưa về nhập 
+kho, kế toán chưa ghi sổ mà tiến hành đối chiếu với hợp đồng kinh tế và lưu hóa 
+đơn vào tập hồ sơ riêng: “Hàng mua đang đi đường”. 
+Trong kỳ, nếu hàng về nhập kho, kế toán căn cứ vào phiếu nhập kho và hóa 
+đơn mua hàng ghi sổ trực tiếp vào các Tài khoản 152 “Vật liệu, dụng cụ”, Tài 
+khoản 156 “Thành phẩm, hàng hóa”.
+
+<<<TRANG 58>>>
+62 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+đ) Nếu cuối kỳ hàng vẫn chưa về thì căn cứ hóa đơn mua hàng ghi vào Tài 
+khoản 151 “Hàng mua đang đi đường”. Kế toán phải mở chi tiết để theo dõi hàng 
+mua đang đi đường theo từng chủng loại hàng hóa, vật tư, từng lô hàng, từng hợp 
+đồng kinh tế. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 151 - Hàng mua đang 
+đi đường 
+Bên Nợ: 
+- Trị giá hàng hóa, vật tư đã mua đang đi đường; 
+Bên Có: 
+- Trị giá hàng hóa, vật tư đã mua đang đi đường đã về nhập kho hoặc đã 
+chuyển giao thẳng cho khách hàng; 
+Số dư bên Nợ: Trị giá hàng hóa, vật tư đã mua nhưng còn đang đi đường 
+(chưa về nhập kho HTX). 
+3. Phương pháp kế toán một số giao dịch kinh tế chủ yếu 
+- Cuối kỳ kế toán, căn cứ vào hóa đơn mua hàng của các loại hàng mua chưa 
+về nhập kho, nếu thuế GTGT đầu vào được khấu trừ, ghi: 
+Nợ TK 151 - Hàng mua đang đi đường (giá chưa có thuế GTGT) 
+Nợ TK 133 - Thuế GTGT được khấu trừ 
+Có TK 331 - Phải trả cho người bán; hoặc 
+Có các TK 111, 112, 141,... 
+- Trường hợp thuế GTGT đầu vào không được khấu trừ thì giá trị hàng mua 
+bao gồm cả thuế GTGT. 
+- Sang kỳ sau, khi hàng về nhập kho, căn cứ hóa đơn và phiếu nhập kho, ghi: 
+Nợ TK 152 - Vật liệu, dụng cụ 
+Nợ TK 156 - Thành phẩm, hàng hóa 
+Có TK 151 - Hàng mua đang đi đường. 
+- Trường hợp sang kỳ sau hàng hóa, vật tư đã mua đang đi đường không nhập 
+kho mà giao thẳng cho khách hàng theo hợp đồng kinh tế tại phương tiện, tại kho 
+người bán, tại bến cảng, bến bãi, hoặc gửi thẳng cho khách hàng, gửi bán đại lý, ký 
+gửi, ghi:
+
+<<<TRANG 59>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+63 
+ 
+Nợ các TK 611, 612 
+Nợ TK 157 - Hàng gửi đi bán 
+Có TK 151 - Hàng mua đang đi đường. 
+- Trường hợp hàng mua đang đi đường bị hao hụt, mất mát phát hiện ngay khi 
+phát sinh, căn cứ vào biên bản về mất mát, hao hụt, kế toán phản ánh giá trị hàng 
+tồn kho bị mất mát, hao hụt, ghi: 
+Nợ TK 138 - Phải thu khác 
+Có TK 151 - Hàng mua đang đi đường. 
+ 
+TÀI KHOẢN 152 - VẬT LIỆU, DỤNG CỤ 
+ 
+1. Nguyên tắc kế toán 
+a) Tài khoản này dùng để phản ánh trị giá hiện có và tình hình biến động tăng, 
+giảm của các loại vật liệu, nguyên liệu, công cụ, dụng cụ trong kho của HTX.  
+- Vật liệu của HTX là những đối tượng lao động mua ngoài hoặc tự chế biến 
+dùng cho mục đích sản xuất, kinh doanh của HTX. Vật liệu phản ánh vào TK này 
+có thể bao gồm: 
++ Nguyên liệu, vật liệu chính: Là những loại nguyên liệu và vật liệu khi tham 
+gia vào quá trình sản xuất thì cấu thành thực thể vật chất, thực thể chính của sản 
+phẩm. Vì vậy khái niệm nguyên liệu, vật liệu chính gắn liền với từng HTX sản 
+xuất cụ thể.  
++ Vật liệu phụ: Là những loại vật liệu khi tham gia vào quá trình sản xuất, 
+không cấu thành thực thể chính của sản phẩm nhưng có thể kết hợp với vật liệu 
+chính làm thay đổi màu sắc, mùi vị, hình dáng bề ngoài, tăng thêm chất lượng của 
+sản phẩm hoặc tạo điều kiện cho quá trình chế tạo sản phẩm được thực hiện bình 
+thường, hoặc phục vụ cho nhu cầu công nghệ, kỹ thuật, bảo quản đóng gói; phục 
+vụ cho quá trình lao động. 
++ Nhiên liệu: Là những thứ có tác dụng cung cấp nhiệt lượng trong quá trình 
+sản xuất, kinh doanh tạo điều kiện cho quá trình chế tạo sản phẩm diễn ra bình 
+thường. Nhiên liệu có thể tồn tại ở thể lỏng, thể rắn và thể khí. 
++ Vật tư thay thế: Là những vật tư dùng để thay thế, sửa chữa máy móc thiết 
+bị, phương tiện vận tải, công cụ, dụng cụ sản xuất...
+
+<<<TRANG 60>>>
+64 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
++ Vật liệu và thiết bị xây dựng cơ bản: Là những loại vật liệu và thiết bị được 
+sử dụng cho công tác xây dựng cơ bản. Đối với thiết bị xây dựng cơ bản bao gồm 
+cả thiết bị cần lắp, không cần lắp, công cụ, khí cụ và vật kết cấu dùng để lắp đặt 
+vào công trình xây dựng cơ bản. 
+- Dụng cụ là những tư liệu lao động không có đủ các tiêu chuẩn về giá trị và 
+thời gian sử dụng quy định đối với TSCĐ. Vì vậy dụng cụ được quản lý và hạch 
+toán như vật liệu. Những tư liệu lao động sau đây nếu không đủ tiêu chuẩn ghi 
+nhận TSCĐ thì được ghi nhận là dụng cụ: 
++ Các đà giáo, ván khuôn, công cụ, dụng cụ gá lắp chuyên dùng cho sản xuất 
+xây lắp; 
++ Các loại bao bì bán kèm theo hàng hóa có tính tiền riêng, nhưng trong quá 
+trình bảo quản hàng hóa vận chuyển trên đường và dự trữ trong kho có tính giá trị 
+hao mòn để trừ dần giá trị của bao bì; 
++ Những dụng cụ, đồ nghề bằng thủy tinh, sành, sứ; 
++ Phương tiện quản lý, đồ dùng văn phòng; 
++ Quần áo, giày dép chuyên dùng để làm việc,...  
+b) Kế toán nhập, xuất, tồn kho vật liệu, dụng cụ trên TK 152 phải được thực 
+hiện theo nguyên tắc giá gốc. Nội dung giá gốc của vật liệu, dụng cụ được xác định 
+tùy theo từng nguồn nhập. 
+- Giá gốc của vật liệu, dụng cụ mua ngoài, bao gồm: Giá mua ghi trên hóa 
+đơn, các khoản thuế không được hoàn lại, chi phí vận chuyển, bốc xếp, bảo quản, 
+phân loại, bảo hiểm,... vật liệu, dụng cụ từ nơi mua về đến kho của HTX, công tác 
+phí của cán bộ thu mua, chi phí của bộ phận thu mua độc lập, các chi phí khác có 
+liên quan trực tiếp đến việc thu mua vật liệu, dụng cụ và số hao hụt tự nhiên trong 
+định mức (nếu có): 
++ Trường hợp thuế GTGT hàng nhập khẩu được khấu trừ thì giá trị của vật 
+liệu, dụng cụ mua vào được phản ánh theo giá mua chưa có thuế GTGT.  
++ Trường hợp thuế GTGT hàng nhập khẩu không được khấu trừ thì giá trị của 
+vật liệu, dụng cụ mua vào bao gồm cả thuế GTGT.  
+- Giá gốc của vật liệu, dụng cụ tự chế biến, bao gồm: Giá thực tế của nguyên 
+liệu xuất chế biến và chi phí chế biến.
+
+<<<TRANG 61>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+65 
+ 
+- Giá gốc của vật liệu, dụng cụ thuê ngoài gia công chế biến, bao gồm: Giá 
+thực tế của vật liệu xuất thuê ngoài gia công chế biến, chi phí vận chuyển vật liệu 
+đến nơi chế biến và từ nơi chế biến về HTX, tiền thuê ngoài gia công chế biến. 
+- Giá gốc của vật liệu, dụng cụ nhận góp vốn liên doanh, cổ phần là giá trị 
+được các bên tham gia góp vốn liên doanh thống nhất đánh giá chấp thuận. 
+c) Việc tính trị giá của vật liệu, dụng cụ xuất kho trong kỳ, được thực hiện theo 
+một trong các phương pháp sau: 
+- Phương pháp giá thực tế đích danh; 
+- Phương pháp bình quân gia quyền sau mỗi lần nhập hoặc cuối kỳ; 
+- Phương pháp nhập trước, xuất trước. 
+HTX lựa chọn phương pháp tính giá nào thì phải đảm bảo tính nhất quán trong 
+cả niên độ kế toán. 
+d) Kế toán chi tiết vật liệu, dụng cụ phải thực hiện theo từng kho, từng loại, 
+từng nhóm, thứ vật liệu, dụng cụ. 
+đ) Không phản ánh vào tài khoản này đối với nguyên vật liệu, dụng cụ không 
+thuộc quyền sở hữu của HTX như nguyên vật liệu, dụng cụ nhận giữ hộ; nguyên 
+vật liệu, dụng cụ nhận để gia công; nguyên vật liệu, dụng cụ nhận từ bên giao ủy 
+thác xuất nhập khẩu...  
+e) Đối với công cụ, dụng cụ có giá trị lớn, quý hiếm phải có thể thức bảo quản 
+đặc biệt. Đối với các công cụ, dụng cụ có giá trị nhỏ khi xuất dùng cho sản xuất, 
+kinh doanh phải ghi nhận toàn bộ một lần vào chi phí sản xuất, kinh doanh. 
+g) Trường hợp công cụ, dụng cụ, bao bì luân chuyển, đồ dùng cho thuê xuất 
+dùng hoặc cho thuê liên quan đến hoạt động sản xuất, kinh doanh trong nhiều kỳ 
+kế toán thì được ghi nhận vào TK 242 “Tài sản khác” (Chi tiết TK 2421) và phân 
+bổ dần vào giá vốn hàng bán hoặc chi phí sản xuất kinh doanh theo từng bộ phận 
+sử dụng. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 152 - Vật liệu, dụng cụ 
+Bên Nợ: 
+- Trị giá thực tế của vật liệu, dụng cụ nhập kho do mua ngoài, tự chế, thuê 
+ngoài gia công, chế biến, nhận góp vốn hoặc từ các nguồn khác; 
+- Trị giá vật liệu, dụng cụ thừa phát hiện khi kiểm kê.
+
+<<<TRANG 62>>>
+66 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+Bên Có: 
+- Trị giá thực tế của vật liệu, dụng cụ xuất kho dùng vào sản xuất, kinh doanh, 
+để bán, thuê ngoài gia công chế biến hoặc đưa đi góp vốn;  
+- Trị giá vật liệu, dụng cụ trả lại người bán hoặc được giảm giá hàng mua; 
+- Chiết khấu thương mại được hưởng khi mua vật liệu, dụng cụ;  
+- Trị giá vật liệu, dụng cụ hao hụt, mất mát phát hiện khi kiểm kê. 
+Số dư bên Nợ: 
+Trị giá thực tế của vật liệu, dụng cụ tồn kho cuối kỳ.  
+3. Phương pháp kế toán một số giao dịch kinh tế chủ yếu 
+3.1. Khi mua vật liệu, dụng cụ về nhập kho, căn cứ hóa đơn, phiếu nhập kho và 
+các chứng từ có liên quan phản ánh giá trị vật liệu, dụng cụ nhập kho: 
+- Nếu thuế GTGT đầu vào được khấu trừ, ghi: 
+Nợ TK 152 - Vật liệu, dụng cụ (giá mua chưa có thuế GTGT) 
+Nợ TK 133 - Thuế GTGT được khấu trừ (1331)  
+Có các TK 111, 112, 141, 331,... (tổng giá thanh toán). 
+- Nếu thuế GTGT đầu vào không được khấu trừ thì giá trị nguyên vật liệu bao 
+gồm cả thuế GTGT. 
+Nợ TK 152 - Vật liệu, dụng cụ (tổng giá thanh toán) 
+Có các TK 111, 112, 141, 331,... (tổng giá thanh toán). 
+3.2. Kế toán vật liệu, dụng cụ trả lại cho người bán, khoản chiết khấu thương 
+mại hoặc giảm giá nhận được khi mua vật liệu, dụng cụ: 
+- Trường hợp trả lại vật liệu, dụng cụ cho người bán, ghi: 
+Nợ TK 331 - Phải trả cho người bán 
+Có TK 152 - Vật liệu, dụng cụ 
+Có TK 133 - Thuế GTGT được khấu trừ (nếu có). 
+- Trường hợp khoản chiết khấu thương mại hoặc giảm giá hàng bán nhận được 
+sau khi mua nguyên, vật liệu thì HTX phải căn cứ vào tình hình biến động của 
+nguyên vật liệu để phân bổ số chiết khấu thương mại, giảm giá hàng bán được 
+hưởng dựa trên số nguyên vật liệu còn tồn kho, số đã xuất dùng cho hoạt động sản 
+xuất kinh doanh, dùng để bán,..., ghi:
+
+<<<TRANG 63>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+67 
+ 
+Nợ các TK 111, 112, 331,.... 
+Có TK 152 - Vật liệu, dụng cụ (nếu VL, DC còn tồn kho) 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang (nếu VL, DC đã xuất dùng 
+cho sản xuất) 
+Có các TK 611, 612 (nếu VL, DC được xác định là đã tiêu thụ trong kỳ) 
+Có TK 642 - Chi phí quản lý kinh doanh (nếu VL, DC đã dùng cho hoạt động 
+quản lý kinh doanh) 
+Có TK 133 - Thuế GTGT được khấu trừ (1331) (nếu có). 
+3.3. Khi trả tiền cho người bán, nếu được hưởng chiết khấu thanh toán thì khoản 
+chiết khấu thanh toán thực tế được hưởng được ghi nhận vào thu nhập khác, ghi: 
+Nợ TK 331 - Phải trả cho người bán  
+Có TK 558 - Thu nhập khác. 
+3.4. Đối với vật liệu, dụng cụ nhập kho do thuê ngoài gia công, chế biến: 
+- Khi xuất vật liệu, dụng cụ đưa đi gia công, chế biến, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang  
+Có TK 152 - Vật liệu, dụng cụ. 
+- Khi phát sinh chi phí thuê ngoài gia công, chế biến, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang  
+Nợ TK 133 - Thuế GTGT được khấu trừ (1331) (nếu có) 
+Có các TK 111, 112, 131, 141,... 
+- Khi nhập lại kho số vật liệu, dụng cụ thuê ngoài gia công, chế biến xong, ghi: 
+Nợ TK 152 - Vật liệu, dụng cụ  
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+3.5. Đối với vật liệu, dụng cụ nhập kho do tự chế: 
+- Khi xuất kho vật liệu, dụng cụ để tự chế biến, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang  
+Có TK 152 - Vật liệu, dụng cụ. 
+- Khi nhập kho vật liệu, dụng cụ đã tự chế, ghi:
+
+<<<TRANG 64>>>
+68 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+Nợ TK 152 - Vật liệu, dụng cụ 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+3.6. Đối với vật liệu, dụng cụ thừa phát hiện khi kiểm kê đã xác định được 
+nguyên nhân thì căn cứ nguyên nhân thừa để ghi sổ, nếu chưa xác định được 
+nguyên nhân thì căn cứ vào giá trị vật liệu, dụng cụ thừa, ghi: 
+Nợ TK 152 - Vật liệu, dụng cụ 
+Có TK 338 - Phải trả khác. 
+- Khi có quyết định xử lý vật liệu, dụng cụ thừa phát hiện trong kiểm kê, căn 
+cứ vào quyết định xử lý, ghi: 
+Nợ TK 338 - Phải trả khác 
+Có các Tài khoản có liên quan. 
+- Nếu xác định ngay khi kiểm kê số vật liệu, dụng cụ thừa là của các đơn vị 
+khác thì không ghi vào bên Nợ TK152 tương ứng với bên Có TK 338 thì HTX ghi 
+vào Tài khoản 002 - Vật tư, hàng hóa, TSCĐ nhận giữ hộ, nhận gia công và trình 
+bày trong phần thuyết minh Báo cáo tài chính. 
+3.7. Khi xuất kho vật liệu, dụng cụ sử dụng vào sản xuất, kinh doanh, ghi: 
+Nợ các TK 154, 642,... (nếu dụng cụ thuộc loại phân bổ một lần) 
+Nợ TK 242 - Tài sản khác (nếu dụng cụ thuộc loại phân bổ nhiều lần) (2421) 
+Có TK 152 - Vật liệu, dụng cụ. 
+Trường hợp xuất công cụ dụng cụ lâu bền ra sử dụng, đồng thời ghi Nợ 
+TK 005 - Công cụ dung cụ lâu bền đang sử dụng. 
+3.8. Xuất vật liệu, dụng cụ sử dụng cho hoạt động đầu tư xây dựng cơ bản 
+hoặc sửa chữa lớn TSCĐ, ghi: 
+Nợ TK 242 - Tài sản khác (2422) 
+Có TK 152 - Vật liệu, dụng cụ. 
+Trường hợp xuất công cụ dụng cụ lâu bền ra sử dụng, đồng thời ghi Nợ 
+TK 005 - Công cụ dung cụ lâu bền đang sử dụng. 
+3.9. Đối với vật liệu, dụng cụ đưa đi góp vốn vào đơn vị khác, khi xuất vật 
+liệu, dụng cụ, ghi: 
+Nợ TK 1218 - Đầu tư tài chính khác (giá đánh giá lại)
+
+<<<TRANG 65>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+69 
+ 
+Nợ TK 658 - Chi phí khác (giá đánh giá lại < giá trị ghi sổ) 
+Có TK 152 - Vật liệu, dụng cụ (giá trị ghi sổ) 
+Có TK 558 - Thu nhập khác (giá đánh giá lại > giá trị ghi sổ).  
+3.10. Đối với vật liệu, dụng cụ thiếu hụt phát hiện khi kiểm kê:  
+Mọi trường hợp thiếu hụt vật liệu, dụng cụ trong kho hoặc tại nơi quản lý, bảo 
+quản phát hiện khi kiểm kê phải lập biên bản và truy tìm nguyên nhân, xác định 
+người phạm lỗi. Căn cứ vào biên bản kiểm kê và quyết định xử lý của cấp có thẩm 
+quyền để ghi sổ kế toán: 
+- Nếu do nhầm lẫn hoặc chưa ghi sổ phải tiến hành ghi bổ sung hoặc điều 
+chỉnh lại số liệu trên sổ kế toán; 
+- Nếu giá trị vật liệu, dụng cụ hao hụt nằm trong phạm vi hao hụt cho phép 
+(hao hụt vật liệu trong định mức), ghi: 
+Nợ các TK 611, 612  
+Có TK 152 - Vật liệu, dụng cụ. 
+- Nếu hàng tồn kho bị mất mát hoặc bị hao hụt ngoài định mức, ghi: 
+Nợ TK 138 - Phải thu khác  
+Có TK 152 - Vật liệu, dụng cụ 
+Nếu dụng cụ lâu bền đang sử dụng bị mất, hư hỏng thì đồng thời ghi Có 
+TK 005 - Công cụ dung cụ lâu bền đang sử dụng. 
+- Khi có quyết định xử lý, căn cứ vào quyết định, ghi: 
+Nợ TK 111 - Tiền mặt (người phạm lỗi nộp tiền bồi thường) 
+Nợ TK 334 - Phải trả người lao động (trừ tiền lương của người phạm lỗi) 
+Nợ các TK 611, 612 (phần giá trị VL, DC hao hụt, mất mát còn lại phải tính 
+vào giá vốn hàng bán) 
+Có TK 138 - Phải thu khác.  
+3.11. Đối với nguyên vật liệu, phế liệu ứ đọng, không cần dùng 
+- Phản ánh giá vốn khi thanh lý, nhượng bán nguyên vật liệu, phế liệu, ghi: 
+Nợ các TK 611, 612 
+Có TK 152 - Vật liệu, dụng cụ.
+
+<<<TRANG 66>>>
+70 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+- Phản ánh doanh thu bán nguyên vật liệu, phế liệu, ghi: 
+Nợ các TK 111, 112, 131 
+Có các TK 511, 512  
+Có TK 333 - Thuế và các khoản phải nộp Nhà nước. 
+ 
+TÀI KHOẢN 154 - CHI PHÍ SẢN XUẤT, KINH DOANH DỞ DANG 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này dùng để phản ánh tổng hợp chi phí sản xuất, kinh doanh 
+phục vụ cho việc tính giá thành sản phẩm, dịch vụ ở HTX. 
+1.2. Tài khoản 154 "Chi phí sản xuất, kinh doanh dở dang" phản ánh chi phí 
+sản xuất, kinh doanh phát sinh trong kỳ; chi phí sản xuất, kinh doanh của khối 
+lượng sản phẩm, dịch vụ hoàn thành trong kỳ; chi phí sản xuất, kinh doanh dở 
+dang đầu kỳ, cuối kỳ của các hoạt động sản xuất, kinh doanh chính, phụ và thuê 
+ngoài gia công chế biến ở các HTX sản xuất hoặc ở các HTX kinh doanh dịch vụ. 
+Tài khoản 154 cũng phản ánh chi phí sản xuất, kinh doanh của các hoạt động sản 
+xuất, gia công chế biến, hoặc cung cấp dịch vụ của các HTX thương mại, nếu có tổ 
+chức các loại hình hoạt động này. 
+1.3. Chi phí sản xuất, kinh doanh hạch toán trên Tài khoản 154 phải được chi 
+tiết theo địa điểm phát sinh chi phí (phân xưởng, bộ phận sản xuất, đội sản xuất, 
+công trường,...); theo loại, nhóm sản phẩm, hoặc chi tiết, bộ phận sản phẩm; theo 
+từng loại dịch vụ hoặc theo từng công đoạn dịch vụ. 
+1.4. Chi phí sản xuất, kinh doanh dở dang phản ánh trên Tài khoản 154 gồm 
+những chi phí sau: 
+- Chi phí nguyên liệu, vật liệu trực tiếp; 
+- Chi phí nhân công trực tiếp; 
+- Chi phí sử dụng máy thi công (đối với hoạt động xây lắp) (nếu có);  
+- Chi phí sản xuất chung. 
+1.5. Chi phí nguyên liệu, vật liệu, chi phí nhân công vượt trên mức bình 
+thường và chi phí sản xuất chung cố định không phân bổ thì không được tính vào 
+giá trị hàng tồn kho mà phải tính vào giá vốn hàng bán của kỳ kế toán.
+
+<<<TRANG 67>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+71 
+ 
+1.6. Cuối kỳ, phân bổ chi phí sản xuất chung cố định và chi phí sản xuất 
+chung biến đổi vào chi phí chế biến cho mỗi đơn vị sản phẩm theo chi phí thực 
+tế phát sinh.  
+2. Phương pháp vận dụng Tài khoản 154 trong ngành công nghiệp 
+2.1. Tài khoản 154 “Chi phí sản xuất, kinh doanh dở dang" áp dụng trong 
+ngành công nghiệp dùng để tập hợp, tổng hợp chi phí sản xuất và tính giá thành 
+sản phẩm của các phân xưởng, hoặc bộ phận sản xuất, chế tạo sản phẩm. Đối với 
+các HTX sản xuất có thuê ngoài gia công, chế biến, cung cấp lao vụ, dịch vụ cho 
+bên ngoài hoặc phục vụ cho việc sản xuất sản phẩm thì chi phí của những hoạt 
+động này cũng được tập hợp vào Tài khoản 154. 
+2.2. Chỉ được phản ánh vào Tài khoản 154 những nội dung chi phí sau: 
+- Chi phí nguyên liệu, vật liệu trực tiếp cho việc sản xuất, chế tạo sản phẩm; 
+- Chi phí nhân công trực tiếp cho việc sản xuất, chế tạo sản phẩm; 
+- Chi phí sản xuất chung phục vụ trực tiếp cho việc sản xuất, chế tạo sản phẩm. 
+2.3. Tài khoản 154 ở các HTX sản xuất công nghiệp được hạch toán chi tiết 
+theo địa điểm phát sinh chi phí (phân xưởng, bộ phận sản xuất), theo loại, nhóm 
+sản phẩm, sản phẩm hoặc chi tiết bộ phận sản phẩm. 
+3. Phương pháp vận dụng Tài khoản 154 trong ngành nông nghiệp 
+3.1. Một số nội dung cần lưu ý khi hạch toán TK 154 trong ngành nông nghiệp 
+a) Tài khoản 154 "Chi phí sản xuất, kinh doanh dở dang" áp dụng trong ngành 
+nông nghiệp dùng để tập hợp tổng chi phí sản xuất và tính giá thành sản phẩm của 
+các hoạt động nuôi trồng, chế biến sản phẩm hoặc dịch vụ nông nghiệp. Tài khoản 
+này phải được hạch toán chi tiết theo ngành kinh doanh nông nghiệp (trồng trọt, 
+chăn nuôi, chế biến,...), theo địa điểm phát sinh chi phí (phân xưởng, đội sản 
+xuất,...), chi tiết theo từng loại cây, con và từng loại sản phẩm, từng sản phẩm hoặc 
+dịch vụ. 
+b) Giá thành sản xuất thực tế của sản phẩm nông nghiệp được xác định vào 
+cuối vụ thu hoạch hoặc cuối năm. Sản phẩm thu hoạch năm nào thì tính giá thành 
+trong năm đó nghĩa là chi phí chi ra trong năm nay nhưng năm sau mới thu hoạch 
+sản phẩm thì năm sau mới tính giá thành và chi phí chi ra trong năm trước nhưng 
+liên quan đến sản phẩm hoàn thành trong năm nay thì được tính vào giá thành của 
+thành phẩm hoàn thành.
+
+<<<TRANG 68>>>
+72 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+c) Đối với ngành trồng trọt, chi phí phải được hạch toán chi tiết theo 3 loại cây: 
+- Cây ngắn ngày (lúa, khoai, sắn,...); 
+- Cây trồng một lần thu hoạch nhiều lần (dứa, chuối,...);  
+- Cây lâu năm (chè, cà phê, cao su, hồ tiêu, cây ăn quả,...). 
+Đối với các loại cây trồng 2, 3 vụ trong một năm, hoặc trồng năm nay, năm sau 
+mới thu hoạch, hoặc loại cây vừa có diện tích trồng mới, vừa có diện tích chăm sóc 
+thu hoạch trong cùng một năm,... thì phải căn cứ vào tình hình thực tế để ghi chép, 
+phản ánh rõ ràng chi phí của vụ này với vụ khác, của diện tích này với diện tích 
+khác, của năm trước với năm nay và năm sau,... 
+d) Không phản ánh vào tài khoản này chi phí khai hoang, trồng mới và chăm 
+sóc cây lâu năm đang trong thời kỳ XDCB, chi phí bán hàng, chi phí quản lý HTX 
+và chi phí khác. 
+đ) Về nguyên tắc, chi phí sản xuất ngành trồng trọt được hạch toán chi tiết 
+vào bên Nợ Tài khoản 154 "Chi phí sản xuất, kinh doanh dở dang" theo từng đối 
+tượng tập hợp chi phí. Đối với một số loại chi phí có liên quan đến nhiều đối 
+tượng hạch toán hoặc liên quan đến nhiều vụ, nhiều thời kỳ thì phải phản ánh 
+trên các tài khoản riêng, sau đó phân bổ vào giá thành của các loại sản phẩm 
+liên quan như: Chi phí tưới tiêu nước, chi phí chuẩn bị đất và trồng mới năm 
+đầu của những cây trồng một lần, thu hoạch nhiều lần (chi phí này không thuộc 
+vốn đầu tư XDCB),... 
+e) Trên cùng một diện tích canh tác, nếu trồng xen từ hai loại cây nông nghiệp 
+ngắn ngày trở lên thì những chi phí phát sinh có liên quan trực tiếp đến loại cây 
+nào được tập hợp riêng cho loại cây đó (như: Hạt giống, chi phí gieo trồng, thu 
+hoạch,...), chi phí phát sinh chung cho nhiều loại cây (chi phí cày bừa, tưới tiêu 
+nước,...) thì được tập hợp riêng và phân bổ cho từng loại cây theo diện tích gieo 
+trồng hoặc theo một tiêu thức phù hợp. 
+g) Đối với cây lâu năm, quá trình từ khi làm đất, gieo trồng, chăm sóc đến khi 
+bắt đầu có sản phẩm (thu, bói) thì được hạch toán như quá trình đầu tư XDCB để 
+hình thành nên TSCĐ được tập hợp chi phí ở TK 242 “Tài sản khác”, chi tiết hoạt 
+động XDCB dở dang. Chi phí cho vườn cây lâu năm trong quá trình sản xuất, kinh 
+doanh bao gồm các chi phí cho khâu chăm sóc, khâu thu hoạch.
+
+<<<TRANG 69>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+73 
+ 
+h) Khi hạch toán chi phí ngành chăn nuôi trên Tài khoản 154 cần chú ý một số 
+điểm sau: 
+- Hạch toán chi phí chăn nuôi phải chi tiết cho từng loại hoạt động chăn nuôi 
+(như chăn nuôi trâu bò, chăn nuôi lợn,...), theo từng nhóm hoặc từng loại gia súc, 
+gia cầm; 
+- Súc vật con của đàn súc vật cơ bản hay nuôi béo đẻ ra sau khi tách mẹ được 
+mở sổ chi tiết theo dõi riêng theo giá thành thực tế;  
+- Đối với súc vật cơ bản khi đào thải chuyển thành súc vật nuôi lớn, nuôi béo 
+được hạch toán vào Tài khoản 154 theo giá trị còn lại của súc vật cơ bản; 
+- Đối tượng tính giá thành trong ngành chăn nuôi là: 1 kg sữa tươi, 1 con bò 
+con tiêu chuẩn, giá thành 1 kg thịt, giá thành 1 kg thịt hơi, giá thành 1 ngày/con 
+chăn nuôi,... 
+i) Phần chi phí nguyên vật liệu, chi phí nhân công trực tiếp vượt trên mức bình 
+thường, chi phí sản xuất chung cố định không phân bổ thì không được tính vào giá 
+thành sản phẩm mà được hạch toán vào giá vốn hàng bán của kỳ kế toán. 
+3.2. Nội dung chi phí sản xuất của một số ngành nghề, dịch vụ nông nghiệp 
+a) Dịch vụ tưới tiêu nước gồm các khoản chi phí chủ yếu sau: 
+- Tiền nước phải trả cho các công ty thủy nông; 
+- Tiền điện, xăng dầu chạy máy bơm; 
+- Khấu hao trạm bơm và hệ thống kênh mương dẫn nước do HTX đầu tư vốn; 
+- Chi phí nạo vét, sửa chữa hệ thống kênh mương; 
+- Chi phí sửa chữa thường xuyên và sửa chữa lớn trạm bơm, máy bơm; 
+- Tiền công lao động trả cho thành viên vận hành máy và điều phối nước; 
+- Các khoản chi phí trực tiếp như lãi tiền vay… 
+b) Dịch vụ phòng trừ sâu bệnh: 
+- Các loại thuốc sử dụng phòng trừ sâu bệnh cho cây trồng; 
+- Nhiên liệu chạy máy phun thuốc sâu; 
+- Khấu hao máy bơm thuốc sâu; 
+- Chi phí dụng cụ cầm tay, quần áo, dụng cụ phòng hộ lao động; 
+- Chi phí sửa chữa máy bơm và bình bơm thuốc trừ sâu;
+
+<<<TRANG 70>>>
+74 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+- Chi phí tiền công lao động và các khoản bồi dưỡng độc hại; 
+- Các khoản chi phí trực tiếp khác như lãi tiền vay. 
+c) Dịch vụ cung cấp vật tư nông nghiệp và bao tiêu sản phẩm cho các hộ có 
+các khoản chi phí chủ yếu sau: 
+- Các khoản chi về vận chuyển, bốc xếp, bảo quản hàng hóa từ nơi mua về kho 
+HTX và các khoản chi phí liên quan đến việc tiêu thụ vật tư, hàng hóa; 
+- Khấu hao nhà kho, phương tiện vận chuyển của bộ phận dịch vụ; 
+- Lãi tiền vay phải trả; 
+- Tiền công cán bộ, thành viên trực tiếp hoạt động dịch vụ cung cấp vật tư 
+nông nghiệp và tiêu thụ sản phẩm; 
+- Các khoản chi phí trực tiếp khác. 
+Không phản ánh vào chi phí dịch vụ cung cấp vật tư nông nghiệp giá vốn (giá 
+mua vào) của vật tư, hàng hóa và sản phẩm nhận bao tiêu cho các hộ. 
+d) Hoạt động nhận hàng về gia công, như: May mặc, dệt thảm, thêu ren… có 
+các chi phí sản xuất sau: 
+- Các khoản chi phí liên quan đến việc nhận, trả hàng sau khi gia công xong 
+như chi phí vận chuyển, bốc xếp, bảo quản hàng hóa…; 
+- Các loại vật liệu do HTX bỏ ra trong quá trình gia công; 
+- Tiền công lao động của nhân viên trực tiếp gia công; 
+- Chi phí về điện, nhiên liệu sử dụng trong quá trình gia công; 
+- Khấu hao máy móc, thiết bị, nhà xưởng; 
+- Chi phí sửa chữa máy móc, thiết bị; 
+- Các khoản chi phí trực tiếp khác (như lãi tiền vay..). 
+Không phản ánh vào chi phí gia công giá trị nguyên vật liệu của bên giao 
+gia công. 
+đ) Hoạt động chế biến nông, lâm sản: Chi phí sản xuất gồm các khoản sau:  
+- Giá trị nguyên vật liệu chính đưa vào chế biến; 
+- Các loại nguyên vật liệu phụ sử dụng trong quá trình chế biến;
+
+<<<TRANG 71>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+75 
+ 
+- Chi phí về điện, nhiên liệu (than, củi, xăng dầu) sử dụng để chạy máy và chế 
+biến sản phẩm; 
+- Chi phí sửa chữa máy móc;  
+- Khấu hao nhà xưởng, máy móc sử dụng trong sản xuất chế biến; 
+- Tiền công lao động trực tiếp sản xuất;  
+- Các khoản chi trực tiếp khác. 
+e) Hoạt động sản xuất nông, lâm nghiệp, chi phí sản xuất gồm: 
+- Giống; 
+- Phân bón; 
+- Chi phí phòng từ sâu bệnh cho cây trồng; 
+- Chi phí làm đất; 
+- Chi phí tưới nước; 
+- Tiền công lao động; 
+- Khấu hao tài sản cố định và chi phí sửa chữa tài sản chuyên dùng cho sản 
+xuất nông, lâm nghiệp; 
+- Các khoản chi phí trực tiếp khác. 
+g) Hoạt động nuôi trồng thủy sản, chi phí gồm các khoản: 
+- Con giống; 
+- Thuốc phòng trừ dịch bệnh; 
+- Khấu hao tài sản cố định; 
+- Chi phí sửa chữa tài sản; 
+- Chi phí trực tiếp khác (như lãi tiền vay...). 
+4. Phương pháp vận dụng Tài khoản 154 trong ngành dịch vụ 
+a) Tài khoản 154 “Chi phí sản xuất, kinh doanh dở dang" áp dụng trong các 
+HTX kinh doanh dịch vụ như: Giao thông vận tải, bưu điện, du lịch, dịch vụ cung 
+ứng điện, dịch vụ môi trường, dịch vụ y tế, dịch vụ trường học, dịch vụ nhà ở,... 
+Tài khoản này dùng để tập hợp chi phí (nguyên liệu, vật liệu trực tiếp, nhân công 
+trực tiếp, chi phí sản xuất chung) và tính giá thành của khối lượng dịch vụ đã 
+thực hiện.
+
+<<<TRANG 72>>>
+76 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+b) Đối với ngành giao thông vận tải, tài khoản này dùng để tập hợp chi phí và 
+tính giá thành về vận tải đường bộ (ô tô, vận tải bằng phương tiện thô sơ khác...), 
+đường thủy,... Tài khoản 154 áp dụng cho ngành giao thông vận tải phải được mở 
+chi tiết cho từng loại hoạt động (vận tải hành khách, vận tải hàng hóa,...) theo từng 
+HTX hoặc bộ phận kinh doanh dịch vụ. 
+c) Trong quá trình vận tải, săm lốp bị hao mòn với mức độ nhanh hơn mức 
+khấu hao đầu xe nên thường phải thay thế nhiều lần nhưng giá trị săm lốp thay thế 
+không tính vào giá thành vận tải ngay một lúc khi xuất dùng thay thế mà phải phân 
+bổ dần theo từng kỳ. Vì vậy, hàng kỳ các HTX vận tải ô tô được trích trước chi phí 
+săm lốp vào giá thành vận tải (chi phí phải trả) theo quy định hiện hành. 
+d) Phần chi phí nguyên liệu, vật liệu, chi phí nhân công trực tiếp vượt trên 
+mức bình thường và phần chi phí sản xuất chung cố định không phân bổ thì 
+không được tính vào giá thành sản phẩm mà được hạch toán vào giá vốn hàng 
+bán của kỳ kế toán. 
+đ) Đối với hoạt động kinh doanh du lịch, tài khoản này được mở chi tiết theo 
+từng loại hoạt động như: Hướng dẫn du lịch, kinh doanh khách sạn, kinh doanh 
+vận tải du lịch,... 
+e) Trong hoạt động kinh doanh khách sạn, Tài khoản 154 phải mở chi tiết theo 
+từng loại dịch vụ như: dịch vụ ăn uống, dịch vụ buồng nghỉ, dịch vụ vui chơi giải 
+trí, phục vụ khác (giặt, là, cắt tóc, thể thao,...). 
+5. Phương pháp vận dụng Tài khoản 154 trong ngành xây dựng 
+a) Đối với hoạt động kinh doanh xây lắp, Tài khoản 154 dùng để tập hợp chi 
+phí sản xuất, kinh doanh, phục vụ cho việc tính giá thành sản xuất sản phẩm xây 
+lắp công nghiệp, dịch vụ của HTX xây lắp. 
+b) Phần chi phí nguyên liệu, vật liệu trực tiếp, chi phí nhân công trực tiếp vượt 
+trên mức bình thường không được tính vào giá thành công trình xây lắp mà được 
+hạch toán vào giá vốn hàng bán của kỳ kế toán. 
+c) Tài khoản này trong ngành Xây lắp có thể theo dõi chi tiết theo các hoạt 
+động sau:  
+- Xây lắp: Dùng để tập hợp chi phí, tính giá thành sản xuất sản phẩm xây lắp 
+và phản ánh giá trị sản phẩm xây lắp dở dang cuối kỳ;
+
+<<<TRANG 73>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+77 
+ 
+- Sản phẩm khác: Dùng để tập hợp chi phí, tính giá thành sản xuất sản phẩm 
+khác và phản ánh giá trị sản phẩm khác dở dang cuối kỳ (thành phẩm, cấu kiện xây 
+lắp,...); 
+- Dịch vụ: Dùng để tập hợp chi phí, tính giá thành dịch vụ và phản ánh chi phí 
+dịch vụ dở dang cuối kỳ; 
+- Chi phí bảo hành xây lắp: Dùng để tập hợp chi phí bảo hành công trình xây 
+dựng, lắp đặt thực tế phát sinh trong kỳ và giá trị công trình bảo hành xây lắp còn 
+dở dang cuối kỳ. 
+d) Việc tập hợp chi phí sản xuất, tính giá thành sản phẩm xây lắp phải theo 
+từng công trình, hạng mục công trình và theo khoản mục giá thành quy định trong 
+giá trị dự toán xây lắp, gồm: 
+- Chi phí vật liệu; 
+- Chi phí nhân công; 
+- Chi phí sử dụng máy thi công; 
+- Chí phí chung. 
+Riêng chi phí chung được tập hợp chi phí "Xây lắp": Chỉ bao gồm chi phí 
+chung phát sinh ở đội nhận thầu hoặc công trường xây lắp. Còn chi phí quản lý 
+HTX xây lắp (là một bộ phận của chi phí chung) được tập hợp bên Nợ Tài khoản 
+642 "Chi phí quản lý kinh doanh". Chi phí này sẽ được kết chuyển vào bên Nợ Tài 
+khoản 911 "Xác định kết quả kinh doanh" thông qua giá thành toàn bộ sản phẩm 
+xây lắp hoàn thành và bán ra trong kỳ. 
+đ) HTX là chủ đầu tư xây dựng bất động sản sử dụng tài khoản này để tập 
+hợp chi phí xây dựng thành phẩm bất động sản. Trường hợp bất động sản xây 
+dựng sử dụng cho nhiều mục đích (làm văn phòng hoặc để bán thì thực hiện theo 
+nguyên tắc: 
+- Nếu đủ căn cứ để hạch toán riêng hoặc xác định được tỷ trọng của phần chi 
+phí xây dựng bất động sản để bán (thành phẩm bất động sản) và phần chi phí xây 
+dựng bất động sản để làm văn phòng (TSCĐ) thì phải hạch toán riêng trên TK 154 
+phần chi phí xây dựng thành phẩm bất động sản. Phần chi phí xây dựng TSCĐ 
+được phản ánh riêng trên TK 2422 - Xây dựng cơ bản dở dang.
+
+<<<TRANG 74>>>
+78 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+- Trường hợp không hạch toán riêng hoặc xác định được tỷ trọng chi phí xây 
+dựng cho phần thành phẩm bất động sản, TSCĐ thì kế toán tập hợp chi phí phát 
+sinh liên quan trực tiếp tới việc đầu tư xây dựng trên TK 2422. Khi công trình, dự 
+án hoàn thành bàn giao đưa vào sử dụng, kế toán căn cứ cách thức sử dụng tài sản 
+trong thực tế để kết chuyển chi phí đầu tư xây dựng phù hợp với bản chất của từng 
+loại tài sản. 
+e) Khoản dự phòng chi phí bảo hành công trình xây lắp được hạch toán vào chi 
+phí sản xuất kinh doanh từng kỳ, hết thời hạn bảo hành nếu số bảo hành đã trích 
+lập lớn hơn chi phí thực tế đã phát sinh thì ghi tăng thu nhập khác trong kỳ. 
+Trường hợp ngược lại thì hạch toán vào giá vốn hàng bán trong kỳ. 
+g) Các khoản chi phí của hợp đồng xây lắp không thể thu hồi phải được ghi 
+nhận ngay là giá vốn hàng bán trong kỳ. 
+h) Các khoản thu từ việc bán nguyên liệu, vật liệu thừa và thanh lý máy 
+móc, thiết bị thi công khi kết thúc hợp đồng xây dựng được ghi giảm chi phí 
+đầu tư xây dựng. 
+i) Hạch toán khoản mục nguyên liệu, vật liệu trực tiếp:  
+- Khoản mục chi phí nguyên liệu, vật liệu trực tiếp bao gồm: Giá trị thực tế của 
+vật liệu chính, vật liệu phụ, các cấu kiện hoặc các bộ phận rời, vật liệu luân chuyển 
+tham gia cấu thành thực thể sản phẩm xây, lắp hoặc giúp cho việc thực hiện và 
+hoàn thành khối lượng xây, lắp (không kể vật liệu phụ cho máy móc, phương tiện 
+thi công và những vật liệu tính trong chi phí chung). 
+- Nguyên tắc hạch toán khoản mục nguyên liệu, vật liệu trực tiếp: Nguyên liệu, 
+vật liệu sử dụng cho xây dựng hạng mục công trình nào phải tính trực tiếp cho sản 
+phẩm hạng mục công trình đó trên cơ sở chứng từ gốc theo số lượng thực tế đã sử 
+dụng và theo giá thực tế xuất kho (Giá bình quân gia quyền; Giá nhập trước, xuất 
+trước; Giá thực tế đích danh). 
+- Cuối kỳ hạch toán hoặc khi công trình hoàn thành, tiến hành kiểm kê số vật 
+liệu còn lại tại nơi sản xuất (nếu có) để ghi giảm trừ chi phí nguyên liệu, vật liệu 
+trực tiếp xuất sử dụng cho công trình. 
+- Trong điều kiện thực tế sản xuất xây lắp không cho phép tính chi phí nguyên 
+liệu, vật liệu trực tiếp cho từng công trình, hạng mục công trình thì HTX có thể áp
+
+<<<TRANG 75>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+79 
+ 
+dụng phương pháp phân bổ vật liệu cho đối tượng sử dụng theo tiêu thức hợp lý (tỷ 
+lệ với định mức tiêu hao nguyên liệu, vật liệu,...). 
+k) Hạch toán khoản mục chi phí sử dụng máy thi công: 
+- Khoản mục chi phí sử dụng máy thi công bao gồm: Chi phí cho các máy thi 
+công nhằm thực hiện khối lượng công tác xây lắp bằng máy. Máy móc thi công là 
+loại máy trực tiếp phục vụ xây lắp công trình. Đó là những máy móc chuyển động 
+bằng động cơ hơi nước, diezen, xăng, điện,... (kể cả loại máy phục vụ xây, lắp). 
+- Chi phí sử dụng máy thi công bao gồm: Chi phí thường xuyên và chi phí tạm 
+thời. Chi phí thường xuyên cho hoạt động của máy thi công, gồm: Chi phí nhân 
+công điều khiển máy, phục vụ máy,...; Chi phí vật liệu; Chi phí công cụ, dụng cụ; 
+Chi phí khấu hao TSCĐ; Chi phí dịch vụ mua ngoài (chi phí sửa chữa nhỏ, điện, 
+nước, bảo hiểm xe, máy,...); Chi phí khác bằng tiền. 
+- Chi phí tạm thời cho hoạt động của máy thi công, gồm: Chi phí sửa chữa 
+lớn máy thi công (đại tu, trung tu,...) không đủ điều kiện ghi tăng nguyên giá 
+máy thi công; Chi phí công trình tạm thời cho máy thi công (lều, lán, bệ, đường 
+ray chạy máy,...). Chi phí tạm thời của máy có thể phát sinh trước được hạch 
+toán vào bên Nợ Tài khoản 2421, sau đó sẽ phân bổ dần vào Nợ Tài khoản 154 
+"Chi phí sản xuất kinh doanh dở dang"; Hoặc phát sinh sau, nhưng phải tính 
+trước vào chi phí sản xuất xây lắp trong kỳ (do liên quan tới việc sử dụng thực 
+tế máy móc thi công trong kỳ). Trường hợp này phải tiến hành trích trước chi 
+phí, ghi Có Tài khoản 338 "Phải trả khác", Nợ Tài khoản 154 chi tiết chi phí sử 
+dụng máy thi công. 
+l) Hạch toán khoản mục chi phí sản xuất chung: 
+Chi phí sản xuất chung phản ánh chi phí sản xuất của đội, công trường xây 
+dựng gồm: Lương nhân viên quản lý phân xưởng, tổ, đội xây dựng; Khoản trích 
+bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, 
+kinh phí công đoàn được tính theo tỉ lệ quy định trên tiền lương phải trả của nhân 
+viên sử dụng máy thi công và nhân viên quản lý phân xưởng, tổ, đội; Khấu hao tài 
+sản cố định dùng chung cho hoạt động của đội và những chi phí khác liên quan đến 
+hoạt động của đội,...
+
+<<<TRANG 76>>>
+80 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+6. Kết cấu và nội dung phản ánh của Tài khoản 154 - Chi phí sản xuất, 
+kinh doanh dở dang 
+Bên Nợ: 
+- Các chi phí nguyên liệu, vật liệu trực tiếp, chi phí nhân công trực tiếp, chi phí 
+sử dụng máy thi công, chi phí sản xuất chung phát sinh trong kỳ liên quan đến sản 
+xuất sản phẩm và chi phí thực hiện dịch vụ; 
+- Các chi phí nguyên liệu, vật liệu trực tiếp, chi phí nhân công trực tiếp, chi phí 
+sử dụng máy thi công, chi phí sản xuất chung phát sinh trong kỳ liên quan đến giá 
+thành sản phẩm xây lắp công trình hoặc giá thành xây lắp theo giá khoán nội bộ. 
+Bên Có: 
+- Giá thành sản xuất thực tế của sản phẩm đã chế tạo xong nhập kho, chuyển đi 
+bán, tiêu dùng nội bộ ngay hoặc sử dụng ngay vào hoạt động XDCB; 
+- Giá thành sản xuất sản phẩm xây lắp hoàn thành bàn giao từng phần, hoặc 
+toàn bộ tiêu thụ trong kỳ; hoặc bàn giao cho HTX nhận thầu chính xây lắp; hoặc 
+giá thành sản phẩm xây lắp hoàn thành chờ tiêu thụ; 
+- Chi phí thực tế của khối lượng dịch vụ đã hoàn thành cung cấp cho khách hàng; 
+- Trị giá phế liệu thu hồi, giá trị sản phẩm hỏng không sửa chữa được; 
+- Trị giá nguyên liệu, vật liệu, hàng hóa gia công xong nhập lại kho; 
+- Phản ánh chi phí nguyên vật liệu, chi phí nhân công vượt trên mức bình 
+thường không được tính vào trị giá hàng tồn kho mà phải tính vào giá vốn hàng 
+bán của kỳ kế toán. Đối với HTX sản xuất theo đơn đặt hàng, hoặc HTX có chu kỳ 
+sản xuất sản phẩm dài mà hàng kỳ kế toán đã phản ánh chi phí sản xuất chung cố 
+định vào TK 154 đến khi sản phẩm hoàn thành mới xác định được chi phí sản xuất 
+chung cố định không được tính vào trị giá hàng tồn kho thì phải hạch toán vào giá 
+vốn hàng bán (Nợ các TK 611, 612, Có TK 154). 
+Số dư bên Nợ: Chi phí sản xuất, kinh doanh còn dở dang cuối kỳ. 
+7. Phương pháp kế toán một số hoạt động kinh tế chủ yếu 
+7.1. Hạch toán dịch vụ tưới tiêu nước 
+a) Chi phí tu bổ, nạo vét kênh mương dẫn nước (sửa chữa tu bổ thường 
+xuyên), ghi:
+
+<<<TRANG 77>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+81 
+ 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 334 - Phải trả người lao động (Tiền công lao động phải trả thành viên 
+và lao động thuê ngoài) 
+Có TK 152 - Vật liệu, dụng cụ 
+Có TK 331 - Phải trả cho người bán (Khoán gọn cho bên ngoài sửa chữa, 
+nạo vét). 
+b) Xuất phụ tùng sửa chữa, thay thế máy bơm, trạm bơm, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 152 - Vật liệu, dụng cụ. 
+c) Khi mua xăng, dầu sử dụng cho máy bơm, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112, 141, 331. 
+d) Tiền điện và thủy lợi phí phải trả cho chi nhánh điện và công ty thủy 
+nông, ghi:  
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 331 - Phải trả cho người bán. 
+đ) Khi xác định tiền công lao động phải trả cho người lao động vận hành máy 
+và điều phối nước, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 334 - Phải trả người lao động. 
+e) Định kỳ, tính khấu hao máy bơm, trạm bơm, kênh mương dẫn nước, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 214 - Hao mòn TSCĐ. 
+g) Phân bổ dần chi phí chờ phân bổ vào chi phí sản xuất trong năm (Chi phí 
+sửa chữa lớn kênh mương, máy bơm, trạm bơm), ghi:
+
+<<<TRANG 78>>>
+82 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+Nợ TK 154 - Chi phí sản xuất kinh doanh dở dang 
+Có TK 242 - Tài sản khác (2421). 
+h) Cuối kỳ xác định số dịch vụ tưới tiêu nước hoàn thành xác định kết quả kinh 
+doanh trong kỳ, ghi: 
+Nợ các TK 611, 612 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+7.2. Hạch toán dịch vụ phòng trừ sâu bệnh cho cây trồng, vật nuôi 
+a) Về thuốc phòng trừ dịch bệnh cho cây trồng, vật nuôi: 
+- Nếu HTX mua về dự trữ trong kho, khi xuất kho ra sử dụng, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang (Chi tiết dịch vụ bảo vệ cây 
+trồng vật nuôi) 
+Có TK 152 - Vật liệu, dụng cụ. 
+- Nếu HTX mua về sử dụng ngay không nhập kho, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang  
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112.  
+b) Xuất công cụ, dụng cụ ra sử dụng (Bình bơm thuốc sâu…) 
+- Khi xuất kho, ghi: 
+Nợ TK 242 - Tài sản khác (2421) 
+Có TK 152 - Vật liệu, dụng cụ. 
+Đồng thời ghi đơn bên Nợ TK 005 - Công cụ, dụng cụ lâu bền đang sử dụng. 
+- Xác định số phân bổ giá trị công cụ, dụng cụ vào chi phí, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang (Chi tiết dịch vụ bảo vệ cây 
+trồng vật nuôi) 
+Có TK 242 - Tài sản khác (2421). 
+c) Đối với HTX có sử dụng máy bơm thuốc trừ sâu chạy bằng xăng dầu 
+- Chi phí về xăng dầu chạy máy, ghi:
+
+<<<TRANG 79>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+83 
+ 
+Nợ TK 154 - Chi phí sản xuất kinh doanh dở dang (Chi tiết dịch vụ bảo vệ cây 
+trồng vật nuôi) 
+Có TK 111 - Tiền mặt (Mua xăng bằng tiền mặt sử dụng ngay) 
+Có TK 141 - Tạm ứng (Thanh toán tạm ứng tiền mua xăng) 
+Có TK 152 - Vật liệu, dụng cụ (Xuất xăng dầu trong kho ra sử dụng). 
+- Định kỳ, tính khấu hao máy bơm thuốc trừ sâu, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang (Chi tiết dịch vụ bảo vệ cây 
+trồng vật nuôi) 
+Có TK 214 - Hao mòn tài sản cố định. 
+d) Xác định số tiền công lao động phải thanh toán cho thành viên, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang (Chi tiết dịch vụ bảo vệ cây 
+trồng vật nuôi) 
+Có TK 334 - Phải trả người lao động. 
+đ) Cuối kỳ, kết chuyển chi phí dịch vụ phòng trừ sâu bệnh đã hoàn thành vào 
+Tài khoản giá vốn hàng bán để xác định kết quả kinh doanh, ghi: 
+Nợ các TK 611, 612 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+7.3. Hạch toán dịch vụ cung cấp vật tư nông nghiệp 
+a) HTX mua vật tư nông nghiệp về nhập kho: 
+- Khi mua vật tư về nhập kho, ghi:  
+Nợ TK 156 - Thành phẩm, hàng hóa (Giá mua ghi trên hóa đơn) 
+Nợ TK 133- Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112, 331. 
+- Khi xuất vật tư bán, cung cấp cho khách hàng, ghi: 
+Nợ các TK 611, 612  
+Có TK 156 - Thành phẩm, hàng hóa (Giá xuất kho). 
+Đồng thời căn cứ hóa đơn bán hàng hóa, phản ánh doanh thu, ghi: 
+Nợ TK 111 - Tiền mặt (Bán thu tiền ngay)
+
+<<<TRANG 80>>>
+84 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+Nợ TK 131 - Phải thu của khách hàng 
+Có các TK 511, 512  
+Có TK 3331 - Thuế GTGT phải nộp (nếu có). 
+- Chi phí vận chuyển, bốc xếp, chi phí bán hàng: 
+Nợ TK 642 - Chi phí quản lý kinh doanh 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112 (Chi phí vận chuyển) 
+Có TK 141 - Tạm ứng (Thanh toán tạm ứng tiền vận chuyển) 
+Có TK 331 - Phải trả cho người bán (Chi phí vận chuyển còn nợ chưa 
+thanh toán). 
+b) HTX mua vật tư về giao ngay cho khách hàng: 
+- Khi vật tư về tới HTX giao ngay cho khách hàng theo số lượng đã ký kết, ghi: 
+Nợ các TK 611, 612 (Chi tiết dịch vụ cung cấp vật tư) (Theo giá mua trên 
+hóa đơn) 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112, 331  
+Đồng thời phản ánh doanh thu cung cấp vật tư nông nghiệp cho khách hàng, ghi: 
+Nợ TK 111 - Tiền mặt (Bán thu tiền ngay) 
+Nợ TK 131 - Phải thu của khách hàng 
+Có các TK 511, 512 (Giá bán) 
+Có TK 3331 - Thuế GTGT phải nộp (nếu có).  
+- Chi phí vận chuyển, bốc xếp, chi phí bán hàng (nếu có), ghi: 
+Nợ TK 642 - Chi phí quản lý kinh doanh 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112 (Chi phí vận chuyển) 
+Có TK 141 - Tạm ứng (Thanh toán tạm ứng tiền vận chuyển) 
+Có TK 331 - Phải trả cho người bán (Chi phí vận chuyển còn nợ chưa 
+thanh toán).
+
+<<<TRANG 81>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+85 
+ 
+7.4. Hạch toán dịch vụ sản xuất và cung cấp hạt giống 
+a) Trường hợp HTX đi mua giống mới ở công ty giống cây trồng về bán cho 
+khách hàng: 
+- Khi mua hạt giống về nhập kho, ghi: 
+Nợ TK 156 - Thành phẩm, hàng hóa (Chi tiết dịch vụ cung cấp giống) 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112, 331.  
+- Khi xuất kho hạt giống bán cho khách hàng, ghi: 
+Nợ các TK 611, 612 (Chi tiết dịch vụ giống) 
+Có TK 156 - Thành phẩm, hàng hóa (giá xuất kho). 
+- Trường hợp mua hạt giống về giao ngay cho khách hàng, ghi: 
+Nợ các TK 611, 612 (Chi tiết dịch vụ giống) 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112, 331.  
+Đồng thời ghi nhận doanh thu về bán hạt giống cho khách hàng, ghi: 
+Nợ TK 111 - Tiền mặt (Bán thu tiền ngay) 
+Nợ TK 131 - Phải thu của khách hàng 
+Có các TK 511, 512 (Giá bán) 
+Có TK 3331 - Thuế GTGT phải nộp (nếu có). 
+- Chi phí vận chuyển giống và các chi phí khác liên quan đến việc đi nhận 
+giống, ghi: 
+Nợ TK 642 - Chi phí quản lý kinh doanh 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112, 141, 331.... 
+- Các chi phí phát sinh trong quá trình bảo quản, bán giống, ghi: 
+Nợ TK 642 - Chi phí quản lý kinh doanh 
+Có TK 334 - Phải trả người lao động
+
+<<<TRANG 82>>>
+86 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+Có TK 214 - Hao mòn TSCĐ 
+Có TK 152 - Vật liệu, dụng cụ. 
+b) Trường hợp HTX nhận giống mới về giao cho khách hàng có kinh nghiệm 
+để sản xuất nhân giống. Tùy theo thỏa thuận trong hợp đồng giữa HTX với các hộ 
+sản xuất giống mà HTX có thể đầu tư thêm chi phí cho khách hàng và mua lại toàn 
+bộ số giống của khách hàng sản xuất ra để cung cấp đại trà. 
+- Khi HTX nhận giống do mua ngoài về giao cho các thành viên gia công nhân 
+giống cho HTX, khi giao giống, ghi:  
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang (Chi tiết dịch vụ cung 
+cấp giống) 
+Có các TK 111, 141, 331. 
+- Các chi phí HTX phải trả cho các thành viên gia công giống, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có các TK 111, 112, 331.  
+- Khi các thành viên gia công giống xong giao giống trả lại cho HTX, ghi: 
+Nợ TK 156 - Thành phẩm, hàng hóa  
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+- Khi HTX xuất giống bán cho các thành viên: 
++ Phản ánh giá vốn số giống HTX xuất bán, ghi: 
+Nợ các TK 611, 612 
+Có TK 156 - Thành phẩm, hàng hóa. 
++ Phản ánh doanh thu về bán giống, ghi: 
+Nợ các TK 111, 112 (Bán thu tiền ngay) 
+Nợ TK 131 - Phải thu của khách hàng 
+Có các TK 511, 512 (Chi tiết dịch vụ cung cấp giống) 
+Có TK 3331 - Thuế GTGT phải nộp (nếu có). 
+- Trường hợp HTX đổi giống cho các thành viên: 
++ Khi xuất giống ra đổi giống khác về, ghi:
+
+<<<TRANG 83>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+87 
+ 
+Nợ các TK 611, 612  
+Có TK 156 - Thành phẩm, hàng hóa. 
++ Phản ánh doanh thu của số giống mang đi trao đổi theo giá trị hợp lý, ghi: 
+Nợ TK 131 - Phải thu của khách hàng 
+Có các TK 511, 512  
+Có TK 3331 - Thuế GTGT phải nộp (nếu có). 
++ Khi nhận giống do trao đổi, kế toán phản ánh giá trị giống nhận về theo giá 
+trị hợp lý, ghi: 
+Nợ các TK 152, 156 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có TK 131 - Phải thu của khách hàng. 
++ Trường hợp HTX phải trả thêm tiền cho thành viên, ghi: 
+Nợ TK 131 - Phải thu của khách hàng 
+Có các TK 111, 112. 
++ Trường hợp thành viên phải trả thêm tiền cho HTX, ghi: 
+Nợ các TK 111, 112 
+Có TK 131 - Phải thu của khách hàng. 
+7.5. Hạch toán các nghiệp vụ khuyến nông, khuyến lâm, khuyến ngư 
+a) Thu tiền đóng góp của thành viên (đóng theo các tiêu thức do HTX quy 
+định) để hình thành quỹ khuyến nông, khuyến lâm, khuyến ngư của HTX, ghi: 
+Nợ các TK 111, 112 
+Nợ TK 156 - Thành phẩm, hàng hóa (Nếu thu bằng sản phẩm) 
+Có TK 338 - Phải trả khác (Chi tiết quỹ khuyến nông, khuyến lâm, khuyến ngư). 
+b) Khi chi bồi dưỡng cho báo cáo viên hướng dẫn kỹ thuật, ghi: 
+Nợ TK 338 - Phải trả khác (Chi tiết quỹ khuyến nông, khuyến lâm) 
+Nợ TK 333 - Thuế và các khoản phải nộp Nhà nước (3338) (Thuế TNCN số 
+tiền khấu trừ tại nguồn) 
+Có các TK 111, 112.
+
+<<<TRANG 84>>>
+88 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+7.6. Hạch toán sản xuất, chế biến nông sản hoặc sản xuất ngành nghề 
+a) Xuất nguyên liệu, vật liệu sử dụng sản xuất, kinh doanh ngành nghề hoặc 
+chế biến nông sản thuê ngoài gia công vật liệu, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+ Có TK 152 - Vật liệu, dụng cụ. 
+b) Các khoản chi phí chờ phân bổ được phân bổ vào chi phí ngành nghề, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 242 - Tài sản khác (2421). 
+c) Tiền công phải trả cho thành viên hoặc lao động thuê ngoài, ghi: 
+ Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 334 - Phải trả người lao động. 
+d) Trích khấu hao TSCĐ sử dụng trực tiếp cho sản xuất, kinh doanh ngành 
+nghề hoặc chế biến nông sản, ghi: 
+ Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 214 - Hao mòn TSCĐ. 
+đ) Chi phí dịch vụ mua ngoài, thuê ngoài (điện, chi phí bốc xếp, vận chuyển, 
+tiền thuê TSCĐ,...), chi phí khác bằng tiền phát sinh trực tiếp ở các bộ phận sản 
+xuất ngành nghề hoặc chế biến nông sản, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112, 331.  
+e) Giá thành thực tế sản phẩm nhập kho, ghi: 
+Nợ TK 156 - Thành phẩm, hàng hóa 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+g) Trường hợp sản phẩm sản xuất xong không nhập kho chuyển thẳng đi tiêu 
+thụ, ghi: 
+Nợ các TK 611, 612  
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang.
+
+<<<TRANG 85>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+89 
+ 
+7.7. Hạch toán cho thuê tài sản hoặc khoán gọn 
+- Trường hợp HTX có cơ sở vật chất và các tài sản khác không sử dụng có thể 
+cho các bộ phận, cá nhân trong và ngoài HTX thuê. 
+- Trường hợp HTX sử dụng tư cách pháp nhân của mình để giao dịch ký kết 
+hợp đồng, còn việc sản xuất kinh doanh khoán gọn cho 1 tổ, 1 nhóm tự kinh 
+doanh. Cuối vụ, cuối năm nộp cho HTX 1 khoản theo quy định (có thể trong đó có 
+cả phần nộp thuế, nộp khấu hao, nộp quỹ HTX…). 
+Các trường hợp trên HTX hạch toán phần chi phí và số thu về như sau: 
+a) Các khoản chi phí cho hoạt động này (Chủ yếu là khấu hao TSCĐ), ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 214 - Hao mòn TSCĐ 
+Có các TK khác (Chi phí khác có liên quan). 
+b) Số thu về cho thuê tài sản, về khoán gọn người nhận khoán phải nộp, ghi: 
+Nợ các TK 111, 112, 131  
+Có các TK 511, 512  
+Có TK 3331 - Thuế GTGT phải nộp (nếu có). 
+c) Các bút toán còn lại khác tương tự như các phần trên. 
+7.8. Hạch toán đi thuê Tài sản cố định (Thuê hoạt động) 
+Tài sản cố định thuê hoạt động là tài sản thuê để sử dụng, hết thời hạn hợp 
+đồng thuê sẽ hoàn trả người cho thuê, bao gồm: những TSCĐ thuê của cá nhân, 
+đơn vị khác. 
+- Giá trị tài sản đi thuê theo hợp đồng hạch toán trên Tài khoản 001 “Tài sản 
+thuê ngoài”. 
+- HTX không phải trích khấu hao tài sản cố định đi thuê. 
+- Tiền đi thuê tài sản phải trả HTX hạch toán vào chi phí sản xuất kinh doanh 
+hoặc chi phí quản lý HTX của bộ phận sử dụng tài sản đi thuê. 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang (Nếu tài sản dùng cho 
+SXKD)
+
+<<<TRANG 86>>>
+90 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+Nợ TK 642 - Chi phí quản lý kinh doanh (Nếu tài sản dùng cho quản lý HTX) 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112, 331.  
+7.9. Hạch toán trong ngành Công nghiệp 
+a) Khi xuất vật liệu, dụng cụ sử dụng cho hoạt động sản xuất sản phẩm trong 
+kỳ, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang  
+Có TK 152 - Vật liệu, dụng cụ. 
+- Khi xuất công cụ, dụng cụ có giá trị lớn sử dụng cho nhiều kỳ sản xuất, kinh 
+doanh phải phân bổ dần, ghi: 
+Nợ TK 242 - Tài sản khác (2421) 
+Có TK 152 - Vật liệu, dụng cụ. 
+Đồng thời ghi Nợ TK 005. 
+- Khi phân bổ giá trị công cụ, dụng cụ vào chi phí sản xuất, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 242 - Tài sản khác (2421). 
+b) Khi mua vật liệu, dụng cụ sử dụng ngay (không qua nhập kho) cho hoạt 
+động sản xuất sản phẩm hoặc thực hiện dịch vụ thuộc đối tượng chịu thuế GTGT 
+tính theo phương pháp khấu trừ, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang (Giá mua chưa có thuế GTGT)  
+Nợ TK 133 - Thuế GTGT được khấu trừ (1331) 
+Có các TK 331, 141, 111, 112,... 
+Khi mua vật liệu, dụng cụ (không qua nhập kho) sử dụng ngay cho hoạt động 
+sản xuất sản phẩm hoặc thực hiện dịch vụ không thuộc đối tượng chịu thuế GTGT 
+hoặc thuộc đối tượng chịu thuế GTGT tính theo phương pháp trực tiếp thì giá mua 
+vật liệu, dụng cụ bao gồm cả thuế GTGT. 
+Trường hợp mua công cụ, dụng cụ lâu bền về sử dụng ngay, đồng thời ghi Nợ 
+TK 005.
+
+<<<TRANG 87>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+91 
+ 
+c) Khi số vật liệu, dụng cụ xuất ra cho hoạt động sản xuất sản phẩm hoặc thực 
+hiện dịch vụ cuối kỳ không sử dụng hết nhập lại kho, ghi: 
+Nợ TK 152 - Vật liệu, dụng cụ 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+d) Tiền lương, tiền công và các khoản khác phải trả cho công nhân sản xuất, 
+nhân viên quản lý bộ phận sản xuất, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 334 - Phải trả người lao động. 
+đ) Tính, trích bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm 
+tai nạn lao động, kinh phí công đoàn (Phần tính vào chi phí HTX phải chịu) tính 
+trên số tiền lương, tiền công phải trả công nhân sản xuất, nhân viên quản lý bộ 
+phận sản xuất theo chế độ quy định, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 335 - Các khoản phải nộp theo lương. 
+e) Khi trích trước tiền lương nghỉ phép của công nhân sản xuất (nếu có), ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 335 - Các khoản phải nộp theo lương. 
+g) Trích khấu hao máy móc, thiết bị, nhà xưởng sản xuất,... thuộc các phân 
+xưởng, bộ phận, tổ, đội sản xuất, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 214 - Hao mòn TSCĐ. 
+h) Chi phí điện, nước, điện thoại,... thuộc phân xưởng, bộ phận sản xuất, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Nợ TK 133 - Thuế GTGT được khấu trừ (Nếu có) 
+Có các TK 111, 112, 331,... 
+i) Trị giá vật liệu, dụng cụ xuất thuê ngoài gia công, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+Có TK 152 - Vật liệu, dụng cụ.
+
+<<<TRANG 88>>>
+92 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+k) Nhập kho giá trị vật liệu, dụng cụ, công cụ dụng cụ gia công chế biến 
+xong, ghi: 
+Nợ TK 152 - Vật liệu, dụng cụ 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+l) Trị giá sản phẩm hỏng không sửa chữa được, người gây ra thiệt hại sản 
+phẩm hỏng phải bồi thường, ghi: 
+Nợ TK 138 - Phải thu khác  
+Nợ TK 334 - Phải trả người lao động 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+m) Chi phí vật liệu, dụng cụ, chi phí nhân công trực tiếp vượt trên mức bình 
+thường, chi phí sản xuất chung cố định không phân bổ (không được tính vào trị giá 
+hàng tồn kho) phải hạch toán vào giá vốn hàng bán của kỳ kế toán, ghi: 
+Nợ các TK 611, 612  
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang.  
+n) Giá thành sản xuất thực tế sản phẩm sản xuất xong nhập kho hoặc tiêu thụ 
+ngay, ghi:  
+Nợ TK 156 - Thành phẩm, hàng hóa (nếu nhập kho) 
+Nợ các TK 611, 612 (nếu sản xuất xong tiêu thụ ngay) 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+o) Trường hợp sản phẩm sản xuất ra được sử dụng tiêu dùng nội bộ ngay hoặc 
+tiếp tục xuất dùng cho hoạt động XDCB không qua nhập kho, ghi: 
+Nợ các TK 642, 2422 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+p) Trường hợp sau khi đã xuất kho nguyên vật liệu đưa vào sản xuất, nếu nhận 
+được khoản chiết khấu thương mại hoặc giảm giá hàng bán liên quan đến nguyên 
+vật liệu đó, kế toán ghi giảm chi phí sản xuất kinh doanh dở dang đối với phần 
+chiết khấu thương mại, giảm giá hàng bán được hưởng tương ứng với số nguyên 
+vật liệu đã xuất dùng để sản xuất sản phẩm dở dang, ghi:
+
+<<<TRANG 89>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+93 
+ 
+Nợ các TK 111, 112, 331,.... 
+Có TK 154 - Chi phí sản xuất kinh doanh dở dang (phần chiết khấu thương 
+mại, giảm giá hàng bán được hưởng tương ứng với số nguyên vật liệu đã xuất dùng 
+để sản xuất sản phẩm dở dang) 
+Có TK 133 - Thuế GTGT được khấu trừ (1331) (nếu có).  
+q) Trường hợp sản phẩm sản xuất xong, không tiến hành nhập kho hoặc dịch 
+vụ sản xuất xong mà chuyển giao thẳng cho người mua hàng (sản phẩm điện, 
+nước...), ghi: 
+Nợ các TK 611, 612  
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+7.10. Hạch toán trong ngành kinh doanh dịch vụ 
+Phương pháp kế toán trên Tài khoản 154 tại các HTX thuộc ngành kinh 
+doanh dịch vụ tương tự như đối với ngành công nghiệp. Ngoài ra cần chú ý các 
+nghiệp vụ: 
+a) Kết chuyển giá thành thực tế của khối lượng dịch vụ đã hoàn thành và đã 
+chuyển giao cho người mua và được xác định là đã bán trong kỳ, ghi: 
+Nợ các TK 611, 612  
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+b) Khi sử dụng dịch vụ tiêu dùng nội bộ, ghi: 
+Nợ các TK 154, 242, 642 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+7.11. Hạch toán trong ngành xây dựng 
+7.11.1. Hạch toán tập hợp chi phí xây lắp (bên Nợ Tài khoản 154 chi tiết 
+“Xây lắp”): 
+a) Hạch toán khoản mục vật liệu, dụng cụ trực tiếp:  
+Căn cứ vào Bảng phân bổ vật liệu, dụng cụ cho từng công trình, hạng mục 
+công trình, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang (chi tiết chi phí vật liệu, 
+dụng cụ trực tiếp)  
+Nợ các TK 611, 612 (chi phí nguyên vật liệu trực tiếp trên mức bình thường) 
+Có TK 152 - Vật liệu, dụng cụ.
+
+<<<TRANG 90>>>
+94 
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+  
+b) Hạch toán khoản mục chi phí nhân công trực tiếp:  
+- Tiền lương, tiền công và các khoản khác phải trả cho công nhân sản xuất, 
+nhân viên quản lý bộ phận xây lắp, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 334 - Phải trả người lao động. 
+- Tính, trích bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai 
+nạn lao động, kinh phí công đoàn (Phần tính vào chi phí HTX phải chịu) tính trên 
+số tiền lương, tiền công phải trả công nhân sản xuất, nhân viên quản lý bộ phận 
+xây lắp theo chế độ quy định, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 335 - Các khoản phải nộp theo lương. 
+c) Hạch toán khoản mục chi phí sử dụng máy thi công: 
+Căn cứ vào Bảng phân bổ chi phí sử dụng máy thi công (chi phí thực tế ca 
+máy) tính cho từng công trình, hạng mục công trình, ghi:  
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Nợ các TK 611, 612 (số chi phí trên mức bình thường) 
+Có các TK 111, 112, 242, 152, 331, 334, 335,…  
+d) Hạch toán khoản mục chi phí sản xuất chung: 
+Khi phát sinh các khoản chi phí sản xuất chung trong kỳ, căn cứ vào các chứng 
+từ có liên quan, ghi: 
+Nợ TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Nợ TK 133 - Thuế GTGT được khấu trừ (nếu có) 
+Có các TK 111, 112, 152, 214, 242, 334, 338,... 
+7.11.2. Hạch toán kết chuyển chi phí xây lắp (bên Có TK 154 chi tiết "Xây lắp"): 
+a) Các chi phí của hợp đồng không thể thu hồi (ví dụ: Không đủ tính thực thi 
+về mặt pháp lý như có sự nghi ngờ về hiệu lực của nó, hoặc hợp đồng mà khách 
+hàng không thể thực thi nghĩa vụ của mình...) phải được ghi nhận ngay vào giá vốn 
+hàng bán trong kỳ, ghi:
+
+<<<TRANG 91>>>
+CÔNG BÁO/Số 1133 + 1134/Ngày 25-10-2024 
+95 
+ 
+Nợ các TK 611, 612  
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang. 
+b) Các khoản thu từ việc bán vật liệu, dụng cụ thừa, phế liệu thu hồi và thanh 
+lý máy móc, thiết bị thi công khi kết thúc hợp đồng xây dựng: 
+Nợ các TK 111, 112, 131,... (tổng giá thanh toán) 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang 
+Có TK 3331 - Thuế GTGT phải nộp (nếu có). 
+c) Cuối kỳ, căn cứ vào giá thành sản xuất sản phẩm xây lắp thực tế hoàn thành 
+chờ bán hoặc được xác định là đã bán: 
+- Trường hợp sản phẩm xây lắp bàn giao cho khách hàng, được xác định là đã 
+bán, căn cứ vào giá thành sản phẩm xây lắp hoàn thành, ghi: 
+Nợ các TK 611, 612  
+Có TK 154 - Chí phí sản xuất, kinh doanh dở dang (chi tiết “Xây lắp”). 
+- Trường hợp sản phẩm xây lắp hoàn thành chờ bán, căn cứ vào giá thành sản 
+phẩm xây lắp hoàn thành chờ bán, ghi: 
+Nợ TK 156 - Thành phẩm, hàng hóa 
+Có TK 154 - Chi phí sản xuất, kinh doanh dở dang (chi tiết “Xây lắp”). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Xem tiếp Công báo số 1135 + 1136)
+
+<<<TRANG 92>>>
+

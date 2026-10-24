@@ -1,0 +1,4195 @@
+<<<TRANG 1>>>
+Người ký: CỤC THÔNG TIN VÀ TRUYỀN THÔNG CHÍNH PHÙ
+đổ Ò Email: thonglinchinhphu@chinhphu.vn gỹ
+/ Ềg j(Ĩ<:f quan: VĂN PHÒNG CHÍNH PHÙ - ,
+
+Thời gian ký: 28.07.2026 10:01:53 +07:00
+
+BỘ TÀI CHÍNH CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+VĂN PHÒNG CHÍNH PHỦ
+
+CÔNG VĂN ĐÊ'|xjS :91/2026/TT-BTC Hà Nội, ngày 30 tháng 6 năm 2026
+
+THÔNG TƯ
+
+Quy định một số điều của Luật Quần lý fflue và Ngh1 ổnh số
+254/2026/NĐ- CP của Chính phủ quy định chỉ tiết một số điều m biện
+
+¬pháp để tổ chức, hướng dẫn thi hành Luật Quản lý thuế số
+108/2025/QH15 về hóa đơn điện tử, chứng từ điện tứ
+
+lìẦ N9ay _2rẹtT’ỈĨ’lẵffJ›Z.Ế
+
+ăn cứ Luật Quản lý thuế số 108/2025/QH15;
+
+Căn cứ Nghị định số 254/2026/NĐ-CP của Chính phủ quy định chỉ tiết
+một số điều và biện pháp để tổ chức, hướng dẫn thì hành Luật Quản lý thuế
+số 108/2025/QH15 về hóa đơn điện tử, chứng từ điện tử;
+
+Căn cứ Nghị ẽỉz'nh số ÃV2025/NĐ CP của Chính phủ quy định chức
+năng, nhiệm vụ, quyền han và cơ cấu tổ chức của Bộ Tài dzmh được sửa đổi,
+bồ sung tại Nghị định số 166/2025/NĐ-CP;
+
+Theo đề nghị của Cục trưởng Cục Thuế;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư quy định một số điều của
+Tuật Quản lý thuế và Nghị định số 254/2026/NĐ-CP của Chính phủ quy định
+chỉ tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Quản b
+thuế số 108/2025/QH15 về hóa đơn điện tử, chứng từ điện tử.
+
+Chương J
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+1. Quy định chỉ tiết khoản 4, khoản 7 Điều 26, khoản 3, khoản 5 Điều
+27 Luật Quản lý thuế, bao gồm:
+
+a) Đăng ký sử dụng hóa đơn điện tử; định dạng hóa đơn điện tử; ủy
+nhiệm lập hóa đơn điện tử; xử lý hóa đơn điện tử đã lập; ký hiệu mẫu, ký hiệu
+và mẫu hóa đơn điện tử tham khảo; chuyển đổi áp dụng hóa đơn điện tử; tiêu
+chí xác định người nộp thuế có rủi ro cao trong đăng ký sử dụng hóa đơn điện
+tử; các trường hợp ngừng, tạm ngừng sử dụng hóa đơn điện tử; biện pháp
+khuyến khích người mua lấy hóa đơn khi mua hàng hóa, dịch vụ và thực hiện
+khen thưởng người tiêu dùng tố giác người bán không lập và giao hóa đơn
+
+<<<TRANG 2>>>
+2
+
+điện tử từ nguồn kinh phí do ngân sách nhà nước bảo đảm trong dự toán chỉ
+thường xuyên hằng năm theo quy định của pháp luật;
+
+b) Việc đăng ký sử dụng chứng từ điện tử; định dạng chứng từ điện tử;
+xử lý chứng từ điện tử đã lập; ký hiệu mẫu, ký hiệu chứng từ điện tử và mẫu
+chứng từ điện tử tham khảo;
+
+c) Điều kiện kỹ thuật, nhân sự, bảo đảm an toàn thông tìn, bảo mật dữ
+liệu của tổ chức cung uẫp địch vụ hóa đơn điện tử, chứng từ điện tử.
+
+2. Quy định chỉ tiết khoản 1, khoản 3, khoản 5, khoản 7 Điều 4, điểm
+a.2.5, điểm b.1].5, điểm d khoản 2 Điều 6, khoản 8 Điều 8, điểm a, điểm q
+khoản 4 Điều 9, khoản 7, khoản 8 Điều 10, điểm a.2, a.3, a.4 khoản 2 Điều
+12, điểm a.1, điểm a.2 khoản 3 Điều 16, khoản 2 Điều 22, điểm b khoản 3
+Điều 29, khoản 4 Điều 37, khoản 5 Điều 41, Điều 44 Nghị định số
+254/2026/NĐ-CP của Chính phủ, bao gồm:
+
+a) Trình tụ, thủ tục cấp hóa đơn điện tử theo từng lần phát sinh;
+b) Nội dung hóa đơn giá trị gia tăng kiêm tờ khai hoàn thuế;
+
+c) Các trường hợp d1uyến dữ hệu hóa đơn điện tử, chứng từ điện tử, cơ
+sở dữ liệu thông tin chỉ tiết giao dịch phát sinh theo mẫu quy định bao gồm:
+hoạt động kinh doanh casino và trò chơi điện tử có thưởng: chuyển dữ liệu
+hóa đơn điện tử theo bảng Ổng hợp dữ liệu hóa đơn điện tử; bảng tổng hợp dữ
+
+_
+
+liệu biên lai điện tử; chuyển cơ sở dữ liệu thông tin chí tiết giao dịch theo -
+
+bảng thông tin chỉ tiết giao dịch;
+
+d) Cung uẩp, tra cứu thông tin hóa đơn điện tử; đăng ký mới, bổ sung
+thông tin đăng ký, thu hồi tài khoản truy cập Hệ thống thông tin quản lý thuế;
+chấm đứt sử dụng các hình thức cung cấp, sử dụng thông tin hóa đơn điện tử;
+
+đ) Mức khen fflưởng, hình thức, trình tự, thủ tục khen fflưởng, quản lý,
+sử dụng kinh phí khen thưởng người tiêu dùng tố giác người bán không lập và
+giao hóa đơn điện tử;
+
+e) Trình tự, thủ tục tiêu hủy hóa đơn đặt in của cơ quan thuế, biên lai
+giấy, hóa đơn bán hàng dự trữ quốc gia (hóa đơn bằng giấy).
+
+Điều 2. Đối tượng áp dụng
+
+Đối tượng áp dụng quy định tại Thông tư này là tổ chức, cá nhân quy
+ˆ định tại Điều 2 Nghị định số 254/2026/NĐ-CP.
+
+<<<TRANG 3>>>
+Chương JI
+QUY ĐỊNH ĐÓI VỚI HÓA ĐƠN ĐIỆN TỬ
+Điều 3. Định dạng hóa đơn điện tứ
+
+1. Định dạng hóa đơn điện tử là Ueu chuẩn kỹ ffluat quy định kiểu dữ
+liệu, chiều dài dữ liệu của các trường. fflong tin phục vụ ưuyen nhận, lưu trữ
+và hiển thị hóa đơn điện tử. Định dạng hóa đơn điện tử sử dụng ngon ngữ
+định dạng văn bản XML (XML là chữ viết tắt của cụm từ tiếng Anh
+“eXtensible Markup Language? được tạo ra với mục đích chia sẻ dữ liệu điện
+tử giữa các hệ thống công nghệ thông un).
+
+2. Định dạng hóa đơn điện tử gồm hai thành phần: thành phần chứa dữ
+liệu nghiệp vụ hóa đơn điện tử và thành phần chứa dữ liệu chữ ký số. Đối với
+hóa đơn điện tử có mã của cơ quan thuế thì có thêm thành phần chứa dữ liệu
+liên quan đến mã cơ quan thuế.
+
+3, Cục Thuế xây fflmg thành phần chứa dữ liệu nghiệp vụ hóa đơn điện
+tử và phương thức truyền nhận với cơ quan thuế. ffleng với hóa đơn giá trị gìa
+tăng kiêm tờ khai hoàn thuế, Cục Thuế chủ trì Cục Hải quan phm bợp xây
+dựng thành phần chứa dữ liệu nghiệp vụ đối với các nội dung trên hoá đơn
+dành cho cơ quan hải quan và ngân hàng thương mại là đại lý hoàn thuế. Cục
+Thuế công bồố thành phần chứa dữ liệu nghiệp vụ hóa đơn điện tử và phương
+thức truyền nhận với cơ quan quản lý thuế để áp dụng thống nhất; cung cấp
+công cụ hiển thị các nội dung của hóa đơn điện tử theo quy định tại Thông tư
+này. Thành phần chứa dữ liệu chữ ký số thực hiện theo quy định của pháp hiật
+giao dịch điện tử.
+
+4. Tổ chức kinh tế theo quy định tại điểm b.1 khoản 3 Điều 16 Nghị
+
+định số 254/2026/NĐ-CP khi ủuyen dữ liệu hóa đơn điện tử đến cơ quan
+thuế bằng hình thức gửi trực tiếp phải đáp ứng yêu cầu sau:
+
+a) Kết nổi với Cục Thuế thông qua kênh thuê neng hoặc kênh MPLS
+VPN Layer 3, gồm ] kênh ưuyen chính và 1 kênh truyền dự phòng. Mc>1 kênh
+truyền có băng thông tối thiểu 5 Mbps;
+
+b) Sử dụng dịch vụ Web (Web SeTvice) hoặc M<essé1zrgE:`Que:ue: (MQ) có
+mã hóa làm phương thức đề kết nối;
+
+c) Sử dụng giao thức SOAP đề đóng gói và truyền nhận dữ liệu.
+
+5. Hóa đơn điện tử phải được hiển thị ửỀy đủ, chính xác các nội dung
+của hóa đơn đảm bảo không dẫn tới cách hiểu sai lệch, đề người mua có thể
+đọc được bằng phương tiện điện tử.
+
+<<<TRANG 4>>>
+Điều 4. Ký hiệu mẫnu, ký hiệu và mẫu hóa đơn điện tử tham khảo
+
+1, Ký hiệu mẫu hóa đơn điện tử là ký tự có một ủu số tự nhiên là fflc
+số 1,2,3,4, 5, 6, 7, 8, 9 để phản ánh loại hóa đơn điện tử, - ˆ
+
+2. Ký hiệu hóa đơn điện tử là nhóm sáu ký tự r
+số thể hiện ký hiệu hóa đơn điện tử để phản ánh các thốn loại hóa đơn :
+điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử không có mã của cơ -
+quan thuế, năm lập hóa đơn, loại hóa đơn điện tử được sử dung
+
+3. Tên, địa chỉ, mã số thuế của bên nhận ủy nhiệm đối với hóa đơn điện
+tử ủy nhiệm.
+
+4. Quy định chỉ tiết về ký hiệu mẫu, ký hiệu hóa đơn tại Phụ lục I kèm
+theo Thông tư này.
+
+5. Mẫu hiển thị các loại hóa đơn điện tử quy định tại Phụ lục V kèm
+theo Thông tư này để các đối tượng tại Điều 2 Thông tư này tham.khảo trong
+quá trình thực hiện.
+
+6. Các trường hợp chuyển dữ liệu hóa đơn điện tử, chứng từ điện tử:
+
+a) Người nộp thuế theo quy định tại điểm q khoản 4 Điều 9 Nghị định
+số 254/2026/NĐ-CP thực hiện chuyến dữ liệu theo Bảng Ổng hợp doanh thu
+theo Mẫu số 01/TH-DT Phụ lục III kèm theo Thông tư này;
+
+b) Người nộp thuế theo quy định tại điểm a.1 khoản 3 Điều 16 Nghị
+định số 254/2026/NĐ-CP thực hiện chuyển dữ liệu hóa đơn điện tử theo Bảng
+tổng hợp dữ liệu hóa đơn điện tử gửi cơ quan thuế theo Mẫu số 01/TH-HĐĐT
+Phụ lục III kèm theo Thông tư này;
+
+c) Người nộp thuế theo quy định tại điểm a.2 khoản 3 Điều 16 Nghị
+định số 254/2026/NĐ-CP thực hiện chuyển cơ sở dữ liệu thông tin chí tiết
+-giao dịch phát sinh theo Bảng thông tin chỉ tiết giao dịch theo Mẫu số
+01/TTGD Phụ lục II kèm theo Thông tư này;
+
+d) Tổ chức thu thuế, phí, lệ phí điện tử, tổ chức nhận ủy nhiệm lập biên
+lai theo quy định tại điểm b khoản 3 Điều 29 Nghị định số 254/2026/NĐ-CP
+thực hiện chuyển dữ liệu biên lai điện tử theo Bảng tổng hợp dữ liệu biên lai
+điện tử gửi cơ quan thuế theo Mẫu số 01/TH-BLĐT Phụ lục HI kèm theo
+Thông tư này.
+
+Điều 5. Nội dung hóa đơn giá trị gia tăng kiêm tờ khai hoàn thuế
+
+1. Nội dung hóa đơn
+
+<<<TRANG 5>>>
+5
+
+a) Phần A dành cho doanh nghiệp bán hàng hoàn thuế lập khi bán hàng
+hóa, gồm các nội dung sau:
+
+a.1) Tên hóa đơn: HÓA ĐƠN GIÁ TRỊ GIA TĂNG KIÊM TỜ KHAI
+HOÀN THUẾ;
+
+a.2) Ký hiệu hóa đơn, kíýhiệu mẫu số hóa fflìh;
+
+a.3) Thông tin về doanh nghiệp bán hàng gồm: Tên, địa chỉ, mã số thuế;
+
+a.4) Thông tin về khách hàng gồm: Họ tên, quốc tịch, thông tin về số hộ
+chiếu, ngày cấp hộ chiếu, ngày hết hạn hộ chiếu hoặc giấy tờ nhập xuất cảnh;
+
+a.5) Thông tin về hàng hóa gồm: Tên hàng hóa, đơn vị tính, số lượng,
+đơn giá hàng hóa; thành tiền chưa có thuế giá trị gia tăng, thuế suất thuế giá
+trị gia tăng, tổng số tiền thuế giá trị gia tăng theo từng loại thuế suất, tổng
+cộng tiền thuế giá trị gia tăng, tổng tiền thanh toán đã có thuế giá trị gia tặng.
+
+Tên hàng hóa ghi rõ: nhấn hiệu, ký hiệu hàng hóa (số seri, model (nếu
+có), xuất xứ hàng hóa áp dụng đối với hàng hóa có nguồn gốc nhập khẩu, số
+máy áp dụng đối với mặt hàng cơ khí điện tử);
+
+a.6) Chữ ký số người bán, chữ ký của người mua trên bản hiển thị của
+hóa đơn điện tử. ì
+
+b) Phần B dành cho cơ quan hải quan lập để ghi kết quả kiểm tra hóa
+đơn giá trị gia tăng kiêm tờ khai hoàn thuế, hàng hóa, tính số thuế giá trị gia
+tăng người nước ngoài được hoàn, gồm các nội dung sau:
+
+b.1) Số thứ tự hàng hóa;
+
+b.2) Tên hàng hóa;
+
+b.3) Số lượng;
+
+b.4) Số tiền thuế giá trị gia tăng ghi trên hóa đơn giá trị gia tăng kiêm
+tờ khai hoàn thuế;
+
+b.5) Số tiền thuế giá trị gia tăng được hoàn theo quy định;
+
+b.6) Thời điểm công chức hải quan kiểm tra: ghi rõ ngày, tháng, năm;
+
+b.7) Tên, chữ ký, đóng dấu của công chức hải quan kiểm tra.
+
+c) Phần C dành cho Ngân hàng thương mại là đại lý hoàn thuế lập, gồm
+
+các nội dung:
+
+c.1) Số hiệu, ngày tháng chuyển bay/chuyển tàu của người nước ngoài
+xuât cảnh;
+
+<<<TRANG 6>>>
+c.2) Sô tiên thuê hoàn cho người nước ngoài xuất cảnh;
+
+c.3) Hình thức thanh toán: ghi rõ số tiền thanh toán theo từng hình thức
+thanh toán: bằng tiền mặt hoặc thẻ quốc tế (ghi rỡ tên thẻ, số thẻ);
+
+c.4) Thời điểm thanh man ghi rõ mgay, fflang, năm.
+
+2. Chữ viết hiển thị Uen hóa đơn giá trị gia tăng kiêm tơ l<he11 man thuế
+là tiếng Việt và tiếng Anh được đặt bên phải trong ngoặc đơn Ô: hoac ngay
+dưới dòng tiếng Việt và có cỡ chữ bằng hoặc nhỏ hơn chữ tiếng Việt.
+
+3. Các nội dung khoản 1 Điều này thực hiện theo quy định tại Điều 10
+Nghị định số 254/2026/NĐ-CP. Riêng nội dung về ký hiệu mẫu, ký hiệu hóa
+đơn thực hiện theo quy định tại Phụ lục I kèm theo Thông tư này.
+
+4. Mẫu hiển thị hóa đơn giá trị gia tăng kiêm tờ khai hoàn thuế được
+quy định tại Mẫu số 01/GTGT-TKHT Phụ lục V kèm theo Thông tư này.
+Điều 6. Đăng ký, thay đỗi nội dung đăng ký sử dụng hóa đơn điện
+
+tử
+
+l. TỔ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh
+doanh không thuộc tluòng hợp ngừng, tạm ngùng sử dụng hóa đơn điện tử
+theo quy định tại Điều 8 Thong tư này đăng ký, thay đổi nội dung đăng ký sử
+dụng hóa đơn điện tử (bao gồm cả fflmg ký hóa đơn điện tử bán tài wn công,
+hóa đơn điện tử bán hàng dự trữ quốc gia) thông qua tổ chức cung cấp dịch vụ
+hóa đơn điện tử.
+
+Trường hợp sử dụng hóa đơn điện tử có mã của cơ quan thuế được
+miễn phí dịch vụ, cơ quan thuế hoặc cơ quan được giao nhiệm vụ tổ chức, xử
+lý tài sản công theo quy định pháp luật về quản lý, sử dụng tài sản công có thể
+đăng ký sử dụng hóa đơn điện tử thông qua Hệ thống thông tin quản lý thuế
+hoặc tổ chức cung cấp dịch vụ hóa đơn điện tử được Cục Thuế ủy thác cung
+ơắp địch vụ hóa đơn điện tử có mã của cơ quan thuế được miễn phí dịch vụ.
+
+Trường hợp doanh nghiệp là tổ chức kết nối chuyển dữ liệu hóa đơn
+điện tử theo hình thức gửi trực tiếp đến cơ quan thuế thì đăng ký sử dụng hóa
+đơn điện tử thông qua Hệ thống thong tin quản lý thuế hoặc Cổng Dịch vụ
+công Quốc gia.
+
+Trường hợp tổ chức nước ngoài có hoạt động kinh doanh, cung cấp
+dịch vụ thông qua nền tảng thương mại điện tử, nên tảng. số khác đăng ký tự
+nguyện sử dụng hóa đơn điện tử theo quy định tại Thông tư này thì đăng ký
+sử dụng hóa đơn điện tử thông qua Hệ thống thông tin quản lý Ự1uế.
+
+<<<TRANG 7>>>
+Nội dung thông tin đăng ký theo Mẫu số 01/ĐKTĐ-HĐĐT Phụ lục II -
+
+kèm theo Thông tư này.
+
+Hệ thống thông tin quản lý thuế gửi thông báo điện tử theo Mẫu số -
+01/TB-TNĐT Phụ lục JV kèm theo Thông tư này về việc t1ep nhận/không tiếp .
+
+nhận <tờ khai đăng ký/thay đổi thong tin sử ủng ủa đơn'đ1e:n m/chưng từ"'
+điện UI> qua địa chỉ thư điện tử đã đăng ký với cơ quan thue qua tổ chức”.
+
+cung cấp dịch vụ hóa đơn điện tử đối với trường hợp tổ chức kinh tế, tổ chức
+khác, hộ kinh doanh, cá nhân kinh doanh đăng ký sử dụng hóa đơn điện tử
+thông qua tổ chức cung cấp dịch vụ hóa đơn điện tử hoặc Công Dịch vụ công
+Quốc gia.
+
+2. Trường hợp tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân
+kinh doanh đăng ký sử dụng hóa đơn điện tử:
+
+a) Trong thời gian 01 ngày làm việc kể từ ngày tiếp nhận đăng ký, Hệ
+thống thông tin quản lý thuế tự động đối chiếu thông tin (bao gồm thông tin
+sinh trắc học theo quy định về định danh và xác thực điện tử của Chính phủ)
+của người đại diện theo pháp luật, đại diện hộ kinh doanh, cá nhân kinh
+doanh, chủ doanh nghiệp tư nhân đăng ký sử dụng hóa đơn giữa dữ liệu về
+đăng ký doanh nghiệp, đăng ký thuế với đữ liệu tại Hệ thống Cơ sở dữ liệu
+
+Iquốc gia về dân cư hoặc theo dữ liệu tại Hệ thống định danh và xác thực điện
+
+tử. Trường hợp thông tin không khớp đúng, Hệ thống thông tin quản lý thuế
+tự động gửi Thông báo không chấp nhận đăng ký hóa đơn điện tử và cung cấp
+các trường thông tin không khớp đúng cho người nộp thuế ngay trong ngày
+làm việc hoặc chậm nhất ngày làm việc tiếp theo để người nộp thuế điều
+chỉnh thông tỉn đã kê khai. Trường hợp thông tin khớp đúng, Hệ thống thông
+tin quản lý thuế tự động gửi yêu cầu đề nghị người nộp thuế xác nhận qua địa
+chỉ thư điện tử, số điện thoại của người đại diện pháp luật, đại diện hộ kinh
+doanh, cá nhân kinh doanh hoặc chủ doanh nghiệp tư nhân theo thông tin
+trong hồ sơ đăng ký thuế, đăng ký doanh nghiệp. Người nộp thuế có trách
+nhiệm trả lời xác nhận ngay trong ngày làm việc hoặc chậm nhất ngày làm
+việc tiếp theo; trường hợp quá thời hạn mà người nộp thuế chưa xác nhận
+hoặc xác nhận không thành công, Hệ thống thông tin quản lý thuế tự động gửi
+Thông báo về việc không chấp nhận đăng ký sử dụng hóa đơn điện tử theo
+Mẫu số 01/TB-ĐKĐT Phụ lục IV kèm theo Thông tư này ngay trong ngày
+làm việc hoặc chậm nhất ngày làm việc tiếp theo. Cơ quan thuế áp dụng công
+nghệ sinh trắc học trong việc đăng ký sử dụng hóa đơn điện tử phù hợp quy
+định pháp luật;
+
+È.
+HH
+
+<<<TRANG 8>>>
+.
+
+b) Trường hợp người nộp thuế đã xác nhận đúng thời hạn trên Hệ thống
+thông tin quản lý thuế và người nộp thuế không thuộc trường hợp: người đại
+điện theo pháp luật, đại diện hộ kinh doanh, cá nhân kinh doanh, chủ doanh
+nghiệp tư nhân đang là người đại diện theo pháp luật, đại diện hộ kinh doanh,
+cá nhân kinh doanh hoặc chủ doanh nghiệp tư nhân khác mà người nộp thuế
+đó có trạng thái mã số thuế không hoạt động tại địa chỉ đăng ký kinh doanh,
+người nộp thuế ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt
+hiệu lực mã số thuế, người nộp thuế tạm ngừng hoạt động nhưng chưa hoàn
+thành nghĩa vụ thuế; người nộp thuế có hành vi vì phạm về thuế, hóa đơn,
+chứng từ, người nộp thuế có rủi ro cao trong đăng ký sử dụng hóa đơn điện tử
+theo quy định tại Điều 7 Thông tư này thì chậm nhất ngày làm việc tiếp theo,
+cơ quan thuế ban hành Thông báo chấp nhận đăng ký sử dụng hóa đơn điện tử
+theo quy định tại khoản 3 Điều này;
+
+c) Trường hợp kết quả đối chiếu thông tin khớp đúng, người nộp thuế
+xác nhận trên Hệ thống thông tin quản lý thuế đúng thời hạn nhưng người nộp
+thuế thuộc trường hợp: người đại diện theo pháp luật, đại diện hộ kinh doanh,
+cá nhân kinh doanh hoặc chủ doanh nghiệp tư nhân đang là người đại diện
+theo pháp luật, đại diện hộ kinh doanh, cá nhân kinh doanh hoặc chủ doanh
+nghiệp tư nhân khác mà người nộp thuế đó có trạng thái mã số thuế người nộp
+thuế ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực mã
+số thuế, người nộp thuế tạm ngùng hoạt động nhưng chưa hoàn thành nghĩa
+vụ thuế; người nộp thuế có hành vi vi phạm về thuế, hóa đơn, chứng từ; người
+nộp thuế có rủi ro cao trong đăng ký sử dụng hóa đơn điện tử theo quy định
+tại Điều 7 Thông tư này thì trong thời hạn 01 ngày làm việc kể từ ngày tiếp
+nhận đăng ký sử dụng hóa đơn điện tử của người nộp thuế, cơ quan thuế ban
+hành Thông báo về việc giải trình, bổ sung thông tin, tài liệu theo Mẫu số
+01/TB-BSTT-NNT Phụ lục TV kèm theo Thông tư này gửi cho người nộp
+thuế hoặc cơ quan thuế quản lý trực tiếp thực hiện xáo mình hoạt động thực tế
+tại địa chỉ đã đăng ký của người nộp thuế theo quy định của pháp luật về quản
+lý thuế.
+
+Người nộp thuế thực hiện giải trình, bổ sung thông tin, tài liệu trong
+thời hạn 03 ngày làm việc kể từ ngày nhận được Thông báo về việc giải trình,
+bồ sung thông tin, tài liệu của cơ quan thuế;
+
+d) Trường hợp cơ quan thuế chấp nhận thông tin giải trình, bổ sung
+thông tin, tài liệu của người nộp thuế hoặc trường hợp kết quả xác mình người
+nộp thuế có hoạt động tại địa chỉ đăng ký thì cơ quan thuế quản lý trực tiếp
+ban hành Thông báo chấp nhận đăng ký sử dụng hóa đơn điện tử của người
+
+<<<TRANG 9>>>
+9
+
+nộp thuế. Trường hợp người nộp thuế không giải trình hoặc quá thời hạn quy
+định mà không giải trình được thông tin hoặc kết quả xác minh người nop
+thuế không hoạt động tại địa chỉ đăng ky thì chậm nhất ngay làm việc tiếp
+theo cơ quan thuế ban hành Thông báo về việc không chấp nhận đăng ký sử
+
+dụng hóa đon điện tử của người nộp thuế và ghi rõ lý do theo quy định tại
+khoản 3 Điều này.
+
+3. Cơ quan thuế có trách nhiệm gửi thông báo điện tử theo Mẫu số
+01/TB-ĐKĐT Phụ lục IV kèm theo Thông tư này qua tổ chức cung cấp dịch
+vụ hóa đơn điện tử hoặc gửi thông báo trực tiếp đến tổ chức kinh tế, tổ chức
+khác, hộ kinh doanh, cá nhân kinh doanh về việc chấp nhận hoặc không chấp
+nhận đăng ký sử dụng hóa đơn điện tử.
+
+Đối với trường hợp tổ chức kinh tế đăng ký chuyển dữ liệu hóa đơn
+điện tử theo hình thức gửi trực tiếp đến cơ quan thuế theo quy định tại điểm
+b.1 khoản 3 Điều 16 Nghị định số 254/2026/NĐ-CP được cơ quan thuế ra
+Thông báo về việc chấp nhận đăng ký sử dụng hóa đơn điện tử theo Mẫu số
+.01/TB-ĐKĐT Phụ lục IV kèm theo Thông tư này nhưng chưa phối hợp với
+Cục Thuế về cầu hình hạ ầng kỹ thuật, kiểm thử kết nối, mlyền nhận dữ liệu
+thì chậm nhất trong thời gian 05 ngày làm việc kể từ ngày cơ quan thuế gửi
+thông báo theo Mẫu số 01/TB-ĐKĐT Phụ lục IV kèm theo Thông tư này, tổ
+chức cần chuẩn bị đủ fflều kiện về hạ tằng kỹ thuật và thong báo cho Cục
+Thuế để phox hợp kết nối. Thời gian thực hiện kiểm thứ kết nối trong 10 ngày
+Tlàm việc kể từ ngay Cục Thue nhận được đề nghị của tổ chức kinh tế. Trường
+hợp kết quả kiểm thử kết nối, truyền nhận dữ liệu thành công thì tổ chức kinh
+tế thực hiện gửi dữ liệu hóa đơn điện tử theo hình thức gửi trực tiếp đến cơ
+quan thuế theo quy định tại điểm b.] khoản 3 Điều 16 Nghị định số
+254/2026/NĐ-CP. Trường hợp sau 05 ngày làm việc kể từ ngày cơ quan thuế
+gửi thông báo theo Mẫu số 01/TB-ĐKĐT Phụ lục IV kèm theo Thông tư này,
+tổ chức kinh tế không thông báo cho Cục Thuế để phối hợp kết nối hoặc kết
+quả kiểm thử kết nối, truyền nhận dữ liệu không thành công, tổ chức kinh tế
+thay đổi đăng ký sử dụng hóa đơn điện tử theo Mẫu số 01/ĐK-TĐ-HĐĐT Phụ
+lục II kèm theo Thông tư này và thực hiện chuyển dữ liệu qua tổ chức kết
+nối, nhận, u~uỵền lưu trữ dữ liệu hóa đơn điện tử với cơ quan thuế.
+
+4. Trường hợp có thay đồi thông tin đã đăng kỹ sử dụng hóa đơn điện
+tử, trừ trường hợp ngừng, tạm ngùng sử dụng hóa đơn điện tử theo quy định
+tại Điều 8 Thông tư này, thực hiện như sau:
+
+a) rổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh
+thực hiện thay đổi thông tin theo Mẫu số 01/ĐKTĐ-HĐĐT Phụ lục TII kèm
+
+<<<TRANG 10>>>
+10 b
+
+theo Thông tư này qua Hệ thống thông tin quản lý thuế hoặc qua tổ chức cung
+C.ấp dịch vụ hóa đơn điện tử. Trình tự thủ tục thực hiện theo quy định tại điêm
+a khoản 2 Điều này;
+
+b) Trường hợp công ty mẹ cần khai thác dữ liệu của các chỉ nhánh, đơn
+
+vị phụ thuộc thì thông báo tới cơ quan thuế quản lý trực tiếp Ổng w,_z;Ị'ỉlnẹ theo ......„
+
+Mẫu số 01/ĐKTĐ-HĐĐT Phụ lục II kèm theo Thông tư này. . - ~
+
+5. Định kỳ hàng tháng, cơ quan thuế quản lý trực tiếp tiến hành rà soát
+người nộp thuế sử dụng hóa đơn điện tử có mã của cơ quan thuế được miễn
+phí dịch vụ và gửi thông báo theo Mẫu số 01/TB-KTT Phụ lục IV kèm theo
+Thông tư này cho người nộp thuế để thông báo về việc chuyển sang sử dụng
+hóa đơn điện tử có mã của cơ quan thuế thông qua tổ chức cung cấp dịch vụ
+về hóa đơn điện tử và thực hiện thay đổi thông tin sử dụng hóa đơn điện tử có
+mã của cơ quan thuế theo quy định tại khoản 4 Điều này.
+
+6. Đối với các trường hợp áp dụng hóa đơn điện tử không có mã của cơ
+quan thuế, định kỳ cơ quan thuế quản lý trực tiếp tiến hành rà soát đề thông
+báo thẻo Mẫu số 01/TB-KTT Phụ lục IV kèm theo Thông tư này nếu thuộc
+đối tượng chuyển sang sử dụng hóa đơn điện tử có mã của cơ quan thuế để
+đăng ký sử dụng hóa đơn điện tử có mã của cơ quan thuế theo quy định tại
+
+. Điều này. ,
+
+Điều 7. Tiêu chí xác định người nộp thuế có rủi ro cao trong đăng
+ký sử dụng hóa đơn điện tử
+
+Trường hợp kết quả đối chiếu thông tin tại điểm a khoản 2 Điều 6
+Thông tư này khớp đúng, người nộp thuế xác nhận trên Hệ thống thông tin
+quản lý thuế đúng thời hạn nhưng người nộp thuế có một trong những dấu
+hiệu sau thì thực hiện theo quy định tại điểm c khoản 2 Điều 6 Thông tư này:
+
+1. Người nộp thuế có chủ sở hữu hoặc người đại diện theo pháp luật,
+đại diện hộ kinh doanh, cá nhân kinh doanh hoặc chủ doanh nghiệp tư nhân
+đồng thời là chủ sở hữu hoặc người đại diện theo pháp luật, đại diện hộ kinh
+doanh, cá nhân kinh doanh hoặc chủ doanh nghiệp tư nhân có kết luận của cơ
+quan quản lý nhà nước có thẳm quyền có hành vi gian lận, mua bán hóa đơn
+trên cơ sở dữ liệu của cơ quan thuế.
+
+2 Người nộp thuế có chủ sở hữu hoặc người đại diện theo pháp luật,
+đại diện hộ kinh doanh, cá nhân kinh doanh hoặc chủ đoanh nghiệp tư nhân
+thuộc danh sách có giao dịch đáng ngờ theo quy định của Luật Phòng, chống
+rửa tiên.
+
+<<<TRANG 11>>>
+l
+
+3. Người nộp thuế đăng ký địa chỉ trụ sở chính không có địa chỉ cụ thể
+theo địa giới hành chính hoặc tại căn hộ chung cư (không bao gồm căn hộ hoặc
+phần điện tích của nhà chung cư được phép sử dụng cho mục đích kinh doanh
+theo quy định của pháp luật), trừ trường hợp cá nhân kinh doanh.
+
+4. Người nộp thuế có người đại diện theo pháp luật hoặc chủ sở hữu
+đồng thời là người đại diện theo pháp luật hoặc chủ sở hữu của người nộp
+thuế ở trạng thái mã số thuế người nộp fflue ngừng hoạt động nhưng chưa
+hoàn thành thủ tục chẩm dứt hiệu lực mã số thuế hoặc ở trạng thái người nộp
+thuế lcho11g hoạt động tại địa chỉ đã đăng ký, người nộp thuế có hành vi vi
+phạm về thuế, hóa đơn, chứng từ theo quy định tại Thông tư số 94/2026/TT-
+BTC của Bộ trưởng Bộ Tài chính quy định về quản lý tuân thủ, quản lý rủi ro
+trong quản lý thuế,
+
+5. Người nộp thuế có dấu hiệu rủi ro khác do cơ quan thuế xác định
+theo quy định Thông tư số 94/2026/1T-BTC và có thông báo cho người nộp
+thuế được biết và giải trình.
+
+Điều 8. Các trường hợp ngừng, tạm ngừng sử dụng hóa đơn điện
+
+tử
+
+.. Tổ chức kinh tể, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh
+thuộc các trường hợp sau thì ngừng, tạm ngùng sử dụng hóa đơn điện tử có
+mã của cơ quan thuế; ngừng, tạm ngừng sử dụng hóa đơn điện tử không có
+mã của cơ quan thuế; ngùng, tạm ngừng sử dụng hóa đơn điện tử khởi tạo từ
+máy tính tiền:
+
+a) Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh đoanh
+chấm dứt hiệu lực mã số thuế;
+
+b) Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh
+thuộc trường hợp cơ quan thuế xác minh và thông báo không hoạt động tại
+địa chỉ đã đăng ký;
+
+c) Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh
+tạm ngừng kinh doanh;
+
+d) Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh đoanh có
+quyết định của cơ quan thuế về việc ngừng sử dụng hóa đơn điện tử để thực
+hiện cưỡng chế nợ thuế bằng biện pháp ngùng sử dụng hóa đơn điện tử;
+
+đ ủuong hợp có hành vi sử dụng hóa đơn điện tử để bán hàng nhập
+
+lậu, hang cấm, hàng giả, hàng hóa giả mạo về sở hữu trí tuệ, bị cơ quan có
+thẩm quyền phát hiện và thông báo cho cơ quan thuế;
+
+<<<TRANG 12>>>
+12
+
+e) Trường hợp có hành vi lập hóa đơn điện tử ị›hvục vụ mục đích Đán -
+ffllống hàng hóa, cung ơấp dịch vụ để chiếm đoạt tiền của tổ chức, cá nhân bị
+cơ quan có thẳm mlyền phát hiện, khởi tổ và thông báo cho cơ quan thuế; cơ
+quan công an, viện kiểm sát, tòa án có văn bản đề nghl cơ ựan thuế ngừùng sử
+dụng hóa đơn điện tử của tổ ủưc m nhân nêu ưen
+
+g) E~uơng hợp cơ quan đang ky kinh ®anh cờ wan nh…et nước có fflam ¡
+
+quyền yêu cầu doanh nghiệp tạm ngừng kinh doanh ngành, nghề kinh ủặnh .
+có điều kiện khi phát hiện doanh nghiệp không có đủ điều kiện kinh doanh
+theo quy định của pháp luật hoặc trường hợp cơ quan có thẩm quyền phát
+hiện và thông báo cho cơ quan thuế người nộp thuế có hành vi vi phạm pháp
+luật về thuế và hóa đơn;
+
+h) Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh
+ửmg áp dụng hóa đơn điện tử khởi tạo từ mz1y tính tiền có thay đổi ngành
+nghề kinh doanh dẫn đến không đáp ứng điều kiện sử dụng hóa đơn điện tử
+khởi tạo từ máy tính tiền theo quy định tại điểm c khoản 1 Điều 6 Nghị định
+số 254/2026/NĐ-CP thì cơ quan thuế ra thông báo người nộp thuế ngừng sử
+dụng hóa đơn điện tử khởi tạo từ máy tính tiền; tạm ngừng sử dụng hóa đơn
+điện tử theo văn bản gửi cơ quan thuế theo Mẫu số 01/ĐKTĐ-HĐĐT Phụ lục
+II kèm theo Thông tư này;
+
+i) Trường hợp hộ kinh doanh, cá nhân kinh doanh đã được cấp mã số
+thuế trước ngày 01 tháng 7 năm 2025 nhưng thông tin đăng ký thuế của hộ
+kinh doanh, cả nhân kinh doanh không khớp đúng với thông tin của cá nhân
+được lưu trữ trong cơ sở dữ liệu ạ1ốc gia về dân cư hoặc không đầy đủ thì cơ
+quan thuế yêu cầu hộ kinh doanh, cá nhân kinh doanh bỗ sung thông tín trong
+thời hạn 10 ngày làm việc. Sau thời hạn này, trường hợp hộ kinh doanh, cá
+nhân kinh doanh chưa thực hiện, cơ quan thuế thực hiện tạm ngừng sử dụng
+hóa đơn điện tử của hộ kinh doanh, cá nhân kinh doanh;
+
+k) Trong quá trình kiểm tra, nếu cơ quan thuế xác định người nộp thuế
+'có hành vi trồn thuế, người nộp thuế được thành lập để thực hiện mua bán, sử
+dụng hóa đơn điện tử không hợp pháp hoặc sử dụng không hợp pháp hóa đơn
+điện tử đề trồn thuế theo quy định thì cơ quan thuế ban hành thông báo ngừng
+sử dụng hóa đơn điện tử; người nộp thuế bị xử lý theo quy định của pháp luật
+theo trình tự quy định tại điểm c khoản 2 Điều này;
+
+l) Trường hợp người nộp thuế thuộc diện rủi ro cao về thuế và hóa đơn
+theo quy định tại Thông tư số 94/2026/TT-BTC, cơ quan thuế thực hiện biện
+pháp ngừng sử dụng hóa đơn điện tử theo quy định tại điểm d khoản 2 Điều
+này.
+
+<<<TRANG 13>>>
+2. Trình tự thực hiện ngừng sử m;ì'1g hóa đơn điện tử:
+
+a) Hệ thống thông tin quản lý thuế ngừng tiếp nhận hóa đơn điện tử và
+không gửi thông báo ngừng sử dụng hóa đơn điện tử đối với người nộp thuế
+thuộc trường hợp quy định tại điểm a, đ1em bị điểm c, điểm d và điểm i khoản
+1 Điều này kể từ ngày tổ chức, cá: M1an~ ủax'i"" dứt hiệu lực mã số thuế hoặc
+tạm ngừng kinh doanh hoặc kể từ ngày: w “quan thuế ban Mnh filong báo
+người nộp thuế không hoạt đong tại địa chỉ đã' đăng ký hoặc quyết định cưỡng
+chế nợ thuế hoặc kể từ ngay hết thời hạn hộ kinh doanh, cá nhân kinh doanh
+bỗ sung thông tin theo yêu cầu của cơ quan thuế;
+
+b) Hệ thống thông tin quản lý thuế gửi thông báo điện tử về việc ngừng
+sử dụng hóa đơn điện tử, ngừng sử dụng hóa đơn điện tử khởi tạo từ máy tính
+tiền theo Mẫu số 01/TB-NSD Phụ lục IV kèm theo Thông tư này và ngừng
+tiếp nhận hóa đơn điện tử, ngừng tiếp nhận hóa đơn điện tử khởi tạo từ máy
+tính tiền đối với người nộp thuế thuộc trường hợp quy định tại điểm h khoản 1
+Điều này khi nhận được thông báo của cơ quan nhà nước có thẳm quyền về
+việc tạm ngừng kinh doanh hoặc văn bản của người nộp thuế về việc tạm
+ngừng sử dụng hóa đơn;
+
+c) Thủ trưởng cơ quan thuế quản lý trực tiếp ban hành thông báo điện
+tử về việc ngừng sử dụng hóa đơn điện tử theo Mẫu số 01/TB-NSD Phụ lục
+IV kèm theo Thông tư này đến người nộp thuế thuộc trường hợp quy định tại
+điểm e khoản ] Điều này kể từ ngày cơ quan thuế nhận được thông báo của
+
+cơ quan có thẳm quyền; người nộp thuế thuộc trường hợp quy định tại điểm k
+khoản 1 Điều này.
+
+d) Thủ trưởng cơ quan thuế quản lý trực tiếp gửi thông báo điện tử đến
+người nộp thuế thuộc trường hợp: quy định tại điểm đ, điểm g khoản 1 Điều
+này trong thời gian 01 ngày làm việc sau khi nhận được thông báo của cơ
+quan có thẩm quyền gửi cơ quan thuế hoặc ngay sau khi xác định người nộp
+thuế thuộc diện rủi ro cao theo quy định tại điểm ] khoản 1 Điều này hoặc các
+trường hợp giải trình, b sung thông tin, tài liệu theo quy định tại điểm c
+khoản 2 Điều 6 Thông tư này để yêu cầu người nộp thuế giải trình hoặc bổ
+sung thông tin, tài liệu liên quan đến việc sử dụng hóa đơn điện tử. Trong thời
+gian giải trình, bổ sung thông tin tài liệu, người nộp thuế thực hiện sử dụng
+
+hóa đơn theo từng lần phát sinh theo quy định tại khoản 2 Điều 6 Nghị định
+số 254/2026/NĐ-CP:
+
+đ.1) Người nộp thuế ga1 trình hoặc bổ sung thông tin, tài liệu trong
+thời hạn 03 ngày làm việc kể từ ngày cơ quan thuế gửi thông báo đ1en tử.
+
+<<<TRANG 14>>>
+14
+
+Người nộp thuê có thể đến cơ quan thuế giải trình trực tiếp hoặc giải trình, bỗ
+sung thông tin, tài liệu bằng văn bản hoặc băng phương thức điện tử.
+
+d.2) Người nộp thuế ũếp tục sử dụng hóa đơn điện tử hoặc giải trình bổ
+sung, cụ thể:
+
+d.2.1) Trường hợp người nộp thuế đã giải trình hoặc bồ sung thông ũh,
+tài liệu fflẫy đủ và chứng minh được việc sử dụng hóa đơn điện tử theo đúng
+quy định pháp luật thì người nộp thuế tiếp tục sử dụng hóa đơn điện tử;
+
+d.2.2) Trường hợp người nộp thuế đã giải trình hoặc bổ sung thông tin,
+tài liệu mà không chứng minh được việc sử dụng hóa đơn điện tử theo đúng
+quy định pháp luật thì ngay trong ngày làm việc, cơ quan thuế tiếp tục gửi
+thông báo lần 2 yêu cầu người nộp thuế giải trình, bổ sung thông tin, tài liệu.
+Người nộp thuế thực hiện giải trình hoặc giải trình, bổ sung thông tin, tài liệu
+trong thời hạn 03 ngay làm việc kế từ ngày cơ quan thuế gửi thông báo điện
+tử lần 2;
+
+d.2.3) Trường hợp người nộp thuế đã giải trình hoặc bề sung thông tin
+tài liệu theo thông báo lần 2 mà không chứng minh được việc sử dụng hóa
+đon fflen tử theo đúng quy định pháp luật thì cơ quan thuế ban hành Thông
+báo về việc ngừng sử dụng hóa đơn theo Mẫu số 01/TB-NSD Phụ lục TV kèm
+theo Thông tư này.và xử lý theo quy định.
+
+d.3) Hết thời hạn theo thông báo mà người nộp thuế không giải trình,
+bồ sung thông tin, tài liệu thì cơ quan thuế ban hành thông báo ngừng sử dụng
+hóa đơn điện tử có mã của cơ quan thuế hoặc ngừng sử dụng hóa đơn điện tử
+không có mã của cơ quan thuế theo Mẫu số 01/TB-NSD Phụ lục IV kèm theo
+Thông tư này và xử lý theo quy định;
+
+đ) Trường hợp người nộp thuế thuộc trường hợp ngừng, tạm ngừng sử
+dụng hóa đơn điện tử theo quy định tại khoản 1 Điều này ủy nhiệm lập hóa
+đơn điện tử thì cơ quan thuế gửi thông báo ngừng, tạm ngừng sử dụng hóa
+` đơn điện tử cho người nộp thuế và bên nhận ủy nhiệm lập hóa đơn điện tử.
+
+3. Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh tại
+khoản 1 Điều này được tiếp tục sử dụng hóa đơn điện tử sau khi thông báo
+với cơ quan thuế về việc tiếp tục kinh doanh hoặc được cơ quan thuế khôi
+phục mã số thuế hoặc cơ quan thuế ban hành quyết định về wec chấm dứt
+hiệu lực quyết định cưỡng chế thi hành quyết định hành chính về quản lý thuế
+bằng biện pháp gưng sử dụng:hóa đơn hoặc qua kiểm tra cơ quan thuế xác
+định người nộp thuế không còn thuộc diện rủi ro cao hoặc khi có thông báo
+của cơ quan chức năng.
+
+<<<TRANG 15>>>
+15
+
+Điều 9. Ủy nhiệm lập hóa đơn điện tử
+1. Nguyên tắc ủy nhiệm lập hóa đơn:
+
+) Người bán hang hóa, cung cap dịch vụ được uy nhiệm cho bên thứ
+ba là đối tượng đủ điều kiện sử dụng ủa đơn điện tử đề lập hóa đơn điện tử
+cho hoạt động bán hàng hoá, cung cap dịch vụ. Người bán và bên nhận ủy
+nhiệm không thuộc nường hợp ngừng, tạm ngừng sử dụng hóa đơn điện tử
+theo quy định tại ủeu 8 Thông tư này để lập hóa đơn điện tử cho hoạt động
+bán hàng hoá, cung cấp dịch vụ;
+
+b) Việc ủy nhiệm phải được lập bằng văn bản (hợp đồng hoặc thỏa
+thuận) giữa bên ủy nhiệm và bên nhận ủy nhiệm, trừ trường hợp bán tài sản
+thi hành án của cơ quan thi hành án;
+
+c) Việc ủy nhiệm phải thông báo cho cơ quan thuế khi đăng ký sử dụng
+hóa đơn điện tử;
+
+d) Hóa đơn điện tử do bên nhận ủy nhiệm lập là hóa đơn điện tử có mã
+hoặc không có mã của cơ quan thuế (bao ggồm hóa đơn điện tử khởi tạo từ
+máy tính tiền) và phải thể hiện tên, địa chỉ, mã số thuế của bên ủy nhiệm và
+tên, địa chỉ, mã số thuế của bên nhận ủy nhiệm; _
+
+đ) Bên ủy nhiệm và bên nhận ủy nhiệm có trách nhiệm niêm yết trên
+website của đơn vị mình hoặc trên giao diện gian hàng hoặc hệ thống của nền
+tảng hoặc thông báo công khai trên ph\Iơng tiện thông tin đại chúng để ngưox
+mua hàng hóa, dịch vụ được biết về việc ủy nhiệm lập hóa đơn. Khi hết thời
+hạn ủy nhiệm hoặc chấm dứt trước thời hạn ủy nhiệm lập hoá đơn điện tử
+theo thỏa thuận giữa các bên thì bên ủy nhiệm, bên nhận ủy nhiệm hủy các
+niêm yết, thông báo trên website của ®~n vị mình hoặc thông báo công khai
+
+trên phương tiện thông tin đại chúng về việc hết thời hạn hoặc chấm đứt trước
+thời hạn ủy nhiệm lập hóa đơn;
+
+e) ữưong hợp hóa đơn ủy nhiệm là hóa đơn điện tử mìong có mã của
+cơ quan thuế thì bên ủ ủy nhiệm và bên nhận ủy nhiệm thỏa thuận về chuyển dữ
+lệu hóa ủn điện tử đến cơ quan thuế quản lý trực tiếp hoặc thông qua tổ
+
+chức cung wp dịch vụ để chuyển dữ liệu hóa đơn điện tử đến cơ quan thuế
+quản lý trực tiếp;
+
+g) Bên nhận ủy nhiệm có trách nhiệm lập hóa đơn điện tử ủy nhiệm
+theo đung thực tế phát sinh, theo thỏa thuận với bên ủy nhiệm và tuân thủ
+nguyên tắc tại khoản ] Điều này;
+
+h) Hóa đơn điện tử do bên nhận ủy nhiệm lập phải phù hợp với phương
+pháp tính thuế giá trị gia tăng của bền ủy nhiệm.
+
+<<<TRANG 16>>>
+16
+
+2. Hợp đông ủy nhiệm hoặc thỏa thuận ủy nhiệm:
+
+a) Hợp đồng ủy nhiệm hoặc thỏa thuận ủy nhiệm phải thể hiện đầy đủ
+các thông tin về bên ủy nhiệm và bên nhận ủy nhiệm Ợên địa chỉ, mã số thuế
+hoặc số định danh cá nhân, chứng thư số); thông. t1n về hoá đơn fflen tử ủy
+
+mậu; ìlgyoa đơn); muc fflch ủy
+
+nhiệm (loại hoá đơn, ký hiệu ma đơn, ký hiệu ma
+nhiệm; thời hạn ủy nhiệm; fflnrơng thức thanh to :
+trách nhiệm thanh toán tiền hàng hóa, dịch vụ trê en
+
+ía <ĩơn ủy nl11<a1T1)
+
+b) Bên ủ ủy nhiệm và bên nhận ủy nhiệm co ưach nh1em lưu trữ văn ban
+ủy nhiệm và xuất trình khi cơ quan có thẳm quyen yêu cầu.
+
+3. Thông báo với cơ quan thuế về việc ủy nhiệm lập hóa đơn điện tử:
+
+a) Việc ủy nhiệm được xác định là thay đổi thông tin đăng ký sử dụng
+hóa đơn điện tử theo quy định tai Điều 6 Thông tư này. Bên ủy nhiệm và bên
+nhận ủy nhiệm sử dụng Mẫu số ffllĐKTĐ HĐĐT Phụ lục II kèm theo Thông
+tư mly để thông báo với cơ quan thuế về việc ủy nhiệm lập hóa đơn điện tử,
+bao gồm cả trường hợp chấm dứt trước thời hạn ủ ủy nhiệm lập hoá đơn điện tử
+theo thỏa thuận giữa các bên;
+
+b) Bên ủy nhiệm điền thông tin của bên nhận ủy nhiệm, trừ trường hợp
+bán tài sản thi hành án của cơ quan thị hành án và fflem c khoản này, bên nhận ủy
+nhiệm điền thông tin của bên ủy nhiệm tại Mẫu số ffl/ĐKTĐ HĐĐT Phụ lục
+JI kèm theo Thông tư này như sau:
+
+b.J) Đối với bên ủy nhiệm và bên nhận ủy nhiệm tại Phần 5 “TDanh sách
+chứng thư số sử dụng”, điền thông tin đầy đủ chứng thư số sử dụng của cả hai
+bên;
+
+b.2) Đối với bên nhận ủy nhiệm tại cột 5 Phần 6 “Đang ký ủy nh1e111
+lập hóa đơn”, điền thông tin tên tổ chức ủ ủy nhiệm và mã số thuế hoặc số định
+danh cá nhan của bên ủy nhiệm;
+
+c) Trường hợp người bán hàng hóa, cung cấp dịch vụ là hộ kinh doanh,
+cả nhân kinh doanh ủy nhiệm cho bên thứ ba là tổ chức kinh tế lập hóa đơn
+điện tử cho hoạt động bán hàng hóa, cung ưẩp địch vụ thì hộ kinh doanh, cá
+nhân kinh doanh có trách nhiệm cung cấp thông tin cho bên nhận uỷ nhiệm,
+bao gồm: tên, địa chỉ, mã số thuế và thuộc đối tượng áp dụng hóa đơn điện tử
+theo quy định tại Điều 6 Nghị định số 254/2026/NĐ-CP. Tổ chức kinh tế thực
+hiện thông báo danh sách hộ kinh doanh, cá nhân kinh doanh ủy nhiệm với cơ
+quan thuế theo Mẫu số 01/ĐK-TĐ-HĐĐT Phụ lục III kèm theo Thông tư này.
+
+Điều 10. Xử lý hóa đơn điện tử đã lập
+
+1. Trường hợp phát hiện hóa đơn điện tử đã lập sai (bao gồm hóa đơn
+
+<<<TRANG 17>>>
+17
+
+điện tử đã được câp mã của cơ quan thuê, hóa đơn điện tử không có mã của
+
+cơ quan thuế đã gửi dữ liệu đến cơ quan fflue) thì người bán thực hiện xử lý
+như sau:
+
+a) Trường hợp sai về các nội dung trên hóa đơn như tên, địa chỉ, số tiền
+bằng chữ hoặc các nội dung khác nhưng không sai về: mã số"thuế số tiền ghi
+trên hóa đơn, thuế suất, tiền fflue hoặc hàng hóa ghi trên ma đơ11 thì người
+bán thông báo cho người mua về việc hóa đơn đã lập sai va 1cho11g phải lập lại
+hóa đơn. Người bán thực hiện thông báo với cơ quan thuế về hóa đơn điện tử đã
+lập sai theo Mẫu số 04/SS-HĐĐT Phụ lục II kèm theo Thông tư này;
+
+b) Trường hợp hóa đơn điện tử đã lập sai các nội dung về: mã số thuế;
+tên hàng hóa, hàng hóa ghi trên hóa đơn không đúng quy cách, chất lượng; số
+tiền ghi trên hóa đơn; thuế suất; tiền thuế hoặc các nội dung bắt buộc khác
+(trừ trường hợp quy định tại điểm a khoản này) thì người bán có thể lựa chọn
+điều chỉnh hoặc thay thế hóa đơn điện tử như sau:
+
+b.1) Người bán lập hóa đơn điện tử điều chỉnh hóa đơn đã lập sai:
+
+Hóa đơn điện tử điều chỉnh hóa đơn điện tử đã lập sai phải có dòng chữ
+“Điều chỉnh cho hóa đơn Mẫu sề... ký hiệu... sé... ngày... tháng... năm?;
+
+b.2) Người bán lập hóa đơn điện tử mới thay thế cho hóa đơn điện tử
+lập sai:
+
+Hóa đon điện tử mới thay thế hóa đơn điện tử đã lập sai phải có dòng
+chữ “Thay thế cho hóa đơn Mẫu só... ký hiệu... số... ngày... tháng... năm”.
+
+Người bán ký số trên hóa đơn điện tử mói điều chỉnh hoặc thay thế cho
+hóa đơn điện tử đã lập sai sau đó người bán gửi cho người mua (đối với
+trường hợp sử dụng hóa đơn điện tử không có mã của cơ quan thuê) hoặc gửi
+cơ quan thuế để cơ quan thuế cấp mã cho hóa đơn điện tử mới để gửi cho
+người mua (đôi với trường hợp sử dụng hóa đơn điện tử có mã của cơ quan
+thuế).
+
+Trường hợp trong thang người bán đã lập sai cùng thông tin ve người
+mua, tên hàng, đơn giá, số lượng, thuế suất trên nhiều hóa đơn của cung một
+người mua trong cùng tháng, thì người bán được lập một hóa đơn điều chỉnh
+hoặc thay thế cho nhiều hóa đơn điện tử đã lập sai trong cùng tháng và đính
+kèm bảng kê các hóa đơn điện tử đã lập sai theo Mẫu số 01/BK-ĐCTT Phụ
+lục IIJ kèm theo Thông tư này.
+
+Trước khi điều chỉnh, thay thế hóa đơn điện tử đã lập sai theo quy định
+tại điềm b khoản ] Điều này: Trường hợp người mua là tổ chức kinh tế, tổ
+chức khác, hộ kinh doanh, cá nhân kinh đoanh thì người bán và người mua
+
+<<<TRANG 18>>>
+:18.
+
+phải lập văn bản thỏa thuận ghi rõ nội dung sai; trường ủjẫ ngưò'i mua là cá
+nhân thì người bán phải thông báo cho người mua hoặc thông báo trên
+website của người bán (nếu có). Người bán thực hiện lưu.giữ văn bản thỏa
+thuận tại đơn VỊ wa xuất trình khi cơ quan thuế hoặc cơ wan nhà nước có
+thẩm quyền yêu cầu.
+
+Người bán khong bắt buộc phzì1 Lap văn ban ffloa thuan trong các
+trường hợp sau: chuyển đữ liệu hóa đơn điện tử theo Bang tổng hợp dữ heu
+hóa đơn điện tử theo quy định điểm a.1 khoản 3 Điều 16 Nghị định số
+254/2026/NĐ-CP; chuyển cơ sở dữ liệu thông tin chỉ tiết giao dịch phát sinh
+theo Bảng thông tin chỉ tiết giao địch theo quy định tại điểm a.2 khoản 3 Điều
+16 Nghị định số 254/2026/NĐ-CP; hoạt động mua bán hàng hóa trên nền tảng
+thương mại điện tử, nền tảng số khác;
+
+c) Trường hợp hóa đơn điện tử đã lập sai là hóa đơn điện tử từ máy tính
+tiền hoặc hóa đơn điện tử bán hàng hóa là tài sản thuộc diện phs11 đăng ký
+quyền sở hữu, sử dụng tài sản thì người bán lập hóa đơn thay thế cho hóa đơn
+đã lập sai, trừ trường hợp quy định tại điểm c.2 khoản 5 Điều này;
+
+d) Đối với ngành hàng không thì hóa đơn đổi, hoàn chung từ vận
+chuyen hàng không được coi là hóa đơn ffleu chỉnh mà không cần có thông tin
+“Điều chỉnh tăng/giảm cho hóa đơn Mẫu sề.. - ký hiệu... ngày... tháng... năm”.
+Doanh nghiệp vận chuyển hàng không được phép xuất hóa đơn của mình cho
+các trường hợp hoàn, đổi chứng từ vận chuyển do đại lý xuất;
+
+đ) Đối với hóa đơn điện tử đã lập sai và người bán đã gửi Bảng tổng
+hợp dữ liệu hóa đơn điện tử thì người bán gửi thông tin điều chỉnh, thay thế
+trực tiếp trên Bảng tổng hợp dữ liệu hóa đơn điện tử của các kỳ tiếp theo mà
+không gửi thông báo hóa đơn điện tử đã lập sai theo Mẫu số 04/SS-HĐĐT
+Phụ lục II kèm theo Thông tư này đến cơ quan thuế;
+
+e) Trường hợp dữ liệu hóa đơn điện tử tại Bảng tổng hợp dữ liệu hóa
+đơn điện tử đã gửi cơ quan thuế thiều hoặc sai thì người bán gửi Bảng tổng
+hợp dữ liệu hóa đơn điện tử bố sung. Việc điều chỉnh dữ liệu hóa đơn trên
+Bảng tổng hợp dữ liệu hóa đơn điện tử phải điền đủ các thông tin: ký hiệu
+mẫu số hóa đơn, ký hiệu hóa đơn đối với trường hợp điều chỉnh dữ liệu hóa
+đơn trên Bảng tổng hợp dữ liêu hóa đơn điện số hóa đơn vào cột 18 “thông tin
+hóa đơn liên quan” tại Mẫu số 01/TH-HĐĐT Phụ lục III kèm theo Thông tư
+này (trừ trường mp hoa đơn điện tử không nhất Ứll6t phải có đầy đủ các
+thông tin ký hiệu mẫu số hóa đơn, ký hiệu hóa đơn, số hóa đơn theo quy định
+tại điểm 9 Phụ lục kèm theo Nghị định số 254/2026/NĐ-CP và hóa đơn điều
+chỉnh hoặc thay thế thuộc trường hợp lập bảng kê các hóa đơn điện tử đã lập
+
+<<<TRANG 19>>>
+19
+
+sai theo Mẫu số 01/BK-ĐCTT tại Phụ lục IH kèm theo Thông tư này). .
+
+2. Trường hợp cơ sở dữ liệu thông tin chỉ tiết gao dịch phát sinh gửi
+theo Bảng thông tin chỉ tiết giao dịch đã gửi cơ quan thuế bị thiếu hoặc sai thì
+người bán gửi Bảng thông tin chỉ tiết giao dịch bổ sung.
+
+3. T…ong hợp cơ quan thuế phát hiện hoa đơn điện tử có mã wa cơ
+quan thuế hoặc hóa đơn điện tử không có mã của cơ quan thuế đã lập sai thì
+cơ quan thuế thông báo cho người bán theo Mẫu số 01/TB-RSĐT Phụ lục TV
+kèm theo Thông tư này để người bán kiểm tra nội dung sai.
+
+Người bán có trách nhiệm rà soát theo thông báo của cơ quan thuế và
+thực hiện điều chỉnh, thay thê hóa đơn theo quy định tại khoản 1 Điều này.
+
+4. Trường hợp người bán thực hiện theo quy định tại điểm a khoản 1
+Điều này thì Hệ thống thông tin quản lý thuế tự động thông báo về việc tiếp -
+nhận theo Mẫu số 01/TB-SSĐT Phụ lục IV kèm theo Thông tư này.
+
+5. Xử lý hóa đơn điện tử đã lập trong một số trường hợp như sau:
+
+a) Đối với các hóa đơn điện tử đã lập khi bán hàng hóa, cung cấp dịch
+vụ không bị sai nhưng khi thanh toán thực tế hoặc khi quyết toán có sự thay
+đổi về giá trị, khối lượng trên cơ sở kết luận của cơ quan nhà nước có thẩm
+quyền theo quy định của pháp luật có liên quan thì người bán thực hiện lập
+hóa đơn điện tử mới đối với số chênh lệch qua quyết toán phản ánh theo đúng
+nghiệp vụ kinh tế phát sinh (phát sinh giảm ghi số âm hoặc phát sinh tăng ghi
+số dương phù hợp với thực tế), cụ thể đối với các trường hợp sau:
+
+a.1) Điều chỉnh giá trị quyết toán dự án đầu tư khi có sự thay đối về
+đơn giá, khối lượng: điều chỉnh giá bán theo quy định của pháp luật chuyên
+ngành;
+
+a.2) Điều chỉnh giá trị, khối lượng trên cơ sở kết luận của cơ quan nhà
+nước có thẳm quyền theo quy định của pháp luật có liên quan;
+
+a.3) Điều chỉnh giá bán buôn điện giữa Tập đoàn Điện lực Việt Nam
+với các Tổng công ty Điện lực và giữa các Tổng công ty Điện lực với các
+Công ty Điện lực.
+
+b) Trường hợp việc chiết khấu thương mại căn cứ vào số lượng, doanh
+số hàng hóa, dịch vụ thì số tiền chiết khẩu của hàng hóa, dịch vụ đã bán được
+tính điều chỉnh trên hóa đơn bán hàng hóa, cung cấp địch vụ của lần mua cuối
+cùng hoặc kỳ tiếp sau đảm bảo số tiền chiết khấu không vượt quá giá trị hàng
+hóa, dịch vụ ghi trên hóa đơn của lần mua cuối cùng hoặc kỳ tiếp sau hoặc
+được lập hóa đơn điều chỉnh kèm theo bảng kê các số hóa đơn cần điều. chỉnh,
+
+<<<TRANG 20>>>
+20
+
+số tiền, tiền thuế điều chỉnh. Bảng kê được lưu tại đơn vị và xuất trình khi cơ
+quan thuê hoặc cơ quan nhà nước có thâm quyên yêu câu;
+
+c) Xử lý hóa đơn điện tử trong trường hợp trả lại hàng hoá, dịch vụ:
+
+c.1) Trường hợp trả lại hàng hóa: Trường hợp người mua trả lại toàn bộ
+hoặc một phần hàng hóa (bao gồm cả trường hợp đỗi hàng làm thay đổi giá trị
+của hàng hóa đã mua) thì người bán lập hóa đơn điều chỉnh, trừ trường hợp
+các bên có thỏa thuận về việc người mua lập hóa đơn khi trả lại hàng hóa thì
+người mua lập hóa đơn điện tử giao cho người bán; người bán, người mua
+thực hiện nghĩa vụ thuế theo quy định khi bán hàng hóa;
+
+c.2) Trường hợp hàng hoá là tài sản thuộc diện phải đăng ký quyền sử
+dụng, quyền sở hữu theo quy định của pháp luật và tài sản đã được đăng ký
+theo tên người mua thì khi trả lại hàng hoá đảm bảo phù hợp với pháp luật
+liên quan, nếu người mua là đối tượng sử dụng hoá đơn điện tử thì người mua
+thực hiện lập hoá đơn trả lại hàng cho người bán;
+
+c.3) Đối với trường hợp hoàn phí, giảm phí, giảm hoa hồng môi giới
+bảo hiểm và các khoản chỉ để giảm thu khác theo quy định của pháp luật kinh
+doanh bảo hiểm: Căn cứ vào hóa đơn đã lập, người bán lập hóa đơn điều
+chỉnh giao cho khách hàng tham gia bảo hiểm, không phân biệt đã chị tiền
+hay chữa chỉ tiền. Trên hóa đơn ghỉ rõ số tiền phí bảo hiểm hoàn, giảm, lý do
+hoàn, giảm. Trường hợp người bán và người mua có thỏa thuận về việc lập
+văn bản thỏa thuận trước khi lập hóa đơn điều chỉnh thì biên bản hoặc thỏa
+thuận Ưãng văn bản được lưu giữ cùng với hóa đơn thu phí bảo hiểm tại
+doanh nghiệp và xuất trình khi cơ quan thuế hoặc cơ quan nhà nước có thẳm
+quyền yêu cầu.
+
+'Đối với trường hợp phí bảo hiểm chưa thu được tiền mà doanh ghxep
+bảo hiểm đã thực hiện lập hóa đơn theo quy định, doanh nghiệp bảo hiểm căn
+cứ vào dữ liệu phí bảo hiểm chưa thu được tiền để lập hóa đơn điều chỉnh
+tổng hợp cho các khoản phí chưa thu được tiền của tháng trước, kèm theo
+bảng kê các số hóa đơn, số tiền và tiền thuế điều chỉnh.
+
+Đồi với các trường hợp quy định tại điểm c.1, điểm c.2, điểm c.3 khoản
+5 Điều này, người bán, người mua phải có ủy đủ hồ sơ, chứng từ liên quan
+đến việc trả lại hàng hoá, d1ch vụ wa phải xuất trình khi cơ quan thuế hoặc cơ
+quan nhà nước có thẩm quyền yêu cầu;
+
+c.4) Trường hợp người bán đã lap hóa đơn khi thu tiền trước khi cung
+cấp dịch vụ hoặc lập hóa đơn thu tiền đối với hoạt động kinh doanh bắt động
+sản, xây dựng cơ sở hạ tằng, xây dụng nhà để bán, nhà chuyển nhượng sau đó -
+
+<<<TRANG 21>>>
+21
+
+phát sinh việc huỷ hoặc chấm dứt giao dịch và hủy một phần việc cung cấp
+dịch vụ thì người bán thực hiện điều chỉnh hóa đơn điện tử đã lập theo quy
+định tại điểm c.1] khoản 5 Điều này.
+
+d) Trường hợp tổ chức tín dụng, tổ chức cung ứng dịch vụ thanh toán
+không dùng tiền mặt (sau đây gọi là tổ chức cung ứng dịch vụ thanh toán)
+thực hiện hoạt động ngân hàng, cung ứng dịch vụ thanh toán không dùng tiền
+mặt đã lập hóa đơn thu phí dịch vụ sau đó phát sinh giao dịch hoàn phí dịch
+vụ cho khách hàng thì tổ chức cung ứng dịch vụ thanh toán thực hiện lập hóa
+đơn để điều chỉnh, trên hóa đơn không cần có thông tin “Điều chỉnh cho hóa
+đơn sé.... Mẫu sé... ký hiệu... ngày...tháng...năm.” Trường hợp người bán
+và người mua có thỏa thuận về việc lập văn bản thỏa thuận trước khi lập hóa
+đơn điều chỉnh thì biên bản hoặc thỏa thuận bằng văn bản được lưu giữ cùng
+với hóa đơn thu dịch vụ tại doanh nghiệp và xuất trình khi có yêu ơầu;
+
+đ) Đối với trường hợp khách hàng sử dụng thẻ trả trước dịch vụ viễn
+thông di động để thanh toán cho các dịch vụ được c,hấp nhận thanh toán ủỀng
+thẻ trả trước dịch vụ viễn thông di động theo quy định của pháp luật và khi bán
+thẻ, hoàn thành cung cấp dịch vụ doanh nghiệp viễn thông đã thực hiện lập hóa
+đơn giá trị gia tăng theo quy định, doanh nghiệp viễn thông căn cứ vào dữ liệu
+trên bảng kê (gồm các thông tin: số thuê bao di động sử dụng thẻ để thanh toán
+dịch vụ, giá trị thẻ trước thuế giá trị gia tăng được sử dụng để thanh toán và
+thuế giá trị gia tăng tương ứng) để thực hiện lập hóa đơn điều chỉnh;
+
+e) Trường hợp bán khí thiên nhiên tại thị trường Việt Nam được xác
+định giá ghi trên hợp đồng mua bán khí bằng đồng tiền ngoại tệ tự do chuyển
+đổi phù hợp với pháp luật liên quan và hợp đồng dầu khí, thanh toán và lập
+hóa đơn bằng đồng Việt Nam, khi bán khí đã lập hóa đơn điện tử không có sai .
+sót nhưng khi thanh toán thực tế có sự thay đổi về giá trị do phải quy đổi ra
+Việt Nam đồng thì người bán thực hiện lập hóa đơn điều chỉnh đối với phần
+chênh lệch nêu trên.
+
+6. Áp dụng hóa đơn điều chỉnh, thay thế
+
+a) Trường hợp hóa đơn điện tử đã lập sai và người bán đã xử lý theo
+hình thức điều chỉnh hoặc thay thể theo quy định tại Điều này, sau đó lại phát
+hiện hóa đơn sai thì các lần xử lý tiếp theo người bán sẽ thực hiện theo hình
+thức đã áp dụng khi xử lý lần đầu;
+
+b) Trường hợp theo quy định hóa đơn điện tử được lập không có ký
+hiệu mẫu số hóa đơn, ký hiệu hóa đơn, số hóa đơn đã lập sai thì người bán chỉ
+thực hiện lập hóa đơn điều chỉnh;
+
+<<<TRANG 22>>>
+c) Đối với nội dung về giá trị trên hóa đơn điều chỉnh thì bắt buộc điều
+chỉnh tăng (ghi số dương), điều chỉnh giảm (ghỉ số w1) fflJng với thực tế điều _
+
+chỉnh; - - —
+
+d) Hóa đơn điều chỉnh đối với trường hợp quy định-tại khoản 5 ủe
+này thì người bán kê khai vào kỳ. phz1t Sinh hóa đơn ffleu dnnh, người-mua: k
+khai vào kỳ nhận được hóa đơn đleu dnnh -
+
+7. Trường hợp hóa đơn điện tử theo tung lần phát mnh cần phải lập hoa'
+đơn điều chỉnh hoặc thay thể, tổ mưc kinh tế, tổ chức khác, hộ kinh doanh, cá
+nhân kinh ủanh gửi đơn đề nghị cấp hóa đơn điện tử có mã của cơ quan thuế
+theo Mẫu số %lĐN PSĐT Phụ lục III kèm theo Thông tư này đến cơ quan
+thuế để được cấp hóa đơn điện tử điều chỉnh hoặc thay thế cho hóa đơn đã
+lap Việc lập hóa đơn điều chỉnh hoặc thay thế thực hiện theo quy định tại
+Điều 10 Thông tư này và việc nộp thuế, các khoản thu khác thuộc ngân sách
+nhà nước tính trên doanh thu chênh lệch tăng trên hóa đơn thực hiện theo quy
+định của pháp luật quản lý thuế.
+
+Điều 11. Chuyển đổi áp dụng hóa đơn điện tử
+
+1. Người nộp thuế đang sử dụng hóa đơn điện tử không có mã của cơ
+quan thuế nếu có nhu cầu chuyển đổi áp dụng hóa đơn điện tử có mã của cơ
+quan thuế thì thực hiện thay đổi thông tin sử dụng hóa đơn điện tử theo quy '
+định tại Điều 6 Thông tư này.
+
+2. Người nộp thuế thuộc đối tượng sử dụng hóa đơn điện tử không có
+mã của cơ quan thuế theo quy định tại điểm b khoản 1 Điều 6 Nghị định số
+254/2026/NĐ-CP nếu thuôc trường hợp được xác định rủi ro cao về thuế theo
+quy định Un Thông tư số 94/2026/TT-BTC và được cơ quan thue thông báo
+theo Mẫu số 01/TB-KTT Phụ lục IV kèm theo Thong tư này về việc c,huyen
+đổi áp dụng hóa đơn điện tử có mã của cơ quan thuế thì phải chuyển đổi sang
+áp dụng hóa đơn điện tử có mã của cơ quan thuế. Trong thời gian 10 ngày làm
+việc kể từ ngày cơ quan thuế thông báo, người nộp thuế phải thay đổi thông
+tin sử dụng hóa đơn điện tử (chuyển từ sử dụng hóa đơn điện tử không có mã
+của cơ quan thuế sang hóa đơn điện tử có mã của cơ quan thuế) theo quy định
+tại Điều 6 Thông tư này. Sau 12 tháng kể từ thời điểm chuyển sang sử dụng
+hóa đơn điện tử có mã của cơ quan ffluế, người nộp thuế có nhu cầu sử dụng
+hóa đơn điện tử không có mã thì người nộp thuế thay đổi thông tin sử dụng
+hóa đơn điện tử theo quy định tại Điều 6 Thông tư này, cơ quan thuế căn cứ
+quy định tại Điều 6 Nghị định số 254/2026/NĐ-CP và quy định tại Thông tư
+số 94/2026/TT-BTC để xem xét, chấp nhận hoặc không ủẩp nhận.
+
+<<<TRANG 23>>>
+23:
+
+Điều 12. Điều kiện kỹ thuật, an sư, bảo đầm an toàn fflong tin,
+
+bảo mật dữ liệu của tổ chức cung cấp dịch vụ hóa đơn điện nr, chứng từ
+điện tử
+
+1, Tiêu chí đối với tổ chức cung cấp giải ph'clp hóa đơn điện tử, d1ung
+từ điện tử cho người bán và người mua. ' s m
+
+a) VỀ chủ thể:
+
+a.1) Là tổ chức hoạt động trong lĩnh vực công nghệ thông tin được
+thành lập theo pháp luật Việt Nam;
+
+a.2) Thông tin về dịch vụ hóa đơn điện tử được công khai trên trang
+thông tin điện tử của tổ chức.
+
+b) Về nhân sự: Có tối thiểu 05 nhân sự trình độ đại hoc chuyên ngành
+về công nghệ thông trn;
+
+c) Về kỹ thuật: Có hạ tằng kỹ thuật, thiết bị công nghệ thông tin, hệ
+thống phần mềm đáp ứng yêu cầu:
+
+c.1) Cung a“ẵp giải pháp khởi tạo, xử lý, lưu trữ đữ liệu hóa đơn điện tử
+cho người bán và người mua, chứng từ điện tử theo quy định của pháp luật về
+hoá đơn, chứng từ và pháp luật khác có liên quan;
+
+G.2) Có giải pháp nhận, truyền dữ liệu hóa đơn điện tử, chứng từ điện tử
+với người sử dụng dịch vụ; giải pháp ưuyền, nhận dữ liệu hoá đơn điện tử,
+chứng từ điện tử với cơ quan thuế thông qua tổ chức nhận, truyền, lưu trữ dữ
+liệu hoá đơn điện tử, chứng từ điện tử. Thông tin quá trình nhận, ưuyền dữ
+liệu phải được ghỉ nhật ký đề phục vụ công tác đối soát;
+
+c.3) Có giải pháp sao lưu, khôi phục, bảo mật dữ liệu hóa đơn điện tử,
+chứng từ điện tử;
+
+c.4) Có tài liệu kết quả kiểm thử kỹ thuật thành wng về giải phap
+truyền nhận dữ liệu hóa đơn điện tử, chứng từ điện tử với tổ chức cung cấp
+dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn điện tử, chứng từ điện tử.
+
+2. Tiêu chí đối với tổ chức cung mp dịch vụ nhận, ưuyên, lưu trữ dữ
+liệu hóa đơn điện tử, chứng từ điện tử:
+
+a) Về chủ thể:
+
+a.1) Là tổ chức được thành lập theo pháp luật Việt Nam, có tối thiểu 05
+năm hoạt động trong lĩnh vực công nghệ thông tin;
+
+a.2) Thông tin về dịch vụ hóa đơn điện tủ, chứng từ điện tử được công
+khai trên trang thông tin điện tử của tổ chúc.
+
+<<<TRANG 24>>>
+24
+
+b) Về tài chính: Có ký quỹ tại một ngân hàng hoạt động hợp pháp tại
+Việt Nam hoặc có gấy bảo lãnh của một ngân hàng hoạt động hợp pháp tại
+Việt Nam với giá trị không dưới 05 tỷ đồng đê giải quyêt các rủi ro và bôi
+
+thường thiệt hại có thể xảy ra trong quá trình cùng cấp dịch vụ;
+
+c) VỀ nhân sự: Có tối thiểu 20 nhân sự trình độ đại học chuyên ngành
+về công nghệ thông tin;
+
+d) Về kỹ thuật: Có hạ tầng kỹ thuật, thiết bị công nghệ thông tin, hệ
+thống phần mềm đáp ứng yêu cầu:
+
+d.1) Cung cấp giải pháp khởi tạo, xử lý, lưu trữ dữ liệu hóa đơn điện tử
+có mã của cơ quan thuế, hóa đơn điện tử khởi tạo từ máy tính fiền, hóa đơn
+điện tử không có mã của cơ quan thuế cho người bán, người mua và chứng từ
+điện tử theo quy định của pháp luật về hoá đơn, chứng từ và pháp luật khác có
+liên quan;
+
+d.2) Có giải pháp kết nổi, nhận, truyền, lưu trữ dữ liệu hóa đơn điện tử
+với tổ chức cung mẳp dịch vụ hóa đơn điện tử cho người bán và người mua,
+chứng từ điện tử; giải pháp kết nối nhận, truyền, lưu trữ dữ liệu hóa đơn điện
+tử, chứng từ điện tử với cơ quan thuế. Thông tin quá trình nhận, ưuyền dữ
+liệu phải được ghi nhật ký để phục vụ công tác đối soát;
+
+d.3) Hệ thống hạ tầng kỹ thuật cung cấp dịch vụ hóa đơn điện tử, chứng
+từ điện tử được vận hành trên môi trường trung tâm đữ liệu chính và trung
+tâm dữ liệu dự phòng. Trung tâm dự phòng cách xa trung tâm dữ liệu chính
+tối thiểu 20km và sẵn sàng hoạt động khi hệ thống chính gặp sự cố;
+
+d.4) Hệ thống có khả năng phát hiện, cảnh báo, ngăn chặn các truy cập
+không hợp pháp, các hình thức tấn công trên môi trường mạng để bảo đảm
+tính bảo mật, toàn vẹn của dữ liệu trao đổi giữa các bên tham gia;
+
+d.5) Có hệ thống sao lưu, khôi phục dữ liệu;
+
+d.6) Kết nối với Cục Thuế thông qua kênh thuê riêng hoặc kênh MPLS
+VPN Layer 3 hoặc tương đương, gồm 1 kênh truyền chính và 2 kênh truyền
+dự phòng. Mỗi kênh truyền có băng thông tối thiểu 20 Mbps; sử dụng dịch vụ
+Web (Web Service) hoặc hàng đợi (Queue) có mã hóa làm phương thức để
+kết nối; sử dụng giao thức SOAP/TCP để đóng gói và truyền nhận dữ liệu.
+
+3. Cục Thuế đăng tải thông tin của tổ chức cung cấp giải pháp hóa đơn
+điện tử và tổ chức cung mẩp dịch vụ nhận, ưuyền, lưu trữ dữ liệu hóa đơn với
+cơ quan thuế: '
+
+a) Đăng tải công khai thông tin của tổ chức cung cấp giải pháp hóa đơn
+
+<<<TRANG 25>>>
+25
+
+điện tử lên Trang thông tin điện tử của Cục Thuế: Tổ chức cung cấp giải phap
+hóa đơn điện tử gửi hồ sơ chứng minh đáp ứng các tiêu chí tại khoản 1 Điều
+này, tài liệu mô tả dịch vụ và cam kết thực hiện đến Cục Thuế. Trong vòng 10
+ngày kể từ ngày nhận được hồ sơ, Cục Thuế đăng công khai tài liệu mô tả
+địch vụ và cam kết của tổ chức lên Trang thông tin điện tử của Cục Thuế. Các
+tổ chức phải chịu trách nhiệm về hồ sơ văn ửẫln cung cấp. Trong quá trình
+hoạt động, ưưong hợp phát hiện tổ chức cung cấp dịch vụ không đúng quy
+định, Cục Thuế thông báo và huy thông tin công khai của tổ chức trên Trang
+thông tin điện tử của Cục Thue,
+
+b) Đăng tải thông tin của tổ chức cung cấp dịch vụ nhận, truyền, lưu trữ
+dữ liệu hóa đơn với cơ quan thuế:
+
+Tổ chức phải đáp ứng các tiêu chí quy định tại khoản 2 Điều này đến
+Cục Thuế và thực hiện kết nối đề chuyen dữ liệu hóa đơn điện tử đến cơ quan
+thuế theo quy định tại khoản 3 Điều 6 Thông tư này, Cục Thuế đăng công
+khai danh sách các tô chức đáp ứng đầy đủ các quy định nêu trên lên Trang
+thông tin điện tử của Cục Thuế,
+
+Điều 13. Biện pháp khuyến khích người mua lấy hóa đơn khi mua
+hàng hóa, dịch vụ
+
+1. Người bán hàng hóa, cung cấp dịch vụ, tổ ủuc cung cấp dịch vụ hóa
+đơn điện tử, cơ quan thuế sử dụng cơ sở dữ liệu về hóa đơn điện tử đề thực
+
+_hiện các biện pháp 1<huy<èn khích người mua ủly hóa đơn khi mua hàng hóa,
+dịch vụ.
+
+2. Cơ quan thuế thực hiện các biện pháp khuyến khích người mua lấy
+hóa đơn khi mua hàng hóa, dịch vụ đề fflìm bảo thu hút, lan tỏa, xây dụng
+thói quen lấy hóa đơn khi tiêu dùng, bao ggom
+
+a) Tổ chức chương trình hóa đơn may mắn hàng tháng và cuối năm
+đối với nhung bóa đơn điện tử có người mua là người tiêu dùng để trao
+thưởng bằng Uen
+
+b) Các biện pháp khuyến khích khác.
+
+3. Mức kinh phí thực hiện các biện pháp khuyến khích quy định tại
+khoản 2 Điều này không quá 150 tỷ đồng/năm.
+
+4. Cục trưởng Cục Thuế xây fflrng phương án tổ dìưc giá trị giải
+thưởng chương trình hóa đơn may mắn trên cơ sở dữ liệu về hóa đơn điện
+tử và các biện pháp khuyến khích khác.
+
+5. Ngân sách nhà nước hằng nằm bảo đảm uu tiên bề trí kinh phí triển
+
+<<<TRANG 26>>>
+26
+
+khai các biện pháp khuyến khích người mua lấy hóa đơn khi mua hàng hóa,
+dịch vụ từ nguồn dự toán chỉ quản lý hành chính không giao thực hiện chế
+độ tự chủ của cơ quan thuế theo quy định.
+
+6. Wêc lập, chấp hành dự toán, quản lý, sử dụng, kế toán, wyết toán, ]
+chuyển nguồn kinh phí thực hiện theo quy định của pháp luật về tài dnnh siên
+
+ngân sách nhà nước và các văn bản quy định, hướng dẫn liên quan.
+
+Điều 14. Mức khen thưởng, hình thức, trình tự, thủ tục, quản ly, sử
+dụng kinh phí khen thưởng người tiêu dùng tô giác người bán không lập
+và giao hóa đơn
+
+1. Trình tự, thủ tục và thẩm quyền xem xét khen thưởng:
+
+a) Cơ quan thuế tiếp nhận thông tin tố giác do người tiêu dùng cung
+cấp, phân loại đê kiểm tra, xác minh;
+
+b) Hồ sơ làm căn cứ khen thưởng bao gồm: Tài liệu, chứng cứ về hành
+vi vi phạm theo quy định tại Điều 41 Nghị định số 254/2026/NĐ-CP; Kết
+luận kiểm tra hoặc quyết định xử lý vi phạm hành chính về hóa đơn của cơ
+quan có thẩm quyền; Thông tin về cá nhân được đề nghị khen thưởng; Tài
+liệu khác có liên quan (nếu có);
+
+'e) Trên cơ sở hỗ sơ tại điểm b khc>el11 này, cơ quan thuế ban hành quyet
+định khen thưởng đối với cá nhân cung ưlp thông tin đáp ứng các điều kiện
+quy định tại khoản 1 Điều 41 Nghị định số 254/2026/NĐ.CP,
+
+2. Cơ quan thuế các ơấp có trách nhiệm xem xét, lập hồ sơ đề nghị khen
+thưởng đối với các trường hợp thuộc phạm vi quản lý và quyết định khen
+thưởng trên cơ sở kết luận kiểm tra hoặc quyết định xử lý vi phạm hành chính
+về hóa đơn đã được ban hành.
+
+3. Cục trưởng Cục Thuế có trách nhiệm hướng dẫn việc tổ chức tiếp
+nhận, xử lý thông tin do cá nhân cung cấp; xem xét, lập hồ sơ đề nghị khen
+thưởng theo quy định; mức khen thưởng, quản lý, sử dụng kinh phí đúng mục
+đích, đúng chế độ, định mức; bảo đảm công khai, mình bạch trong việc chi
+khen thưởng.
+
+Điều 15. Trình tự, thủ tục cấp hóa đơn điện tử có mã của cơ quan
+thuế theo từng lằn phát sinh
+
+1. Tổ chức kinh m tổ chức khác, hộ kinh doanh, cá nhân kinh doanh
+thuoc trường hợp được cấp hóa đơn điện tử có mã của cơ quan thuế theo từng
+lần phát sinh thực hiện như sau:
+
+a) Gửi đơn đề nghị cấp hóa đơn điện tử có mã của cơ quan thuế theo
+
+<<<TRANG 27>>>
+27
+
+Mẫu số 06/ĐN-PSĐT Phụ lục II kèm theo Thông tư này và truy cập vào Hệ
+thống thông tin quản lý thuế đề lập hóa đơn điện tử;
+
+b) Trường hợp người nộp thuế thuộc trường hợp được cấp hóa đơn bán
+hàng theo từng lần phát sinh tại fflếm a khoản 2 Điều 6 Nghị định số
+%4/2026/NĐ CP thì phải nộp đầy đủ số thuế phát sinh trên hóa đơn đề nghị
+cấp theo quy định của phap luật thuế giá trị gia tăng, thu nhập cá nhân, thu
+nhập doanh ngh1ep hoặc số phát sinh phải nộp theo pháp luật quản lý thuế và
+các loại thuế, phí khác (nếu có);
+
+c) Trường hợp người nộp thuế thuộc trường hợp được cấp hóa đơn giá
+trị gia tăng theo từng lần phát sinh tại điểm b khoản 2 Điều 6 Nghị định số
+254/2026/NĐ-CP thì phải nộp số thuế giá trị gia tăng trên hóa đơn giá trị gia
+tăng theo từng lần phát sinh hoặc số phát sinh phải nộp theo pháp luật quản lý
+thuê;
+
+d) Người nộp thuế thuộc trường hợp được cấp hóa đơn bán tài sản công
+
+có mã của cơ quan thuế theo quy định tại điểm c khoản 2 Điều 6 Nghị định số
+
+_ 254/2026/NĐ-CP thì không phải khai và nộp số thuế phát sinh trên hóa đơn
+đề nghị cấp; .
+
+đ) Sau khi tổ chức Mnh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh
+
+doanh đã nộp đủ thuế hoặc số phát ffll]h phải nộp (nếu có) thì chậm nhất là
+
+ngày làm việc tiếp theo, cơ quan thuế cấp mã của cơ quan thuế trên hóa đơn
+điện tử.
+
+Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh tự
+chịu trách nhiệm về tính chính xác của các thông tin trên hóa đơn điện tử theo
+từng lần phát sinh được cơ quan thuế cấp mã;
+
+e) Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh
+khai hô sơ khai thuê theo quy định pháp luật về quản lý thuế.
+
+2. Xác định cơ quan thuế cấp hóa đơn điện tử có mã của cơ quan thuế
+theo từng lần phát sinh:
+
+a) Đối với tổ chức, doanh nghiệp: Cơ quan thuế m1an lý trực tiếp hoặc
+cơ quan thuế nơi phát sinh hoạt động bán hàng hóa, cung cấp dịch vụ;
+
+b) Đối với hộ kinh doanh, cá nhân kinh doanh:
+
+b. l) Đối với ho kinh doanh, cá nhân kinh doanh có địa điểm kinh
+doanh cổ định bao gồm cả kinh doanh thương mại điện tử có nhiều địa điểm
+kinh đoanh (cửa hang) hoạt đong trên wng địa bàn một tỉnh, thành phố hoặc
+khác tỉnh, thành phố nộp hồ sơ đề nghị cấp hóa đơn điện tử có mã của cơ
+quan thuế theo từng lần phát sinh tại cơ quan thue quản lý trực tiếp trụ sở của
+
+<<<TRANG 28>>>
+hộ kinh doanh, cá nhân kinh doanh được xác định là địa điểm ghi trên giấy
+chứng nhận đăng ký kinh doanh đối với hộ kinh doanh hoặc trên tờ khai đăng
+ký thuế đối với cá nhân kinh đoanh;
+
+b.2) Đối với hộ kinh doanh, cá nhân kinh doanh không có địa điểm
+kinh doanh cố định: Hộ kinh doanh, cá nhân kinh doanh nộp hồ sơ đề nghị
+cấp hóa đơn điện tử có mã của cơ quan fflụế theo từng lần phát sinh tại cơ
+quan thuế quản lý địa bàn nơi hộ kính doạnh, cá nhân kinh doanh cư trú: nơi ở
+hiện tại; nơi tạm trú hoặc nơi thường trú.
+
+Điều 16. Trình tự, thủ tục tiêu hủy hóa đơn đặt ín của cơ quan
+thuế, biên lai giấy, hóa đơn bán hàng dự trữ quốc gia (hóa đơn bằng
+giấy)
+
+Cơ quan thuế thực hiện tiêu hủy biên lai, hóa đơn đo cơ quan thuế đặt
+in đã thông báo phát hành chưa bán nhưng không tiếp tục sử dụng. Cục Thuế
+có trách nhiệm hướng dẫn quy trình tiêu hủy biên lai do cơ quan thuế đặt in.
+Trường hợp tổ chức, đơn vị sử dụng hoá đơn giấy bán hàng dự trữ quốc gia,
+tổ chức thu phí, lệ phí thực hiện tiêu hủy hóa đơn giấy, biên lai giấy thì gửi
+Thông báo kết quả tiêu hủy hóa đơn, biên lai theo Mẫu số 02/HUY-HĐBLG
+Phụ lục III kèm theo Thông tư này đến cơ quan thuế quản lý trực tiếp chậm
+nhất không quá 05 ngày làm việc kể từ ngày thực hiện tiêu hủy hóa đơn giấy
+(bao gồm hóa đơn giấy bán hàng dự trữ quốc gia), biên lai giấy, đồng thời lưu
+trữ tại đơn vị.
+
+Chương IJI
+QUY ĐỊNH VỀ CHỨNG TỪ ĐIỆN TỬ
+Điều 17. Đăng ký sử đụng chứng từ điện tử
+
+1. Tổ chức, cá nhân khẩu trừ thuế thu nhập cá nhân, tổ chức thu các
+khoản thuế, phí, lệ phí trước khi sử dụng chứng từ điện tử theo khoản 1 Điều
+22 Nghị định số 254/2026/NĐ-CP thì thực hiện đăng ký sử dụng qua Hệ
+thống thông tin quản lý thuế, Trang thông tín điện tử của Cục Hải quan hoặc
+tổ chức cung Ổp dịch vụ hóa đơn điện tử. Đối với các khoản thu thuế, phí, lệ
+phí hàng hóa xuất khẩu, nhập khẩu thực hiện đăng ký sử dụng qua Trang
+thông tin điện tử của Cục Hải quan.
+
+Trường hợp tổ chức, cá nhân trả thu nhập thuộc trường hợp được miễn
+phí địch vụ theo quy định tại Điều 28 Nghị định số 254/2026/NĐ-CP thì được
+lựa chọn đăng ký sử dụng chứng từ điện tử thông qua Hệ thống thông tin
+quản lý thuế hoặc tổ chức cung ưỄp dịch vụ hóa đơn điện tử được Cục Thuế
+ủy thác cung cấp dịch vụ.
+
+<<<TRANG 29>>>
+29
+
+Nội dung thông tin đăng ký theo Mẫu số 01/ĐKTĐ-CTĐT Phụ lục II
+kèm theo Thông tư này.
+
+Hệ thống thông tin quản lý thuế, Trang thông tin điện tử của Cục Hải
+quan gul thong báo theo Mẫu số 01/TB-TNĐT Phụ lục TV kèm theo Thông từ
+này về việc tiếp nhận đăng ký sử dung dnrng từ điện” ũI wa địa chỉ thư điện'
+tử đã đang ký với cơ quan quản ly thuế, qua tổ chức cụng cap dịch vụ hóa đơn
+điện tử đối vơ1 trường hợp đăng ký sử dụng chứng từ điện tử thông qua tổ
+chức cung cấp dịch vụ hóa đơn điện tử.
+
+2. Trong thời gian 01 ngày làm việc kể từ ngày nhận được đăng ký sử
+dụng chứng từ điên tử, cơ quan quản lý thuế có trách nhiệm gửi thông báo
+điện tử theo Mau số 01/TB-ĐKĐT Phụ lục IV kèm theo Thông tư này qua tổ
+chức cung cấp dịch vụ hóa đơn điện tử và gửi thông báo điện tử trực tiếp đến
+tổ chức, cá nhân khấu trừ thuế; tổ chức thu các khoản phí, lệ phí về việc chấp
+nhận hoặc không chấp nhận đăng ký sử dụng chứng từ điện tử.
+
+3. Trường hợp có thay đổi mong tin đã đăng ký sử dung chứng từ điện
+tử, tổ chức, cá nhân tại khoản 1 Đ1eu này thực hiện thay đổi thông tin và gửi
+`1ạ1 cơ quan quản lý thuế theo Mẫu số 01/ÐKTĐ-CTĐT Phụ lục III kèm theo
+Thông tư này qua Hệ thống thông tin quản ly thuế, Trang thông tin điện tử
+của Cục Hải quan hoặc qua tổ chức cung cấp dịch vụ hóa đơn điện tử. Hệ
+thống thong tin quản lý thuế, Trang thông tin điện tử của Cục Hải quan tiếp
+nhận mẫu đăng ký thay đổi thông tín và cơ quan quản lý thuế thực hiện theo
+quy định tại khoản 2 Điều này.
+
+Điều 18, Định dạng chứng từ điện tử
+
+1. Các loại chứng từ quy định tại Điều 22 Nghị định số 254/2026/NĐ-
+CP phải thực hiện theo định dạng sau:
+
+a) Định dạng chứng từ điện tử sử dụng ngôn ngữ định dạng văn bản
+XML (XML là chữ viết tắt của cụm từ tiếng Anh “eXtensible Markup
+Language” được tạo ra với mục đích chia sẻ dữ liệu điện tử giữa các hệ thống
+công nghệ thông tin);
+
+b) Định dạng chứng từ điện tử gồm hai thành phần: thành phần chứa dữ
+liệu nghiệp vụ chứng từ điện tử và thành phần chứa dữ liệu chữ ký sề;
+
+c) Cục Thuế, Cục Hải quan xây dựng và công bố thành phần chứa dữ
+liệu nghiệp vụ chứng từ điện tử và cung cấp công cụ hiển thị các nội dụng của
+chứng tư điện tử theo quy định tại Thông tư này. Thành phần chứa dữ liệu
+chữ ký số thực hiện theo quy định của pháp luật giao dịch điện tử.
+
+2. Chứng từ điện tử phải được hiển thị ủy đủ, chính xác các nội dung
+
+<<<TRANG 30>>>
+30
+
+của chứng từ đảm bảo không dẫn tới cách hiểu sai lệch, đề người sử dụng có
+thể đọc được ổmg phương tiện điện tử.
+
+Điều 19, Ký hiệu mẫu, ký hiệu chứng từ điện tử
+
+1. Chu11g từ trong lĩnh vực wan lý thuế, phí, lệ phí của cơ quan quản ly
+thuế bao gồm: Chứng từ khấu trừ thuế, biên lai.
+
+2. Quy định chỉ tiết về ký hiệu mẫu, ký hiệu chúng từ điện tử thực hiện
+theo quy định tại Phụ lục JI kèm theo Thông tư này.
+
+3. Thuế tỉnh, thành phố khởi tạo biên lai thuế điện tử Mẫu CTT50 Phụ
+lục V kèm theo Thông tư này để sử dụng thu thuế sử dụng đất nông ngl11fap,
+thuế sử dụng đất phi nông nghiệp đối với hộ gia đình, cá nhân.
+
+Điều 20. Xử lý chứng từ điện tử đã lập
+
+1. Trường hợp sai về các nội dung trên chứng từ nhLr mn địa ch1 số
+tiền bang chữ hoặc các nội dung khác nhưng không sai về mã số thuế, số tiền
+ghi trên chứng từ thì tổ chức lập chứng từ điện tử thông báo cho bên nhận
+chứng từ điện tử về việc chứng từ đã lập sai và không phai lập lại chứng từ. Tổ
+chức lập dlưng từ điện tử thông báo với cơ quan thuế về chứng từ đã lập sai
+theo Mẫu số 04/SS-CTĐT Phụ lục III kèm theo Thông tư này.
+
+2. Các uựong hợp d1ưng từ điện tử đã lập sai ngoài các mrong hợp quy
+định tại khoán 1 Điều này thì tổ chức lập chứng từ điện tử thay thế cho chứng
+từ điện tử đã lập sai.
+
+Chương IV
+TRA CỨU, CUNG CÁP, SỬ DỤNG THÔNG TỊN HÓA ĐƠN ĐIỆN TỬ
+
+Điều 21. Cung cấp, tra cứu thông tin hóa đơn điện tử
+
+1. Nội dung thông tin hóa đơn điện tử được cung wp là các nội dung
+của hóa đơn điện tử theo quy định tại Điều 10 Nghị định số 254/2026/NĐ-CP
+và tình trạng hóa đơn điện tử.
+
+2. Thông tin hóa đơn điện tử được cơ quan thuế cung cấp dưới dạng
+văn bản hoặc dữ liệu điện tử.
+
+Điều 22. Đăng ký mới, bỗ sung thông tin đăng ký, thu hồi tài khoản
+truy cập Hệ thống thông tin quản lý thuế để khai thác sử dụng thông tin
+hóa đơn điện tử .
+
+1. Đầu mối đăng ký của bên sử dụng thông tin gửi 01 văn bản đến Cục
+Thuế hoặc Thuế tỉnh, thành phố để đề ngln đăng ký mới hoặc bổ sung thông
+
+tin hoặc thu hồi tài khoản theo Mẫu số 01/CCTT-ĐK. Phụ lục IJI kèm theo
+Thông tư này.
+
+<<<TRANG 31>>>
+31
+
+2. Trong thời hạn không quá 02 ngày làm việc kế từ khi nhận được văn
+bản đề nghị, Cục Thuế hoặc Thuế tỉnh, thành phố thực hiện việc cấp tài khoản
+mới hoặc bổ sung thông tin của tài khoản hoặc thu hồi tài khoản và thông báo
+cho bên sử dụng thông tin bằng văn bản. Trường hợp không chấp nhận đăng ký
+tài khoản hoặc không bồ sung thời hạn sử dụng của tài khoản phải nêu rõ lý do.
+
+Các tài khoản đăng ký mới cấp cho từng cá nhân được thông báo bằng
+hình thức gửi thư điện tử.
+
+3. Thời hạn sử dụng tài khoản truy cập Hệ thống thông tin quản lý thuế
+đôi với trường hợp đăng ký mới và bỗ sung thông tin là 12 tháng hoặc do bên
+sử dụng thông tin đề nghị nhưng không quá 12 tháng tính từ ngày Cục Thuế
+hoặc Thuế tỉnh, thành phố gửi văn bản thông báo kết quả đăng ký của bên sử
+dụng thông tin. Trước khi hết thời hạn sử dụng tài khoản 30 ngày, Hệ thống
+thông tin quản lý thuế tự động gửi thông báo cảnh báo hết hạn cho bên sử
+dụng thông tin. Trường hợp bên sử dụng thông tin không thay đổi thông tin,
+không vi phạm quy định kết nối và có nhu cầu tiếp tục khai thác, việc gia hạn
+được thực hiện tự động thông qua phương thức điện tử xác thực bằng chữ ký
+số của bên sử dụng thông tin trên Hệ thống. Thời gian gia hạn mỗi lần không
+quá 12 tháng.
+
+Điều 23. Chấm dứt sử dụng các hình thức cung cấp, sử dụng thông
+tin hóa đơn điện tử
+
+1. Cục Thuế, Thuế tỉnh, thành phố thực hiện việc thu hồi tài khoản truy
+cập Hệ thống thông tin quản lý thuế trong các trường hợp sau:
+
+a) Khi có đề nghị từ đầu mối đăng ký của bên sử dụng thông tin;
+
+b) Thời hạn sử dụng đã hết;
+
+c) Tài khoản truy cập Hệ thống thông tin quản lý thuế không thực hiện
+việc tra cứu thông tin trong thời gian 06 tháng liên tục;
+
+d) Phát hiện trường hợp sử dụng thông tin hóa đơn điện tử không đúng
+mục đích, phục vụ cho hoạt động nghiệp vụ theo chức năng, nhiệm vụ của
+bên sử dụng thông tìn, không đúng quy định của pháp luật về bảo vệ bí mật
+nhà nước.
+
+2. Chậm nhất là 05 ngày làm việc trước thời điểm chính thức chấm dứt
+sử dụng các hình thức cung cấp, sử dụng thông tin hóa đơn điện tử của bên sử
+dụng thông tin (trừ trường hợp đầu mối đăng ký của bên sử dụng thông tin có
+đề nghị bằng văn bản), Cục Thuế, Thuế tỉnh, thành phố thông báo bằng hình
+thức điện tử cho bên sử dụng thông tin về việc chấm dứt sử dụng các hình
+thức cung cấp, sử dụng thông tin hóa đơn điện tử, chứng từ điện tử.
+
+<<<TRANG 32>>>
+! Ch1Ểoịng V
+ĐIỀU KHOAN THI HÀNH
+Điều 24. Quy định chuyển t1ep
+
+fflch vụ về hóa ủn fflen tử đã ký hợp
+đồng cung cấp nhận, truyền, lưu liệu hóa đơn với Cục Thuế (trước
+ngày 01 tháng 3 năm 2025 là Tổng wchhue) trước ngày Thong tư này có
+hiệu lục thi hành thì tiếp tục thực hiện theo hợp đồng đã ký.
+
+2. Kể từ thời điểm tổ chức kinh m, tổ chức khác, hộ kinh doanh, cá
+nhân kinh doanh sử dụng hóa đơn điện tử theo quy định tại Nghị định
+số 254/2026/NĐ-CP và quy định tại Thông tư này, nếu phát hiện hóa đơn đã
+lập theo quy định tại Nghị định số 51⁄2010/NĐ-CP, . Nghị định
+số 04/2014/NĐ-CP và các văn bản hướng dẫn của Bộ Tài chính mà hóa đơn
+đã lập sai thì người bán và người mua phải lập văn bản thỏa thuận ghi rõ nội
+dung sai và lập hóa đơn điện tử mới (hóa đơn điện tử có mã của cơ quan thuế
+hoặc hóa đơn điện tử không có mã) thay thế cho hóa đơn đã lập sai và cập
+nhật đầy đủ thông tin hóa đơn bị thay thế. Hóa đơn điện tử thay thế hóa ủ*n
+đã lập sai phải có dòng chữ “Thay thế cho hóa đơn Mẫu sé... ký hiệu... sô
+ngày... tháng... năm”. Người bán ký số trên hóa đơn điện tử mới thay thế hóa
+đơn đã lập sai (hóa đơn lập theo Nghị định số 51/2010/NĐ-CP, Nghị định
+số 04/2014/NĐ-CP và các văn bản hướng dẫn của Bộ Tài chính) để gửi cho
+người mua (đối với trường hợp sử dụng hóa đơn điện tử không có mã của cơ
+quan thuế) hoặc người bán gửi cơ quan thuế để được cấp mã cho hóa đơn điện
+tử thay thế hóa đơn đã lập (đối với trường hợp sử dụng hóa đơn điện tử có mã
+của cơ quan thuế). Đối với hóa đơn đã lập theo Nghị định số 123/2020/NĐ-
+CP, Nghị định số 70/2025/NĐ-CP và Thông tư số 32/2025/TT-BTC thì thực
+hiện điều chỉnh hoặc thay thế theo quy định.
+
+Điều 25. Hiệu lực thi hành
+
+1. Huo*ng hợp tổ chức cung
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2026.
+
+2. Kể từ ngày Thông tư này có hiệu lực thi hành, Thông tư số
+32/2025/TT-BTC ngày 31 tháng 5 năm 2025 của Bộ trưởng Bộ Tài chính
+hướng dẫn thực hiện một số điều của Luật Quản lý thuế ngày 13 tháng 6 năm
+2019, Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính
+phủ quy định về hóa đơn, chứng từ, Nghị định số 70/2025/NĐ-CP ngày 20
+tháng 3 năm 2025 sửa đổi, bổ sung một số điều của Nghị định số
+123/2020/NĐ-CP hết hiệu lực thi hành.
+
+<<<TRANG 33>>>
+33
+
+3. Thông tư này gồm 05 Phụ lục, các phụ lục từ Phụ lục I đến Phụ lục
+TV có tính bặt buộc, Phụ lục V có tính chât tham khảo (không bặt buộc).
+
+4. Trong quá trình thực hiện nếu ®q vướng mắc, đề nghị ạ'tc tổ chức, cá
+nhân phản ánh kịp thời vê Bộ Tài chính đê nghiên cứu giải wyêt/./eb_/
+
+- Nơi nhận: KT. BỘ TRƯỞNG
+
+- Ban Bí thư Trung ương Đảng; THỨ TRƯỞNG
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+
+- Văn phòng Trung ương Đảng và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+
+- Văn phòng Quốc hội;
+
+- Văn phòng Chủ tịch nước;
+
+- Văn phòng Chính phủ;
+
+- Hội ửẫng Dân tộc và các Ùy ban của Quốc hội;
+
+- Viện kiểm sát nhân dân tối cao;
+
+- Tòa án nhân dân tối cao;
+
+- Kiểm toán nhà nước;
+
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+
+- Cơ quan Trung ương của các đoàn thể;
+
+- Các bộ, cơ quan ngang bộ;
+
+- HĐND, UBND các tỉnh, TP trực thuộc trung ương;
+- Sở Tài chính, Thuế các tỉnh, TP trực thuộc trung ương;
+- Chỉ cục Hải quan, Kho bạc Nhà nước khu vực;
+
+- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật,
+Bộ Tư pháp; ì
+
+- Cơ sở dữ liệu quốc gia về pháp luật;
+
+- Công pháp luật quốc gia;
+
+- Công báo;
+
+- Cổng thông tin điện tử của Chính phủ;
+
+- Cổng thông tin điện tử Bộ Tài chính;
+
+- Trang thông tin điện tử Cục Ưxuế;
+
+- Các đơn vị thuộc Bộ Tàải chính;
+
+-Lưu: VT,CT(CS b).⁄4⁄ .
+
+=
+nh Tuấn
+
+<<<TRANG 34>>>
+Phụ lục I
+KÝ HIỆU MẪU, KÝ HIỆU HÓA ĐƠN
+(Kèm theo Thông tư số 91/2026/TT-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+ê
+
+1, Ký hiệu mẫu hóa đơn điện tử phản ánh ỏại-.hó_aổơn điện tử như sau:. .
+
+- Số 1: Phản ánh loại hóa đơn điện tử giá trị gia fflnỆ;
+
+- Số 2: Phản ánh loại hóa đơn điện tử bán hàng:
+
+- Số 3: Phản ánh loại hóa đơn điện tử bán tài sản công:
+
+- Số 4: Phản ánh loại hóa đơn điện tử bán hàng dự trữ quốc gia;
+
+- Số 5: Phân ánh các loại hóa đơn điện tử khác là tem điện tử, vé điện tử,
+thẻ điện tử, phiếu thu điện tử hoặc các chứng từ điện tử có tên gọi khác nhưng có
+nội dung của hóa đơn điện tử theo quy định tại Điều 10 Nghị định số
+254/2026/NĐ-CP của Chính phủ;
+
+- Số6: Phản ánh các chứng từ điện tử được sử dụng và quản lý như hóa đơn
+gồm phiếu xuất kho kiêm vận chuyển nội bộ điện tử, phiều xuất kho hàng gửi bán
+đại lý điện tử;
+
+- Số 7: Phản ánh hóa đơn thương mại điện tử;
+
+- Số 8: Phản ánh hóa đơn điện tử giá trị gia tăng tích hợp biên lai thu thuế,
+phí, lệ phí;
+
+- Số 9: Phản ánh hóa đơn điện tử bán hàng tích hợp biên lai thu thuế, phí,
+lệpht. ' .
+
+2. Sáu ký tự hóa đơn điện tử được quy định như sau:
+
+- Ký tự đầu tiên là một chữ cái được quy định là C hoặc K như sau: C thể
+
+hiện hóa đơn điện tử có mã của cơ quan thuế, K thể hiện hóa đơn điện tử không
+có mã;
+
+- Hai ký tự tiếp theo là hai chữ số Ả rập thể hiện năm lập hóa đơn điện tử
+được xác định theo hai chữ số cuối của năm dương lịch. Ví dụ: năm lập hóa đơn
+điện tử là năm 2026 thì thể hiện là số 26;
+
+- Một ký tự tiếp theo là một chữ cái được quy định là: T,D,L,M,N,B,G,
+H, X, F thể hiện loại hóa đơn điện tử được sử dụng, cụ thể:
+
++ Chữ T: fflJ dụng đối với hóa đơn điện tử do các doanh nghiệp, tổ d1uc
+hộ kinh doanh, cá nhân kinh doanh ủng ký sử dụng với cơ quần thuế;
+
+<<<TRANG 35>>>
+2
+
++ Chữ D: Áp dụng đối với hóa đơn điện tử bán tài sản công và hóa đơn điện
+tử bán hàng dự trữ quốc gia hoặc hóa đơn điện tử đặc thù không nhất thiết phải có
+một số tiêu thức do các doanh nghiệp, tổ chức đăng ký sử dụng:
+
++ Chữ L: ÁỵJ dụng đối với hóa đơn điện tử của cơ quan thuế ơẾlp theo tùng
+lần phát sinh;
+
++ Chữ M: Áp dụng đối với hóa đơn điện tử Ẹĩược khởi tạo từ máy tính tiền;
++ Chữ N: Áp dụng đối với phiều xuất kho kiêm vận chuyển nội bộ điện tử;
++ Chữ B: Áp dụng đối với phiều xuất kho hàng gửi bán đại lý điện tử;
+
++ Chữ G: Áp dụng đối với tem, về, thẻ điện tử là hóa đơn giá trị gia tăng;
++ Chữ H: zẮỊ> dụng đối với tem, vé, thẻ điện tử là hóa đơn bán hàng:
+
++ Chữ X: Áp dụng đối với hóa đơn thương mại điện tử;
+
++ Chữ F: Áp dụng đối với hóa đơn giá trị gia tăng kiêm tờ khai hoàn thuế,
+
+- Hai ký tự cuối là chữ viết do người bán tự xác định căn cứ theo nhu cầu
+quản lý. Trường hợp người bán sử dụng nhiều mẫu hóa đơn điện tử trong cùng
+một loại hóa đơn thì sử dụng hai ký tự cuối nêu trên để phân biệt các mmẫu hóa đơn
+khác nhau trong cùng một loại hóa đơn. Trường hợp không có nhu cầu quản lý thì
+sử dụng hai ký tự YY.
+
+- Tại bản thể hiện, ký hiệu hóa đơn điện tử và ký hiệu mẫu số hóa đơn điện
+tử được thể hiện ở phía trên bên phải của hóa đơn (hoặc ở vị trí dễ nhận biết);
+
+- Ví dụ thể hiện các ký tự của ký hiệu mẫu hóa đơn điện tử và ký hiệu hóa
+đơn điện tử: `
+
++ “1C26TAA” — là hóa đơn giá trị gia tăng có mã của cơ quan thuế được
+lập năm 2026 và là hóa đơn điện tử do doanh nghiệp, tổ chức đăng ký sử dụng với
+cơ quan thuế;
+
++ “2C26TBB” - là hóa đơn bán hàng co mã của cơ quan thuế được lập năm
+2026 và là hóa đơn điện tử do doanh nghiệp, tổ chức, hộ kinh doanh, cá nhân kinh
+doanh đăng ký sử dụng với cơ quan thuế;
+
++ “1C26LBB” - là hóa đơn giá trị gia tăng có mã của cơ quan thuế được
+lập năm 2026 và là hóa đơn điện tử của cơ quan thuế cấp theo từng lần phát sinh;
+
++“1K26TYY? ~ là hóa đơn giá trị gia tăng loại không có mã được lập năm
+2026 và là hóa đơn điện tử do doanh nghiệp, tổ chức đăng ký sử dụng với cơ quan
+thuế;
+
++“1K26DAA” —- là hóa đơn giá trị gia tăng loại không có mã được lập năm
+
+<<<TRANG 36>>>
+3
+
+2026 và là hóa đơn điện tử đặc thù không nhất thiết phải có một số tiêu thức bắt
+buộc do các doanh nghiệp, tổ chức đăng ký sử dụng:
+
++ “3C26DVV” - là hóa đơn điện tử bán tài sản công có mã được lập năm
+2026 của cơ quan thuế;
+
++5“3K26DYY?? — là hóa đơn điện tử bán tài sản công ủ.ong c mã được lập
+năm 2026 của cơ quan thuế;
+
++ “6K26NAB” ~ là phiếu xuất kho kiêm vận chuyển nội bộ điện tử loại
+không có mã được lập năm 2026 do doanh nghiệp đăng ký với cơ quan thuế;
+
++ “6K26BAB?' - là phiếu xuất kho hàng gửi bán đại lý điện tử loại không
+có mã được lập năm 2026 do doanh nghiệp đăng ký với cơ quan thuế;
+
++“7K26XAB” ~ là hóa đơn thương mại điện tử loại không có mã được lập
+năm 2026 do doanh nghiệp đăng ký với cơ quan thuế.
+
+<<<TRANG 37>>>
+Phụ lục II
+KÝ HIỆU MẪU, KÝ HIỆU CHỨNG TỪ ĐIỆN TỬ
+(Kèm theo Thông tư số 91/2026/TT-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+1. Chứng từ khẩu trừ thuế thu nhập cá nhân điện tử
+ạ) Ký hiệu mẫu chứng từ là 03/TNCN;
+
+b) Ký hiệu chứng từ gồm sáu ký tự gồm cả chữ viết và chữ số được quy
+định như sau:
+
+- Hai chữ đầu “CT” là chữ viết tắt của chứng từ;
+
+- Hai ký tự tiếp theo là hai chữ số Ả- -rập thể hiện năm lập chứng từ khấu trừ
+thuế thu nhập cá nhân điện tử được xác định theo hai chữ sô cuôi của năm dương
+lịch;
+
+- Hai ký tự cuox là chữ viết do tổ chức, cá nhân khấu trừ thuế tự xác định
+căn cứ theo nhu cầu quản lý. Trường hợp tổ chức, cá nhân khấu trừ thuế sử dụng
+nh1<=,u mẫu chứng từ điện tử trong cùng một loại chứng từ thì sử dụng hai ký tự
+cuối đề phân biệt các mẫu chứng từ;
+
+Ví dụ: 03/TNCNCT26AA: Chứng từ khẩu trừ thuế thu nhập cá nhân điện
+tử lập và cấp cho người nộp thuế trong năm 2026.
+
+- Số chứng từ khấu trừ thuế thu nhập cá nhân điện tử là số thứ tự được thể
+hiện trên chứng từ khấu trừ thuế thu nhập cá nhân điện tử. Số chứng từ khấu trừ
+thuế thu nhập cá nhân điện tử được ghỉ bằng chữ số Ả- -rập có tối đa tám chữ so
+bắt đầu từ số 01 vào ngày 01 tháng 01 hoặc ngày bắt đầu sử dụng chứng từ khấu
+trừ thuế thu nhập cá nhân điện tử và kết thúc vào ngày 31 tháng 12 hằng năm;
+
+- Tại bản ffle hiện, ký hiệu mẫu, ký hiệu chứng từ khấu trừ thuế thu nhập cá
+nhân điện tử và số chứng từ khấu trừ thuế thu nhập cá nhân điện tử được thể hiện
+
+ở phía trên bên phải của chứng từ khấu trừ thuế thu nhập cá nhân (hoặc ở vị trí dễ
+nhận biếp).
+
+2. Biên lai
+
+Ký hiệu mẫu biên lai là các thông tin thể hiện tên loại biên lai, số thứ tự
+mẫu trong một loại biên lại (một loại biên lai có thể có nhiều mau) Ký hiệu biên
+lai là &uJ hiệu phân biệt biên lai bằng hệ thống các chữ cái tiếng Việt và hai chữ
+số cuối của năm dương lịch.
+
+a) Ký hiệu mẫu biên lai điện tử có năm ký tự gôm:
+
+<<<TRANG 38>>>
+- Ba chữ cái (EBL) và hai ký tự số, cụ thê; (01) thể hiện biên lại thư phí, lệ
+phí không có mệnh giá, (02) thê hiện biên lại thu phí, lệ phí có mệnh giá.
+
+- Ví dụ: EBL01, EBL02.
+
+b) Ký biệu biên lai điện tử gồm năm ký tự:
+
+- Hai ký tự đầu tiên là ha1 chữ số Á- -rập:thệ hiện năm fflp Ĩnê lài điện tử
+được xác định theo hai chữ số cuối wa năm fflxơng ịch. Ví dụ: Nnn ậ
+điện tử là năm 2026 thì thể hiện là số 26; -
+
+- Một ký tự t1ep theo là một chữ cái được quy định là T áp dụng đối với
+biên lai điện tử do tổ chức đăng ký sử dụng với cơ quan thuế;
+
+- Hai ký tự tiếp theo là nhóm hai chữ cái trong hai mươi chữ cái in hoa của
+bảng chữ cái Ệiêng Việt bao gôm: A,B,C,D,E,G,H,K,L,M,N,P,Q,R,S,T,
+U,V, X, Y thê hiện ký hiệu biên lai được tự xác định, theo nhu câu quản lý.
+
+<<<TRANG 39>>>
+Phụ lục III
+HỖ SƠ HÓA ĐƠN, CHỨNG TỪ - NGƯỜI NỘP THUÉ
+(Kèm theo Thông tư số 91/2026/TT-BTC
+ngày 30 tháng ó năm 2026 của Bộ trưởng Bộ Tài chính)
+
+Mẫu số _ Tên hỗ sơ, mẫu biệu :
+
+01/ĐKTP-HĐĐT ẵễnkỉẳl đăng ký/thay đôi thông tin sử dụng hóa đơn
+
+01/TH-HĐĐT Bảng tổng hợp dữ liệu hóa đơn điện tử gửi cơ quan thuế
+
+01/TH-BLĐT Bảng tổng hợp dữ liệu biên lai điện tử gửi cơ quan thuế
+
+01/TH-DT Bảng tổng hợp doanh thu
+
+01/TTGD Bảng thông tin chí tiết giao dịch
+
+04/SS-HĐĐT Thông báo hóa đơn điện tử đã lập sai
+
+01/BK-ĐCTT Bảng kê các hóa đơn điện tử đã lập sai
+
+06/ĐN-PSĐT Đề nghị cấp hóa đơn điện tử có mã của cơ quan thuế
+
+01/ĐKTĐ-CTĐT ẫơêẳ<lgịu đăng ký/thay đôi thông tin sử dụng chứng từ
+
+ñ 1
+04/SS-CTĐT | Thông báo chứng từ điện tử đã lập sai
+
+01/CCTT-ĐK ĐĨ 11Lcj`Jì1lỊ (Ìâĩlg ký mơAl mìạc bô sung nội dung cung câp
+thông tin hóa đơn điện tử
+
+02/HUY-HĐBLG. | Thông báo kết quả tiêu hủy hóa đơn giấy, biên lai giấy
+
+ñ
+
+<<<TRANG 40>>>
+Mẫu số: 01/ĐKTĐ-HĐĐT
+(Kèm theo Thông tư số 91/2026/77-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tòi chính)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+TỜ KHAI
+Đăng ký/thay đỗi thông tìn sử dụng hóa đơn điện tử
+Đăng ký mới
+Thay đổi thông tin
+
+Tên người nộp thuế:
+
+Mã số thuế:
+
+Ngày tháng năm sinh:
+
+Số định danh cá nhân hoặc số hộ chiếu!: .................................
+
+Điện thoại liên hệ (Đại diện theo pháp luật/ Hộ kinh doanh, cá nhân kinh doanb): ......
+Địa chỉ liên hệ của người nộp thuế:
+
+Thư điện tử của người nộp thuế: ...............-..GnG(nnnnnn ee n T( ee n nn n nn 1010060105
+Theo Nghị định số 254/2026/NĐ-CP của Chính phủ, chúng tôi/tôi thuộc đối tượng sử
+dụng hóa đơn điện tử. Chúng tôi/tôi đăng ký/thay đổi thông tin đã đăng ký với cơ quan
+thuế về việc sử dụng hóa đơn điện tử như sau:
+
+1. Hình thức hóa đơn:
+
+Ú Hóa đơn điện tử có mã của cơ quan thuê.
+
+Hóa đơn điện tử khởi tạo từ máy tính tiền có mã của cơ quan thuế.
+
+U Hóa đơn điện tử khởi tạo từ máy tính tiền không có mã của cơ quan thuế.
+
+n Hóa đơn điện tử không có mã của cơ quan thuê,
+
+2. Hình thức gửi dữ liệu hóa đơn điện tử:
+
+a. D Trường hợp sử dụng hóa đơn điện tử có mã trên Hệ thống thông tin quản lý thuế
+hoặc tổ chức cung ư“ỉp địch vụ hóa đơn điện tử được Cục Thuế ủy thác.
+
+Doanh nghiệp nhỏ và vừa, hợp tác xã, liên hiệp hợp tác xã, hộ kinh doanh, cá nhân
+kinh đoanh tại địa bàn có điều kiện kinh tế xã hội khó khăn, địa bàn có điều kiện kinh
+
+! Đối với người đại điện là người Việt Nam điền thông tin số định danh cá nhân. Việc sử dụng số định danh cá
+nhân then quy định pháp luật vệ căn cước.
+
+<<<TRANG 41>>>
+2 m
+
+tế xã hội đặc biệt khó khăn (khoản ] Điều 11 của Nghị định số 254/2026/NĐ-CP của
+Chính phủ).
+
+Cơ quan thuế hoặc cơ quan được giao nhiệm vụ tổ chức, xử Ủ tài sản công theo quy
+định pháp luật về quản lý, sử dụng tài sản công (khoản 2 Điều 11 của Ẹỉghị định sô
+254/2026/NĐ-CP của Chính phủ).
+
+b.n Trường hợp sử dụng hóa đơn điện tử không có mã của cơ quan ffluếg
+
+n Gửi trực tiếp đến cơ quan thuế (điểm bl khoản 3 Điều 16 của Nghị định số
+254/2026/NĐ-CP của Chính phủ).
+
+n Gửi đến cơ quan thuế thông qua tổ chức cung cấp dịch vụ hóa đơn điện tử (điểm b2
+khoản 3 Điều 16 của Nghị định số 254/2026/NĐ-CP của Chính phủ).
+
+n Tổ chức nước ngoài có hoạt động kinh doanh, cung Ổp dịch vụ thông qua nên tảng
+thương mại điện tử, nền tảng số khác (điểm a.1.3 khoản 3 Điều 16 của Nghị định số
+254/2026/NĐ-CP của Chính phủ).
+
+3. Phương thức chuyển dữ liệu hóa đơn điện tử:
+
+n Chuyển đầy đủ nội dung từng hóa đơn..
+
+Chuyển dữ liệu bảng tổng hợp doanh thu theo Bảng tổng hợp doanh thu theo Mẫu số
+01/TH-DT (điểm a khoản 6 Điều 4 của Thông tư số 91/2026/TT-BTC của Bộ trưởng Bộ
+Tài chính).
+
+Chuyên dữ liệu hóa đơn điện tử theo Bảng tổng hợp dữ liệu hóa đơn điện tử theo Mẫu
+số 01/TH-HĐĐT (điểm b khoản 6 Điều 4 của Thông tư số 91/2026/TT-BTC của Bộ
+trưởng Bộ Tài chính).
+
+Chuyển cơ sở dữ liệu thông tin chí tiết giao dịch phát sinh theo Bảng thông tin chỉ tiết
+giao địch theo Mẫu số 01/TTGD (điểm c khoản 6 Điều 4 của Thông tư số 91/2026/TT-
+BTC của Bộ trưởng Bộ Tài chính).
+
+4. Loại hóa đơn sử dụng:
+Hóa đơn GTGT. .
+Hóa đơn GTGT tích hợp biên lai thu thuế, phí, lệ phí.
+
+Hỏa đơn bán hàng,
+
+Hóa đơn bán hàng tích hợp biên lai thu thuế, phí, lệ phí.
+
+Hóa đơn thương mại.
+
+g Hóa đơn nhà cung cấp ở nước ngoài không có cơ sở thường trú tại Việt Nam..
+O Hóa đơn bán tài sản công
+n Hóa đơn bán hàng dự trữ quốc gia.
+
+Các loại hóa đơn khác.
+
+Các chứng từ được in, phát hành, sử dụng và quản lý như hóa đơn.
+
+<<<TRANG 42>>>
+5. Danh sách chứng thư số sử dụng:
+
+Tên tổ chức cơ quan Thời hạn sử dụng chứng | Hình thức đăng
+STT chứng filực/cẫp/công Số sê-ri thư số ký (Thêm mới,
+nhận chữ ký số, chữ chứng thư i gia hạn, ngừng
+ký điện tử Từngảy i|Đênngày|  sử dụng)
+6. Đăng ký ủy nhiệm lập hóa đơn
+„ „ „ „ |Mãsố
+ˆ . ẳy Ẻỉy fflaflÃuy thuế/Số| Mục - :
+Tên loại hóa| hiệu | hiệu | nhiệm/ định fflc'h Thời | Phương thức
+STT| đơnủy mẫu | hóa ! Bên danh R hạn ủy | thanh toán hóa
+nhiệm | hóa đơnñynhận ây| C | " | nhiệm | đơn ủy nhiệm
+A „ cá nhiệm|
+đơn |nbiệm| nhiệm Ñ l
+nhân
+G) O) G@ G) ‹) 1@ | 9 (0)
+7. Tổ chức cung cấp dịch vụ
+A„ TẢ ế Ắ Thời gian Ghi chú
+srT lồn Tô Ể“ẫc E CSP l Ö số thuế ,
+ịch và Từ ngày | Đên ngày
+l
+8. Thông tin đơn vị truyền nhận
+Tên đơn vị truyề _~Ẽ,
+STT| Ô R ÝI PUYÊH C unx số thuế Thời gian ì Ghi chú
+nhận
+Từ ngày | Đến ngày
+9. Thông tin đơn vị hạch toán phụ thuộc cần cấp quyền tra cứu hóa đơn
+i Ì Thời gian Ghỉ chú
+STT Tên đơn vị Mã sô thuê
+Từ ngày |Đến ngày
+
+<<<TRANG 43>>>
+4
+
+9a. Thông tin đơn vị được ủy thyền tra cứu hóa đơn
+
+Hóa |Thời điểm lập | Thời gian được ủy
+
+Tên đơ: Mãi đơn hóa đơn quyền
+STT Ô | số bán ra/ , Ghi chú
+» thuếi mua từ . . Đện
+
+Từ ngày
+
+vào | ngày ngày
+
+10. Đề nghị tạm ngừng sử dụng hóa đơn điện tử
+
+Trong quá trình sử đụng hóa đơn điện tử, chúng tôi xin phép tạm ngừng sử dụng hóa
+đơn điện tử cụ thể như sau:
+
+Thời gian tạm ngừng sử Ñ \ Ì
+STT| dụnghóa đơn điện tử. | TÔ ủífc cung cập ặ^› sê-ri Ghi chú
+P dịch vụ chứng thư
+Từ ngày Đên ngày
+11. Đăng ký tích hợp hóa đơn điện tử với chứng tù điện tử
+Tênlogi | B K hiệu| Q C . M" Thời
+l mâu hóa , - Tên tô chức đượchoặc |đích „ :
+STT|J hóa đơn „ „ thóa đơn _ - „ hạn tíchGhi chú
+tích hợ đơn tích tích ho nhận tích hợp hóa đơn |tích ì1
+ợp hợp ợp hợp ợp
+G) O G) ( @Ø 9| (8)
+
+Chúng tôi cam kết hoàn toàn chịu trách nhiệm trước pháp luật về tính chính xác, trung
+thực của nội dung nêu trên và thực hiện theo đúng quy định của pháp luật./.
+
+........ › ngày.......tháng.......năm........
+NGƯỜI NỘP THUÊ hoặc
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUÊ
+(Chữ ký số, chữ ký điện tử của người nộp thuế)
+
+<<<TRANG 44>>>
+Mẫu số: 01/TH-HĐĐT
+(Kèm theo Thông tư số 91/2026/77-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+BẰNG TỎNG HỢP DỮ LIỆU HÓA ĐƠN ĐIỆN TỬ GÚI CƠ QUAN THUÊ
+[01] Kỳ dữ liệu: Tháng hoặc quý.......năm...........
+[02]Lần đầu[] - [03] Sửa đối, bổ sung lần thứ [ ]
+[04] Tên người nộp thuế: ...............nnnnnnnnnnnnnnnnn rn n n n n n n 1111111111 1111101 1011 11019
+
+T i m IE II IN
+sề:
+
+.......... Đồng tiền: ......
+
+xý Tổ . Thông
+ˆ ~ về ông giá - .
+Ngày Mã sô _ . tin Địa
+tháng| „„ | thuế - |tlhàng Kỳ | nóa | chỉ
+ÁL x Tên .. x hoá, dịch điều đ Ñ
+số hóa| năm | „ uờ; người| MẾT | gá Lượng | vụ bán Trang| n | vòn [ÀAgưỞ1 Chỉ
+đơn | lập nglua mua/ml hàng ợng ra chưa thái h dữ liên | mua | chú
+hóa ã khách có thuế liệu | d02H | (nếu
+đơn hàng GTGT ” | (nếu | có)
+] có)
+D1Ø |@ |@ | @ | ( d9 | 0g l@2 | 03 | 09 | 05) 1 09 107108 | 09) | Ø9
+- I .. |; Mới
+Sửa
+thông
+tin trê
+Mmg`ì
+kê (do
+tông |.~
+hợp dữ
+liệu từ
+hóa
+đơn
+
+<<<TRANG 45>>>
+Tôi cam đoan tài liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về những tài liệu đã khai.
+
+NGƯỜI NỘP THUÊ hoặc |
+ĐẠI DIỆN H(Ìi'P PHÁP CỦA NGƯỜI NỘP THUẾ
+(Chữ ký sô, chữ ký điện tử của người nộp thuê)
+Ghí chú: '
+- Trường hợp hóa đơn không nhất thiết có đầy đủ các nội dung quy định tại khoản 3 Điều 10 và điểm 9 Phụ lục ban hành kèm theo định fflỄ
+254/2026/NĐ-CP của Chính phủ thì bỏ trông các chỉ tiêu không có trên hóa đơn.
+
+<<<TRANG 46>>>
+- [03] Sửa đổi Bồ sung.
+- Chỉ tiêu (6): người bán điền mã số thuế, mã số QHVNS đối với L người mua là tổ chức kinh doanh, cá nhân kinh doanh có mã số thuế/số định
+danh, trường hợp là cá nhân tiêu đùng cuối cùng không cung cấp thông tin thì để trồống: mã khách hàng đối với trường hợp bán điện, nước
+cho khách hàng không có mã số thuế.
+
+<<<TRANG 47>>>
+Mẫu số: 017/TH-BLĐT .-
+(Kèm theo Thông ư số 91/2026/77-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+BẰNG TÔNG HỢP DỮ LIỆU BIÊN LAI ĐIỆN TỬ GỬI CƠ QUAN THUẾ
+[01] Kỳ dữ liệu: Tháng....... năm......hoặc quý....... năm..........
+[021Lần đầu [] ffl3] fflIả đ01 Bổ sung lần ft1ư_[ l
+[04] Tên Tổ chức thu thuế, phí, lệ ựn
+
+[05] Mã số thuế: ỹ l
+
+.......... Đồng tiền: .......
+
+STT
+
+1)
+
+Tôi cam đoan tài liệu khai trên là đúng và chịu trách nhiệm trước pháp
+luật về những tài liệu đã khai./.
+
+........ Ẹay....….thang.…...nam….....
+TÔ CHƯC 1HU THUI*Ệ PHÍ, LỆ PHÍ hoặc
+ĐẠI DIỆN HỢP PHÁP CỦA TÔ CHỨC THU THUÊ, PHÍ,
+LỆ PHÍ
+(Chữ ký số, chữ ký điện tử của Tổ chức thu thuế, phí, lệ phí)
+
+<<<TRANG 48>>>
+.. Mẫu số: 01/TH-DT ñ
+(Kèm theo Thông tư số 91/2026/TT-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+BẢNG TỎNG HỢP DOANH THU
+Ngày .. tháng .. năm ...
+
+sề:
+Ky hiệu:
+Tên đoanh nghiệp: .......................GGnnnnnnnnnnnnnnnnnnnnnnnnnn n EN EE nnnnnn n nk s r êỐT
+iv
+Điểm kinh doanh casino/trò chơi điện tử có thưởng:.................ồồồcG.ssssse,
+Đơn vị tính: ...............
+
+Số tiền đã | Số tiền
+, s- ¬ |đốiträcho| trả
+Qllì'ì}’/S0Vb2ìl`I.|S0 S tiên Ẹl\1ạch , thưởng Doanhthu | Ghi chú
+máy thu được | không sử cho
+dụng hết | khách
+(nếu có) . | (nếu có)
+
+g) 2) 6 @ @ |@@=G)›-@-(9| Œ
+
+STT
+
+(8) Tổng doanh thu
+Ghi chú:
+
+(7) Ghi cụ thể vào cột Ghi chú số tiền thu đã bao gồm hoặc chưa bao gồm thuế giá trị
+gia tăng. ì
+(8) Tổng doanh thu thu được là căn cứ để doanh nghiệp casino, trò chơi điện tử có
+thưởng lập hóa đơn.
+
+........ ›ngày.......tháng.......năm......
+NGƯỜI NỘP THUÊ hoặc
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUÊ
+(Chữ ký số, chữ ký điện tử của người nộp thuế)
+
+<<<TRANG 49>>>
+Mấn số: 01/TTGD
+(Kèm theo Thông tư số 91/2026/TT.BTC
+gày 30 tháng ó năm 2026 của Bộ trưởng Bộ Tài chính)
+BẰNG THÔNG TIN CHI TIẾT GIÁO DỊCH
+[01] Kỳ dữ liệu: Tháng
+
+....... năm......
+[02]Lần đầu[]  [03] Sửa đổi, bổ sung lần thứ [ ]
+[04] Tên người nộp thuế:
+
+[05] Mã số thuế: -
+
+LITTTTTT T
+
+Giá trị
+Mã dđịch vụ Số
+giao â Ñ
+STT | giao fflch fflTlĨnr chưa có thuê
+dịch CU . ghuế GTGT
+GTGT
+
+1 G) G @ (69
+
+Điêu
+chỉnh
+
+Tổng cộng
+
+Tôi cam đoan tài liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về
+những tài liệu đã khai./.
+
+........ › ngày........tháng
+NGƯOT NỘP THUÊ hoặc
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI
+NỘP THUÊ
+(Chữ ký số, chữ ký điện tử của người nộp
+thuế)
+
+<<<TRANG 50>>>
+cu. Mẫusố04/S8-HĐĐT -
+"+n (Kèm theo Thông tự số 91/2026/77-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+THÔNG BÁO HÓA ĐƠN ĐIỆN TỬ ĐÃ LẬP SAI .-
+Kính gửi: (Cơ quản thuế)' '
+Tên người nộp thuế: .....
+
+Mã sô thuê: .......................n2n7272010070/00105) ỶẽẼỡ—_ —
+
+do/Thông
+
+Ghi chú:
+(2): Mã CQT cấp đối với hóa đơn có mã của CQT, hóa đơn không có mã của CQT để
+trông. .
+
+(8): Trường hợp hóa đơn điện tử đã lập sai và người bán thực hiện Thông báo/Trường
+hợp CQT thông báo thì người nộp thuế giải trình.
+
+— JỀN]M › ngày........ tháng....... năm........
+NGƯỜI MUA ! NGƯỜI NỘP THUÊ hoặc
+(Chữ ký số củangười mua . ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUÊ
+nếu có) (Chữ ký số, chữ ký điện tử của người nộp thuế)
+
+<<<TRANG 51>>>
+Mẫu số: 01/BK-ĐCTT
+(Kèm theo Thông tư số 91/2026/77-BTC
+ngày 30 tháng ó năm 2026 cua Bộ trưởng Bộ Tài chính)
+
+BẢNG KÊ CÁC IIOt8— ĐƠN ĐIỆN TƯ ĐÃ LẬP SAI
+Điều dunh a Thay thế G
+
+Chúng tôi gồm: .
+
+e i ee
+. _W—ÁÖềo
+2 r—”Y t N t ———oom
+Và Công ty: .....nnnnnnnnnnnn n n n EE n E n E [ n E n n n n n EE n n n n E [ Ể T 1 T 011 011 11 091077001300771701007
+Địa chỉ: .....................
+Hai bên cùng nhau xác mlan điều chỉnh/thay thế các hóa đơn sau:
+
+Thông tin trước điều chỉnh/thay thê _ Thông tỉn sau điềêu chỉnh/thay thê(* Chênh lệch (**
+: Tôn
+
+meu Ký Tên l Ký lzÿ | Liên Tổng Thui g
+. Số | hàng | Số Thà - | hiệu h .au| SỐ hàng! „‹ Ñ Ố Á rÂ LẠ
+STT n1au hiệu l Đơn Thue Thuế T`ong lu hiệu Số JĐơn|Thành|Thuế| Thuế |Tổng|Kh| tiền tiên|. .,
+hóa | hóa llượn| ., | nh Khác ~. | mẫu hóa| hóa . ợ H NeuẨm Khá:
+số |hóa - giá | › suất |GTGT] tiền chú | ¿ hóa lượng| giá | tiền | suất |GTGT] tiên |ác |trước CỉT han
+h đơn| dịch | g tiên sô hóa đơn|dịch Ứ
+hóa lđơn đơn .thuê |GTỊ h
+
+đơn về đơn vụ
+
+]ỉ s
+0)1G1J@| @ 6)_Í(6) ơ1!@ @)Ỉ(IO) 09 |02)103)1 04) |05) ƠGỊIĨI'Ĩ) G8) JG9) @0)17(21) Ø2) : ®_Ì_ ạ O5) j(26) G7) O8)
+Thay 4_
+: dòng
+hàng
+
+Cc22 hóa
+1 TA 1 A 2 J100 9% Ñ
+băng ,
+dòng
+
+<<<TRANG 52>>>
+hóa
+
+500
+
+1500
+
+8%
+
+120
+
+1620|
+
+C22
+TA
+
+200
+
+8%
+
+Tăng
+số
+lượn
+
+hàng
+hóa
+
+từ]
+
+lên3
+
+200
+
+600
+
+8%
+
+48
+
+648
+
+C22
+TẢ
+
+150
+
+600
+
+10%
+
+60
+
+660
+
+Tăng
+sô
+lượn
+
+hàng
+hóa
+từ 4 -
+>5,
+tăng
+đơn
+
+- lgiá từ
+
+150
+
+lên
+250,
+giảm
+thuế
+suất
+
+10%-
+
+-.1>8%
+
+250
+
+1250
+
+8%
+
+100
+
+1350
+
+<<<TRANG 53>>>
+C22 h
+L LỊp | 5 |#80 5%
+1 ỄỄ 101 A..2.1100 8%
+1 ỄỄỄĨ 101.B. | 11200 8%
+C22 - h
+1 TA 10 F 4 1150 10%
+Lý do điều chỉnh/thay thế:
+
+Ầ
+
+(*) Đối với hóa đơn thay thế cho nhiều hóa đơn thì thông tin ở mục “Thông tin sau điều chỉnh/thay thể” là căn cứ để lập hóa đơn thay thể.
+(**) Đối với hóa đơn điều chỉnh cho nhiều hóa đơn thì thông tin ở mục “Chênh lệch” là căn cứ để lập hóa đơn điều chỉnh.
+Chú ý: - Hình thức 01 hóa đơn điều chinh/thay thế cho nhiều hóa đơn ebi áp dụng đối với hóa đơn đã lập cho cùng 01 người mua trong cùng
+1 tháng và cùng sai thông tin (VD: cùng sai thông tin về thuê suật hoặc cùng sai thông tin về tiên thuê hoặc sai thông tím về tên hàng hóa);
+
+- Trường hợp bên bán là tổ chức tài chính, ngân hàng thì không bắt buộc bên mua phải có ký số;
+
+- Trường hợp bên mua không cung cấp thông tin thì không bắt buộc bên mua phải có ký số.
+
+1 nHrrnrs ngày.......tháng.......năm....... — , ngày.......tháng.......năm........
+NGƯỜI ĐẠI DIỆN THEO PHAP LUẬT BỀN MUA NGƯỜI ĐẠI DIỆN THEO.PHÁP LUẬT BỀN BÁN
+(Chữ ký sô, chữ ký điện tử) (Chữ ký sô, chữ ký điện tử)
+
+<<<TRANG 54>>>
+ˆ Mẫu sô: 06/ĐN-PSĐT
+(Kèm theo Thông tư số 91/2026/T7-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc ảp Tự do - Hạnh ỵJÌ1ll(I
+
+ĐỀ NGHỊ CÁP HÓA ĐƠN ĐIỆN TỦ CÓ MÃ CỦA CƠ QUAN THUÊ
+(Theo từng lần phát sinh)
+[01] Cấp mới [] [02] Điều chinh [ ]............. Thay thế [ ]
+Kính gửi: (Cơ quan thuế quản lý trực tiếp)
+
+I. TÖ CHỨC, CÁ NHÂN ĐÈ NGHỊ CÁP HÓA ĐƠN THEO TỪNG LÀN
+PHÁT SINH
+
+l t ế n W
+2. Mã số thuế/Mã số QHVNS (nếu cÓ): ..............seeneeeneeeeee ee ee ee ee ee ee
+3. Địa chỉ liên hệ: ..........................L0.LLCeieiinenennieineninei ee a e E n E EE E n b b n n E n 4
+
+Địa chỉ thư điện tử: ..........................2..02.7....5. Điện thoại liên hệ:..........
+4. Số Quyết định thành lập tổ chức (neu .
+Cấp ngày: ........neneneeneneeeeeenenee ee Cơ quan cấp: ...........ä.ð.GGseeeeeeeeee ee
+
+5. Tên người đại diện theo pháp luật hoặc chủ doanh nghiệp hoặc đại diện hộ kinh
+doanh, cá nhân kinh doanh: ....................100710017.v iiv n n n n n n nv E n E n n a EE n E n n n n í
+6. Số định danh cá nhân/Hộ chiếu của người đại diện theo pháp luật hoặc chủ
+doanh mghỉêp hoặc đại diện hộ kinh doanh, cá nhân kinh doanh: .....................
+N. x Nơi cấp:..............GGGsssseeueesse,
+A fmfm øứh
+
+II. POANH THU PHÁT SINH TỪ HOẠT ĐỘNG BÁN HÀNG HÓA, CUNG
+ỨNG DỊCH VỤ
+
+Số, ngày Tên
+Tên người Đị dn NIỂTỄ hợp ủỉlg hàng | Số | Đơn | Thành
+STT mua người | Mãsô |mua bán hóa. llươn lá tiền
+mua |QHVNSlhàng hóa, S% |iƯợng! gì
+. dịch vụ
+dịch vụ ! ˆ :
+1) l G) ( ( ( |Ơ | ® C)
+Tổng số ]
+
+IH. Thông tin về tài khoản ngân hàng của tổ chức, cá nhân đề ngln cấp hoá
+
+đơn theo từng lần phát sinh trong trường hợp đang bị wơng chế nợ thuế
+bằng biện pháp ngừng sử dụng hóa đơn.
+
+<<<TRANG 55>>>
+1. Tên tài khoản:
+2. Số tài khoản:
+
+IV. THÔNG TIN HÓA ĐƠN ĐIỀU
+
+CHỈNH/THAY THÊ
+
+1. Thông tin hóa đơn bị điều chỉnh/thay thế:
+
+Ký hiệu | cế hóa Số, ngày Thuế
+Ó ên | MST/ ồ m ấ
+Mã hOr2l đ3’n, đơn/ ủn`ll S hợp (Ĩ0flg Số |Đơn|Thân maỆ
+STT hồ sơ ký Mẹg Ngà mgười Mã sô | mua bán s iá |h t thuê
+mẫu số ưgẳy mua ¡QHVNS| hàng hóa, | '19HE| 8l4 Íh tiên ¬u
+hóa đơn |U98 00B1. . dịch vụ T
+LL.o 6 62 @ (6) Ơ) ®. 1© |9 | G1)
+
+2. Nội dung cần điều chỉnh/thay thế
+
+Chỉ tiêu cần điều chỉnh/thay thế
+
+Thông tin điều chỉnh/thay thế
+
+lên hàng hóa, dịch vụ
+
+tĐơn vị tính
+
+Số lượng
+
+lĐơn giá
+
+[Thuế suất thuế GTGT
+
+Thành tiễn chưa có thuế GTGT
+
+[iền thuế GTGT
+
+Hỗng tiền có thuế GTGT
+
+Chỉ tiêu khác
+
+3. Thông tin số thuế:
+
+Ký hiệu Số thuế đã nộp (*) Số thuế điều chỉnh
+Mã hóa đơn, ! Số hóa Thuế \ Thuế
+STT hà sợ, Ký hiệu đơn/ngày| Thuế | Thuế | Thuế |khác| Thuế | Thuế | Thuế |khác
+mẫu sô. |hóa đơn GTGTTNDNHNCN | (nếu|GTGTITNDRHNCN|(nếu
+hóa đơn có) có)
+(1ØO| Ø 0 . 1|GØ1G@JIØƠI®J(‹ 00 109212
+
+<<<TRANG 56>>>
+Chúng tôi xin cam kết:
+
+- Các kê khai trên là hoàn toàn đúng sự thật, nếu khai sai hoặc không đầy đủ thì
+cơ quan thuê có quyên từ chôi cấp hóa đon.
+
+- Quản lý hóa đơn đúng quy định của pháp luật, Nếu vi phạm chúng tôi xin hoàn
+toàn chịu trách nhiệm trước pháp luật./.
+
+........ , ngày.......tháng.......năm........
+NGƯỜI NỘP THUÊ hoặc ì
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUÉ
+(Chữ ký số, chữ ký điện tử của người nộp thuế)
+
+<<<TRANG 57>>>
+ˆ Mẫu số 01/ĐKTP-CTBT
+(Kèm ữzeo Hong tư số 91/2026/TT-, E›'TC
+ngày 30 tháng ó mzm 2026 của Bộ trưởng Bộ Tài dzmh)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - fIanh phuc
+
+Đăng ký/thay đỗi thông tin sử dụng dl`ứn"ễg" từ điện tử
+
+I Đăng ký mới -
+Thay đổi thông tin
+[Tên người nộp thuế: .........................GGnHnnnnnn HH n n nnn n EE EE nnn T nnnn nnn rn
+nv utttểee H x x x
+Cơ quan thuế quắn lý:...... _ _ 7 —Ƒ—__
+Người liên hệ): ................................... Điện thoại _liên hệ:..................
+Địa chỉ liên hệ: .................................. Thư điện tử: ......................................
+
+[rheo Nghị định số 254/NĐ-CP của Chính phủ, chúng tôi/tôi thuộc đối tượng sử dụng|
+chứng từ điện tử. Chúng tôi/tôi đăng ký/thay đổi thông tin đã đăng ký với cơ quan thuể
+Ữẫ việc sử dụng chứng từ điện tử như sau:
+
+1. Đối trợng phát hành
+
+n Tổ chức, cá nhân phát hành.
+( Cơ quan thuế phát hành.
+
+2. Loại hình sử dụng
+
+¬ Chứng từ điện tử khẩu trừ thuế thu nhập cá nhân.
+
+Biên lai điện tử.
+
+b Biên lai thu thuế, phí, lệ phí không in sẵn mệnh giá
+b Biên lai thụ thuế, phí, lệ phí ¡n có sẵn mệnh giá
+b Biên lai thụ thuế, phí, lệ phí
+
+3. Hình thức gửi dữ liệu
+
+Trên Hệ thống thông tin quản lý thuế của cơ quan thuế.
+
+Thông qua tổ chức cung cấp dịch vụ hóa đơn điện tử.
+
+m
+
+Thông qua tổ chức cung ưỄp địch vụ hóa đơn điện tử được Cục Thuế ủy thác.
+
+G Gửi trực tiếp đến cơ quan thuế.
+
+! Người đại diện theo pháp luật hoặc chủ doanh n
+
+5 hoặc đại diện hộ kinh doan
+
+<<<TRANG 58>>>
+2 
+
+a
+
+Chuyên dữ liệu biên lai điện tử theo Bảng tổng hợp biên lai điện tử gửi cơ quan thuê
+theo Mẫu số 01/TH-BLĐT (điểm d khoản 6 Điều 4 của Thông tư số 91/2026/TT-BTC
+của Bộ trưởng Bộ Tài chính).
+
+4. Danh sách chứng thư số sử dụng
+
+Tên tổ chức cơ - Thời hạn sử dụng chứng thư| Hình thức
+quanchứng | Số sê-ri số đăng ký
+STT thực/cấp/công | chứng — 1 (Thêm mới,
+nhận chữ ký số, thư Từ ngày Đên gia hạn, ngừng
+chữ ký điện tử nEâÿ | sử dụng)
+5. Đăng ký ủy nhiệm lập biên lai
+Tên |  chiên KếtR, | a : Phương
+- | Kýhiệu |Kýhiệu| Bên ủy thức
+loại Ấu biên [ biên lại  nhiA„n2 - Mục -
+:a„ .„;| mâu biên | biên lai | nhiệm/Bên „..„ |Thờihạn | thanh
+STT |biên lai :- - _- đích ủy ! ; LẠ c A
+Ñ lai ủy ủy nhận ủy vA ủy nhiệm itoán biên
+ủy T w „ nhiệm -
+M nhiệm nhiệm nhiệm lai ủy
+nhiệm t
+nhiệm
+( . .o G) lGòi
+
+——— ..
+
+Chúng tôi cam kết hoàn toàn chịu trách nhiệm trước pháp luật về tính chính xác, trung
+thực của nội dung nêu trên và thực hiện theo đúng quy định của pháp luật,
+
+..... Tgầy....... tháng....
+
+NGƯỜI NỘP THUÊ hoặc
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUÊ
+(Chữ ký sô, chữ ký điện tử của người nộp thuê)
+
+<<<TRANG 59>>>
+Mẫu số: 04/88-CTĐT
+. (Kèm theo Thông m-ạổ 91/2026/T7-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+THÔNG BÁO CHỨNG TỪ ĐIỆN TỬ ĐÃ LẬP SAI
+Kính gửi: (Cơ quan thuê).
+
+Tên tổ chức, cá nhân lập chứng từ: ...............GGGG.Hnnnnnnnnnnnnnnnnnn rn n
+
+Mã số thuế: ...................GGGGH--nnn n HHH n H n nnn n n nnnn rn rnv n
+
+Tổ chức, cá nhân lập chứng từ thông báo về việc chứng từ điện tử đã lập sai như
+sau:
+
+Ký hiệu Ký hiệu : Loại
+chứng từ |tù
+
+Thông báo/
+Giải trình
+
+mẫu chứng từ
+
+chứng từ
+
+— :› BBày....... tháng.......năm...... Ì
+TÔ CHƯCr, CÁ NHÂN LẬP CHỨNG TỪ
+(Chữ ký sô tô chức, cá nhân lập chứng từ)
+
+<<<TRANG 60>>>
+Mẫu số: 01/CCTT-ĐK
+(Kèm theo Thông tư sô 91/2026/TT-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+TÊN CƠ QUAN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự đo - Hạnh phúc
+
+VAv đăng ký tài khoản truy cập
+Hệ thông thông tin quản lý thuê
+
+Kính gửi: Cục Thuế.
+L Đăng ký mới
+[1 Thay đổi thông tin
+[HGia hạn
+[1 Chấm đdứt
+1. Cơ quan đề nghị:
+
+Đầu mồỗi liên hệ: Tên người liên hệ:
+
+2. Nội dung đề nghị:
+
+a) Đề nghị đăng ký mới hoặc bổ sung nội dung cung cấp thông tin hóa đơn điện tử,
+chứng từ điện tử với các chỉ tiêu thông tin như sau:
+
+STT Chỉ tiêu thông tin Mục đích sứ dụng
+
+b) Cấp mới tài khoản truy cập Hệ thống thông tin quản lý thuế, chứng từ điện tử theo
+danh sách sau:
+
+ˆ Điện T Mục Thời hạn
+Họvà | Đơn -. ¡ Thưđiện . - t
+STT ˆ - thoại di m đích sử sử dụng
+tên vị ˆ tử -
+động dụng (tháng)
+
+c) Bổ sung thời hạn sử dụng tài khoản truy cập Hệ fflống thông tin quân lý thuế theo
+danh sách sau:
+
+Điệr Thời hạ
+STT Họovà | Đon tho ẵi Thư điện | Tên tài noẵ -
+tên vị _ tử khoản sử dụng
+di động : (tháng)
+Ỉ
+d) Chấm dút sử dụng tài khoản truy cập Hệ thống thông tin quản lý thuế theo danh
+
+sách sau:
+
+<<<TRANG 61>>>
+Điện
+thoại di
+động .
+
+Thưđiện | Têntài | Lý do thu
+m khoản | .. hồi
+
+Họovà | Đơn
+
+SFTT ˆ ñ
+tên vị
+
+3. Hình thức nhận văn bản trả lời: fflhọrạgpịôt
+Nhận văn bản giấy v
+
+Nhận văn bản điện tử tại địa chỉ thư điện tử
+
+Chúng tôi cam kết truy cập Hệ thống thống tin quản lý thuế của cơ quan Thuế
+đảm bảo bí mật nhà nước, bí mật thông tin của người nộp thuế theo quy định của pháp
+luật; thực hiện theo các hướng dẫn, thông báo của cơ quan thuế và phối hợp khi có yêu
+cầu của cơ quan thuế gửi đến địa chỉ thư điện tử chúng tôi đã đăng ký nêu trên theo quy
+định của pháp luật. '
+
+Chúng tôi cam kết hoàn toàn chịu trách nhiệm quản lý và sử dụng tài khoản theo
+các quy định của cơ quan thuế và pháp luật về thuế.
+
+Trân trọng./.
+
+THỦ TRƯỞNG ĐƠN VỊ .
+(Xý tên và đóng dâu hoặc chữ kỹ số tổ chức)
+
+<<<TRANG 62>>>
+Mãu sâ: 02/HUY-HĐBLG -.
+(Kèm theo Wvong tư số 91/2026/TT-BTC - ee
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chít) \ - n
+
+CỘỌNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phuc
+
+THÔNG BÁO KÉT QUÁ TIÊU I²IlĨY HÓA ĐƠN GIAY BIEN LAI GIAY
+
+Kính gửi: (Cơ quản thuế) GO n
+Tên tổ chức, cá nhân:.................G.H.nGnnn n n n n n n n N nn nnn N NH nn 0010010001
+c G I I m
+122020 G —
+Phương pháp hủy hóa đơn giấy, biên lai giấy:....................................GuuG-u..
+Hồi..... giờ..... ngày..... tháng....... năm........ , (tổ chức, cá nhân) thông báo
+hủy hóa đơn giấy, biên lai giấy như sau: `
+Tênloại ! Ký hiệu
+STT Ễ'Ệa ỞT Mẫu số Ềm ffl.rỉì Từsố | Đếnsố | Số lượng
+giây, biên giây, biên
+lai giấy lai giấy
+-— - -..... .. ” n rr
+0) O G) ( G) (6) (
+L ........ . . ..).. ˆ ÿ
+Ngày......... tháng......... năm.........
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+(Ký, ghi rõ họ, tên và đóng dấu hoặc chữ ký số tổ chức)
+
+<<<TRANG 63>>>
+Hị ,”M
+Mâu sô
+
+Phụ lục JV
+CÁC MẪU THÔNG BẢÁO CỦA CƠ QUAN THUÊ
+(Kèm theo
+
+Thông tư số 91/2026/TT-BTC ngày 30 tháng 6 năm 2026
+
+của Bộ trưởng Bộ Tài chính)
+
+ˆ. A bị .Ẩ
+Tên hỗ sơ, mâu biêu
+
+01/PB-TNĐT
+
+01/TB-SSĐT
+
+Ễong báo về việc tiếp nhận/không tiếp nhận <tờ khai đăng
+ký/thay đổi thông tin sử dụng hóa đơn điện tử/chứng từ điện
+tử>
+
+điện tử/chứng từ điện tử đã lập sai
+
+01/TB-NSD
+
+Thông báo về việc tiệp nhận và kêt quả xử lý về việc hóa đơn
+
+Thông báo về việc ngừng sử dụng hóa đơn
+
+01/TB-SD
+
+01/TB-SDPS
+
+01/PB-RSĐT
+
+01/TB-KTT
+
+01/TB-ĐKĐT
+
+Thông báo về việc tiếp tục sử dụng hóa đơn điện tử
+
+Thông báo về việc sử ủ_ng hóa đơn điện tử có mã của cơ
+quan thuê theo từng lân phát sinh
+
+Thông báo về hóa đơn điện tử cần rà soát
+
+Thông báo về việc hết thời gian sử dụng hóa đơn điện tử có
+mã của cơ quan thuế miễn phí dịch vụ thông qua Hệ fflong
+thông tin quản lý thuế/hoặc tổ chức cung cấp dịch vụ về hóa
+đơn điện tử được Cục Thuế ủy thác; không thuộc trường hợp
+sử dụng hóa đơn điện tử l<l1o11g có mã của cơ quan thuê/
+không đáp ứng điều kiện sử dụng hóa đơn điện tử có mã của
+cơ quan thuế khởi tạo từ máy tính tiền
+
+Thông báo về việc chấp nhận/không chấp nhận đăng ký/thay
+đổi thông tin sử dụng hóa đơn điện tử/chứng từ điện tử
+
+01/TB-BSTT-
+NNT
+
+Thông báo về việc giải trình, bổ sung thông tin, tài liệu
+
+ffl /TB-KTDL | Thông báo về việc kết quả kiểm tra dữ liệu hóa đơn điện tử
+
+01/CCTT-TB
+
+Thông báo về việc tiếp nhận và kết quả xử lý về việc đăng
+ký mới hoặc bỗổ sung nội dung cung cập thông tin/tài khoản
+truy cập Hệ thống thông tỉn quản lý thuế j
+
+<<<TRANG 64>>>
+Mẫu số: 01/TB-TNĐT
+(Kèm theo Thông tư số 91/2026/TT-BTC
+ngày 30 tháng ó năm 2026 của Bộ trưởng Bộ Tài chính)
+
+TÊN CƠ QUAN THUÊ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Ì CÁP TRÊN - Độc lập - Tự do - Hạnh phúc
+TÊN CƠQUANBANHÀNH - ~
+VĂN BẢN
+Số:...../TB-HĐCTĐT Ổ - › ngày ... tháng ... năm ......
+THÔNG BÁO
+
+Về việc tiếp nhận/không tiếp nhận <tờ khai đăng ký/thay đổi thông tin sử
+dụng hóa đơn điện tử/chứng từ điện tử>
+Kính gửi:
+<Tên người nộp thuế: ..>
+<Mã số thuế của NNT:...>
+<Trường hợp 1: Trường hợp tiếp nhận Tờ khai đăng ký sử dụng hóa đơn điện
+tử/biên lai điện tử/chứng từ điện tử >
+Căn cứ < Tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử/chứng
+từ điện tử - Mẫu số ... - Ban hành kèm theo Thong tư sô 91/2026/TT-BTC của
+Bộ trưởng Bộ Tài dnnh> của người nộp thuế _"ONND) gửi tới cơ quan thuế lúc...
+giờ... phút ngày... tháng... năm...., cơ quan thuế tiếp nhận < Tờ khai đăng ký/thay
+đổi thông tin sử dụng hóa đơn fflen tử/chứng từ điện tử > của NNT, cụ thể M1ư
+sau:
+- Tên tờ khai:.........................................nGGnGnnnnnnnnnnnnnnnnnnnn ree rn Ennn n n n nng
+- Mã giao dịch điện tử: ..........................L0eueneneee ee ree n ee ee s v an
+
+Tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện ur/chưng từ điện tử
+của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc... giờ... phút ngày...
+tháng... năm... Tờ khai đăng ký/thay đỗi thông tin sử dụng hóa đơn điện tử/chứng
+từ điện tử của người nộp thuế sẽ được cơ quan thuế tiếp tục kiểm tra.
+
+Trong thời gian 01 ngày làm việc kể từ ngày cơ quan thue tiếp nhận Tờ khai
+ghi trên thông báo này, cơ quan thuế sẽ trả Thông báo về việc chấp nhận hoặc
+không chấp nhận đăng ký của NNT, trường hợp không chấp nhận, cơ quan thuế
+nêu rõ lý do không chấp nhận.
+
+<Trường hợp 2: Trường hợp không tiếp nhận Tờ khai đăng ký/thay đổi thông
+tin sử dụng hóa đơn điện tử/chứng từ điện tử >
+
+Căn cứ < Tờ khai đăng ký/thay đổi thông tỉn sử dụng hóa đơn điện tử/chứng
+từ điện tử - Mẫu số......... - Ban hành kèm theo Thông tư số 91/2026/TT-BTC của
+Bộ trưởng Bộ Tài chính> của người nộp thuế (JNNT) gửi tới cơ quan thuế lúc..
+giờ... phút ngày... tháng... năm...., cơ quan thuế không tiếp nhận < Tờ khai đăng
+ký/thay đồi thông tin sử dụng ủa đơn điện tử/chứng từ điện tử > của NNT, cụ thể
+như sau:
+
+- Tên tờ khai:.................................MGnGnGnGGnnnnnnnnnnnnnnnnn n n nn rn n 1000006105
+
+- Mã giao dịch điện tử: ee
+
+<<<TRANG 65>>>
+2
+
+- Lý do không tiếp nhận: .......................-Gnnnnnnnnnnnnnnnnnnnnnnnnnns s ee tt n s s
+
+› r i i H rm
+
+<Trường hợp 3: Trường hợp tiếp nhận Tờ khai đăng ký/thay đổi thông tm sử
+dụng hóa đơn điện tử/chứng từ điện tử >
+
+Căn cứ < Tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử/chứng.
+từ điện tử - Mẫu số.......... - Ban hành kèm theo Thông tư số 91/2026/TT-BTC.cửa
+Bộ trưởng Bộ Tài chính> của người nộp thuế _(NN]) gửi tới cơ quan thuế: th
+giờ... phút ngày... tháng... năm...., cơ quạn thuế tiếp mỵan < Tờ khai đăng ủ/thay
+đổi thông tin sử dụng hóa đơn fflen tử/chứng từ điện tử> của NNT, cụ thể như sau:
+
+- Tên tờ khai: ..........................nnnGnennnnnnnnnnnn EN nNnnEnnnn rn nn EE 1000016105
+
+- Mã giao dịch điện tử: ..................................GGGGnnnnGnnnnnnnnnnnnn n rn ,
+
+Tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện nr/chung từ điện tử
+của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc... giờ... phút ngày...
+tháng... năm... Tờ khai đăng ký/thay đối thông tin sử dụng hóa đơn điện tử/chứng
+từ điện tử của người nộp thuế sẽ được cơ quan thuế nep tục kiểm tra.
+
+Cơ quan thuế sẽ trả Thông báo Mẫu số . - ban hành kèm theo Thông tư số
+91⁄/2026/TT-BTC của Bộ trưởng Bộ Tài chính về việc chấp nhận hoặc khong chấp
+nhận đăng ký của NNT, trường hợp không chấp nhận, cơ quan thuế nêu rố lý do
+không chấp nhận.
+
+<Trường hợp 4: Trường hợp không Uep nhận Tờ khai đăng ký/thay đổi thông
+tin sử dụng hóa đơn điện tử/chứng từ điện tử > -
+
+Căn cứ < Tờ 1CÌlêl1 đăng ký/thay đổi thông tin sử dung hóa đơn điện tử/ ủưng
+từ điện tử - Mẫu số.... - Ban hành kèm theo Thông tư sô 91/2026/TT-BTC của Bộ
+trưởng Bộ Tàải ủmh> của người nộp thuế (NNT) gửi tới cơ quan thuế lúc... giờ...
+phút ngày... tháng... năm...., cơ quan thuế không tiếp nhận < Tờ khai đăng ký/thay
+đ01 thông tin sử dụng hóa ®n điện tử/chứng từ điện tử> của NNT, cụ thể như sau:
+
+- Tên tờ khai:.................................GGnGGnn(nnnnnnnnt ee n nnnnnnnn1 n n 00 /10160015 114
+
+- Lý do không chấp nhận:......................
+- Đầu mồi xử lý:..................GGHnnGnnnnn HH n n n nNNnnNH N NN N nnnn 1 00110001/..
+
+Trường hợp NNT/Quý đơn vị cần biết thêm thong tin chỉ tiết, xin vui lòng
+truy cập theo đường dẫn <htfp://www.xxx.gdt.gov.vn> hoặc liên hệ với <tên cơ
+quan thuế giải quyết hồ sơ> đề được hỗ trợ.
+
+Cơ quan thuế thông báo để người nộp thuế biết và thực hiện.
+
+<Chữ ký sô của cơ quan thuê>
+
+Ghi chú:
+- Chữ in nghiêng trong dấu <> nhằm mục đích giải thích rõ. Người nộp thuế, cơ
+quan thuế chọn trường hợp thông báo tương ứng.
+
+- Cơ quan thuế gửi kèm danh sách hộ kinh doanh, cá nhân kinh doanh đáp ứng và
+không đáp ứng điều kiện sử dụng hóa đơn điện tử.
+
+<<<TRANG 66>>>
+(Kèm theo Thông tư số 9172026/7T-BTC
+
+] Mẫu sô: 01/TB-SSĐT
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính
+
+TÊN CƠ QUAN THUÊ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Ẵ CÁP TREN Ì Độc lập - Tự do - Hạnh phúc
+TÊN CƠ QUAN BẢN HÀNH _ G
+VĂN BẢN
+sề: ...../TB-......... :Ể_"""a-.ngày ... tháng ... mĩlm |
+
+THÔNG BẢO !
+Về việc tiếp nhận và kết quả xử lý về việc hóa đơn điện tử/
+chứng từ điện tử đã lập sai
+Kính gửi: (Họ và tên người nộp thu): ......................
+(Mã số thuế của người nộp thuổ): ................
+
+Sau khi xem xét Thông báo hóa đơn điện tử/chứng từ điện tử đã lập sai ngày
+.. tháng ... năm ... của:
+
+Người nộp thuế:.........................G.GnHnnnnnnnnnnnnnnnnn n n N nn¡n n nnn N nnn n n1 n 1 ng
+
+v H
+
+Cơ quan thuế thông báo (tiếp nhận/không tiếp nhận) hóa đơn điện tử/chứng
+từ điện tử đã lập sai.
+
+(Trong trường hợp tiếp nhận việc thông báo/giải trình hóa đơn điện tử/chứng
+từ điện tử đã lập sai thì ghi: Cơ quan Thuế đã tiếp nhận Thông báo hóa đơn điện
+tử/chứng từ điện tử đã lập sai Ềay . tháng ... năm ... của quý công ty).
+
+(Trong trường hợp không tiếp nhận việc thông mo/glal trình hóa đơn điện
+
+tử/chứng từ điện tử đã lập sai thì ghi: Đề nghị quý công ty kiểm tra, đối chiều hóa
+đơn điện tử/chứng từ điện tử đã lập sai do thông tin chưa chính xác).
+
+(Ten cơ quan. thuế ra thông báo)............. thông báo để (Tên người nộp
+thuế)...... được biết và thực hiện./.
+. . CƠ QUAN THUÊ/ |
+THỦÚ TRƯỚNG CƠ QUAN THUÊ
+(Chữ ký số)
+Ghi chú:
+
+- Trường hợp cơ quan thuế tiếp nhận Mẫu số 04/SS-HĐDĐT tại Phụ lục III ban hành
+kèm theo Thc›rlZtg tư này do người nộp thuế gửi đến theo quy định tại khoản 4 Điều H)
+khoản 1 Điều 20 Thông tư này thì Hệ mong thông tỉn quản lý thuế tự động thông báo về
+việc tiếp nhận và “Chữ ký số” là chữ ký số của cơ quan thuế.
+
+- Trường hợp cơ quan thuế tiếp nhận Mẫu số 04/SS8-HĐĐT ban hành kèm theo
+Thông tư này do người nộp thuế gửi đến theo quy định tại khoản 3 Điều 10 Thông tư
+này thì “Chữ ký số” là chữ ký số của Thủ trưởng cơ quan thuế.
+
+<<<TRANG 67>>>
+Mẫu số: 01/TB-NSD
+(Kèm theo Thông tư số 91/2026/77-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+TÊN CƠ QUAN THUẾ . CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ĩ CÁP TRÊN - Độc lập - Tự ủo - Hạnh phúc
+TÊNCƠ QUANBANHÀNH - rx
+VĂN BẢN
+Số:...../TB-......5 Ố u , ngày ... tháng ... năm ......
+THÔNG BÁO
+
+Về việc ngừng, tạm ngừng sử dụng hóa đơn
+
+Căn cứ Luật Quản lý thuế số 108/2025/QH15;
+
+Căn cứ Điều 8 Thông tư số 91/2026/TT—BTC của Bộ trưởng Bộ Tài chính;
+
+Căn cứ Thông báo số.... - ngày ... tháng .. . của (Cơ quan chức năng
+gửi thông báo tới cơ quan Thue/hoac thông ủo của cơ quan thuê) thuộc trường
+hợp tại điểm .. - khoản 1 Điều 8 Thông tư sô 91/2026/TT-BTC của Bộ trưởng Bộ
+Tài chính) thông báo tổ chức kinh tế, tổ chức khác, hộ, cá nhân kinh doanh Gý do:
+ghi rõ lý do theo từng trường hợp cụ thể), Cơ quan Thuế thông báo:
+
+(Ten cơ quan ban hành văn bản)... thông báo về việc................. với .... (Tên
+người nop thuế)
+
+r. E H r w——x
+
+Địa chỉ trụ sở kinh doanh:....................nHnnnnnnnnn n n n n n T N n n n n nn n n n n n n n
+
+Lý do thông báo ngừng, tạm ngừng sử dụng hóa đơn điện tử/hóa đơn điện tử
+khởi tạo từ máy tính tiền: ... (ghi rõ lý do các trường hợp tại điểm ... khoản 1 Điều
+8 Thông tư sô 91/2026/TT BTC của Bộ trưởng Bộ Tài chính).
+
+Thông báo ngừng sử dụng hóa đơn điện tủ/hóa đơn điện tử l<Ì1Ơ1 tạo từ máy
+tính tiền có hiệu lực kể từ .. . giờ ... phút... giây ngày ... tháng ..
+
+Thông báo tạm ngừng sử dụng hóa đơn điện tử/hóa đơn fflen tử 1chơ1 tạo từ
+máy tính tiền có hiệu lực kể từ .. . giờ ... phút.. giây ngày ... tháng .. . đến
+
+.. Đlờ ... phút... giây ngày ... tháng ... năm .
+
+Người nộp thuế sử dụng hóa đơn điện m/hoa đơn điện tử khởi tạo từ máy
+tính tiền kề từ thời điểm thông báo ngừng, tạm ngừng sử dụng hóa đơn có hiệu
+lực thi hành thì được coi là sử dụng hóa đơn không hợp pháp theo quy định tại
+điểm ... khoản .... Điều 4 Nghị định số 125/2020/NĐ-CP của Chính phủ quy định
+
+xử phạt vi ủam hành chính về thuế, hóa đơn hoặc các văn bản sửa đổi, bồ sung
+(nếu có).
+
+CƠ QUAN THUÊ/
+THỦ TRƯỚNG CƠ QUAN THUÊ
+(Chữ ký số)
+Ghi chú:
+
+- Truờng hợp ngừng sử dụng hóa đơn điện tử theo quy định tại điểm h khoản Ï
+
+<<<TRANG 68>>>
+Điều 8 Thông tư số 91/2026/TT- BTC của Bộ truơng ộ Tài chính, Hệ thống thông tin
+quản lý thuế tự động ra Thông báo thì “Chữ ký số” là chữ ký số của cơ quan thuế.
+- Trường hợp ngừng sử dụng hóa đơn điện tử theo quy định tại điểm đ e, g, k,]
+1(ÌlC>8.I'l 1 Điều 8 Thông tư số 91/2026/TT- BỨC của Bộ trưởng Bộ Tài chính, cơ quan
+. thuế ra Thông báo thì “Chữ ký s^” là chữ ký so của Thủ ưương cơ wan fflue .
+- Trường hợp ủy nhiệm lập ủa đơn điện tử \
+sử dụng hóa đơn điện tử cho bên nhạn ủy nhiệm lập hồ
+
+<<<TRANG 69>>>
+. Mẫu số: 01/TB-SD
+(Kèm theo Thông tu Ô 91/2026/71-BTC - Í
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài ửmh s
+
+TÊN CƠ QUAN THUÊ CÁP TRÊN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TÊN CƠ QUAN BẠN HÀNH VĂN BẢN Độc lập - Tự do - Hạnh phúc
+
+số: .../TB -
+
+THỐNG BÁO HN
+Về việc tiếp tục sử dụng hóa đơn điện tử ˆˆ
+
+Kính gửi: (Tên Người nộp thuế)
+Mã số thuế: .......................GGnnnHnnnnnHnnn n nnnn nn n n EE N nnpE N nẢ1 n nnE n n 011 .1
+
+Căn cứ khoản 1, khoản 2 Điều 8 Thông tư số 91/2026/TT-BTC của Bộ
+trưởng Bộ Tài chính quy định các trường hợp ngừng, tạm ngừng sử dụng hóa đơn
+điện tử. -
+
+Sau khi rà soát, cơ quan thuế thông báo (tên người nộp thuổ).................
+kể từ ngày .... tháng ... năm .... được tiếp tục <sử dụng hóa đơn điện tử có mã của
+cơ quan thuế> hoặc <sử dụng hóa đơn điện tử không có mã của cơ quan thuế> đã
+đăng ký với cơ quan thuế.
+
+(Tên cơ quan thuế ra thông báo) ............ thông báo để (Tên người nộp
+thuế)...... được biết và thực hiện./.
+
+JVơi nhận:
+
+ớ. THỦ TRƯỞNG CƠ QUAN THUÊ RA THÔNG BÁO
+- ư Ù'êl'l; ~ „ . ñ B : M
+- Lưu: VT, đơn vị soạn thảo TB, (Chữ ký sô của Thủ trưởng cơ quan thuê)
+
+<<<TRANG 70>>>
+Mẫu số: 01/FB-SDPS
+= (Kèm theo Thông tư số 91/2026/T7-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính
+
+_ TÊN CƠ QUAN THUÊ CẤP TRÊN . .CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TÊN CƠ QUAN BẠN HÀNH VĂN BẢN Độc lập - Tự do - Hạnh phúc
+
+Số:.../TB - .. › ngày
+
+THÔNG BÁO
+
+Về việc sử dụng hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh
+
+Căn cứ Luật Quần lý thuế số 108/2025/QH15.
+
+Căn cứ khoản 2 Điều 6 Nghị định số 254/2026/NĐ-CP của Chính phủ quy
+định chỉ tiết một số điều và biện pháp đề tổ chức, hướng dẫn thi hành Luật Quản
+lý thuế số 108/2025/QH15 về hóa đơn điện tử, chứng từ điện tử.
+
+Trong thời gian giải trình hoặc bồ sung thông tìn, tài liệu quy định tại điểm.
+d khoản 2 Điều 8 Thông tư số 91/2026/TT-BTC của Bộ trưởng Bộ Tài chính quy
+định các trường hợp ngừng, tạm ngừng sử dụng hóa đơn điện tử, <Tên người nộp
+thuế> chuyển sang hình thức sử dụng hóa đơn điện tử có mã của cơ quan thuế
+theo từng lần phát sinh.
+
+(Tên cơ quan thuế ra thông báo)............. thông báo để (Tên người nộp
+thuê) ....... được biết và thực hiện./.
+Nơi nhận: THỦ TRƯỞNG CƠ QUAN THUÊ RA THÔNG BÁO
+- Như trên;
+
+(Chữ ký số của Thủ trưởng cơ quan thuế)
+- Lưu: VT, đơn vị soạn thảo
+
+TB.
+
+<<<TRANG 71>>>
+Mẫu số: 01/TB-RSĐT
+(Kèm theo Thông tư sô 91/2026/71-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính
+
+TÊN CƠ QUAN THUÊ CẮP TRÊN. .. CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+TÊN CƠ QUAN THUÊ Độc lập - Tự do - Hạnh phúc
+RA THÔNG BÁO
+Sô.../TB-......... Ổ uuseeek , ngày........ tháng...... năm
+
+Cơ quan thuê thông báo về việc hóa đơn điện tử của đơn vị cân rà soát như
+sau:
+
+Ký hiệu mẫu ;_ „ „ |Loạiápdụng |_ . ,
+Sô hóa đơn |Ngày lập hóa Lý do câần
+
+Ị 5 À kÝ hiê hóa đơn
+STT | hóa đơn và ký hiệu | ciền tử | đơn điện tử rà soát
+hóa đơn điện tử
+] 2 3 4 56
+
+Trong thời gian 02 ngày kể từ ngày nhận được thông báo của ....(tên cơ quan
+thuế), .... (tên người nộp thuế) thực hiện thông báo với cơ quan thuế./.
+
+THỦ TRƯỞNG CƠ QUAN THUÊ RA THÔNG BÁO
+(Chữ ký sô của Thủ trưởng cơ quan thuê)
+
+<<<TRANG 72>>>
+Mẫu sô: M/TB—KTT
+H(em theo Thông tư số W/2026/TT BTC
+ngày 30.tháng 6 năm 2026 của Bộ trưởng qu Tài chính
+
+TÊN CƠ QUAN THUẾ . CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+CẮP TRÊN Độc lập - Tự do - Hạnh phúc
+TÊNCƠQUANBANHÀNH ˆ r—-
+VĂN BẢN
+
+ngay .. tháng ... năm
+
+THÔNG M.o
+
+Về v1ec hết thời gian sử dụng hóa đơn điện tử có mã của cơ quan thue được
+miễn phl dịch vụ thông qua Hệ thống thông tin quản lý thuế/hoặc tổ chức
+cung cập dịch vụ về hóa đơn điện tử được Cục Thuế ú ủy thác; khong thuộc
+
+trường hợp sử dụng hóa đơn điện tử không có mã của cơ quan thuế/ / không
+đáp ứng điều kiện sử dụng hóa đơn điện tử co mã của cơ quan thuế khởi
+
+tạo từ máy tính tiền
+
+Kính gửi: (N g'\1'Ơl nộp thuế:.... )
+(Mã số thuế:....)
+
+Sau khi rà soát điều kiện thực hiện, cơ quan thuế thông báo gườỉ nộp thuế
+........... ......... (Mã số thuế: ................) kể từ ngày.... tháng.... ... (hết thời
+gian sử dụng hóa đơn điện tử có mã của cơ quan thuế không ủax trả tiền dịch vụ
+thông qua Hệ thống thông tin quản lý thuế/hoặc tổ chức cung cấp dịch vụ về hóa
+đơn điện tử được Cục Thuế ủy thác/không thuộc trường hợp sử dụng hóa đơn điện
+tử không có mã của cơ quan thuế/không đáp ứng điều kiện sử dụng hóa đơn điện
+tử có mã của cơ quan thuế khởi tạo từ máy tính tiền), đề nghị người nộp thuế sử
+dụng hóa đơn điện tử có mã của cơ quan thuế thông qua tổ chức cung cấp dịch vụ
+về hóa đơn điện tử.
+
+(Tên cơ quan thuế ra thông báo)
+
+............ thông báo để (Tên người nộp
+thuế). ...... được biết và thực hiện./.
+
+THỦ TRƯỞNG CƠ QUAN THUÊ,
+(Chữ ký sô của Thủ trưởng cơ quan thuế)
+
+<<<TRANG 73>>>
+ˆ Mẫu số: 01/TB-ĐKĐT
+
+(Kèm theo Thông tư số 91/2026/TT-BTC
+ngày 30 tháng ố năm 2026 của Bộ trưởng Bộ Tài chính
+
+TÊN CƠ QUAN THUẾÊ . CỌNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Ì CẬP TRÊN . Độc lập - Tự do - Hạnh phúc
+TÊN CƠ QUAN BANHÀNH | re
+VĂN BẢN
+Số..../TB-...... Ổ eee~ › ngày ... tháng ... năm ......
+
+THÔNG BÁO
+
+Về việc chấp nhận/không chấp nhận đăng ký/thay đổi thông tin sử dung
+hóa đơn điện tử/chứng từ điện tử
+
+Kính gửi: (Họ tên người nộp thuế: ....... )
+(Mã sô thuê của NNT: ........ )
+
+Sau khi xem xét tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện
+tử/biên lai điện tử/chứng từ điện tử ngày..../..../...
+
+Cơ quan thuế thông báo (chấp nhận/không chấp nhận) đề nghị đăng ký/thay
+đổi thông tin sử dụng hóa đơn điện tử/biên lai điện tử/chứng từ điện tử của đơn
+vị.
+
+(Trong trường hợp chấp nhận người nộp thuế đăng ký/thay đổi thông tin sử
+dụng hóa đơn điện tử/biên lai điện tử/chứng từ điện tử thì ghi: Tải khoản đã được
+gửi đến hộp thư điện tử của người nộp thuế/điện thoại liên hệ, đề nghị người nộp
+
+thuế thực hiện khai báo các thông tin liên quan theo nội đung hướng dẫn của cơ
+quan thuế tại thư điện tử này).
+
+(Trong trường hợp không chấp nhận doanh nghiệp đăng ký/thay đổi thông
+tin sử dụng hóa đơn điện tử/biên lai điện tử/chứng từ điện tử thì ghi: Cơ quan thuế
+không chấp nhận người nộp thuế đăng ký/thay đổi thông tin sử dụng hóa đơn điện
+tử/biên lai điện tử/chứng từ điện tử). Ly do: Ở,ý do Umng chấp nhận).
+
+(Trong trường hợp ủy thác qua tổ chức cung wp địch vụ hóa đơn điện tử thì
+cơ quan thuế thông báo người nộp thuế đăng ký giao dịch sử dụng hóa đơn điện
+
+tử miễn phí dịch vụ qua tổ chức cung cấp dịch vụ hóa đơn điện tử). (Tên, địa chỉ
+đăng ký).
+
+(Ten cơ quan. thuế ra thông báo) ............ thông báo để (Tên người nộp
+mue) .. được biết và thực hiện./.
+CƠ QUAN THUÊ/
+THỦ TRƯỞNG CƠ QUAN THUẾ:
+(Chữ ký số)
+Ghi chú:
+
+- Trường hợp Hệ thống thông tin quản lý thuế tự CÌong ra Thông báo thì “Chữ ký
+” là chữ ký số của cơ quan thuế.
+- Trường hợp cơ quan thuế ra Thông báo thì “Chữ ký số” là chữ ký số của Thủ
+trưởng cơ quan thuế,
+
+<<<TRANG 74>>>
+Mẫu sô: 01/TB-BSTT-NNT
+(Kèm theo Thông tư số 91/2026/77-BTC
+ngày 30 tháng ó năm 2026 của Bộ trưởng Bộ Tài chính
+
+TÊN CƠ QUAN CÁP TRÊN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+TÊN CƠ QUAN QUẢN LÝ THUÊ Độc lập - Tự do - Hạnh phúc
+BAN HÀNH THÔNG BẢO Ổ xrrreer—c~.
+Sô:....... /TB-.... Ổ n ngày ... tháng .... năm ......
+THÔNG BẢÁO
+
+Về việc giải trình, bỗ sung thông tin, tài liệu
+
+Kính gửi: (Tên người nộp thuế)..............................
+n G H H m
+Địa chỉ nhận thông báo : ......................LCL.eieenen ee ee ee 1111 00650 n 17
+Căn cứ quy định của pháp luật thuế hiện hbành về trách nhiệm của người nộp
+thuế trong việc cung cấp thông tin theo yêu cầu của cơ quan quản lý thuế;
+Để làm rõ các nội dung:
+
+l GG G I G
+
+v Ẫ_ ; _
+
+. N
+
+(Tên cơ quan quản lý thuế ban hành thông báo) .............. đề nghị Ữen
+mguơl nộp fflue) ......................... giải trình và bổ sung thông tin, tài liệu sau
+
+Văn bản giải trình, thông tin, tài iệu bổ sung gửi về cơ quan quản lý thuế
+.............................. trước ngày ... tháng ... năm ..
+Nếu có vướng ƯlêìC đề nghị người nộp thuế liên ủa với cơ quan quản lý thuế
+
+............... theo số điện thoại: H ;
+Ữen cơ quan. thuế ra thông báo) ............ thông báo để (Tên người nộp
+ũ1ue) „.. được biết và thực hiện./.
+Nơi nhận: THỦ TRƯỞNG Ccơ QUAN QU1&N
+- Như trên; LÝ THUÊ BAN HÀNH THÔNG BẢÁO
+
+- Lmu: VỊ, .. (Ký, ghi rõ họ tên, đóng dấu)
+
+Ghi chú: Phần các nội dung ưin ffl'àl trình, bổ sung thông tin tài liệu cần ghí rõ
+thuộc hồ sơ thuế nào (khai thuế, miễn giảm, hay hoàn thuế.. .) và kỳ tính thuế.
+
+<<<TRANG 75>>>
+: : Mrsu sô: M/TB KTDL :
+Ơ(em theo Ntong tự số 91/2026/TT-BTC
+ngày 30 tháng ó năm 2026 của Bộ trưởng Bộ Tài chính
+
+TÊN CƠ QUAN THUẾCÁP TRÊN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+TÊN CƠ QUAN BẠN HÀNH Độc lập - Tự do - Hạnh phúc
+VĂN BẢN Ổ ee
+Số: ... .../TB-HĐĐT ; ngày ... tháng ... năm.......
+THÔNG BÁO
+
+Về việc kết quả kiểm tra dữ liệu hoa đơn điện tử
+Kính gửi:<Tên người nộp thuế:..
+<Mã số thuế của NNT ..... >
+
+<Trường hợp 1: Thông báo hóa đơn không đủ điều kiện cấp mã>
+Căn cứ <Thông điệp gửi hóa đơn tới cơ quan thuế để cấp mã> của người nộp
+thuế (NNT)/Tổ chức cung cấp dịch vụ hóa đơn điện tử gửi tới cơ quan thuế lúc...
+
+giờ... phút ngày ... tháng... năm...., cơ quan thuế thông báo hóa đơn không đủ điều
+kiện cấp mã của NNT, cụ thể nhu sau:
+
+Ký hiệu hóa đơn:
+
+Ký hiệu mẫu hóa đơn:
+
+Số hóa đơn:
+
+Thời điểm lập hóa đơn:
+
+Mã giao dịch điện tử:
+
+Lý do không cấp mã:
+STT Mô tả lỗi
+
+G O
+
+1 <nhóm lỗi>(<tên lỗi>)
+
+<Trường hợp 2: Thông báo kết quả kiểm tra sơ bộ tính hợp lệ của gói dữ liệu
+HĐĐ1>
+
+Căn cứ <Thông điệp ủuyen đữ liệu hóa đơn điện tử không mã đến
+CQT/Thông điệp thông báo hủy/giải trình HĐĐT có mã/không mã đã lập sai
+/Thong mep chuyen bảng tổng hợp dữ liệu HĐĐT không mã đến CQT...> của
+người nộp thuế (NNT)/Tổ chức cung cấp dịch vụ hóa đơn điện tử gửi tới cơ quan
+
+thuế lúc... giờ... phút ngày ... tháng ... năm...., cơ quan thuế đã tiếp nhận gói dữ
+liệu hóa đơn điện tử:
+
+Mã giao dịch điện tử:
+Mã số thuế:........................GGGGGHNnnnn n N n n n N N Nnnn N N nNNN N N
+
+Số lượng dữ liệu trong gói:
+
+Cơ quan thuế thông báo kết wa kiểm tra sơ bộ tính mp lệ của gói dữ liệu
+HĐDĐT như sau: ;
+
+<<<TRANG 76>>>
+2
+
+< Trường hợp kết quả kiểm tra gói dữ liệu hợp lệ>
+Kết quả kiểm tra sơ bộ g01 dữ liệu của người nộp thuế (NNT)/Tổ chức cung
+cấp dịch vụ hóa đơn điện tử gửi tới cơ quan thuế là hợp lệ.
+
+Trong trường hợp cơ quan thuế kiểm tra và phát hiện dữ liệu ch tiết đã gửi/đã
+lập sai, cơ quan thuế sẽ có thông báo đến người nộp thuế.
+
+<Trường hợp kết quả kiểm tra gói dữ liệu không hợp lệ>
+
+Kết quả kiểm tra sơ bộ gói dữ liệu của người nộp thuế (NNT)/Tổ chức cung
+cấp dịch vụ hóa đơn điện tử gửi tới cơ quan thuê là không hợp lệ.
+
+Ụ’J : G N N
+
+Mô tả lỗi - Hướng dẫn xử lý Ghi chú
+
+- <nhóm k›l>(<ten lỗi>)
+
+Trường hợp NNT/Quý đơn vị cần biết thêm thông tin chỉ tiết, xin vui lòng
+truy cập theo đường dẫn <http://www.xxx.gdt.gov.vn> hoặc liên hệ với <tên cơ
+quan thuế giải quyết hồ sơ> đề được hỗ trợ.
+
+_ (Tên cơ (ỊlJ.aI1Vthl](ồ ra thông báo) ............ thông báo đề (Tên người nộp
+thuê)....... được biêt và thực hiện./.
+
+<Chữ ký số của cơ quan thuế>
+
+Ghi chú:
+Chữ in nghiêng trong dấu <> nhằm mục đích giải thích rõ hoặc đưa ra ví dụ.
+NNT chọn trường hợp thông báo theo tương ứng.
+
+<<<TRANG 77>>>
+Mẫu số: 01/CCTT-TB
+(Kèm theo Thông tư số 91/2026/T7-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính
+
+TÊN CƠ QUAN THUÊ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+_ CẮP TRÊN Độc lập - Tự do - Hạnh phúc
+TÊN CƠ QUAN BẠN — W-”-. .
+
+HÀNH VĂN BẮN
+
+Số...../TB-... Ổ Isseensyeee, › ngày........ tháng...... năm.....
+ì ; THÔNG BÁO
+Vê việc tiêp nhận và kêt quả xử lý về việc đăng ký mới hoặc
+bổ sung nội dung cung cấp thông tin/tài khoản truy cập
+Hệ thống thông tin quản lý thuế
+
+Kính gửi: (Tên cơ quan đăng kỹ)
+
+Sau khi nhận được đề nghị đăng ký mới hoặc bổ sung nội dung cung cấp thông
+tin/tài khoản truy cập hóa đơn điện tử, chứng từ điện tử sô .... ngày .../.../.... của
+Tên cơ quan:
+
+Đĩa chỉ liên hệ:
+
+Đầu mốiliênhệ: Tên người liên hệ
+
+Điện thoại........ Thư điện tử
+
+(Tên cơ quan thue) thông báo. (tiếp nhận/không tiếp nhận) đề nghị đăng ký
+mới hoặc b sung nội dung cung cấp thông Un/ta1 khoản truy cập hóa đơn điện tử,
+chứng từ điện tử.
+
+(Trường hợp không đề nghị đăng ký mới hoặc bổ sung nội dung cung cấp
+thông tin/tài khoản truy cập hóa đơn điện tử, chứng từ điện tử. Nêu rõ lý do:
+
+(Tên cơ quan thuế) thông báo để quý cơ quan được biết./.
+
+THỦ TRƯỞNG CƠ QUAN THUÊ RA THÔNG BÁO
+(Chữ ký sô của Thủ trưởng cơ quan thuê) -
+
+<<<TRANG 78>>>
+Phụ lục V ế ; :
+CÁC MẪU THAM KHẢO VÈ HÓA ĐON/BIÊN LAI ĐIỆN TƯ HIỂN THỊ
+(Kèm theo Thông tư số 91/2026/T7-BTC ngày 30 tháng 6 năm 2026
+của Bộ trưởng Bộ Hu chí
+
+Mẫu hiển thị Tex1 ỏax ma đơn
+
+óa đơn điện tử giá trị gia mng (đùng cho tổ d1ưc cá' nham—1
+
+]
+9GTGT ai thuế giá trị gia tăng theo phương pháp khấu trừ)
+- .^ › i . x x ˆ ˆ t 4 1IĂ fl n
+01/GTGT-ĐT óa đơn ịỂ.n nỈ g1a` trị gia tăng (dùng cho một sô tô chức,
+oanh nghiệp đặc thù) —l
+óa đơn điện tử giá trị gia tăng (dùng cho một số tổ ủưc
+01/GTOT-NT đdoanh nghiệp đặc thù thu bằng ngoại tệ)
+02/BH óa đơn điện tử bán hàng (đùng cho tổ chức, cá nhân khai
+
+huế giá trị gia tăng theo phương pháp trực tiếp)
+
+01/DTQG
+01/GTGT-TKHT
+
+óa đơn bán hàng dự trữ quốc gia
+
+óa đơn giá trị gia tăng kiêm tờ khai hoàn thuế
+
+óa đơn điện tử giá trị gia tăng tích hợp biên lai thu thuế, phí,
+lệ phí
+
+01/GTGT-BL
+
+óa đơn điện tử bán hàng tích hợp biên lai thu thuế, phí, lệ
+
+02/BH-BL hí j
+
+01/TMĐT óa đơn thương mại điện tử
+
+óa đơn bán tài sản phải đăng ký quyền sử dụng, quyền sở
+
+01/BTS
+
+ữu —ì
+hiểu xuất kho kiêm vận chuyên nội bộ
+
+03/XKNB
+L_ 04/HGĐL hiểu xuất kho gửi bán hàng đại lý
+01/BK-CSGH |Bảng kê hàng hóa bán ra
+
+03/TNCN
+
+CTT50
+01/PLPĐT
+
+Chứng từ khấu trừ thuế thu nhập cá nhân
+
+tên lai thu phí, lệ phí
+
+lên lai thu phí, lệ phí điện tử
+
+<<<TRANG 79>>>
+Mẫu số: 01/GTGT
+- (Kèm theo Thống tư số 91/2026/T7-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+
+Đồng tiền thanh toán: VND
+Thành Thành
+
+Số Đơn | Thuế | tiền chưa |Tiền thuế| tiền có
+suất | cóthuế | GTGT | thuế
+
+Tên hàng hóa, Đơn vị
+
+STT dịch vụ tính | lượng | giá
+GTGT GTGT
+6 7=4x5 8=7x6 | 9=718
+
+[Tổng tiền chưa có thuế GTGT:
+
+Tổng tiền thuế giá trị gia tăng theo từng loại thuế suất: ...............................
+
+NGƯỜI BÁN HÀNG
+(Chữ ký điện tử, chữ ký số)
+
+Số tiền viết bằng chữ:
+NGƯỜI MUA HÀNG
+(Chữ ký số (nếu có))
+
+(Cần kiểm tra, đối chiều khi lập, nhận hóa đơn)
+
+<<<TRANG 80>>>
+Mẫu số: 01/GTGT-ĐT
+(Kèm theo Thông tư số 91/2026/77-BTC
+Ingày 30 tháng ó năm 2026 của Bộ trưởng Bộ Tài chỉnh)
+
+HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+Ký hiệu: ...........
+
+Đồng tiền thanh toán: VND
+STT Tên hàng hóa, dịch vụ Thành tiền
+
+I 2 3
+
+'Thành tiền chưa có thuế GTGT: ..............
+
+[Thuế suất giá trị gia tăng: ......... % h`iền thuế giá trị gia tăng:................
+
+(Tổng tiền thanh i G e w”
+
+Số tiền viết bằng chữ: .......................-G.nnnn n ee n n nnnnnnn ¡ N nE-- N NNnn N n nn n n u
+
+NGƯỜI MUA HÀNG NGƯỜI BÁN HÀNG
+Chữ ký số (nếu có) (Chữ ký điện tử, chữ ký số)
+
+(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+
+<<<TRANG 81>>>
+Malx số: M/GTC`T—NT
+(Kèm theo Thông t số 91/2026/TT-. BTC n L
+ngày 30 tháng 6 năm 2026 của B’o trưởng Bộ Tài ửmh) -
+
+HÓA ĐƠN GIÁ TRỊ GIA TẶNG
+
+(Tên người bán:
+IMã số thuế:
+Địa chỉ:
+
+(ên người mua:
+
+nv u G I N N N —
+¡ ru G 3 I3C
+Hình thức thanh toán: .. Số tài khoản
+Đồng tiền thanh toán USD
+Ñ ˆ Thành
+Tên hàng | Đơn Số | Đơn |Thuế Thành tiên | Tiên ( ê"3I21lIỊc,, Tỷ giá
+STT|hóa,dịch | vị hl'Ơĩlg giá | suất Chưa có thuế| thuế muế - (USD/
+vụ tính GTGT C'%TGT GTGT VND)
+1 2 3 4 5 6 7=4x5 |S=6x7)9=718 10
+ống tiền chưa có thuế GTGT:................GGnnHnHnnnnnnnnNNnnnnnN N N nnn N 1101100
+Hồng số tiền thuế giá trị gia tăng theo từng loại thuế suất:.............................
+[Tỗng tiền thanh toán đã có thuế GTGT............. HH nnNnNNNnnỒỒn n n
+Số tiền viết —~ m
+NGƯỜI MUA HÀNG NGƯỜI BÁN HÀNG
+Chữ ký số (nếu có) (Chữ ký điện tử, chữ ký số)
+
+(Cần kiểm tra, đối chiều khi lập, giao, nhận hóa đơn)
+
+<<<TRANG 82>>>
+Mẫu số: 02/BH
+(Kèm theo Thông tư sô 91/2026/77-BTC
+ngày 30 tháng ó năm 2026 của Bộ trưởng Bộ Tài chính)
+
+HÓA ĐƠN BÁN HÀNG
+
+Mã địa điểm kinh doanh (áp dụng đối với hộ kinh doanh, cá nhân kinh doanh có nhiều
+địa điểm):
+
+tĐồng tiền thanh toán: VND
+
+STTỊ Tênhànghóa, dịchvụ |Đơnvịtính| Sốlượng| Đơngiá ! Thành tiền
+1 2 3 4 5 6=4x5
+
+Số tiền viết bằng chữ:.........................GMGGH.nGnnnnnnnn n rn n n n ê ¡ —
+NGƯỜI MUA HÀNG NGƯỜI BÁN HÀNG
+Chữ ký số (nếu có) (Chữ ký điện tử, chữ ký số)
+
+(Cần kiểm tra, đối chiều khi lập, nhận hóa đơn)
+
+Phần gia hạn thời gian vận chuyển (nếu có) Ô:
+
+- Lý do gia hạn .
+
+- Thời gian gia hạn vận chuyển: Từ ngày... tháng... năm... đến ngày... tháng... năm...
+- Đơn vị gia hạn (Ký tên, đóng dấu): ,
+
+Các chỉ tiêu có dầu (*) chỉ áp dụng đối với tài sản là hàng hóa nhập khẩu bị tịch thu.
+
+<<<TRANG 83>>>
+Mẫu số: 01/DTQG
+(Kèm theo Thông tư số 91/2026/TT-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+TÊN ĐƠN VỊ DỰ TRỮ................nneeeeennnnnee, G) Mẫu số....
+HÓA ĐƠN BÁN HÀNG DỰ TRỮ QUÓC GIA Ký hiệu:....
+(Chỉ sử dụng cho bán hàng dự trữ quốc gia) sé..........
+Ngày...... tháng..... năm....
+
+Đơn vị bán hàng: =====rrrrreererernrnrnnrnnnnnnnnrnrnnnnnnnrtntnnnnnnn n n rn rn n n rn rn rrr
+Địa chỉ.........
+Số tài khoản
+Điện thoại:...
+
+FIO tên ĩlgll'Ơl mua }1a11g . re-e
+Số định danh cá nhân, giấy tờ tày thân hoặc số hộ chiếu Ữrương mrp chưa đang ky mue):
+
+Đơn vị:.
+Địa chỉ;
+
+Số tài khoản : HN
+Hình thức thanh toán: -MST: LTIIIIITIITIIITT]
+
+Số - | Đơn vị Số Đơn l .
+TT Tên hàng hóa tính lượng giá Thành tiên
+
+a b c 1 2 3=1x2
+(3ong tiền bán ủmg ............................................................................................................
+
+ĐƠN VỊ DỰ TRỮ
+NGƯỜI MUA HÀNG KẺ TOÁN TRƯỞNG (2) . THỦ TRƯỞNG ĐƠN VỊ
+Chữkýsố(nếucó) (Chữký điệntử,chữ ký số) (Chữ ký điện tử, chữ ký số)
+
+(MST là mã số thuế tương ứng với đơn vị mua hoặc bán hàng DTQG)
+(Cần kiểm tra, đối chiều khi lập, giao, nhận hóa đơn)
+(ntại....................... „ mã số thuế................... )
+Ghỉ chủ: (1) Tên đơn vị dự trữ
+
+Ø Đối với đơn V1 dự trữ không có chức danh Kế toán trưởng thì người ký là phụ
+trách kế toán.
+
+<<<TRANG 84>>>
+Mẫu số: M/GTGT-TKHT
+; (Kèm theo Mong tư số 91/2026/TT-BTC
+. Way 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+Trang 1 (Page 1) Mẫu số (Fom No):.......
+Ký hiệu (1ìe:1°ere:1~xce No):......
+số (o):..
+HÓA ĐƠN GIÁ TRỊ GIA TANG KIỂM TỜ KHAI HOÀN THUE
+(VAT INVOICE CUM TA)x REFUND DECLARATION)
+........ ngày... fflang.…..nam....(.....day . month .... yeär....)
+
+PHẦN A (đo cửa hàng ghi)
+PART A (completed by retailer)
+
+1. Thông tin về doanh nghiệp (Company”*s information)
+. Tên đơn vị bán hàng (Name ofretailer):
+b. Mã số thuế (Tax code):
+c. Địa chỉ (Address):
+
+2. Thông tin về khách hàng (Tourist's information)
+a. Họ và tên (Full name):
+
+b. Số hộ chiếu (Passport number)/Giấy tờ nhập xuất cảnh (Entry or exit documents):.......
+INgày cấp hộ chiếu (Date of issue)/Giấy tờ nhập xuất cảnh (Entry or exit documents): ......
+INgày hết hạn hộ chiếu (Date of expiry)/Giấy tờ nhập xuất cảnh (Entry or exit documents):
+
+3. Thông tin về hàng hóa (Commodities” information)
+
+Đơn v [Thành tiên Thành tiền
+_- ĩ ơn vị Thuế chưa có ˆ ¿| có thuế
+STT Tên hàng hóa tính sá1 Đơn giái z : thuế |Tiêển thuê GTGT
+(No)| (Jemeof#goods) (Unitoll ổuẵẵịlẵ (Unit ẵlẵx GTGT | GTGT | T
+0 Imeasure M price) (Amount] (VAT) |; gụn
+Tafe) - incjuding
+ment) excluding VAÁT
+VAT) )
+1 2 3 4 5 6 174x5|8=6x7|9=71+8
+1 A
+2 B
+3 C
+
+(Tổng tiền chưa có thuế GTGT (Total excluding VAT):
+TTổng số tiền thuế GTGT (Total VAT):
+
+Tổng cộng tiền thanh toán (Total payment):
+
+<<<TRANG 85>>>
+2
+
+Số tiền viết ổ"lng chữ (Total payment by word):
+
+Người nước ngoài mua hàng Đại diện đơn vị bán hàng (Seller)
+(1ourist) (Chữ ký số người bán)
+(Ký, ght rõ họ tên)
+(Signature and full name)
+
+_
+Trang 1⁄2 (page 1⁄2)
+
+Ghi chú: (1) bao gồm nhãn hiệu, . ký hiệu bàng hóa (so seri, model @eu co) xuất xứ hàng hóa
+áp dụng đối với hàng hóa có nguồn Ẹc nhập khẩu, số máy áp dụng đối với mặt hàng cơ khí
+điện tử.
+
+Note: (1) including trademarks and markings (products' serial, model numbers (if available),
+origin for 1mported goods, or engine number for electro-mechanical goods
+
+Trang 2 (page 2) Mẫu số (Fom No):......
+Ký kiệu (Reference No):.......
+Số (No):..
+
+Ũ
+
+HÓA ĐƠN GIÁ TRỊ GIA TĂNG KIÊM TỜ KHAI HOÀN THUÊ
+(VAT INVOICE CUM TAX REFUND DECLARATION)
+
+..ngày....tháng...... năm......(...... day.... month .... year....)
+Thông tin quan trọng cho người nước ngoài (Important notice to tourists)
+
+- Bạn phải đáp ứng đầy đủ điều kiện tại Thông tư số 72/2014/TT-BTC ngày 30/5/2014; 'I`hô1'1ẵ
+tư số 92/2019/TT-BTC ngày 31/12/2019 sửa đổi, bổ sung Thông tư số 72/2014/TT-BTC của
+IBộ trưởng Bộ Tài chính đề được hoàn thuế giá trị gia tăng;
+
+Tourists must fulñll all the condions specified ín Cireular No 72/2014/TT-BTC dated
+30/5/2014; Circular No 92/TT-BTC dated 31/12/2019 amending, supplementing the Circular
+INo 72/2014/TT-BTC by the Minister of Finance to be eligible foxr VAT refund)
+
+- Bạn phải làm thủ tục hoàn thuế trong vòng 60 ngày kể từ ngày mua hàng (kể từ ngày phát
+hành hóa đơn); (Tourists must claim for VÁT refnd within 60 days fom the date of puzchase|
+from the date of issuing invoice)
+
+- Bạn được hoàn thuế GTGT khi đi đường hàng không/ đường biến tại sân bay quốc tế/ cản,
+biển quốc tề. (Tourists shall claim for VAT refund when deparfaring from International Mrporẫ
+International Seaport)
+
+Phần B (Dành cho cơ quan hải quan) Ơ’art B (completed by customs))
+
+Ghi kết quả kiểm tra hóa đơn kiêm tờ khai hoàn thuế, hàng hóa, tính số thuế giá trị gia tăng!
+người nước ngoài được hoàn (Examination results of VÁT refund invoice and declaration,
+goods: caleulation of VA T amount refunded to tourist)
+
+- Kết quả kiểm tra hàng hóa, tính số thuế GTGT được hoàn (Result of goods examination,
+Iealculation of VAT refund amount):
+
+Số tiền thuế GTGT | Số tiền thuế GTGT được hoàn
+ghi trên hóa đơn. | theo công thức quy định tại Điều
+
+STT ẵỀẳẳịịệ Số lượng | kiêm tờ khai hoàn | 12 Thông tư số 72/2014/TT-BTC
+(No) goods) (Quanti) thuế của Bộ trưởng Bộ Tài chính
+
+(VATamount - | (VÁT amount reRunded to tourist
+declared n VÁT, Jusing the formula stated in Article
+
+<<<TRANG 86>>>
+3
+
+refund invoice and | 12 of the Circular 72/2014/TT-
+declaration) BTC of the Mimister of Finance)
+
+1 A
+2 B
+3
+
+ỦỄng cộng
+(Total)
+
+......... ngày..........tháng.......năm ..... (..day ... month... year ...)
+, Người kiêm tra (Examination officer)
+(Ký, đóng dâu công chức, ghi rõ họ tên) (Signature, stamp and full name)
+
+PHẦÀN C (Dàầnh cho ngân hàng thương mại là đại lý hoàn thuế)
+Part C (completed by commercial bank approved as VAT refund agent)
+
+- Số hiệu, ngày tháng chuyển bay/chuyến tàu của người nước ngoài xuất cảnh:
+(IDate and number o£ the Flight/Ship of the tourist)
+
+- Số tiền thuế hoàn cho người nước ngoài xuất cảnh:
+(VAT amount refunded for the tourist)
+
+- Hình thức thanh toán (Payment methods):
+
+H- Tiền mặt (Cash) 5
+
+[* Qua thẻ quốc tế (Via international card) n
+
+|++ Số thẻ (6 số đầu và 4 số cuối của thẻ)
+
+[Card number (first six and ]ast four digits of a card)
+r+ Tên thè:
+
+(Cardholder name)
+
+...... ngày... tháng...năm..... (.....day....month.....year....)
+(Xý, đóng dâu, ghi rõ họ tên) (Signature, stamp and full name)
+
+<<<TRANG 87>>>
+` Mall m 01/GTGT BL ;
+- (Kèm theo Wumg tư số 91/2026/TT-BTC:
+ngày 30 tháng 6 năm 2026 \ ma Bộ trưởng Bộ Tài ửmh)
+
+HÓA ĐƠN ĐIỆN TỬ GIÁ TRỊ GIÁA TANG TÍCH HỢP BIÊN LAI THU THUẾ,
+PHÍ, LỆ PHÍ
+
+Ngày ..... ũlảng ....Tnăm .... Kýhiệu:...... i
+c u&n .ề Bối.........
+PHẦN I; HÓA ĐƠN GIÁ TRỊ GIA TANG _8š„mG
+Tên người bán:
+c G H m
+22525220 H mƑ
+Diện thoại: ...................ð..".unnnnnnn(3(( 73 (737733201115/00//0/, Số tài khoản: .................
+Tên DgườỜi mỤA: ........77217117/1ne ee n n n n n EE EE EE EE 160100 0100100106111110 444046 00041 1.
+Mã số thuế: ................GGGGGGnGGnn( r1121105101 05101111100110060011010110144//11000//0
+25/ â eeeeeeêêêêêêêêê
+Hình thức thanh toán: ............ Số tài khoản: .................. Đồng tiền thanh toán: VND
+STT Tên hàng hóa, Đơn vị tính Sốlượng | Đơngiá | Thành tiền
+dịch vụ
+] 2 3 4 5 6=435
+
+Thành tiền chưa có thuê GTGT: .n(2nnnntn tt n n n 0
+Thue suât GTGT: ..........% Tiền thuế GTGT:
+Tong tiên thanh man
+Số tiền bằng . z._—— / _FẨẮ-GG..KTĨKT E n !
+
+PHÀN H: BIẾN LAI THU THUÊ, PHÍ, LỆ PHÍ Mẫu số: ......
+
+Tên đơn v1 thu:
+Mã sô thuê:
+1Ồ1ỉì chl
+
+sé.. .ngày....tháng....năm
+
+Nội dung thu:.......
+NGƯỜI MUA HÀNG NGƯỜI BẢN HÀNG
+(Chữ ký số (nếu có) (Chữ ký số)
+
+H
+Ỉ
+
+<<<TRANG 88>>>
+„ . Mẫu số: 01/BH-BL .
+(Kèm theo Thông tư số 91/2026/77-BTC
+ngày 30 Mặng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+HÓA ĐƠN ĐIỆN TỬ BÁN HÀNG TÍCH HỢP BIÊN LAI THU THUÊ, PHÍ, LỆ PHÍ
+Ngày .... tháng ....năm .... Ký hiệu: .....
+
+: ì sắ ..
+
+PHẪN I: HÓA ĐƠN BÁN HÀNG :_
+Tên người bán: `
+Mã số thuế:
+Địa chỉ:
+
+Tên người mua:
+Mã sô thuê:
+
+2 Wxm
+Hình thức thanh toán: ................ Số tài khoản: .............. Đồng tiền thanh toán: VND
+STT Tênhànghóa | Đơnvịtinh | Sốlượng | Đơn giá Thành tiền
+dịch vụ
+1 2 3 4 5 6= 4*5
+4
+
+Tổng tiền thanh toán: ...........GGnn”tGnnG rn //1 00051001 110001 50000600 01111000100000 000000 1)
+N N u G G x x W ẫ ẫơ m
+PHẦN I: BIÊN LAI THU THUÊ, PHÍ, LỆ PHÍ Mẫu số: ......
+
+Ký hiệu: ......
+
+Sô:...........
+
+Tên đơn vị thu:
+Mã số thuế:
+Địa chỉ:
+Tên của tổ chức hoặc người nộp tiền:
+Mã số thuế:
+
+Căn cứ thông báo nộp thuế, . | Số thuế, phí, lệ phí phải nộp theo thông báo:
+phí, lệ phí của:
+
+NGƯỜI MUA HÀNG NGƯỜI BÁN HÀNG
+(Chữ ký số (nếu có)) (Chữ ký số)
+
+<<<TRANG 89>>>
+Mẫu số: 01/TMĐT
+(Kèm theo Thông tư số 91/2026/TT-BTC
+ngay 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+HÓA ĐƠN THƯƠNG MẠI ĐIỆN TỬ Ký hiệu (Reference number): .... |
+(Commereial Invoice) số Gnvoxce number): ................
+
+Mẫu số (Form number): ...............
+
+(Date.....month.....year.....)
+
+Tên người bán (The Seller name):
+Mã số thuế (Tax code):
+Địa chỉ (Address):
+
+Điện thoại (Phone number): ........................20..2/7.., Số tài khoản (8ank account):
+Tên người mua (The Buyer name):
+Mã số thuế(Tax code):
+
+Địa chi(Address): ........................nunnnnuu((( n n rn n n 0 0000000011 1114100 6010000000 005 00011
+Sô tài khoản (Bank accounb): ............................ fflỀng tiên thanh toán (Curenoy): ............
+STT Tên hàng hóa, dịch vụ Đơn vị số lượng Đơn giá Thành
+(No) (Description) tính (Quantity) (Unit Price) tiền
+
+(Amount)
+
+6=4x5
+
+NGƯỜI MUA HÀNG NGƯỜI BÁN HÀNG
+(THE BUYVER) (THE SELLER)
+(Chữ ký số)
+(- Signature)
+
+<<<TRANG 90>>>
+Mẫn số: 01/BTS
+(Kèm theo Thông tư sô 91/2026/7T-BTC
+ngày 30 tháng 6 năm 2026 của Bồ trưởng Bộ Tài chính)
+
+- y T , H m ý hiệu: 1C26RA
+
+HÓA ĐƠN BÁN TÀI SẢN PHẢI ĐĂNG KÝ QUYÊN SỨ DỤNG, QUYỀN SỞ HỮU. | Ký hiệu: 1C26RAA
+ì : , Số: 00000012
+
+Ngày .... tháng .... Năm 2026
+
+Tên người bán:...................nnGnHnTnnnnnnnnn n tt n n nn n n ¡ n n n n 1¡ E rn n n n n n n n n n
+Mã số thuê: ............
+
+Địa chỉ: ...................................G.nnnnnnnnnnnnnnnnnn n nnnn n EE n EE n EE EE n( EE EE EE EE rn n n n n n n rn
+
+Điện thoại: ..............-nGGHHHnnnHHHHnnnn nnnnnn n n rn n nnnn n Số tài khoắn .................
+
+Tên người mua (Tên của chủ sở hữu, sử dụng tài sản): ........................................
+
+Mã sô thuê hoặc sô CCCD (trường hợp chưa có MST): ..................................
+
+Ngày tháng năm sinh (trường hợp chưa có MST):..................nGGnnnnnneeeeeeeeureue,
+
+Địa chỉ đăng ký xe:..................................nnnnnnnnnnnnnnnnn n n nnnnnnnnnnn n n n n rn n n n rn n
+
+Số điện thoại: .. Email:..............
+
+Hình thức thanh toán: ............. Số tài khoản: .............. Đồng tiên thanh toán: VND ;
+
+STT Thông tin tài sản JĐơn, Số |Đơn |Thuế Thành | Tiền ! Thành
+Loại|Tình ]Số  |Số |SốGiấy |Sốseri [ Thông vị |lượng| giá | suất | tiền | thuế | tiền có
+tài |trạng|khung máy chứng | giấy tin tính chưa GTGT | thuế
+sân |tài nhận Phiếu phương có | GTGT
+
+sản chất kiểmtra tiện thuể l. ;,
+lượng an | chất GTGT |„ :
+toànkỹ | lượng m
+thuật và xuất
+bảovệ |xưởng
+môi (xe sản
+trường | xuất lắp
+
+rợ (xe nhập | ráp trong
+khẩu) nước)
+Ĩ 2a.12bl. 12c 2d.J2e 2f 2g 3 4 5 |6 7= Ï 9=7+8
+4x5 ˆ.
+
+<<<TRANG 91>>>
+2
+
+Nhãn
+hiệu,
+
+Tên
+thương
+mại, kiểu
+loại, -
+nước sản
+ffl.lất,
+năm sản
+><ue^'lt, thể
+tích/công
+suất,
+trọng tải,
+màu sắc,
+biến
+kiểm
+soát....
+
+. u n I E N N E 9 NH
+
+Tổng số tiền thuế giá trị gia tăng theo từng loại thuê suât: ..............................-::+ssesrsrrrrres :
+
+Tông tiên thanh toán đã có thuê GTGT:................................-.eneneeneensssesesessneereenrnnsnsiisrnrse
+
+l Ĩ] N I }3I N N G N N
+
+NGƯỜI MUA HÀNG NGƯỜI BẤN HÀNG
+(Chữ ký số (nếu có)) (Chữ ký số)
+
+<<<TRANG 92>>>
+Mẫu số: 03/XKRNB
+(Kèm theo Thông tư số 91/2026/77-8TC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+Tên người xuất hàng: Công tyA
+Theo lệnh điều động số 578 của Chị nhánh B về việc vận chuyển hàng hóa
+Địa chỉ kho xuất hàng: 125 Nguyễn Văn Cừ, Long Biên, Hà Nội
+
+Tên người vận chuyên: Trân Văn Đức
+
+Phương tiện vận chuyển: ô tô bán tải số 30 A 410.67
+
+Tên người nhận hàng: Trần Văn C
+Địa điểm nhận hàng: 99 Cầu Giấy, Hà Nội
+Mã số thuế:
+
+Số luợng
+Đơn vị Đoơom |Tfhành
+tính Hu_Irc Thì_r«~f giá | tiền
+. xuất ¡ nhập
+
+Tên nhãn hiệu, quy i
+STT j cách, phâm chât vật tư | Mã sô
+(sản phâm, hàng hóa)
+
+Tổng cộng:
+
+THỦ TRƯỞNG ĐƠN VỊ
+(Chữ ký số)
+
+<<<TRANG 93>>>
+Mẫu sô: 04/HGĐL
+(Kèm theo Thông tư số 91/2026/T7-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+................................................................................. Ký hiệu
+91820 N O N x xư:wWx số:
+r I G 3 E ã
+
+PHIẾU XUẤT KHO HÀNG GỬI BÁN ĐẠI LÝ
+
+Ngày........ tháng......... năm........
+
+Căn cứ hợp đồng kinh tế sề:...................... Ngày.......... tháng........... năm............
+của................ese.v. với (tổ chức, cá nhân)...................... MST:.......GGnnn-nG--GG- s-
+Họ tên người vận chuyển: ........................-nGGnnnnnnnnnỒ 20 Hợp đồng sé:.................
+Phương tiện vận ủuyển: ...................................................................................................
+, .
+Nhập tại kho:................................GGnnnGnnnnnnnnnnnnnnnNnn n n / 01 1010110106 000 01011 11111001000010 1100051015
+
+Tên nhãn hiệu, quy cách,
+STT phâm chât vật tư
+(sản phâm, hàng hóa)
+
+Đơn ThỂ1rnl1
+
+À
+
+Số lượng | lá | giền
+
+Tông cộng: .
+
+NGƯỜINHẬN NGƯỜILẬP THỦKHO NGƯỜIVẬN  THỦ KHO
+
+HÀNG (Ký,ghrốhọ XUẤT CHUYỀN NHẬP
+(Ký, ghi rõ họ tên) tên) (Xý,ghirõhọ (Ký ghirõhọtên) (Ký, ghi rõ họ
+tên) tên)
+
+(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)
+
+<<<TRANG 94>>>
+(Kèm theo Thống tư số 91/2026/7T-BTC
+
+- Mẫusố:01/BK-CSGH
+ngày 30 tháng 6 năm 2026 của Bộ trường Bộ Tài chính)
+
+BẰNG KỆÊ HÀNG HÓA BÁN RA
+(Gửi cho cơ sở có hàng hóa điêu chuyên hoặc cơ sở có hàng hóa gửi bán)
+
+Kính gửủi: Tên cơ sở có hang hóa điều chuyen cơ sở có hàng Ma fgul ủn__
+Mã số thuế:
+
+Tên cơ sở hạch toán phụ thuộc, chỉ nhánh, cửa hàng, cơ sở nhận làm đại lý
+bán hàng):
+
+Địa chỉ:
+
+Xin gửi bảng kê hàng hóa bán ra để làm cơ sở lập hóa đơn giá trị gia tăng
+như sau:
+
+Hóa đơn, chứng từ
+bán ra Loại số Đơn giá h \
+STT| Số |Ngày,tháng, | hàng mơỉl chưa có | Thuê | Thành
+hóa năm lập hóa T. | thuế | suất | tiền
+đơn hóa đơn
+01 O G) @ G) (6 C) S)
+†
+Ữìng
+
+.. ngày....... tháng....... năm.......
+ĐẠI DIỆN HỢP PHÁP CỦA CƠ SỞ HẠCH TOÁN PHỤ THUỘC,
+CHI NHÁNH, CỬA HÀNG, CƠ SỞ NHẬN LÀM ĐẠI LÝ
+(Ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có))
+
+<<<TRANG 95>>>
+Mẫu số: 03/1NCN
+(Kèm theo Thông tư số 91/2026/77-BTC
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+CHỨNG TỪ KHÁU TRỪ THUÊ THU NHẬP CÁ NHÂN
+
+Mẫu số:
+
+Ký hiệu:
+
+Sô:
+I. THÔNG TỊIN TỔ CHỨC TRẢ THU NHẬP
+{01] Tên tổ chức trả thu nhập: ....................nnnnnnnnnn//11100011011005000 115
+[02] Mã số thuế: ..........................GG..-GGH HN nnn n nnnn H n nn n nnnnn  1n1n 0000111
+)O EE : wWøWỡ—⁄
+[04] Diện thoại: .....................................GMGHnnnnnnnnnnnbnEnnnnnnnEnn n EE nnn EE nEẢE n rn n n ¡
+I THÔNG TJN CÁ NHÂN, HỘ KINH DOANH, CÁ NHÂN KINH DOANH
+[05] Họ và tên:
+[06] Mã số thuế: ..
+IyaEeu i O G G I x m
+[08] Cá nhân cư trú: [09] Cá nhân không cư trú:
+u i N êê êđ—ềứ—Ẽ — _
+{11] Điện thoại liên hệ:..................................................GGGnGGGnnnnnnnnnnnnnn rn nnnnn n rn |
+
+I2] Số định danh cá nhân, giấy tờ tùy thân hoặc số hộ ủleu (Trường hợp chưa đăng ký
+u m
+
+HI. THÔNG TIN THUÊ THU NHẬP CÁ NHÂN KHÁU TRỪ
+
+[13] Khoản thu nhập: <chọn ] trong các loại thu nhập đã khấu trừ trong đanh mục: 1.
+
+Thu nhập từ tiền lương, tiền công: 2. Thu nhập từ hoạt động kinh đoanh xổ số; 3. Thu
+nhập từ hoạt động bảo hiểm; 4. Thu nhập từ hoạt động bán hàng đa cấp; 5. Thu nhập từ
+hoạt động kinh doanh trên sàn TMĐT; 6. Thu nhập từ hợp tác kinh doanh với tổ chức;
+
+7. Thu nhập từ hoạt động môi giới>
+
+[14] Khoản đóng bảo hiểm bắt buộc: .............unnnn3332/732/0001110000/710/5/511/)
+[15] Khoản đóng từ thiện, nhân đạo, khuyến học:...............snnn//211//11/5.
+{16] Thời điểm trả thu nhập: Từ tháng: ....... đến tháng: ........ năm
+[17] Tổng thu nhập chịu thuế phải khấu trừ:
+]
+]
+
+[18] Tổng thu nhập tính thuế:
+[19] Số thuế thu nhập cá nhân đã khấu trừ:
+
+........ ñ ngày...ị.…thỉrng.....…năm……`
+ĐẠI DIỆN TÔ CHỨC KHÁU TRUƯ
+(Chñ ký điện tử, chữ ký sô)
+
+<<<TRANG 96>>>
+- i . Mẫu số CTT50.. :.
+
+'(Kền thep Thông tư số 91/2026/TT.BT\
+ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)
+
+BỘ TÀI CHÍNH | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA XÃ NGHĨA VIỆT NAM :
+
+CỤC THUẾÊ Độc lập - Tự do - Hạnh phúc Ký hiệu:
+Số:
+
+Cơ quan thu: BIÊN LAI THU THU
+
+Người nộp thuế:
+E N
+Địa chỉ: ............................2.6/2/.., —Tv
+
+Căn cứ thông báo nộp thuế của: Số thuế phải nộp theo thông báo:
+Số: .... ngày .. tháng .. năm ...
+Nội dung thu:
+
+E . e x
+Số thuế nợ kỳ trước (nếu có):
+
+Số tiền bằng chữ: .................u.nnnn1nn 1111 1111111111 0110111110 0000110411 1 10001
+
+.. Dgày..... tháng.... năm .......
+TÔ CHỨC THU THUÊ
+(Chữ ký số)
+
+<<<TRANG 97>>>
+“Mẫu số: 01/PLPĐT
+(Kèm theo Thông tư sô 91/2026/77-BTC :
+ngày 30 tháng ố năm 2026 của Bộ trưởng Bộ Tài chính)
+
+Mẫu số: ............... ]
+| BIÊN LAI THU PHÍ, LỆ PHÍ ĐIỆN TỬ Ký hiệu: ............
+Sắ: ...nnnnn22277277//.,
+
+Ngày....... tháng ...... năm
+
+. i x rẫẫr
+Mã số thuế: ..........................GGnGGGnnntnn n 0110 1111051101011001010010110000111010 ..
+2 ] ] Ư
+Điện thoại: ..............................snneeeeeeeu ee Số tài khoản:.............................G..
+Tên người nộp:
+c. I _ _; _; _ _ e e ẪeẪeẽẼẽ _eWeẪỄễẽỄ Ễ ;;
+Địa chỉ:
+
+(Số tiền bằng chữ):
+
+Hình thức thanh toán:......................uu271127200010001001600 10161 110010 51 1101111111111111/0)
+
+Tổ chức thu phí, lệ phí
+(Chữ ký số)

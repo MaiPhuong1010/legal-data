@@ -1,0 +1,499 @@
+{
+  "$defs": {
+    "LegalUnit": {
+      "additionalProperties": false,
+      "description": "1 đơn vị pháp lý: Điều / Khoản / Điểm / Phụ lục / Phần mở đầu (schema legal_units của WP1).",
+      "properties": {
+        "unit_id": {
+          "description": "Mã duy nhất, vd ND254_2026_D9_K2_Pa",
+          "title": "Unit Id",
+          "type": "string"
+        },
+        "unit_type": {
+          "enum": [
+            "preamble",
+            "article",
+            "clause",
+            "point",
+            "appendix"
+          ],
+          "title": "Unit Type",
+          "type": "string"
+        },
+        "parent_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "unit_id của đơn vị cha (Khoản -> Điều, Điểm -> Khoản)",
+          "title": "Parent Id"
+        },
+        "part": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Part"
+        },
+        "chapter": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Số Chương (La Mã)",
+          "title": "Chapter"
+        },
+        "chapter_title": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Chapter Title"
+        },
+        "section": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Số Mục",
+          "title": "Section"
+        },
+        "section_title": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Section Title"
+        },
+        "article": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Article"
+        },
+        "clause": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Clause"
+        },
+        "point": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Point"
+        },
+        "title": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Tên Điều / tên Phụ lục",
+          "title": "Title"
+        },
+        "content": {
+          "description": "Nguyên văn nội dung riêng của đơn vị (không gồm đơn vị con)",
+          "title": "Content",
+          "type": "string"
+        },
+        "page": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Trang bắt đầu trong file gốc",
+          "title": "Page"
+        },
+        "has_table": {
+          "default": false,
+          "title": "Has Table",
+          "type": "boolean"
+        },
+        "token_count": {
+          "title": "Token Count",
+          "type": "integer"
+        },
+        "token_count_full": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Token của cả đơn vị kể cả đơn vị con (Điều, Khoản)",
+          "title": "Token Count Full"
+        },
+        "effective_from": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Effective From"
+        },
+        "effective_to": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Effective To"
+        },
+        "status": {
+          "enum": [
+            "active",
+            "not_yet_effective",
+            "replaced",
+            "expired",
+            "unknown"
+          ],
+          "title": "Status",
+          "type": "string"
+        },
+        "effective_note": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Có khi Điều này có hiệu lực riêng khác toàn văn bản",
+          "title": "Effective Note"
+        },
+        "is_confident": {
+          "description": "false = OCR nhiều ký tự lạ hoặc số thứ tự bị nhảy -> cần người kiểm duyệt",
+          "title": "Is Confident",
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "unit_id",
+        "unit_type",
+        "content",
+        "token_count",
+        "status",
+        "is_confident"
+      ],
+      "title": "LegalUnit",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "description": "1 văn bản có cấu trúc (output/structure/<document_id>.json).",
+  "properties": {
+    "document_id": {
+      "title": "Document Id",
+      "type": "string"
+    },
+    "document_no": {
+      "title": "Document No",
+      "type": "string"
+    },
+    "document_type": {
+      "enum": [
+        "Luật",
+        "Bộ luật",
+        "Nghị định",
+        "Thông tư",
+        "Khác"
+      ],
+      "title": "Document Type",
+      "type": "string"
+    },
+    "title": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Title"
+    },
+    "title_in_document": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Title In Document"
+    },
+    "issuer": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Issuer"
+    },
+    "issued_date": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Issued Date"
+    },
+    "effective_from": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Effective From"
+    },
+    "effective_to": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Effective To"
+    },
+    "status": {
+      "enum": [
+        "active",
+        "not_yet_effective",
+        "replaced",
+        "expired",
+        "unknown"
+      ],
+      "title": "Status",
+      "type": "string"
+    },
+    "amends": {
+      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "title": "Amends",
+      "type": "array"
+    },
+    "amended_by": {
+      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "title": "Amended By",
+      "type": "array"
+    },
+    "replaces": {
+      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "title": "Replaces",
+      "type": "array"
+    },
+    "replaced_by": {
+      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "title": "Replaced By",
+      "type": "array"
+    },
+    "partially_repeals": {
+      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "title": "Partially Repeals",
+      "type": "array"
+    },
+    "partially_repealed_by": {
+      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "title": "Partially Repealed By",
+      "type": "array"
+    },
+    "guides": {
+      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "title": "Guides",
+      "type": "array"
+    },
+    "guided_by": {
+      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "title": "Guided By",
+      "type": "array"
+    },
+    "groups": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Groups",
+      "type": "array"
+    },
+    "source_url": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Source Url"
+    },
+    "source_file": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Source File",
+      "type": "array"
+    },
+    "source_format": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Source Format"
+    },
+    "metadata_source": {
+      "additionalProperties": true,
+      "title": "Metadata Source",
+      "type": "object"
+    },
+    "extraction": {
+      "additionalProperties": true,
+      "title": "Extraction",
+      "type": "object"
+    },
+    "parse_warnings": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Parse Warnings",
+      "type": "array"
+    },
+    "legal_units": {
+      "items": {
+        "$ref": "#/$defs/LegalUnit"
+      },
+      "title": "Legal Units",
+      "type": "array"
+    }
+  },
+  "required": [
+    "document_id",
+    "document_no",
+    "document_type",
+    "title",
+    "title_in_document",
+    "issuer",
+    "issued_date",
+    "effective_from",
+    "effective_to",
+    "status",
+    "groups",
+    "source_url",
+    "source_file",
+    "source_format",
+    "metadata_source",
+    "extraction",
+    "parse_warnings",
+    "legal_units"
+  ],
+  "title": "LegalDocument",
+  "type": "object"
+}

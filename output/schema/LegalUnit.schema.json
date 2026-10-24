@@ -1,0 +1,249 @@
+{
+  "additionalProperties": false,
+  "description": "1 đơn vị pháp lý: Điều / Khoản / Điểm / Phụ lục / Phần mở đầu (schema legal_units của WP1).",
+  "properties": {
+    "unit_id": {
+      "description": "Mã duy nhất, vd ND254_2026_D9_K2_Pa",
+      "title": "Unit Id",
+      "type": "string"
+    },
+    "unit_type": {
+      "enum": [
+        "preamble",
+        "article",
+        "clause",
+        "point",
+        "appendix"
+      ],
+      "title": "Unit Type",
+      "type": "string"
+    },
+    "parent_id": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "unit_id của đơn vị cha (Khoản -> Điều, Điểm -> Khoản)",
+      "title": "Parent Id"
+    },
+    "part": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Part"
+    },
+    "chapter": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Số Chương (La Mã)",
+      "title": "Chapter"
+    },
+    "chapter_title": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Chapter Title"
+    },
+    "section": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Số Mục",
+      "title": "Section"
+    },
+    "section_title": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Section Title"
+    },
+    "article": {
+      "anyOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Article"
+    },
+    "clause": {
+      "anyOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Clause"
+    },
+    "point": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Point"
+    },
+    "title": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Tên Điều / tên Phụ lục",
+      "title": "Title"
+    },
+    "content": {
+      "description": "Nguyên văn nội dung riêng của đơn vị (không gồm đơn vị con)",
+      "title": "Content",
+      "type": "string"
+    },
+    "page": {
+      "anyOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Trang bắt đầu trong file gốc",
+      "title": "Page"
+    },
+    "has_table": {
+      "default": false,
+      "title": "Has Table",
+      "type": "boolean"
+    },
+    "token_count": {
+      "title": "Token Count",
+      "type": "integer"
+    },
+    "token_count_full": {
+      "anyOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Token của cả đơn vị kể cả đơn vị con (Điều, Khoản)",
+      "title": "Token Count Full"
+    },
+    "effective_from": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Effective From"
+    },
+    "effective_to": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Effective To"
+    },
+    "status": {
+      "enum": [
+        "active",
+        "not_yet_effective",
+        "replaced",
+        "expired",
+        "unknown"
+      ],
+      "title": "Status",
+      "type": "string"
+    },
+    "effective_note": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Có khi Điều này có hiệu lực riêng khác toàn văn bản",
+      "title": "Effective Note"
+    },
+    "is_confident": {
+      "description": "false = OCR nhiều ký tự lạ hoặc số thứ tự bị nhảy -> cần người kiểm duyệt",
+      "title": "Is Confident",
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "unit_id",
+    "unit_type",
+    "content",
+    "token_count",
+    "status",
+    "is_confident"
+  ],
+  "title": "LegalUnit",
+  "type": "object"
+}

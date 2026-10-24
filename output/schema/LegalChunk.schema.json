@@ -1,0 +1,303 @@
+{
+  "additionalProperties": false,
+  "description": "1 chunk phương án Legal-structure (output/chunks/legal_structure_chunks.jsonl).",
+  "properties": {
+    "chunk_id": {
+      "title": "Chunk Id",
+      "type": "string"
+    },
+    "strategy": {
+      "const": "legal_structure",
+      "title": "Strategy",
+      "type": "string"
+    },
+    "chunk_type": {
+      "title": "Chunk Type",
+      "type": "string"
+    },
+    "document_id": {
+      "title": "Document Id",
+      "type": "string"
+    },
+    "document_no": {
+      "title": "Document No",
+      "type": "string"
+    },
+    "document_type": {
+      "title": "Document Type",
+      "type": "string"
+    },
+    "chapter": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Chapter"
+    },
+    "section": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Section"
+    },
+    "article": {
+      "anyOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Article"
+    },
+    "clause": {
+      "anyOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Clause"
+    },
+    "point": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Point"
+    },
+    "unit_ids": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Unit Ids",
+      "type": "array"
+    },
+    "parent_id": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Parent Id"
+    },
+    "context_header": {
+      "title": "Context Header",
+      "type": "string"
+    },
+    "content": {
+      "title": "Content",
+      "type": "string"
+    },
+    "text_for_embedding": {
+      "description": "= context_header + xuống dòng + content -> đem đi tạo vector",
+      "title": "Text For Embedding",
+      "type": "string"
+    },
+    "token_count": {
+      "maximum": 512,
+      "title": "Token Count",
+      "type": "integer"
+    },
+    "page": {
+      "anyOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Trang bắt đầu trong file gốc",
+      "title": "Page"
+    },
+    "page_end": {
+      "anyOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Trang kết thúc trong file gốc",
+      "title": "Page End"
+    },
+    "has_table": {
+      "title": "Has Table",
+      "type": "boolean"
+    },
+    "effective_from": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Effective From"
+    },
+    "effective_to": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Effective To"
+    },
+    "status": {
+      "enum": [
+        "active",
+        "not_yet_effective",
+        "replaced",
+        "expired",
+        "unknown"
+      ],
+      "title": "Status",
+      "type": "string"
+    },
+    "is_confident": {
+      "title": "Is Confident",
+      "type": "boolean"
+    },
+    "document_title": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Document Title"
+    },
+    "issuer": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Issuer"
+    },
+    "issued_date": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Issued Date"
+    },
+    "amended_by": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Amended By",
+      "type": "array"
+    },
+    "replaced_by": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Replaced By",
+      "type": "array"
+    },
+    "source_file": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Source File"
+    },
+    "source_url": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Source Url"
+    },
+    "extraction_method": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Extraction Method"
+    }
+  },
+  "required": [
+    "chunk_id",
+    "strategy",
+    "chunk_type",
+    "document_id",
+    "document_no",
+    "document_type",
+    "chapter",
+    "section",
+    "article",
+    "clause",
+    "point",
+    "unit_ids",
+    "parent_id",
+    "context_header",
+    "content",
+    "text_for_embedding",
+    "token_count",
+    "page",
+    "page_end",
+    "has_table",
+    "effective_from",
+    "effective_to",
+    "status",
+    "is_confident",
+    "document_title",
+    "issuer",
+    "issued_date",
+    "amended_by",
+    "replaced_by",
+    "source_file",
+    "source_url",
+    "extraction_method"
+  ],
+  "title": "LegalChunk",
+  "type": "object"
+}
